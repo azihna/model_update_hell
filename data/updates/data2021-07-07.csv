@@ -1,0 +1,27 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1738,65223,silver,2021-07-07,2021-07-12,3,67.8,9.65,Clothes & Shoes,Shoes,Tracker Shoes,Multicolour Bathing Sandal,ES,Luna sastreria S.A.
+2117,20129,platinum,2021-07-07,2021-07-13,2,95.8,20.85,Sports,Swim Sports,Bathing Suits,Sunfit Magic 2 Women's Swim Suit,US,Nautlius SportsWear Inc
+4246,26093,silver,2021-07-07,2021-07-13,3,35.97,9.9,Children,Children Sports,"Eclipse, Kid's Clothes",Kids Children's Sweatshirt w/Nike Logo,US,Eclipse Inc
+4736,7274,silver,2021-07-07,2021-07-11,1,14.4,6.45,Sports,Team Sports,Soccer,Soccer Mjf 2000 Size 4 Black/Yellow,US,Teamsports Inc
+5918,83311,gold,2021-07-07,2021-07-08,2,28.2,5.95,Sports,Running - Jogging,Running Clothes,Running Socks,US,Pro Sportswear Inc
+8563,85459,gold,2021-07-07,2021-07-09,3,26.7,4.1,Sports,Assorted Sports Articles,Assorted Sports articles,Hiclass Mundo 78a 36x72mm Pink-Swirl,US,Roll-Over Inc
+10185,60480,silver,2021-07-07,2021-07-12,4,1128.0,139.45,Sports,Assorted Sports Articles,Skates,Perfect Fit Men's  Roller Skates,US,Twain Inc
+11808,22479,gold,2021-07-07,2021-07-09,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+14308,19445,silver,2021-07-07,2021-07-11,1,106.9,45.5,Outdoors,Outdoors,Anoraks & Parkas,Men's Jacket Caians,NO,Scandinavian Clothing A/S
+14996,45998,gold,2021-07-07,2021-07-11,1,12.4,5.6,Sports,Team Sports,Soccer,Red Cap,GB,SportsFan Products Ltd
+17058,25319,silver,2021-07-07,2021-07-11,2,355.6,89.0,Clothes & Shoes,Shoes,Eclipse Shoes,Atmosphere Mickey Shoes,US,Eclipse Inc
+23169,47530,gold,2021-07-07,2021-07-11,5,867.0,78.75,Clothes & Shoes,Shoes,Shoes,Mountain Adventure 7 Men's Hiking Boots,US,Twain Inc
+25852,10783,gold,2021-07-07,2021-07-08,2,119.0,29.85,Clothes & Shoes,Clothes,Orion,Duration Women's Trainer Aerobic Shoes,CA,Fuller Trading Co.
+28219,72940,silver,2021-07-07,2021-07-10,2,202.0,46.05,Clothes & Shoes,Shoes,Tracker Shoes,Men's Running Shoes Supernova,US,3Top Sports
+28488,73151,silver,2021-07-07,2021-07-10,3,358.5,51.7,Sports,Assorted Sports Articles,Assorted Sports articles,Buzz Saw,CA,CrystalClear Optics Inc
+32640,60169,gold,2021-07-07,2021-07-08,1,254.2,115.6,Sports,Racket Sports,Racket Sports,Smasher Super Rq Ti 700 Long Tennis,GB,British Sports Ltd
+33220,8821,platinum,2021-07-07,2021-07-10,2,148.4,32.3,Sports,Assorted Sports Articles,Assorted Sports articles,Midnight Blue,CA,CrystalClear Optics Inc
+34423,7180,silver,2021-07-07,2021-07-08,2,382.0,80.45,Outdoors,Outdoors,Outdoor Gear,Mayday Soul Ht Jacket,US,Mayday Inc
+36486,86304,silver,2021-07-07,2021-07-08,2,474.8,111.0,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Sq9 80-76mm/78a,PT,Magnifico Sports
+36576,65396,gold,2021-07-07,2021-07-12,3,79.8,11.4,Sports,Team Sports,American Football,Football Super Bowl,US,Carolina Sports
+39580,33713,silver,2021-07-07,2021-07-09,2,510.8,116.05,Sports,Assorted Sports Articles,Skates,The Great One Roller Skates,PT,Magnifico Sports
+41542,54029,gold,2021-07-07,2021-07-09,3,50.4,6.9,Sports,Assorted Sports Articles,Assorted Sports articles,Golden Arrow 20 Gram,GB,Royal Darts Ltd
+43669,25268,gold,2021-07-07,2021-07-21,3,186.6,28.25,Clothes & Shoes,Shoes,Tracker Shoes,Men's Running Shoes Estes,US,3Top Sports
+45177,59711,gold,2021-07-07,2021-07-18,2,75.6,17.2,Clothes & Shoes,Clothes,Tracker Clothes,Casual.duke 2-Layer Pants,US,3Top Sports
+50303,43204,gold,2021-07-07,2021-07-11,1,76.9,35.0,Sports,Winter Sports,Winter Sports,Coolman Pro/Extrem Pro 09 Anthracite,US,Twain Inc
+52925,22792,gold,2021-07-07,2021-07-09,2,309.2,73.65,Clothes & Shoes,Clothes,Orion,Jog Dmx 6 Iii,CA,Fuller Trading Co.

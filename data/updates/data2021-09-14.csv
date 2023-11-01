@@ -1,0 +1,26 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2984,42905,silver,2021-09-14,2021-09-15,2,51.2,12.1,Clothes & Shoes,Clothes,Knitwear,Instyle Pullover Mid,US,AllSeasons Outdoor Clothing
+6339,20055,gold,2021-09-14,2021-09-18,1,519.3,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+6434,38663,gold,2021-09-14,2021-09-20,2,17.6,4.15,Sports,Running - Jogging,Running Clothes,Short Newline Running Socks,BE,Force Sports
+7487,4185,gold,2021-09-14,2021-09-16,2,706.2,196.15,Sports,Golf,Golf,Normal Standard,GB,TeeTime Ltd
+7648,22333,gold,2021-09-14,2021-09-19,2,365.8,77.8,Sports,Assorted Sports Articles,Assorted Sports articles,Brt Anorak,ES,Luna sastreria S.A.
+9120,94188,silver,2021-09-14,2021-09-16,2,105.6,24.05,Children,Children Sports,Tracker Kid's Clothes,Toddler Fleece Suit,US,3Top Sports
+9418,6361,silver,2021-09-14,2021-09-18,2,213.6,42.8,Clothes & Shoes,Clothes,Street Wear,Anthony Bork Norbert Nylon Jacket,US,Mayday Inc
+9646,24393,gold,2021-09-14,2021-09-17,1,406.8,172.95,Sports,Winter Sports,Ski Dress,Hot Duck Men's Krypton Ski Jacket,DK,Norsok A/S
+11138,18718,gold,2021-09-14,2021-09-19,1,209.3,104.6,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Goflex-E Perf.Skates,US,Eclipse Inc
+15973,33793,platinum,2021-09-14,2021-09-21,2,79.2,19.9,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's S/Sleve Top,US,Eclipse Inc
+16739,61146,gold,2021-09-14,2021-09-19,3,1891.2,315.15,Sports,Indoor Sports,Fitness,Letour Trimag Bike,NL,TrimSport B.V.
+17044,54213,gold,2021-09-14,2021-09-23,1,21.8,11.0,Sports,Golf,Golf,"Bretagne Difference Women's Golf Glove, left",NL,Van Dammeren International
+23264,79327,silver,2021-09-14,2021-09-17,2,171.0,36.7,Children,Children Sports,"N.D. Gear, Kids",Butch Sweatshirt with Tube,ES,Luna sastreria S.A.
+36177,93930,silver,2021-09-14,2021-09-15,1,12.7,5.55,Sports,Golf,Golf,Grandslam Grip Sg Women's Golf Gloves,GB,GrandSlam Sporting Goods Ltd
+40347,2022,silver,2021-09-14,2021-09-18,1,22.375,8.95,Sports,Winter Sports,Winter Sports,Massif Cut Z 9.6l Ski Parcel Fdx95,FR,Massif S.A.
+42062,47326,gold,2021-09-14,2021-09-17,1,120.5,54.85,Clothes & Shoes,Clothes,LSF,Vector Low Men's Shoes,SE,Petterson AB
+43916,29509,gold,2021-09-14,2021-09-18,1,59.9,25.4,Sports,Assorted Sports Articles,Assorted Sports articles,Stream Polo-Shirt,ES,Luna sastreria S.A.
+44340,55832,gold,2021-09-14,2021-09-15,2,119.2,29.9,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Internationalist Athlet,US,Eclipse Inc
+45899,40560,silver,2021-09-14,2021-09-16,1,83.7,38.05,Clothes & Shoes,Shoes,Tracker Shoes,Wm Trx Fg Liga Football Boots,US,3Top Sports
+46608,28178,silver,2021-09-14,2021-09-20,2,111.8,24.2,Clothes & Shoes,Clothes,Street Wear,Tyfoon Flex Shorts,AU,Typhoon Clothing
+48786,93868,gold,2021-09-14,2021-09-15,1,87.2,43.7,Sports,Golf,Golf,Rosefinch Altima Stand 8  Black/Violet,NL,Van Dammeren International
+50428,25492,silver,2021-09-14,2021-09-18,1,13.3,5.65,Sports,Assorted Sports Articles,Assorted Sports articles,Jugg's Toilet Bag,ES,Luna sastreria S.A.
+51837,5331,gold,2021-09-14,2021-09-15,2,192.6,48.25,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Woven Warm Up,US,Eclipse Inc
+53926,33362,silver,2021-09-14,2021-09-16,3,131.4,19.4,Sports,Indoor Sports,Gymnastic Clothing,A-team Shorts In-Shape,US,A Team Sports
+54024,82319,gold,2021-09-14,2021-09-15,1,40.4,18.4,Children,Children Sports,"N.D. Gear, Kids",N.d.gear Eruptor Kids,GB,Greenline Sports Ltd

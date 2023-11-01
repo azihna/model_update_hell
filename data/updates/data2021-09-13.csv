@@ -1,0 +1,24 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2081,89110,gold,2021-09-13,2021-09-14,2,245.2,61.4,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Masai,US,Eclipse Inc
+4634,81179,silver,2021-09-13,2021-09-18,2,228.0,54.8,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Panga 72mm/78a,PT,Magnifico Sports
+5215,5823,gold,2021-09-13,2021-09-19,2,241.4,66.5,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tuned Max Shoes,US,Eclipse Inc
+11812,5562,silver,2021-09-13,2021-09-14,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+11892,93879,silver,2021-09-13,2021-09-15,1,3.4,1.5,Sports,Golf,Golf,Proplay 2-Way Brush,NL,Van Dammeren International
+12044,75839,gold,2021-09-13,2021-09-16,2,254.2,60.8,Outdoors,Outdoors,Sleepingbags,Tipee Twin Blue/Orange,GB,Outback Outfitters Ltd
+17816,511,silver,2021-09-13,2021-09-14,1,101.875,40.75,Sports,Winter Sports,Winter Sports,Massif Cut X Super 9.9 Ski Parcel,FR,Massif S.A.
+17950,19930,gold,2021-09-13,2021-09-16,1,92.1,36.9,Clothes & Shoes,Clothes,Osprey,"Osprey Cell O-Five Low, Leather",US,Triple Sportswear Inc
+20002,23898,gold,2021-09-13,2021-09-16,1,6.7,2.95,Sports,Assorted Sports Articles,Assorted Sports articles,Soccer Socks Junior Soccer Socks,US,Teamsports Inc
+22851,33580,silver,2021-09-13,2021-09-16,2,24.0,6.05,Clothes & Shoes,Clothes,Eclipse Clothing,Toto Band Socks (3-pack) L,US,Eclipse Inc
+26387,6581,silver,2021-09-13,2021-09-27,1,118.4,49.45,Sports,Racket Sports,Racket Sports,Aftm Swing Power 500 Sr Black/Silver/Red,GB,British Sports Ltd
+34617,80793,gold,2021-09-13,2021-09-16,1,93.9,47.05,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Shatter Mid LI,US,Eclipse Inc
+34858,57103,silver,2021-09-13,2021-09-22,1,36.3,15.2,Children,Children Sports,"N.D. Gear, Kids",Polo T-Shirt,ES,Luna sastreria S.A.
+35040,16829,gold,2021-09-13,2021-09-18,2,60.8,9.2,Sports,Swim Sports,Bathing Suits,Sharky Swimming Trunks,US,Dolphin Sportswear Inc
+37278,62673,gold,2021-09-13,2021-09-15,1,63.5,29.95,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Imara,US,Eclipse Inc
+37380,27920,gold,2021-09-13,2021-09-16,1,72.6,36.25,Sports,Indoor Sports,Fitness,Abdomen Shaper,NL,TrimSport B.V.
+38189,26094,gold,2021-09-13,2021-09-17,1,64.9,31.1,Sports,Assorted Sports Articles,Assorted Sports articles,Hatcher (Bag),US,Miller Trading Inc
+40140,17304,silver,2021-09-13,2021-09-18,1,50.6,25.25,Sports,Running - Jogging,Jogging,Pants Fun,GB,Greenline Sports Ltd
+43915,46492,gold,2021-09-13,2021-09-17,1,59.9,25.4,Sports,Assorted Sports Articles,Assorted Sports articles,Stream Polo-Shirt,ES,Luna sastreria S.A.
+47872,14704,silver,2021-09-13,2021-09-16,2,178.4,35.7,Clothes & Shoes,Clothes,Osprey,Osprey Nanton Micro Suit,US,Triple Sportswear Inc
+52360,142,gold,2021-09-13,2021-09-15,2,152.4,33.9,Sports,Running - Jogging,Jogging,Men's Sweatshirt w/Hood + Zipper,US,A Team Sports
+52571,92421,silver,2021-09-13,2021-09-18,1,126.3,63.25,Clothes & Shoes,Clothes,LSF,Woman's Air Classic,US,Eclipse Inc
+54137,19333,gold,2021-09-13,2021-09-14,1,24.0,12.1,Clothes & Shoes,Clothes,Eclipse Clothing,Atmosphere Shield Shin-pads,US,Eclipse Inc

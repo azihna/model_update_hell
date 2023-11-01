@@ -1,0 +1,40 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+203,82790,gold,2021-08-31,2021-09-02,3,399.6,66.7,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Drive,US,Eclipse Inc
+335,28207,silver,2021-08-31,2021-09-05,2,85.2,18.5,Clothes & Shoes,Shoes,Shoes,Dundas Rubber Boot,ES,Luna sastreria S.A.
+2080,15026,gold,2021-08-31,2021-09-04,2,245.2,61.4,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Masai,US,Eclipse Inc
+2911,25874,silver,2021-08-31,2021-09-03,1,47.9,20.9,Sports,Winter Sports,Winter Sports,Gtx Powder Thermo 04 Red,US,Twain Inc
+3204,19202,silver,2021-08-31,2021-09-05,2,18.2,4.2,Sports,Assorted Sports Articles,Assorted Sports articles,Hiclass Mundo 78a 36x72mm Xray,US,Roll-Over Inc
+3341,34201,silver,2021-08-31,2021-09-04,3,86.4,12.3,Sports,Assorted Sports Articles,Assorted Sports articles,Oneshot 10 4/42 Black/White/Black Star,US,Teamsports Inc
+3644,50941,gold,2021-08-31,2021-09-02,2,212.4,50.6,Clothes & Shoes,Clothes,Orion,Power Dmx Wide Shoes,CA,Fuller Trading Co.
+3645,70676,silver,2021-08-31,2021-09-05,2,212.4,50.6,Clothes & Shoes,Clothes,Orion,Power Dmx Wide Shoes,CA,Fuller Trading Co.
+9843,4617,silver,2021-08-31,2021-09-02,3,766.8,127.75,Sports,Assorted Sports Articles,Assorted Sports articles,Jeff's 5.3 Hockey Sp.,PT,Magnifico Sports
+10188,35495,gold,2021-08-31,2021-09-05,2,564.0,139.45,Sports,Assorted Sports Articles,Skates,Perfect Fit Men's  Roller Skates,US,Twain Inc
+10695,40020,silver,2021-08-31,2021-09-02,2,177.0,42.45,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Large,Right, Blue/Black",DK,Top Sports
+13440,16366,gold,2021-08-31,2021-09-02,2,20.2,3.6,Children,Children Sports,"Olssons, Kids",Slomo Balance Children's Shoes,ES,Sportico
+18238,85033,silver,2021-08-31,2021-09-01,1,34.6,14.4,Sports,Assorted Sports Articles,Darts,Bulls Eye Stuart/Tungsten 24 Gram,GB,Royal Darts Ltd
+20806,49189,silver,2021-08-31,2021-09-01,2,158.6,41.3,Sports,Team Sports,Soccer,Norwood Player Shirt,US,Fga Sports Inc
+20807,52631,gold,2021-08-31,2021-09-05,2,158.6,41.3,Sports,Team Sports,Soccer,Norwood Player Shirt,US,Fga Sports Inc
+22328,90795,silver,2021-08-31,2021-09-03,2,237.2,59.4,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Large,Right,Forestgreen",DK,Top Sports
+22697,4392,silver,2021-08-31,2021-09-05,2,351.4,75.95,Sports,Racket Sports,Racket Sports,Sledgehammer 120 Ph Black,GB,GrandSlam Sporting Goods Ltd
+25188,56338,silver,2021-08-31,2021-09-09,2,100.4,25.05,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Basic Sweat,GB,Greenline Sports Ltd
+26864,85093,gold,2021-08-31,2021-09-09,3,18.3,2.85,Sports,Assorted Sports Articles,Skates,Brake Pad 1-pack,PT,Magnifico Sports
+29442,35633,silver,2021-08-31,2021-09-01,2,77.0,17.5,Clothes & Shoes,Shoes,Tracker Shoes,Pytossage Bathing Sandal,US,3Top Sports
+30390,15584,silver,2021-08-31,2021-09-05,3,80.7,11.7,Clothes & Shoes,Clothes,Street Wear,Tyfoon Ketch T-Shirt,AU,Typhoon Clothing
+31789,54753,gold,2021-08-31,2021-09-05,1,64.3,33.7,Sports,Assorted Sports Articles,Assorted Sports articles,Prosoccer Away Children's Shirt,US,Fga Sports Inc
+31939,78338,gold,2021-08-31,2021-09-03,2,139.2,31.7,Children,Children Sports,Tracker Kid's Clothes,Aac Replica 1/4 Arm,US,3Top Sports
+34375,77714,gold,2021-08-31,2021-09-02,2,273.2,62.25,Clothes & Shoes,Shoes,Tracker Shoes,Mns.xzs Women's Aerobic Shoes,US,3Top Sports
+36637,9834,gold,2021-08-31,2021-09-01,2,55.4,13.75,Clothes & Shoes,Clothes,Tracker Clothes,"Essential Men's T-Shirt w/V-neck, Small Logo",GB,Greenline Sports Ltd
+37415,81658,gold,2021-08-31,2021-09-02,1,39.0,16.95,Clothes & Shoes,Clothes,Tracker Clothes,Brafit Swim Tights,ES,Luna sastreria S.A.
+37460,30999,gold,2021-08-31,2021-09-04,2,228.4,44.6,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Sq5 76mm/78a,PT,Magnifico Sports
+40273,62375,gold,2021-08-31,2021-09-02,2,35.4,8.0,Clothes & Shoes,Clothes,Shorts,Carribian Women's Jersey Shorts,US,A Team Sports
+40995,6764,gold,2021-08-31,2021-09-02,2,93.8,23.4,Clothes & Shoes,Shoes,Tracker Shoes,N.d.gear Men's Galileo Shoes,GB,Greenline Sports Ltd
+41019,38330,gold,2021-08-31,2021-09-02,2,73.4,16.75,Clothes & Shoes,Clothes,Tracker Clothes,Casual Genuine Shorts,US,3Top Sports
+43616,78059,gold,2021-08-31,2021-09-04,2,4.8,1.1,Sports,Assorted Sports Articles,Assorted Sports articles,White Latex Children's Swim Cap,US,Nautlius SportsWear Inc
+44479,58277,gold,2021-08-31,2021-09-05,2,101.2,21.55,Sports,Assorted Sports Articles,Assorted Sports articles,Men's Rain Pants Derby,ES,Luna sastreria S.A.
+47995,7110,silver,2021-08-31,2021-09-05,3,68.7,10.85,Outdoors,Outdoors,Outdoor Gear,"Small Belt Bag, Black",DK,Top Sports
+48802,82690,gold,2021-08-31,2021-09-05,2,90.6,21.6,Clothes & Shoes,Clothes,Orion Clothing,Zx Core Twill Bermuda,CA,Fuller Trading Co.
+49563,37856,gold,2021-08-31,2021-09-04,3,59.4,9.15,Children,Children Sports,Tracker Kid's Clothes,Wa Woven Short,US,3Top Sports
+50347,11730,silver,2021-08-31,2021-09-04,2,154.4,32.25,Sports,Assorted Sports Articles,Assorted Sports articles,Ultra York Sweatshirt w/Polo Collar,ES,Luna sastreria S.A.
+50743,20568,gold,2021-08-31,2021-09-03,3,80.7,12.05,Clothes & Shoes,Clothes,Tracker Clothes,Running Minimesh S/S,US,3Top Sports
+51993,1298,silver,2021-08-31,2021-09-04,1,262.5,109.0,Sports,Winter Sports,Ski Dress,Insul.Jacket,US,AllSeasons Outdoor Clothing
+52365,15232,gold,2021-08-31,2021-09-07,2,100.6,25.3,Children,Children Sports,Orion Kid's Clothes,Soccer Children's Homeshirt,CA,Fuller Trading Co.

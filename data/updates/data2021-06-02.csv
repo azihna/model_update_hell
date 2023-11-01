@@ -1,0 +1,10 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+11181,83698,gold,2021-06-02,2021-06-08,2,118.0,26.85,Clothes & Shoes,Shoes,Shoes,Cruise 1984 Men's Street Shoes,SE,Petterson AB
+16473,93173,silver,2021-06-02,2021-06-03,2,209.4,47.65,Clothes & Shoes,Shoes,Tracker Shoes,Damaskus Women's Running Shoes,US,3Top Sports
+17470,26980,gold,2021-06-02,2021-06-03,1,32.4,13.4,Sports,Assorted Sports Articles,Darts,Bulls Eye 15 Gram 80% Tungsten Soft,GB,Royal Darts Ltd
+18459,71133,silver,2021-06-02,2021-06-05,1,53.3,23.25,Children,Children Sports,"Ypsilon, Kids",Ypsilon Children's Sweat Fleece w/Hood,FR,Ypsilon S.A.
+27010,31528,silver,2021-06-02,2021-06-07,2,101.4,23.15,Children,Children Sports,Tracker Kid's Clothes,Mountain Bike Shirt,US,3Top Sports
+30436,49662,silver,2021-06-02,2021-06-05,3,405.6,67.7,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Zoom Drive Shoes,US,Eclipse Inc
+43809,300,silver,2021-06-02,2021-06-15,2,55.8,14.05,Sports,Golf,Golf,Top Covers with Cap,US,Twain Inc
+52889,63315,gold,2021-06-02,2021-06-07,2,93.6,19.95,Sports,Swim Sports,Bathing Suits,Swim Suit Victoria,ES,Luna sastreria S.A.
+54145,93938,gold,2021-06-02,2021-06-03,2,23.0,4.85,Clothes & Shoes,Clothes,Stockings & Socks,Forrest Backpacking Socks,FR,Bon Garrments

@@ -1,0 +1,29 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+458,79902,gold,2021-08-11,2021-08-12,2,195.0,40.55,Outdoors,Outdoors,Outdoor Gear,Mayday Qd Zip Pants,US,Mayday Inc
+2648,59679,gold,2021-08-11,2021-08-16,1,178.875,71.55,Sports,Winter Sports,Winter Sports,Massif Bandit Ski Parcel Axial,FR,Massif S.A.
+2830,62075,gold,2021-08-11,2021-08-15,2,154.0,38.6,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Right,Charcoal",DK,Top Sports
+4289,78556,gold,2021-08-11,2021-08-14,2,203.2,50.9,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Mickey Wilma,US,Eclipse Inc
+5785,93280,gold,2021-08-11,2021-08-16,2,62.8,13.9,Sports,Assorted Sports Articles,Assorted Sports articles,A-team Smoothsport Bra,US,A Team Sports
+7840,39550,gold,2021-08-11,2021-08-16,1,18.8,7.6,Children,Children Sports,"Osprey, Kids",Osprey King Jr.Shorts,US,Triple Sportswear Inc
+8949,42911,gold,2021-08-11,2021-08-13,2,110.8,29.35,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air One Eighty  Shoes,US,Eclipse Inc
+13439,42791,gold,2021-08-11,2021-08-17,2,20.2,3.6,Children,Children Sports,"Olssons, Kids",Slomo Balance Children's Shoes,ES,Sportico
+19291,51974,silver,2021-08-11,2021-08-14,5,2095.0,209.45,Sports,Assorted Sports Articles,Skates,Weston F4 Men's Hockey Skates,US,Roll-Over Inc
+19428,94218,silver,2021-08-11,2021-08-14,2,264.0,56.7,Sports,Assorted Sports Articles,Assorted Sports articles,Bomber Jacket,US,AllSeasons Outdoor Clothing
+21016,50165,silver,2021-08-11,2021-08-14,2,117.8,26.1,Sports,Running - Jogging,Jogging,Men's Sweatshirt w/Hood Big Logo,US,A Team Sports
+22326,48756,silver,2021-08-11,2021-08-12,3,355.8,59.4,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Large,Right,Forestgreen",DK,Top Sports
+23057,53,gold,2021-08-11,2021-08-14,2,180.4,38.3,Clothes & Shoes,Clothes,Knitwear,Fleece Jacket Compass,US,AllSeasons Outdoor Clothing
+23916,47436,gold,2021-08-11,2021-08-15,2,300.2,14.0,Sports,Golf,Golf Clothes,Big Boss Houston Pants,US,Mike Schaeffer Inc
+25317,25864,gold,2021-08-11,2021-08-13,1,46.3,20.9,Outdoors,Outdoors,Anoraks & Parkas,Monster Men's Pants with Zipper,NO,Scandinavian Clothing A/S
+26273,26206,gold,2021-08-11,2021-08-21,1,43.6,19.75,Children,Children Sports,Tracker Kid's Clothes,Suede Kid Allround Shoes,US,3Top Sports
+28652,83749,silver,2021-08-11,2021-08-12,2,187.8,47.05,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Skylon Triax,US,Eclipse Inc
+29288,31565,gold,2021-08-11,2021-08-13,2,46.4,11.1,Sports,Assorted Sports Articles,Assorted Sports articles,Charlie Speed Abec 3 8mm 16 Piece,US,Roll-Over Inc
+30070,82414,silver,2021-08-11,2021-08-12,2,107.8,25.8,Outdoors,Outdoors,Backpacks,"Backpack Black/Blue,600 Gr.20 Litre",DK,Top Sports
+34043,29509,silver,2021-08-11,2021-08-15,2,72.8,17.7,Children,Children Sports,"Osprey, Kids",Osprey Monroe Polyester Suit,US,Triple Sportswear Inc
+37680,82670,silver,2021-08-11,2021-08-13,2,168.4,38.35,Clothes & Shoes,Shoes,Tracker Shoes,South Peak Men's Running Shoes,US,3Top Sports
+37924,42153,silver,2021-08-11,2021-08-13,3,157.8,23.95,Sports,Running - Jogging,Running Clothes,Original Running Anorak L,BE,Force Sports
+39362,18232,gold,2021-08-11,2021-08-12,3,72.0,11.7,Outdoors,Outdoors,Outdoor Gear,Rain Pants,US,AllSeasons Outdoor Clothing
+39907,31067,silver,2021-08-11,2021-08-13,2,115.8,23.9,Sports,Swim Sports,Bathing Suits,Margo Tankini Women's Bikini,US,Dolphin Sportswear Inc
+47457,55461,gold,2021-08-11,2021-08-14,2,56.2,14.15,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Dry Fit ShortTights,US,Eclipse Inc
+48017,94064,silver,2021-08-11,2021-08-15,2,19.2,4.0,Sports,Assorted Sports Articles,Assorted Sports articles,Pool Socks,ES,Luna sastreria S.A.
+50900,84059,gold,2021-08-11,2021-08-16,2,79.2,18.05,Sports,Indoor Sports,Gymnastic Clothing,Cougar Top with Narrow Strabs,US,SD Sporting Goods Inc
+53483,36621,gold,2021-08-11,2021-08-14,2,90.8,19.35,Sports,Swim Sports,Bathing Suits,Swim Suit Sanford,ES,Luna sastreria S.A.

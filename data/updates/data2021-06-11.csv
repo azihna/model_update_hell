@@ -1,0 +1,31 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+3517,44690,gold,2021-06-11,2021-06-16,2,147.4,38.4,Sports,Team Sports,Soccer,Fga Away Football Shirt,US,Fga Sports Inc
+4478,51722,silver,2021-06-11,2021-06-16,2,24.4,5.5,Children,Children Sports,Tracker Kid's Clothes,Kaitum Children's Swimming Trunks S,US,3Top Sports
+8222,54293,gold,2021-06-11,2021-06-15,1,85.8,39.9,Sports,Winter Sports,Ski Dress,Garbo Fleece Jacket,US,Miller Trading Inc
+10519,12225,silver,2021-06-11,2021-06-13,2,833.6,124.2,Sports,Racket Sports,Racket Sports,Smasher Tg 70 Tennis String Roll,GB,British Sports Ltd
+10691,28246,silver,2021-06-11,2021-06-20,2,177.0,42.45,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Large,Right, Blue/Black",DK,Top Sports
+10809,26156,silver,2021-06-11,2021-06-14,1,27.3,12.25,Clothes & Shoes,Clothes,T-Shirts,A-team Polo Pique w/Short Sleeve,US,A Team Sports
+11098,1965,gold,2021-06-11,2021-06-17,2,193.4,48.45,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Medium,Right,Forestgreen",DK,Top Sports
+11234,84797,silver,2021-06-11,2021-06-14,2,208.0,41.65,Sports,Golf,Golf Clothes,Eagle 5 Pocket Pants with Stretch,US,HighPoint Trading
+11627,80388,gold,2021-06-11,2021-06-14,2,269.0,67.35,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Converge Triax X,US,Eclipse Inc
+11802,83262,silver,2021-06-11,2021-06-14,3,159.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+17272,7131,silver,2021-06-11,2021-06-15,3,60.6,9.55,Sports,Running - Jogging,Running Clothes,Stout Short Running Tights,BE,Force Sports
+21015,31940,gold,2021-06-11,2021-06-15,2,117.8,26.1,Sports,Running - Jogging,Jogging,Men's Sweatshirt w/Hood Big Logo,US,A Team Sports
+24089,73111,silver,2021-06-11,2021-06-15,3,327.0,60.05,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Tuned Percision,US,Eclipse Inc
+24282,76869,gold,2021-06-11,2021-06-12,3,104.1,15.8,Clothes & Shoes,Clothes,Tracker Clothes,High Impact Bra,US,3Top Sports
+24559,8675,gold,2021-06-11,2021-06-17,2,66.4,14.45,Children,Children Sports,"Ypsilon, Kids",Albany Pants,FR,Ypsilon S.A.
+28280,90941,gold,2021-06-11,2021-06-12,2,28.4,6.45,Children,Children Sports,"Osprey, Kids",Osprey France Nylon Shorts,US,Triple Sportswear Inc
+28607,41437,gold,2021-06-11,2021-06-13,1,87.2,34.9,Sports,Winter Sports,Winter Sports,Amber Cc,CA,CrystalClear Optics Inc
+33363,84751,gold,2021-06-11,2021-06-15,4,231.6,23.9,Sports,Swim Sports,Bathing Suits,Lucille Short Men's Swimming Trunks,US,Dolphin Sportswear Inc
+33677,76168,silver,2021-06-11,2021-06-13,1,149.8,65.15,Sports,Indoor Sports,Top Trim,Top Lightline Vest Pertex,US,Top Sports Inc
+34108,29119,gold,2021-06-11,2021-06-12,2,68.8,15.75,Clothes & Shoes,Clothes,Tracker Clothes,Casual.st.t-shirt Sports T-shirt,US,3Top Sports
+36549,61200,silver,2021-06-11,2021-06-13,2,46.4,9.95,Sports,Assorted Sports Articles,Assorted Sports articles,O'my Men's Logo T-Shirt,ES,Luna sastreria S.A.
+41817,27843,silver,2021-06-11,2021-06-15,2,152.4,34.55,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Pant,GB,Harry Penny Ltd
+45333,42757,gold,2021-06-11,2021-06-17,1,479.5,199.05,Sports,Winter Sports,Ski Dress,White Mountain Ski Jacket,US,AllSeasons Outdoor Clothing
+46787,2190,silver,2021-06-11,2021-06-20,2,285.8,64.85,Clothes & Shoes,Shoes,Shoes,Twain Women's Expresso X-Hiking Shoes,US,Twain Inc
+49599,74637,gold,2021-06-11,2021-06-13,2,103.6,21.95,Outdoors,Outdoors,Anoraks & Parkas,Lh Classic Reinforced Cargo Shorts,US,AllSeasons Outdoor Clothing
+50184,57352,gold,2021-06-11,2021-06-12,2,35.6,8.4,Children,Children Sports,"A-Team, Kids",Ottis Children's Pants Bl,US,3Top Sports
+51456,36140,silver,2021-06-11,2021-06-27,2,88.6,19.05,Sports,Swim Sports,Bathing Suits,Atlantis Bikini,ES,Luna sastreria S.A.
+52061,91472,silver,2021-06-11,2021-06-15,2,149.6,37.35,Clothes & Shoes,Clothes,Eclipse Clothing,Proficient Black/Silver,US,Eclipse Inc
+52946,85764,silver,2021-06-11,2021-06-14,2,4.8,1.0,Sports,Swim Sports,Bathing Suits,Black Classic Latex Swim Cap,US,Nautlius SportsWear Inc
+53782,72375,silver,2021-06-11,2021-06-15,2,54.4,12.5,Clothes & Shoes,Clothes,Tracker Clothes,Casual V-Neck T-Shirt,US,3Top Sports

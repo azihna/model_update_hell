@@ -1,0 +1,35 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1216,56616,gold,2021-04-22,2021-04-24,3,106.5,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+2195,41915,gold,2021-04-22,2021-04-24,2,380.8,88.8,Sports,Assorted Sports Articles,Assorted Sports articles,Barret 2.12 Men's Softboot,US,Roll-Over Inc
+4018,43848,silver,2021-04-22,2021-04-25,3,79.8,13.75,Sports,Team Sports,American Football,Armour XL,US,A Team Sports
+6043,77877,gold,2021-04-22,2021-04-25,3,220.2,36.8,Outdoors,Outdoors,Sleepingbags,"Expedition 10,Small,Left,Blue Ribbon",DK,Top Sports
+8850,35142,silver,2021-04-22,2021-04-24,1,96.1,45.9,Sports,Racket Sports,Racket Sports,Grandslam Graphite Pro Ti 95 Tennis Racket,GB,GrandSlam Sporting Goods Ltd
+14393,20308,silver,2021-04-22,2021-04-25,1,12.7,6.1,Outdoors,Outdoors,Outdoor Gear,Outback Spirits Kitchen,GB,Prime Sports Ltd
+15313,79272,gold,2021-04-22,2021-04-25,1,93.8,9.4,Sports,Golf,Golf Clothes,Release Golf Sweatshirt w/Logo(1/100),US,Mike Schaeffer Inc
+15484,54342,silver,2021-04-22,2021-05-03,1,61.0,28.75,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Turbulence Shoes,US,Eclipse Inc
+17947,15720,gold,2021-04-22,2021-04-25,2,184.2,36.9,Clothes & Shoes,Clothes,Osprey,"Osprey Cell O-Five Low, Leather",US,Triple Sportswear Inc
+20095,93422,gold,2021-04-22,2021-04-29,1,103.8,47.25,Clothes & Shoes,Shoes,Tracker Shoes,Hgf  Low Women's Indoor Shoes,US,3Top Sports
+21862,37448,silver,2021-04-22,2021-04-27,1,220.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+23842,33359,gold,2021-04-22,2021-04-24,1,29.0,11.95,Sports,Assorted Sports Articles,Assorted Sports articles,Eliza T-Shirt,ES,Luna sastreria S.A.
+25864,48861,gold,2021-04-22,2021-04-26,1,38.7,19.45,Children,Children Sports,"Eclipse, Kid's Shoes",Tony's Golden (Bg),US,Eclipse Inc
+27068,84487,gold,2021-04-22,2021-04-26,2,82.0,17.15,Outdoors,Outdoors,Gloves & Mittens,Montana Gore-Tex Gloves,SE,Svensson Trading AB
+35500,73703,silver,2021-04-22,2021-04-23,1,105.5,52.85,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Stormy,US,Eclipse Inc
+35572,17556,platinum,2021-04-22,2021-04-23,1,56.1,28.15,Children,Children Sports,"Eclipse, Kid's Shoes",Tony's Air Flatbush(Bg),US,Eclipse Inc
+36135,77877,gold,2021-04-22,2021-04-25,1,98.6,49.4,Sports,Golf,Golf,Proplay Women's Tour Force Ti Offset Dr,NL,Van Dammeren International
+37075,88118,gold,2021-04-22,2021-04-25,1,39.8,17.3,Children,Children Sports,"N.D. Gear, Kids",O'my York Children's Tracking Pants,ES,Luna sastreria S.A.
+37212,37016,silver,2021-04-22,2021-04-24,1,21.2,8.3,Children,Children Sports,"Olssons, Kids",Top with Short sleeve,ES,Sportico
+40101,54536,gold,2021-04-22,2021-04-27,4,683.2,128.3,Sports,Assorted Sports Articles,Skates,Pro-roll Iridium Roller Skates,PT,Magnifico Sports
+43222,26948,silver,2021-04-22,2021-05-02,2,313.0,78.35,Clothes & Shoes,Clothes,LSF,Woman's Air Mickey Deluxe,US,Eclipse Inc
+43341,10312,silver,2021-04-22,2021-04-23,1,31.9,13.6,Children,Children Sports,"N.D. Gear, Kids",Ultra York Children's Sweatshirt Round,ES,Luna sastreria S.A.
+43875,54993,gold,2021-04-22,2021-04-26,1,88.7,35.55,Clothes & Shoes,Clothes,Osprey,"Osprey Cell Five-O-Low, Leather",US,Triple Sportswear Inc
+44478,26323,silver,2021-04-22,2021-04-28,1,50.6,21.55,Sports,Assorted Sports Articles,Assorted Sports articles,Men's Rain Pants Derby,ES,Luna sastreria S.A.
+44588,63657,gold,2021-04-22,2021-04-26,2,39.2,7.9,Sports,Racket Sports,Tennis,Smasher Tights,GB,British Sports Ltd
+46691,53310,gold,2021-04-22,2021-04-24,1,58.6,26.7,Clothes & Shoes,Shoes,Tracker Shoes,Armadillo Men's Running Shoes,US,3Top Sports
+48208,57397,silver,2021-04-22,2021-04-27,1,56.6,25.6,Sports,Racket Sports,Racket Sports,Bag  Tit.Weekend,FR,Le Blanc S.A.
+49548,57322,gold,2021-04-22,2021-04-27,1,45.9,19.05,Sports,Winter Sports,Winter Sports,Dark Grey PGA,CA,CrystalClear Optics Inc
+50030,53567,silver,2021-04-22,2021-04-26,1,13.6,6.85,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's S/Sleeve Ringer,US,Eclipse Inc
+52561,58729,gold,2021-04-22,2021-04-23,1,72.3,32.2,Clothes & Shoes,Shoes,Tracker Shoes,Men's Street Shoes Gazelle,US,3Top Sports
+53134,14171,gold,2021-04-22,2021-04-24,1,32.8,16.5,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Deschutz Slide Shoes,US,Eclipse Inc
+53732,5913,gold,2021-04-22,2021-04-25,2,92.8,19.95,Sports,Swim Sports,Bathing Suits,Sunfit Blinka Swimming Trunks,US,Nautlius SportsWear Inc
+53842,76494,silver,2021-04-22,2021-04-28,1,81.2,40.7,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Cover Jacket Cl.Fit,US,Eclipse Inc
+54176,8840,silver,2021-04-22,2021-05-11,1,17.4,7.15,Clothes & Shoes,Clothes,Street Wear,Tyfoon Cap,AU,Typhoon Clothing

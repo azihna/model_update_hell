@@ -1,0 +1,36 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+178,42215,silver,2021-04-19,2021-04-25,1,64.0,37.85,Clothes & Shoes,Shoes,Shoes,Pro Fit  Gel Ds Trainer Iv Men's Running Shoe,US,Pro Sportswear Inc
+267,60664,silver,2021-04-19,2021-04-22,1,22.8,9.75,Sports,Swim Sports,Bathing Suits,Bikini Penola,ES,Luna sastreria S.A.
+1437,53017,gold,2021-04-19,2021-04-23,3,309.6,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+2818,55810,silver,2021-04-19,2021-04-24,1,77.0,38.6,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Right,Charcoal",DK,Top Sports
+3202,63504,gold,2021-04-19,2021-04-24,1,9.1,4.2,Sports,Assorted Sports Articles,Assorted Sports articles,Hiclass Mundo 78a 36x72mm Xray,US,Roll-Over Inc
+3410,39016,gold,2021-04-19,2021-04-23,1,30.8,14.35,Sports,Running - Jogging,Running Clothes,Shorts Training,BE,Force Sports
+3631,76360,gold,2021-04-19,2021-04-22,1,106.2,50.6,Clothes & Shoes,Clothes,Orion,Power Dmx Wide Shoes,CA,Fuller Trading Co.
+3740,81421,gold,2021-04-19,2021-04-23,1,93.1,42.45,Clothes & Shoes,Shoes,Tracker Shoes,Banto Light Men's Shoes,US,3Top Sports
+4726,64295,silver,2021-04-19,2021-04-24,2,28.8,6.45,Sports,Team Sports,Soccer,Soccer Mjf 2000 Size 4 Black/Yellow,US,Teamsports Inc
+5402,57985,silver,2021-04-19,2021-04-24,1,55.1,24.05,Sports,Running - Jogging,Jogging,Ypsilon Men's Sweatshirt w/Piping,FR,Ypsilon S.A.
+6621,62835,gold,2021-04-19,2021-04-21,1,26.2,11.75,Sports,Assorted Sports Articles,Assorted Sports articles,Safe Skate Helmet Large Black,US,Roll-Over Inc
+7205,35653,silver,2021-04-19,2021-04-20,1,41.1,16.5,Sports,Indoor Sports,Gymnastic Clothing,Hot 7/8 Micro Pants,ES,Sportico
+8096,9777,gold,2021-04-19,2021-04-22,1,84.1,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+8587,2258,silver,2021-04-19,2021-04-23,3,332.1,47.1,Sports,Assorted Sports Articles,Assorted Sports articles,Fleece with Zipper,ES,Luna sastreria S.A.
+10361,91248,gold,2021-04-19,2021-04-23,1,27.9,13.45,Outdoors,Outdoors,Anoraks & Parkas,Ranger Men's T-Shirt,NO,Scandinavian Clothing A/S
+11178,59632,gold,2021-04-19,2021-04-20,1,59.0,26.85,Clothes & Shoes,Shoes,Shoes,Cruise 1984 Men's Street Shoes,SE,Petterson AB
+14087,42186,gold,2021-04-19,2021-04-24,2,444.0,110.95,Sports,Assorted Sports Articles,Skates,Proskater Kitalpha Gamma Roller Skates,US,Roll-Over Inc
+14800,42764,gold,2021-04-19,2021-04-24,1,12.8,5.65,Children,Children Sports,"A-Team, Kids",A-team Children's Shorts w/Pockets,US,A Team Sports
+19508,21917,gold,2021-04-19,2021-04-23,1,93.4,38.95,Sports,Racket Sports,Racket Sports,Aftm 95 Vf Long Bg-65 White,GB,British Sports Ltd
+20707,10463,gold,2021-04-19,2021-04-21,2,122.6,31.95,Sports,Team Sports,Soccer,Enland Player Shirt,US,Fga Sports Inc
+20708,41523,gold,2021-04-19,2021-04-21,5,306.5,31.95,Sports,Team Sports,Soccer,Enland Player Shirt,US,Fga Sports Inc
+21861,36947,gold,2021-04-19,2021-04-30,1,220.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+24173,61802,gold,2021-04-19,2021-04-23,1,18.6,7.5,Sports,Swim Sports,Bathing Suits,Swimming Trunks Basic,US,Dolphin Sportswear Inc
+26092,21535,silver,2021-04-19,2021-04-21,1,47.4,22.6,Sports,Running - Jogging,Running Clothes,Bike.Tights Biking Tights without braces,BE,Force Sports
+29719,45434,gold,2021-04-19,2021-04-20,1,46.4,21.6,Sports,Indoor Sports,Fitness,N.d.gear Aerobic 2 Col.Tights,GB,Greenline Sports Ltd
+31185,59973,silver,2021-04-19,2021-04-25,2,392.6,95.65,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates A7 80/78a Action,PT,Magnifico Sports
+33730,29509,gold,2021-04-19,2021-04-20,1,53.9,22.9,Sports,Swim Sports,Bathing Suits,Sunfit Malarme Low Swim Suit,US,Nautlius SportsWear Inc
+38607,48280,gold,2021-04-19,2021-04-21,1,140.3,72.0,Sports,Golf,Golf,Bretagne Stabilites 2000 Goretex Shoes,NL,Van Dammeren International
+38698,34474,silver,2021-04-19,2021-04-24,1,121.0,48.3,Sports,Assorted Sports Articles,Assorted Sports articles,"Lifter 01,Metallic Black",CA,CrystalClear Optics Inc
+38764,43198,silver,2021-04-19,2021-04-23,1,97.3,44.25,Clothes & Shoes,Shoes,Shoes,Soft 140 Men's Running Shoes,US,Pro Sportswear Inc
+39360,28430,silver,2021-04-19,2021-04-23,1,24.0,11.7,Outdoors,Outdoors,Outdoor Gear,Rain Pants,US,AllSeasons Outdoor Clothing
+40264,32817,silver,2021-04-19,2021-04-21,2,35.4,8.0,Clothes & Shoes,Clothes,Shorts,Carribian Women's Jersey Shorts,US,A Team Sports
+43449,37699,silver,2021-04-19,2021-04-24,3,319.5,51.55,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tailwind Shoes,US,Eclipse Inc
+47530,93486,silver,2021-04-19,2021-04-20,1,86.6,43.4,Clothes & Shoes,Clothes,Eclipse Clothing,Watchit 42 Black/Gold,US,Eclipse Inc
+52560,17664,silver,2021-04-19,2021-04-22,1,72.3,32.2,Clothes & Shoes,Shoes,Tracker Shoes,Men's Street Shoes Gazelle,US,3Top Sports

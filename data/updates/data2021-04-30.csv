@@ -1,0 +1,31 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2076,72216,silver,2021-04-30,2021-05-14,4,490.4,61.4,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Masai,US,Eclipse Inc
+4434,25099,gold,2021-04-30,2021-05-04,2,67.2,14.65,Sports,Team Sports,Soccer,Stephens Shirt,US,Teamsports Inc
+5502,51895,gold,2021-04-30,2021-05-03,1,46.9,20.2,Outdoors,Outdoors,Backpacks,Hammock Sports Bag,ES,Luna sastreria S.A.
+5665,30488,silver,2021-04-30,2021-05-01,1,129.8,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+11134,92399,gold,2021-04-30,2021-05-04,1,209.3,104.6,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Goflex-E Perf.Skates,US,Eclipse Inc
+11640,51465,silver,2021-04-30,2021-05-02,1,33.3,14.85,Sports,Assorted Sports Articles,Assorted Sports articles,A-team Action-Tech Bra,US,A Team Sports
+15625,18005,gold,2021-04-30,2021-05-05,2,83.4,18.9,Clothes & Shoes,Clothes,Tracker Clothes,Casual.Pants Open Tracking Pants,US,3Top Sports
+17464,58733,silver,2021-04-30,2021-05-01,1,32.4,13.4,Sports,Assorted Sports Articles,Darts,Bulls Eye 15 Gram 80% Tungsten Soft,GB,Royal Darts Ltd
+19019,40344,gold,2021-04-30,2021-05-06,1,181.5,76.3,Outdoors,Outdoors,Outdoor Gear,Ht Legacy Curig I.A.Parca,US,AllSeasons Outdoor Clothing
+21188,29747,silver,2021-04-30,2021-05-03,1,26.9,10.3,Sports,Team Sports,Baseball,Bat - Home Run S,US,Miller Trading Inc
+25343,74529,silver,2021-04-30,2021-05-05,1,16.9,7.6,Sports,Assorted Sports Articles,Assorted Sports articles,Glove Ski Gloves,NO,Scandinavian Clothing A/S
+26694,40841,silver,2021-04-30,2021-05-06,2,163.2,35.45,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Slipover,GB,Harry Penny Ltd
+26801,12724,silver,2021-04-30,2021-05-02,1,103.0,42.4,Clothes & Shoes,Clothes,Knitwear,Lucky Knitwear Wool Sweater,US,AllSeasons Outdoor Clothing
+29191,71106,silver,2021-04-30,2021-05-01,3,220.2,36.65,Clothes & Shoes,Shoes,Tracker Shoes,Hardcore Men's Street Shoes Large,GB,Greenline Sports Ltd
+35027,28284,silver,2021-04-30,2021-05-05,1,30.4,9.2,Sports,Swim Sports,Bathing Suits,Sharky Swimming Trunks,US,Dolphin Sportswear Inc
+35455,78269,gold,2021-04-30,2021-05-01,2,701.0,175.2,Sports,Assorted Sports Articles,Skates,Proskater Coyote Off Road Roller Skates,US,Roll-Over Inc
+35725,20091,silver,2021-04-30,2021-05-03,2,82.4,19.9,Sports,Golf,Golf,Carolina,US,Carolina Sports
+35827,31631,platinum,2021-04-30,2021-05-01,1,251.4,125.65,Sports,Assorted Sports Articles,Skates,Roller Skates Styll,PT,Magnifico Sports
+36867,53384,silver,2021-04-30,2021-05-05,1,55.7,27.95,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Small,Left,Charcoal",DK,Top Sports
+40816,75699,gold,2021-04-30,2021-05-03,1,113.6,54.05,Clothes & Shoes,Clothes,Orion,Mc Shoes,CA,Fuller Trading Co.
+41606,82810,silver,2021-04-30,2021-05-01,2,24.2,5.45,Sports,Team Sports,Soccer,Proshot Juv Size,US,Teamsports Inc
+45621,33615,gold,2021-04-30,2021-05-02,1,59.8,25.2,Sports,Assorted Sports Articles,Assorted Sports articles,Liz Sweater,ES,Luna sastreria S.A.
+45699,49836,gold,2021-04-30,2021-05-08,2,39.8,9.05,Sports,Assorted Sports Articles,Assorted Sports articles,Elbow Protection Elbow Pads,PT,Magnifico Sports
+46895,10353,silver,2021-04-30,2021-05-03,1,6.9,3.15,Sports,Assorted Sports Articles,Assorted Sports articles,Croix 62mm Clear,PT,Magnifico Sports
+48245,59016,silver,2021-04-30,2021-05-02,1,49.6,20.65,Sports,Assorted Sports Articles,Assorted Sports articles,Eliza Polo-Shirt,ES,Luna sastreria S.A.
+49359,71336,silver,2021-04-30,2021-05-06,2,309.2,116.6,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Gretzky Mvp S.B.S,PT,Magnifico Sports
+50593,82271,gold,2021-04-30,2021-05-05,1,62.0,28.2,Children,Children Sports,Tracker Kid's Clothes,Jacket Kids Jacket,US,3Top Sports
+51210,73683,silver,2021-04-30,2021-05-06,1,42.0,19.05,Sports,Indoor Sports,Gymnastic Clothing,Cougar Basic Short Tights,US,SD Sporting Goods Inc
+51555,65759,gold,2021-04-30,2021-05-02,2,30.2,5.35,Sports,Swim Sports,Bathing Suits,Shorts Special,FR,Le Blanc S.A.
+54125,5633,gold,2021-04-30,2021-05-02,1,34.8,15.85,Clothes & Shoes,Clothes,Tracker Clothes,Mns Men's Shorts,US,3Top Sports

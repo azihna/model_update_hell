@@ -1,0 +1,19 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+963,45987,gold,2021-09-04,2021-09-05,1,24.5,11.75,Sports,Winter Sports,Winter Sports,Original Eco Thermo 01 Yellow,US,Twain Inc
+1041,33792,silver,2021-09-04,2021-09-06,3,104.7,17.55,Clothes & Shoes,Shoes,Eclipse Shoes,Eclipse Mens Off Court Tennis Shoes,US,Eclipse Inc
+2339,58261,gold,2021-09-04,2021-09-07,1,360.0,199.0,Outdoors,Outdoors,Tents,Expedition Dome 3,GB,Outback Outfitters Ltd
+6387,61802,gold,2021-09-04,2021-09-08,2,47.6,11.4,Sports,Running - Jogging,Running Clothes,Men's Singlet,BE,Force Sports
+6727,12350,silver,2021-09-04,2021-09-05,1,62.8,27.8,Sports,Running - Jogging,Jogging,A-team Sweat w/Hood + Big Logo,US,A Team Sports
+12040,73050,silver,2021-09-04,2021-09-05,2,254.2,60.8,Outdoors,Outdoors,Sleepingbags,Tipee Twin Blue/Orange,GB,Outback Outfitters Ltd
+13541,24714,gold,2021-09-04,2021-09-09,2,74.8,16.3,Children,Children Sports,"Ypsilon, Kids",Ypsilon Children's Sweatshirt,FR,Ypsilon S.A.
+20883,92273,silver,2021-09-04,2021-09-08,2,95.6,24.0,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Long Sport Top Extra,US,Eclipse Inc
+21637,20578,silver,2021-09-04,2021-09-07,1,16.6,7.5,Clothes & Shoes,Clothes,T-Shirts,Toncot Beefy-T Emb T-Shirt,US,A Team Sports
+24565,45619,silver,2021-09-04,2021-09-06,2,66.4,14.45,Children,Children Sports,"Ypsilon, Kids",Albany Pants,FR,Ypsilon S.A.
+25935,38982,gold,2021-09-04,2021-09-07,2,11.4,2.3,Sports,Swim Sports,Bathing Suits,White Silicone Swim Cap,US,Nautlius SportsWear Inc
+27314,86955,gold,2021-09-04,2021-09-09,3,1599.6,251.35,Sports,Indoor Sports,Fitness,Letour Heart Bike,NL,TrimSport B.V.
+27939,60711,gold,2021-09-04,2021-09-08,2,37.8,9.55,Sports,Golf,Golf,"Bretagne Difference Men's Golf Glove, left",NL,Van Dammeren International
+31131,2856,silver,2021-09-04,2021-09-05,1,44.8,22.5,Outdoors,Outdoors,Sleepingbags,Interlight Lux Sleeping Bag,GB,Outback Outfitters Ltd
+33968,57409,silver,2021-09-04,2021-09-09,1,34.7,15.5,Children,Children Sports,"A-Team, Kids","Kids Sweat Round Neck,Large Logo",US,A Team Sports
+41821,38154,silver,2021-09-04,2021-09-06,1,76.2,34.55,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Pant,GB,Harry Penny Ltd
+44825,36383,gold,2021-09-04,2021-09-09,2,177.6,37.8,Clothes & Shoes,Shoes,Shoes,Top C-Tech 6000 Tennis Shoes,DK,Top Sports
+50186,60016,silver,2021-09-04,2021-09-08,2,35.6,8.4,Children,Children Sports,"A-Team, Kids",Ottis Children's Pants Bl,US,3Top Sports

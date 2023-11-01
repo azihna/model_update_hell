@@ -1,0 +1,43 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+462,15480,gold,2021-08-27,2021-08-28,2,195.0,40.55,Outdoors,Outdoors,Outdoor Gear,Mayday Qd Zip Pants,US,Mayday Inc
+1039,4371,gold,2021-08-27,2021-08-31,3,104.7,17.55,Clothes & Shoes,Shoes,Eclipse Shoes,Eclipse Mens Off Court Tennis Shoes,US,Eclipse Inc
+4221,56926,gold,2021-08-27,2021-09-06,2,210.4,47.85,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Disruptor,GB,Greenline Sports Ltd
+6057,90087,gold,2021-08-27,2021-08-30,3,220.2,36.8,Outdoors,Outdoors,Sleepingbags,"Expedition 10,Small,Left,Blue Ribbon",DK,Top Sports
+7355,59118,gold,2021-08-27,2021-08-30,2,346.0,72.75,Outdoors,Outdoors,Outdoor Gear,Jl Legacy Curig I.A.Jacket,US,AllSeasons Outdoor Clothing
+8375,44776,silver,2021-08-27,2021-09-02,1,16.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+11517,74317,gold,2021-08-27,2021-08-29,2,44.6,11.25,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Sweatshirt w/Round Neck L,US,Eclipse Inc
+11891,76318,silver,2021-08-27,2021-08-29,3,10.2,1.5,Sports,Golf,Golf,Proplay 2-Way Brush,NL,Van Dammeren International
+12039,39882,gold,2021-08-27,2021-08-31,2,254.2,60.8,Outdoors,Outdoors,Sleepingbags,Tipee Twin Blue/Orange,GB,Outback Outfitters Ltd
+13046,77481,silver,2021-08-27,2021-09-01,2,252.2,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+17181,76362,silver,2021-08-27,2021-08-28,2,78.2,19.65,Clothes & Shoes,Shoes,Eclipse Shoes,Cnv Plus Men's Off Court Tennis,US,Eclipse Inc
+17714,78668,gold,2021-08-27,2021-09-03,3,346.5,57.85,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Terra Humara Shoes,US,Eclipse Inc
+17999,35413,gold,2021-08-27,2021-09-01,2,551.8,125.25,Outdoors,Outdoors,Backpacks,Feelgood 55-75 Litre Black Women's Backpack,AU,Toto Outdoor Gear
+19023,23842,silver,2021-08-27,2021-09-01,2,363.0,76.3,Outdoors,Outdoors,Outdoor Gear,Ht Legacy Curig I.A.Parca,US,AllSeasons Outdoor Clothing
+19091,46584,silver,2021-08-27,2021-09-02,1,23.2,9.95,Sports,Assorted Sports Articles,Assorted Sports articles,Nh T-Shirt,ES,Luna sastreria S.A.
+19963,48375,gold,2021-08-27,2021-08-29,2,74.6,15.6,Sports,Assorted Sports Articles,Assorted Sports articles,Ultra York T-Shirt with V-Neck,ES,Luna sastreria S.A.
+20306,51023,silver,2021-08-27,2021-08-30,3,193.8,27.35,Sports,Assorted Sports Articles,Assorted Sports articles,Richard Polo-Shirt,ES,Luna sastreria S.A.
+22696,71919,gold,2021-08-27,2021-08-28,2,351.4,75.95,Sports,Racket Sports,Racket Sports,Sledgehammer 120 Ph Black,GB,GrandSlam Sporting Goods Ltd
+22960,62375,silver,2021-08-27,2021-08-29,2,92.6,23.25,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Constructed T,US,Eclipse Inc
+23676,61658,silver,2021-08-27,2021-08-30,3,742.8,116.0,Outdoors,Outdoors,Backpacks,Victor Grey/Olive Men's Backpack,DK,Top Sports
+24774,12621,silver,2021-08-27,2021-08-28,2,126.0,28.7,Clothes & Shoes,Clothes,Leisure,Van Damme Women's Polo Pique L,NL,Van Dammeren International
+25353,18872,silver,2021-08-27,2021-09-01,1,7.6,3.4,Sports,Indoor Sports,Fitness,Chrome Locks  Chrome Locks for Dumbbell Bars,NL,TrimSport B.V.
+25784,22091,gold,2021-08-27,2021-08-29,3,170.1,27.25,Outdoors,Outdoors,Backpacks,Medium Black/Bark Backpack,DK,Top Sports
+27021,83059,gold,2021-08-27,2021-08-29,2,2.8,0.65,Sports,Golf,Golf,Proplay Molitor Bulk Golf ball,NL,Van Dammeren International
+27751,83690,gold,2021-08-27,2021-08-28,3,276.0,46.1,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Rasp Suede,US,Eclipse Inc
+27915,33391,gold,2021-08-27,2021-09-01,2,15.6,2.95,Clothes & Shoes,Clothes,Stockings & Socks,Fitness Slouch Socks,FR,Bon Garrments
+28360,32931,gold,2021-08-27,2021-09-01,2,63.6,15.15,Sports,Running - Jogging,Running Clothes,Club Running Tights,BE,Force Sports
+31108,54176,gold,2021-08-27,2021-08-29,3,805.2,132.7,Sports,Assorted Sports Articles,Skates,Twain Tr7 Women's Roller Skates,US,Twain Inc
+31660,37538,gold,2021-08-27,2021-08-28,3,460.8,76.9,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Millennium Down Fill Jacket,US,Eclipse Inc
+32893,45486,gold,2021-08-27,2021-08-28,1,47.9,21.4,Outdoors,Outdoors,Anoraks & Parkas,Dean Creek Men's Vest,NO,Scandinavian Clothing A/S
+34231,56440,silver,2021-08-27,2021-08-29,2,122.6,30.75,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Victory Peach Poplin Pants,US,Eclipse Inc
+35138,2831,gold,2021-08-27,2021-08-30,2,263.4,58.6,Clothes & Shoes,Shoes,Tracker Shoes,Mns.winner Men's Running Shoes,US,3Top Sports
+36805,19255,gold,2021-08-27,2021-08-31,2,226.8,54.5,Sports,Assorted Sports Articles,Skates,Aln Roller Skates,PT,Magnifico Sports
+39194,72134,gold,2021-08-27,2021-08-28,2,92.0,23.1,Children,Children Sports,"Eclipse, Kid's Shoes",Kid Perish Nubuck(Gp),US,Eclipse Inc
+44466,87850,gold,2021-08-27,2021-08-31,2,67.4,16.95,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's S/L Fleece Pants,US,Eclipse Inc
+45490,30130,gold,2021-08-27,2021-08-31,2,12.6,2.85,Sports,Assorted Sports Articles,Assorted Sports articles,Croix62 62mm Black,PT,Magnifico Sports
+47169,15658,silver,2021-08-27,2021-09-03,2,47.8,9.55,Clothes & Shoes,Clothes,Green Tomato,Green Lime Top,US,Green Lime Sports Inc
+47218,31116,silver,2021-08-27,2021-09-02,2,278.8,75.35,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Mercurial Fg-Football Boots,US,Eclipse Inc
+47709,19775,gold,2021-08-27,2021-08-29,2,330.4,75.5,Sports,Assorted Sports Articles,Assorted Sports articles,Pro Classic,AU,Health-Sports
+48344,79655,silver,2021-08-27,2021-08-30,2,92.2,19.55,Children,Children Sports,"Osprey, Kids",D. Line Sweat Suit,US,Triple Sportswear Inc
+48793,92294,gold,2021-08-27,2021-09-01,1,47.9,20.4,Sports,Indoor Sports,Top Trim,Top Day Pack 27 L Backpack,US,Top Sports Inc
+52492,82319,gold,2021-08-27,2021-08-28,1,19.8,8.5,Sports,Assorted Sports Articles,Assorted Sports articles,Will Shorts,ES,Luna sastreria S.A.

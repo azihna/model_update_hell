@@ -1,0 +1,27 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2980,58066,silver,2021-07-10,2021-07-12,1,25.6,12.1,Clothes & Shoes,Clothes,Knitwear,Instyle Pullover Mid,US,AllSeasons Outdoor Clothing
+7351,58838,gold,2021-07-10,2021-07-14,2,346.0,72.75,Outdoors,Outdoors,Outdoor Gear,Jl Legacy Curig I.A.Jacket,US,AllSeasons Outdoor Clothing
+10254,81878,gold,2021-07-10,2021-07-12,2,135.6,30.8,Outdoors,Outdoors,Outdoor Gear,Inflatable 3.5 Confort,GB,Prime Sports Ltd
+12690,56479,silver,2021-07-10,2021-07-16,2,154.0,35.9,Clothes & Shoes,Shoes,Tracker Shoes,Hardcore Men's Street Shoes,GB,Greenline Sports Ltd
+13511,85378,gold,2021-07-10,2021-07-12,2,121.6,24.3,Clothes & Shoes,Clothes,T-Shirts,Ypsilon Polo Aarau,FR,Ypsilon S.A.
+14092,9201,gold,2021-07-10,2021-07-16,6,1332.0,110.95,Sports,Assorted Sports Articles,Skates,Proskater Kitalpha Gamma Roller Skates,US,Roll-Over Inc
+15733,37401,silver,2021-07-10,2021-07-11,2,1136.2,289.95,Outdoors,Outdoors,Tents,Family Holiday 6,SE,Petterson AB
+16737,91987,silver,2021-07-10,2021-07-12,1,630.4,315.15,Sports,Indoor Sports,Fitness,Letour Trimag Bike,NL,TrimSport B.V.
+22158,30976,silver,2021-07-10,2021-07-13,1,225.5,112.85,Sports,Winter Sports,Winter Sports,Twain Women's Evolution 8.0 T Ski Boots,US,Twain Inc
+22622,82835,gold,2021-07-10,2021-07-12,3,544.5,77.85,Sports,Assorted Sports Articles,Assorted Sports articles,Women's Jacket,ES,Luna sastreria S.A.
+25570,50445,gold,2021-07-10,2021-07-12,2,113.8,24.1,Clothes & Shoes,Clothes,Orion,Alexis Women's Classic Shoes,CA,Fuller Trading Co.
+34374,89800,silver,2021-07-10,2021-07-11,2,273.2,62.25,Clothes & Shoes,Shoes,Tracker Shoes,Mns.xzs Women's Aerobic Shoes,US,3Top Sports
+34640,49069,gold,2021-07-10,2021-07-13,2,47.6,10.65,Clothes & Shoes,Clothes,Shorts,Shorts Women's Club Sport,US,A Team Sports
+35304,32761,silver,2021-07-10,2021-07-13,2,125.2,31.4,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Deschutz Viii Shoes,US,Eclipse Inc
+35918,24047,gold,2021-07-10,2021-07-15,2,141.0,33.7,Clothes & Shoes,Clothes,Orion Clothing,Zx Herit.Hooded Zip Sweat,CA,Fuller Trading Co.
+37055,76502,silver,2021-07-10,2021-07-12,2,49.8,11.2,Clothes & Shoes,Clothes,Tracker Clothes,Logo Coord.Chelsea 5 Men's Shorts,US,3Top Sports
+39667,51307,gold,2021-07-10,2021-07-12,2,437.4,91.15,Sports,Racket Sports,Racket Sports,Aftm Swing Power 900 Sr Black/Gold,GB,British Sports Ltd
+40717,10500,gold,2021-07-10,2021-07-15,1,58.6,26.65,Sports,Indoor Sports,Gymnastic Clothing,Cougar Capri Gym Pants,US,SD Sporting Goods Inc
+41856,92090,silver,2021-07-10,2021-07-13,2,37.4,10.0,Sports,Golf,Golf Clothes,Hi-fly Strata Cap Offwhite/Green,NL,Van Dammeren International
+46383,87849,gold,2021-07-10,2021-07-16,1,23.1,9.55,Children,Children Sports,"N.D. Gear, Kids",Yates Swim Tights London,ES,Luna sastreria S.A.
+48110,71138,gold,2021-07-10,2021-07-12,1,39.2,19.55,Children,Children Sports,"Eclipse, Kid's Clothes",Watchit Watches Tangerine/Translucent Aqua,US,Eclipse Inc
+48754,7998,silver,2021-07-10,2021-07-12,3,222.9,33.85,Clothes & Shoes,Shoes,Tracker Shoes,Vigil Women's Tennis Shoes,US,3Top Sports
+50688,89812,silver,2021-07-10,2021-07-21,2,48.6,10.9,Clothes & Shoes,Clothes,T-Shirts,Toncot Beefy 2-Pack T-Shirts,US,A Team Sports
+51437,30085,gold,2021-07-10,2021-07-15,2,39.0,8.9,Children,Children Sports,Tracker Kid's Clothes,Joe Youth,US,3Top Sports
+51981,76083,gold,2021-07-10,2021-07-12,2,84.0,16.85,Clothes & Shoes,Clothes,Street Wear,Anthony Bork Veronica Nylon Shorts,US,Mayday Inc
+54359,73414,gold,2021-07-10,2021-07-13,1,113.2,47.45,Sports,Indoor Sports,Top Trim,Top Trackster Jacket,US,Top Sports Inc

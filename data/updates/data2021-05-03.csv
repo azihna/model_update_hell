@@ -1,0 +1,47 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1218,31372,silver,2021-05-03,2021-05-08,3,106.5,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+4852,84406,silver,2021-05-03,2021-05-06,1,23.9,11.4,Clothes & Shoes,Clothes,Orion Clothing,Mick's.small Small Logo Tee,CA,Fuller Trading Co.
+10183,38529,gold,2021-05-03,2021-05-04,1,282.0,139.45,Sports,Assorted Sports Articles,Skates,Perfect Fit Men's  Roller Skates,US,Twain Inc
+13024,7847,gold,2021-05-03,2021-05-06,2,252.2,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+14159,48031,silver,2021-05-03,2021-05-05,1,21.99,7.25,Sports,Team Sports,Basket Ball,Basket Ball Pro,US,HighPoint Trading
+14348,7584,silver,2021-05-03,2021-05-04,1,15.1,6.25,Sports,Assorted Sports Articles,Assorted Sports articles,Precision Arrow 23 Gram,GB,Royal Darts Ltd
+15187,52495,gold,2021-05-03,2021-05-07,2,12.4,2.75,Sports,Team Sports,Soccer,Soccer Socks Senior,US,Teamsports Inc
+15784,70289,silver,2021-05-03,2021-05-06,1,111.7,55.95,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Vivacity,US,Eclipse Inc
+15826,3910,silver,2021-05-03,2021-05-05,2,156.6,31.4,Sports,Racket Sports,Tennis,"Smasher 2-Lags Cotton, Micro Fibre",GB,British Sports Ltd
+16555,77532,gold,2021-05-03,2021-05-06,2,291.98,72.6,Sports,Golf,Golf Clothes,Wind Proof Windstopper Merino/Acryl,US,HighPoint Trading
+16735,91207,platinum,2021-05-03,2021-05-09,1,630.4,315.15,Sports,Indoor Sports,Fitness,Letour Trimag Bike,NL,TrimSport B.V.
+16896,46909,gold,2021-05-03,2021-05-04,2,45.7,9.3,Sports,Team Sports,American Football,Football - Helmet M,US,A Team Sports
+17119,39743,gold,2021-05-03,2021-05-09,1,22.4,10.6,Clothes & Shoes,Clothes,Knitwear,Instyle Pullover Lite,US,AllSeasons Outdoor Clothing
+19301,63959,silver,2021-05-03,2021-05-05,3,77.7,11.9,Clothes & Shoes,Clothes,Tracker Clothes,Casual. Top Tee with V-Neck,US,3Top Sports
+21517,9326,gold,2021-05-03,2021-05-07,1,169.5,67.8,Sports,Winter Sports,Winter Sports,Massif  Bandit L Ski Axial,FR,Massif S.A.
+23054,49337,gold,2021-05-03,2021-05-07,3,270.6,38.3,Clothes & Shoes,Clothes,Knitwear,Fleece Jacket Compass,US,AllSeasons Outdoor Clothing
+30118,42891,silver,2021-05-03,2021-05-06,3,58.5,8.35,Sports,Assorted Sports Articles,Assorted Sports articles,Fred Check,ES,Luna sastreria S.A.
+33218,53362,gold,2021-05-03,2021-05-08,1,74.2,32.3,Sports,Assorted Sports Articles,Assorted Sports articles,Midnight Blue,CA,CrystalClear Optics Inc
+33912,21118,silver,2021-05-03,2021-05-08,2,25.98,8.55,Sports,Team Sports,Soccer,Fanatic Blue/Yellow/Blue,US,Teamsports Inc
+34327,37922,silver,2021-05-03,2021-05-04,3,577.2,89.9,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Sq7-Ls 76mm/78a,PT,Magnifico Sports
+35634,71169,gold,2021-05-03,2021-05-05,1,78.4,31.4,Sports,Running - Jogging,Jogging,Triffy Top with Zipper,NL,Triffy B.V.
+36888,1393,gold,2021-05-03,2021-05-14,1,67.0,28.9,Children,Children Sports,"N.D. Gear, Kids",Children's Knit Sweater,ES,Luna sastreria S.A.
+37582,74513,silver,2021-05-03,2021-05-05,1,29.4,13.55,Children,Children Sports,Tracker Kid's Clothes,Corp.Baby Jogger,US,3Top Sports
+37947,47159,gold,2021-05-03,2021-05-04,1,183.9,92.05,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Zoom Italia F.G Shoes,US,Eclipse Inc
+38048,13040,gold,2021-05-03,2021-05-07,3,233.1,33.1,Sports,Assorted Sports Articles,Assorted Sports articles,St. John's Men's Polo College,ES,Luna sastreria S.A.
+38684,60721,silver,2021-05-03,2021-05-06,1,36.6,15.6,Sports,Assorted Sports Articles,Assorted Sports articles,Knee Dressing  Knee Pad w/opening for Knee Ca,US,Teamsports Inc
+38998,1792,silver,2021-05-03,2021-05-07,3,210.3,31.95,Clothes & Shoes,Clothes,Tracker Clothes,Casual Sport Logo Sweatshirt,US,3Top Sports
+39106,64515,gold,2021-05-03,2021-05-05,1,261.2,130.55,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Flex-E Perf.Skates,US,Eclipse Inc
+39281,21727,silver,2021-05-03,2021-05-05,1,111.5,50.7,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Disruptor Junior,GB,Greenline Sports Ltd
+40603,27717,silver,2021-05-03,2021-05-04,2,199.8,50.05,Outdoors,Outdoors,Backpacks,Black/Black,DK,Top Sports
+42207,70955,gold,2021-05-03,2021-05-09,1,29.2,12.9,Sports,Assorted Sports Articles,Assorted Sports articles,Men's T-Shirt,ES,Luna sastreria S.A.
+43032,35381,gold,2021-05-03,2021-05-08,2,63.8,12.85,Sports,Racket Sports,Tennis,Smasher Polo-Shirt,GB,British Sports Ltd
+43233,1530,platinum,2021-05-03,2021-05-04,3,200.4,33.5,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Sweatshirt w/Small Zipper,US,Eclipse Inc
+43498,7426,silver,2021-05-03,2021-05-09,1,43.4,18.65,Sports,Assorted Sports Articles,Assorted Sports articles,Roth T-Shirt,ES,Luna sastreria S.A.
+44031,6515,silver,2021-05-03,2021-05-08,2,191.8,48.05,Outdoors,Outdoors,Backpacks,Large Silver Silver/Black Backpack,DK,Top Sports
+44295,20649,silver,2021-05-03,2021-05-04,1,165.4,82.8,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Seismic,US,Eclipse Inc
+44861,8291,silver,2021-05-03,2021-05-07,4,101.6,11.0,Sports,Assorted Sports Articles,Assorted Sports articles,Trg 4/32 Red/Orange/Black Star-,US,Teamsports Inc
+47051,73678,silver,2021-05-03,2021-05-08,2,51.0,11.5,Sports,Golf,Golf,"Umbrella Umbrella, w/Fibre handle",NL,Van Dammeren International
+47636,7301,gold,2021-05-03,2021-05-08,1,68.8,31.3,Clothes & Shoes,Clothes,Tracker Clothes,Windbreaker,US,3Top Sports
+49626,34553,silver,2021-05-03,2021-05-06,1,32.3,14.75,Clothes & Shoes,Clothes,Tracker Clothes,Tims Shorts,US,3Top Sports
+49966,18943,gold,2021-05-03,2021-05-15,1,76.0,31.75,Sports,Assorted Sports Articles,Assorted Sports articles,Eliza Sweat with Long Zipper,ES,Luna sastreria S.A.
+50040,25207,silver,2021-05-03,2021-05-08,1,6.3,2.55,Sports,Racket Sports,Racket Sports,Display 18/2 Display,FR,Le Blanc S.A.
+52599,25464,silver,2021-05-03,2021-05-12,1,49.3,21.5,Sports,Winter Sports,Winter Sports,Pearl,CA,CrystalClear Optics Inc
+54001,74132,silver,2021-05-03,2021-05-08,3,378.9,62.6,Sports,Golf,Golf,Hi-fly Micro Groove Tradi.Flange,NL,Van Dammeren International
+54291,8542,silver,2021-05-03,2021-05-05,1,40.7,20.45,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's S/Sleeve 1/2 Zip,US,Eclipse Inc
+54382,27586,silver,2021-05-03,2021-05-08,1,29.1,13.95,Sports,Assorted Sports Articles,Assorted Sports articles,Power 80 millimetre/82a Wheel(4-pack),PT,Magnifico Sports

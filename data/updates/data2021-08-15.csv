@@ -1,0 +1,40 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+459,11935,silver,2021-08-15,2021-08-20,2,195.0,40.55,Outdoors,Outdoors,Outdoor Gear,Mayday Qd Zip Pants,US,Mayday Inc
+921,11357,gold,2021-08-15,2021-08-17,2,114.6,33.9,Clothes & Shoes,Shoes,Shoes,Pro Fit Gel Ds Trainer Women's Running Shoes,US,Pro Sportswear Inc
+1936,94188,gold,2021-08-15,2021-08-19,3,60.0,9.15,Children,Children Sports,Tracker Kid's Clothes,Nwt Tricia 5 Children's Shorts,US,3Top Sports
+2538,46018,silver,2021-08-15,2021-08-20,2,228.4,57.2,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Clima Fit Ultra Lite Jacket,US,Eclipse Inc
+4231,49895,gold,2021-08-15,2021-08-17,2,47.98,13.0,Children,Children Sports,"Osprey, Kids",Kid Catalyst Sweat w/Round Neck,US,Triple Sportswear Inc
+5881,21790,silver,2021-08-15,2021-08-19,5,566.0,54.0,Sports,Assorted Sports Articles,Skates,Pro-roll Lazer Roller Skates,PT,Magnifico Sports
+8118,82884,gold,2021-08-15,2021-08-16,2,168.2,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+8373,41597,gold,2021-08-15,2021-08-20,1,16.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+9557,88033,gold,2021-08-15,2021-08-16,2,113.0,28.35,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's New Work-Out Pants,US,Eclipse Inc
+11103,40403,gold,2021-08-15,2021-08-16,2,193.4,48.45,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Medium,Right,Forestgreen",DK,Top Sports
+13495,60712,gold,2021-08-15,2021-08-21,2,80.0,20.1,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Gts Lite Canvas,US,Eclipse Inc
+13992,48783,silver,2021-08-15,2021-08-19,1,55.4,22.8,Sports,Assorted Sports Articles,Darts,Pacific 95% 23 Gram,GB,Royal Darts Ltd
+14167,37086,gold,2021-08-15,2021-08-21,2,43.98,7.25,Sports,Team Sports,Basket Ball,Basket Ball Pro,US,HighPoint Trading
+15432,21156,gold,2021-08-15,2021-08-20,2,180.0,40.9,Clothes & Shoes,Shoes,Shoes,Dubby Low Men's Street Shoes,SE,Petterson AB
+19058,21315,gold,2021-08-15,2021-08-19,2,170.0,42.6,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's New Micro Fibre Jacket,US,Eclipse Inc
+19370,40477,silver,2021-08-15,2021-08-20,1,127.3,63.6,Sports,Winter Sports,Winter Sports,Typhoon Black,US,Eclipse Inc
+22327,19526,silver,2021-08-15,2021-08-18,2,237.2,59.4,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Large,Right,Forestgreen",DK,Top Sports
+24267,34657,silver,2021-08-15,2021-08-20,2,649.6,158.05,Sports,Golf,Golf,Crew Fs Titanium Mw  Driver 10.5g,GB,GrandSlam Sporting Goods Ltd
+24820,92159,silver,2021-08-15,2021-08-20,2,153.4,38.45,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Reckoning Ii Shoes,US,Eclipse Inc
+25990,47829,platinum,2021-08-15,2021-08-17,2,128.2,30.2,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Turbulence,US,Eclipse Inc
+28222,56235,silver,2021-08-15,2021-08-18,3,303.0,46.05,Clothes & Shoes,Shoes,Tracker Shoes,Men's Running Shoes Supernova,US,3Top Sports
+31891,70808,gold,2021-08-15,2021-08-19,2,229.4,57.45,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Sway,US,Eclipse Inc
+33767,62377,gold,2021-08-15,2021-08-20,2,52.2,11.9,Outdoors,Outdoors,Outdoor Gear,Single Full Box Madras honeycomb-weave,GB,Prime Sports Ltd
+34297,29342,gold,2021-08-15,2021-08-18,2,70.4,15.55,Sports,Team Sports,Soccer,Oneshot 10,US,Teamsports Inc
+34555,87698,silver,2021-08-15,2021-08-16,2,49.2,11.3,Clothes & Shoes,Clothes,Tracker Clothes,Casual Sport V-Tee,US,3Top Sports
+35473,27293,silver,2021-08-15,2021-08-18,1,130.2,62.55,Clothes & Shoes,Clothes,Knitwear,Massif Men's Polar Fleece Jacket,FR,Massif S.A.
+36751,32610,platinum,2021-08-15,2021-08-20,2,37.2,8.5,Sports,Team Sports,Soccer,Prosoccer  Club Football 5/32 (Replica) Synth,US,Teamsports Inc
+39186,49746,silver,2021-08-15,2021-08-19,2,220.6,55.25,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Killer Pants,US,Eclipse Inc
+42026,16772,gold,2021-08-15,2021-08-16,2,96.6,19.25,Sports,Assorted Sports Articles,Assorted Sports articles,Top Elite Kit Small,US,Roll-Over Inc
+42386,80438,silver,2021-08-15,2021-08-21,2,98.6,19.75,Sports,Golf,Golf Clothes,"Eagle Polo-Shirt, Small Zip, without sleeves",US,HighPoint Trading
+42409,62446,silver,2021-08-15,2021-08-21,1,29.99,18.0,Clothes & Shoes,Clothes,Street Wear,Tyfoon Utha T-Shirt,AU,Typhoon Clothing
+42553,89933,gold,2021-08-15,2021-08-21,2,140.4,36.7,Sports,Team Sports,Soccer,Prosoccer Home Shirt,US,Fga Sports Inc
+42647,26833,gold,2021-08-15,2021-08-16,1,291.4,122.45,Sports,Winter Sports,Ski Dress,Mayday Cut Ski Jacket,US,Mayday Inc
+46491,63697,gold,2021-08-15,2021-08-18,3,27.3,4.6,Clothes & Shoes,Clothes,Orion Clothing,Soccer Adult Socks,CA,Fuller Trading Co.
+48728,93486,silver,2021-08-15,2021-08-16,2,415.6,94.35,Clothes & Shoes,Shoes,Shoes,Twain Stf7 Gtx M Men's Outdoor Boots,US,Twain Inc
+48785,41015,silver,2021-08-15,2021-08-20,2,174.4,43.7,Sports,Golf,Golf,Rosefinch Altima Stand 8  Black/Violet,NL,Van Dammeren International
+48881,27954,gold,2021-08-15,2021-08-20,1,292.5,121.75,Sports,Winter Sports,Ski Dress,Helmsdale Ski Jacket,US,AllSeasons Outdoor Clothing
+50394,9497,gold,2021-08-15,2021-08-17,3,28.5,4.2,Sports,Assorted Sports Articles,Assorted Sports articles,Charlie H-Speed Lube I Display,US,Roll-Over Inc
+51854,691,silver,2021-08-15,2021-08-17,2,14.4,3.5,Sports,Indoor Sports,Fitness,Weight  2.5 Kg,NL,TrimSport B.V.

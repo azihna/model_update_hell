@@ -1,0 +1,32 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+749,72590,gold,2021-06-29,2021-06-30,2,234.4,58.55,Sports,Assorted Sports Articles,Skates,Relation 76 millimetre/78a Roller Skates,PT,Magnifico Sports
+1450,27741,silver,2021-06-29,2021-07-01,2,206.4,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+2015,72086,silver,2021-06-29,2021-07-03,4,346.4,34.1,Outdoors,Outdoors,Outdoor Gear,"Men's Pants, Basic",US,Mayday Inc
+2334,50692,silver,2021-06-29,2021-07-02,2,720.0,199.0,Outdoors,Outdoors,Tents,Expedition Dome 3,GB,Outback Outfitters Ltd
+4935,81991,silver,2021-06-29,2021-06-30,2,141.98,44.35,Clothes & Shoes,Clothes,Orion,Shoes Sphinx,GB,Greenline Sports Ltd
+6956,28844,gold,2021-06-29,2021-07-03,2,577.8,119.15,Outdoors,Outdoors,Tents,Hurricane 4,SE,Petterson AB
+6999,87798,silver,2021-06-29,2021-07-02,2,439.0,124.9,Sports,Golf,Golf,Hi-fly Intimidator Ti R80/10,NL,Van Dammeren International
+8106,93811,gold,2021-06-29,2021-07-05,4,336.4,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+8367,84559,silver,2021-06-29,2021-07-05,1,16.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+8590,42416,gold,2021-06-29,2021-07-02,2,221.4,47.1,Sports,Assorted Sports Articles,Assorted Sports articles,Fleece with Zipper,ES,Luna sastreria S.A.
+10049,77833,gold,2021-06-29,2021-07-02,2,16.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+11136,47503,gold,2021-06-29,2021-07-05,2,418.6,104.6,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Goflex-E Perf.Skates,US,Eclipse Inc
+20868,63812,silver,2021-06-29,2021-07-05,3,35.1,5.9,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Infant Athletic Cap,US,Eclipse Inc
+22787,60879,silver,2021-06-29,2021-07-01,4,270.0,32.15,Outdoors,Outdoors,Sleepingbags,"Trekker  Large Sleeping Bag, Right, Graphite/",DK,Top Sports
+25170,77120,silver,2021-06-29,2021-06-30,2,60.6,13.15,Outdoors,Outdoors,Anoraks & Parkas,Women's Shorts,NO,Scandinavian Clothing A/S
+28507,57934,gold,2021-06-29,2021-07-02,2,72.6,16.55,Clothes & Shoes,Shoes,Tracker Shoes,11m Liga Football Boots,US,3Top Sports
+30900,33427,gold,2021-06-29,2021-07-02,3,352.5,49.05,Sports,Running - Jogging,Running Clothes,"Brafit Microsuit, Running",BE,Force Sports
+34484,22908,silver,2021-06-29,2021-07-04,2,26.6,6.7,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Script Tee,US,Eclipse Inc
+35073,16145,silver,2021-06-29,2021-07-05,2,134.4,29.2,Sports,Running - Jogging,Jogging,Ypsilon Men's Sweat Fleece w/Small Logo,FR,Ypsilon S.A.
+35917,34264,platinum,2021-06-29,2021-07-01,2,141.0,33.7,Clothes & Shoes,Clothes,Orion Clothing,Zx Herit.Hooded Zip Sweat,CA,Fuller Trading Co.
+36929,17479,silver,2021-06-29,2021-07-01,2,197.4,46.9,Sports,Assorted Sports Articles,Skates,Pro-roll Dragster Junior Roller Skates,PT,Magnifico Sports
+37659,40372,gold,2021-06-29,2021-07-04,5,693.5,62.5,Outdoors,Outdoors,Outdoor Gear,Ultra Ht Lightning Set,US,AllSeasons Outdoor Clothing
+40994,49153,gold,2021-06-29,2021-07-05,2,93.8,23.4,Clothes & Shoes,Shoes,Tracker Shoes,N.d.gear Men's Galileo Shoes,GB,Greenline Sports Ltd
+41312,141,gold,2021-06-29,2021-06-30,3,86.7,14.55,Clothes & Shoes,Clothes,Eclipse Clothing,"Trois Fit Stretch Short, Essentials",US,Eclipse Inc
+42704,7814,silver,2021-06-29,2021-06-30,2,36.6,7.4,Sports,Swim Sports,Bathing Suits,"K2 Mirror Goggles, Assorted colours",US,Nautlius SportsWear Inc
+43407,10001,silver,2021-06-29,2021-06-30,2,55.2,8.3,Sports,Swim Sports,Bathing Suits,Sharky Tennyson Swimming Trunks,US,Dolphin Sportswear Inc
+44726,24490,gold,2021-06-29,2021-06-30,2,123.2,28.05,Clothes & Shoes,Shoes,Tracker Shoes,Men's Shoes Tegern,US,3Top Sports
+48210,14596,gold,2021-06-29,2021-07-05,1,57.1,25.85,Sports,Racket Sports,Racket Sports,Bag  Tit.Weekend,FR,Le Blanc S.A.
+50920,75280,gold,2021-06-29,2021-07-02,4,98.0,12.35,Sports,Golf,Golf,Hi-fly Staff Towel Blue/Black,NL,Van Dammeren International
+52455,9055,silver,2021-06-29,2021-07-01,2,29.8,5.8,Clothes & Shoes,Clothes,Osprey,Osprey King Toilet Bag '99,US,Triple Sportswear Inc
+53276,58034,silver,2021-06-29,2021-07-01,2,654.4,167.9,Clothes & Shoes,Clothes,Twain,Twain Pl 8.0 Axe Cf Men's Ski Boots,US,Twain Inc

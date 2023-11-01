@@ -1,0 +1,18 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2477,56964,silver,2021-08-18,2021-08-20,1,170.5,68.2,Sports,Winter Sports,Winter Sports,"Twain X-Scream 7.9 Ski,Sq 750 Dri",US,Twain Inc
+3322,19671,gold,2021-08-18,2021-08-24,2,191.0,43.55,Clothes & Shoes,Shoes,Shoes,Soft Cumulus Men's Running Shoes,US,Pro Sportswear Inc
+5090,91201,platinum,2021-08-18,2021-08-19,3,444.3,74.15,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Zoom Seismic-X-Training,US,Eclipse Inc
+16501,18446,silver,2021-08-18,2021-08-24,2,104.6,23.9,Clothes & Shoes,Shoes,Tracker Shoes,Fg Football Boots,US,3Top Sports
+19672,41820,gold,2021-08-18,2021-08-19,2,133.0,33.35,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Perish Nb Shoes,US,Eclipse Inc
+22724,24782,gold,2021-08-18,2021-08-26,2,11.6,2.95,Sports,Golf,Golf,White Top Flite Titanium 90 Golf Ball,NL,Van Dammeren International
+24118,73000,platinum,2021-08-18,2021-08-22,3,66.6,10.05,Sports,Indoor Sports,Fitness,Fitness Dumbbell Foam 1.40,NL,TrimSport B.V.
+30656,15499,gold,2021-08-18,2021-08-21,3,396.3,60.05,Clothes & Shoes,Shoes,Shoes,Twain Men's Expresso X-Hiking Shoes,US,Twain Inc
+31011,51442,silver,2021-08-18,2021-08-19,3,255.3,40.65,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Medium,Right/Blue/Black",DK,Top Sports
+32584,71540,silver,2021-08-18,2021-08-26,3,520.5,82.65,Clothes & Shoes,Clothes,Orion,Dmx Lite Women's Aerobic Shoes,CA,Fuller Trading Co.
+38017,27726,silver,2021-08-18,2021-08-21,2,26.4,5.95,Sports,Team Sports,Soccer,Red Scarf,GB,SportsFan Products Ltd
+42513,27703,silver,2021-08-18,2021-08-22,3,175.5,24.4,Sports,Running - Jogging,Running Clothes,Smash Classic Running Jacket w/Zipper,BE,Force Sports
+43654,39371,silver,2021-08-18,2021-08-25,2,82.4,20.7,Children,Children Sports,"Eclipse, Kid's Shoes",Kiddy.summit  90 F.G.Rbr (Bg) Children's Shoe,US,Eclipse Inc
+45869,5095,silver,2021-08-18,2021-08-19,2,253.8,90.7,Sports,Assorted Sports Articles,Skates,Pro-roll Explotion Ls Roller Skates,PT,Magnifico Sports
+52983,80118,silver,2021-08-18,2021-08-23,2,81.2,20.4,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Wind Anorak,US,Eclipse Inc
+53506,93409,gold,2021-08-18,2021-08-20,2,73.8,16.85,Children,Children Sports,Tracker Kid's Clothes,Children's Pants,US,3Top Sports
+54013,35872,silver,2021-08-18,2021-08-20,2,146.6,33.4,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Cargo Pants Box Log.,GB,Greenline Sports Ltd

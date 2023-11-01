@@ -1,0 +1,32 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1742,76197,gold,2021-08-12,2021-08-13,2,33.98,9.65,Clothes & Shoes,Shoes,Tracker Shoes,Multicolour Bathing Sandal,ES,Luna sastreria S.A.
+1743,91756,silver,2021-08-12,2021-08-16,3,50.97,9.65,Clothes & Shoes,Shoes,Tracker Shoes,Multicolour Bathing Sandal,ES,Luna sastreria S.A.
+2982,40777,gold,2021-08-12,2021-08-18,1,25.6,12.1,Clothes & Shoes,Clothes,Knitwear,Instyle Pullover Mid,US,AllSeasons Outdoor Clothing
+5018,48698,silver,2021-08-12,2021-08-14,3,44.1,6.45,Sports,Assorted Sports Articles,Assorted Sports articles,Topnotch Goalkeeper Gloves,US,Teamsports Inc
+6406,26505,gold,2021-08-12,2021-08-13,2,52.2,11.85,Sports,Assorted Sports Articles,Assorted Sports articles,Jugg's Junior Bag,ES,Luna sastreria S.A.
+8204,59847,silver,2021-08-12,2021-08-18,2,22.4,5.35,Sports,Running - Jogging,Running Clothes,Maxrun Running Stockings,BE,Force Sports
+13163,37122,gold,2021-08-12,2021-08-14,2,43.98,9.1,Sports,Team Sports,American Football,Football - Helmet S,US,A Team Sports
+15199,61233,platinum,2021-08-12,2021-08-13,3,18.6,2.75,Sports,Team Sports,Soccer,Soccer Socks Senior,US,Teamsports Inc
+15200,89733,silver,2021-08-12,2021-08-16,2,12.4,2.75,Sports,Team Sports,Soccer,Soccer Socks Senior,US,Teamsports Inc
+15602,21662,silver,2021-08-12,2021-08-16,2,45.4,10.85,Sports,Running - Jogging,Running Clothes,Original Running Pants,BE,Force Sports
+19413,92610,silver,2021-08-12,2021-08-18,6,83.4,6.55,Children,Children Sports,"Osprey, Kids",Osprey Cat T-Shirt 100% Cotton,US,Triple Sportswear Inc
+19825,75864,silver,2021-08-12,2021-08-16,2,198.0,49.6,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Span Triax Shoes,US,Eclipse Inc
+25801,79185,gold,2021-08-12,2021-08-21,3,1401.0,256.45,Sports,Golf,Golf,Expert Men's Firesole Driver,US,Twain Inc
+26909,81083,silver,2021-08-12,2021-08-15,2,168.4,38.35,Clothes & Shoes,Shoes,Tracker Shoes,Men's Running Shoes Ozweego,US,3Top Sports
+27398,19859,gold,2021-08-12,2021-08-14,3,398.4,55.85,Outdoors,Outdoors,Outdoor Gear,Mayday W'S Sports Pullover,US,Mayday Inc
+28221,88925,gold,2021-08-12,2021-08-17,2,202.0,46.05,Clothes & Shoes,Shoes,Tracker Shoes,Men's Running Shoes Supernova,US,3Top Sports
+33800,20484,silver,2021-08-12,2021-08-15,2,207.0,51.7,Sports,Assorted Sports Articles,Skates,Gamma Roller Skates,US,Roll-Over Inc
+34307,39456,gold,2021-08-12,2021-08-13,2,21.2,5.35,Sports,Golf,Golf,"White 90,Top-Flite Aero 3-pack",NL,Van Dammeren International
+36103,90397,gold,2021-08-12,2021-08-13,1,8.9,3.9,Sports,Assorted Sports Articles,Assorted Sports articles,A-team Jogbra Sport Panty,US,A Team Sports
+37478,48356,silver,2021-08-12,2021-08-15,2,224.0,49.35,Clothes & Shoes,Clothes,Leisure,Van Damme Golf Shirt,NL,Van Dammeren International
+39784,483,silver,2021-08-12,2021-08-13,3,117.3,16.8,Sports,Assorted Sports Articles,Assorted Sports articles,Earl Mini Bag,ES,Luna sastreria S.A.
+42736,82864,silver,2021-08-12,2021-08-13,1,83.5,41.85,Clothes & Shoes,Clothes,Eclipse Clothing,Coolman Bag with Wheels,US,Eclipse Inc
+43122,53140,silver,2021-08-12,2021-08-19,3,381.9,53.05,Sports,Racket Sports,Racket Sports,Smasher Rd Power 5 Tennis Racket,GB,British Sports Ltd
+43468,47326,gold,2021-08-12,2021-08-15,2,129.6,32.5,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Micro Fibre Anorak,US,Eclipse Inc
+44275,37448,gold,2021-08-12,2021-08-17,2,137.4,34.45,Outdoors,Outdoors,Backpacks,Medium Olive Olive/Black Backpack,DK,Top Sports
+44805,74658,silver,2021-08-12,2021-08-17,2,117.0,23.4,Sports,Golf,Golf Clothes,Eagle Polo Shirt,US,HighPoint Trading
+44874,43723,silver,2021-08-12,2021-08-18,3,105.6,17.7,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's T-Shirt,US,Eclipse Inc
+51971,89685,silver,2021-08-12,2021-08-17,3,378.0,63.1,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Zoom Explorage Shoes,US,Eclipse Inc
+52536,75894,gold,2021-08-12,2021-08-17,2,4.0,0.9,Outdoors,Outdoors,Outdoor Gear,"Lock Padlock, Brass, 20 millimetre",GB,Prime Sports Ltd
+53736,38718,silver,2021-08-12,2021-08-13,3,139.2,19.95,Sports,Swim Sports,Bathing Suits,Sunfit Blinka Swimming Trunks,US,Nautlius SportsWear Inc
+53952,92620,silver,2021-08-12,2021-08-17,1,102.9,46.9,Clothes & Shoes,Clothes,Tracker Clothes,Mns.jacket Jacket,US,3Top Sports

@@ -1,0 +1,39 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1452,44359,silver,2021-08-02,2021-08-03,2,206.4,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+8116,24249,silver,2021-08-02,2021-08-08,3,252.3,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+8117,89625,platinum,2021-08-02,2021-08-05,2,168.2,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+9842,38669,silver,2021-08-02,2021-08-06,3,766.8,127.75,Sports,Assorted Sports Articles,Assorted Sports articles,Jeff's 5.3 Hockey Sp.,PT,Magnifico Sports
+11337,36214,gold,2021-08-02,2021-08-06,2,53.98,10.23,Sports,Team Sports,American Football,Football - Helmet Pro XL,US,A Team Sports
+11492,48733,silver,2021-08-02,2021-08-04,3,538.8,93.4,Sports,Golf,Golf,Expert Men's Nubbins Putter,US,Twain Inc
+13494,8615,silver,2021-08-02,2021-08-04,5,200.0,20.1,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Gts Lite Canvas,US,Eclipse Inc
+16249,23732,silver,2021-08-02,2021-08-05,2,162.6,40.75,Clothes & Shoes,Clothes,LSF,Big Guy Men's Air Force 1 Sc,US,Eclipse Inc
+16690,79759,gold,2021-08-02,2021-08-07,2,234.0,53.3,Clothes & Shoes,Shoes,Tracker Shoes,Mns.light 4 Low Men's Indoor Shoes,US,3Top Sports
+16844,73491,silver,2021-08-02,2021-08-07,1,71.8,29.5,Outdoors,Outdoors,Gloves & Mittens,Scania Goretex Gloves,SE,Svensson Trading AB
+18234,53869,gold,2021-08-02,2021-08-06,1,34.6,14.4,Sports,Assorted Sports Articles,Darts,Bulls Eye Stuart/Tungsten 24 Gram,GB,Royal Darts Ltd
+18460,4676,gold,2021-08-02,2021-08-04,2,106.6,23.25,Children,Children Sports,"Ypsilon, Kids",Ypsilon Children's Sweat Fleece w/Hood,FR,Ypsilon S.A.
+18896,18961,silver,2021-08-02,2021-08-07,1,35.2,14.8,Sports,Assorted Sports Articles,Darts,Aim4it 80% Tungsten 22 Gram,GB,Royal Darts Ltd
+19165,8654,silver,2021-08-02,2021-08-07,3,114.0,16.8,Outdoors,Outdoors,Outdoor Gear,Dome Tent Monodome Alu,GB,Prime Sports Ltd
+21306,44790,silver,2021-08-02,2021-08-06,2,29.4,6.25,Sports,Team Sports,Baseball,Bat - Small,US,Miller Trading Inc
+21635,20521,gold,2021-08-02,2021-08-04,3,49.8,7.5,Clothes & Shoes,Clothes,T-Shirts,Toncot Beefy-T Emb T-Shirt,US,A Team Sports
+21881,8489,silver,2021-08-02,2021-08-04,2,440.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+25620,53167,silver,2021-08-02,2021-08-07,2,447.2,101.6,Sports,Racket Sports,Racket Sports,Smasher Super Rq Ti-700 Long Tennis Racket,GB,British Sports Ltd
+25854,90375,silver,2021-08-02,2021-08-03,2,119.0,29.85,Clothes & Shoes,Clothes,Orion,Duration Women's Trainer Aerobic Shoes,CA,Fuller Trading Co.
+26438,77199,silver,2021-08-02,2021-08-04,1,479.3,239.6,Sports,Assorted Sports Articles,Assorted Sports articles,Jeff's Hockey,PT,Magnifico Sports
+27179,8856,gold,2021-08-02,2021-08-07,3,349.5,56.8,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Sq3 76mm/85a,PT,Magnifico Sports
+29954,82475,gold,2021-08-02,2021-08-04,1,22.9,10.3,Sports,Indoor Sports,Fitness,Topgun Evb-10 Vinyl-Dumbbells 4.5,NL,TrimSport B.V.
+30069,63566,silver,2021-08-02,2021-08-03,2,107.8,25.8,Outdoors,Outdoors,Backpacks,"Backpack Black/Blue,600 Gr.20 Litre",DK,Top Sports
+30901,9094,gold,2021-08-02,2021-08-04,3,352.5,49.05,Sports,Running - Jogging,Running Clothes,"Brafit Microsuit, Running",BE,Force Sports
+31010,63917,silver,2021-08-02,2021-08-07,5,425.5,40.65,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Medium,Right/Blue/Black",DK,Top Sports
+32395,55810,gold,2021-08-02,2021-08-07,3,144.0,19.9,Sports,Racket Sports,Tennis,Anthony Retro Women's Tennis Polo,US,Mayday Inc
+32663,70159,silver,2021-08-02,2021-08-04,1,52.0,25.9,Sports,Indoor Sports,Fitness,N.d.gear Aerobic Strop Top,GB,Greenline Sports Ltd
+36726,28038,silver,2021-08-02,2021-08-03,3,170.7,25.95,Clothes & Shoes,Clothes,Tracker Clothes,Mns.long Tights,US,3Top Sports
+37514,31717,gold,2021-08-02,2021-08-06,2,14.4,3.25,Clothes & Shoes,Shoes,Tracker Shoes,Sole Double Active Insole,US,3Top Sports
+38960,7605,platinum,2021-08-02,2021-08-03,3,29.7,4.3,Children,Children Sports,"N.D. Gear, Kids",Fleece Children's Headband,ES,Luna sastreria S.A.
+39612,77644,silver,2021-08-02,2021-08-03,2,89.4,22.45,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Light Fill Jacket,US,Eclipse Inc
+48016,2952,gold,2021-08-02,2021-08-07,2,19.2,4.0,Sports,Assorted Sports Articles,Assorted Sports articles,Pool Socks,ES,Luna sastreria S.A.
+48153,92146,gold,2021-08-02,2021-08-05,2,72.8,15.15,Sports,Racket Sports,Tennis,Anthony Women's Tennis T-Shirt V-Neck,US,Mayday Inc
+50542,63238,gold,2021-08-02,2021-08-07,2,88.8,19.25,Children,Children Sports,"Ypsilon, Kids",Ypsilon Children's Sweat Pants,FR,Ypsilon S.A.
+50612,81906,silver,2021-08-02,2021-08-05,2,51.4,12.95,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Core Mini Bag,US,Eclipse Inc
+50625,91653,silver,2021-08-02,2021-08-04,3,74.4,12.5,Children,Children Sports,"Eclipse, Kid's Clothes",Youngster Brushed Fleece Straight Pants,US,Eclipse Inc
+52665,21355,gold,2021-08-02,2021-08-05,5,54.5,4.75,Clothes & Shoes,Clothes,Stockings & Socks,Maxrun 'Liner Socks,FR,Bon Garrments
+54146,39638,gold,2021-08-02,2021-08-03,2,23.0,4.85,Clothes & Shoes,Clothes,Stockings & Socks,Forrest Backpacking Socks,FR,Bon Garrments

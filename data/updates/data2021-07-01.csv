@@ -1,0 +1,45 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1038,18384,platinum,2021-07-01,2021-07-06,2,69.8,17.55,Clothes & Shoes,Shoes,Eclipse Shoes,Eclipse Mens Off Court Tennis Shoes,US,Eclipse Inc
+1605,19057,gold,2021-07-01,2021-07-06,4,292.0,30.35,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Classic Rain Pants,US,AllSeasons Outdoor Clothing
+4853,2642,silver,2021-07-01,2021-07-03,2,47.8,11.4,Clothes & Shoes,Clothes,Orion Clothing,Mick's.small Small Logo Tee,CA,Fuller Trading Co.
+8108,54275,silver,2021-07-01,2021-07-02,2,168.2,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+8449,61877,gold,2021-07-01,2021-07-02,2,684.4,169.05,Sports,Assorted Sports Articles,Skates,Perfect Fit Women's Roller Skates XP,US,Twain Inc
+10050,33393,platinum,2021-07-01,2021-07-06,2,16.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+10051,49573,gold,2021-07-01,2021-07-11,2,16.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+10440,93431,gold,2021-07-01,2021-07-06,2,129.0,30.95,Sports,Assorted Sports Articles,Skates,Proskater W-500 Jr.Roller Skates,US,Roll-Over Inc
+10920,74667,gold,2021-07-01,2021-07-02,3,79.2,11.8,Sports,Swim Sports,Bathing Suits,Sunfit Madly Swim Suit,US,Nautlius SportsWear Inc
+11454,28207,silver,2021-07-01,2021-07-06,2,128.4,32.2,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Small,Right,Charcoal",DK,Top Sports
+12101,4503,silver,2021-07-01,2021-07-04,2,71.4,14.35,Sports,Racket Sports,Tennis,Smasher Polo-Shirt w/V-Neck,GB,British Sports Ltd
+12734,10433,silver,2021-07-01,2021-07-09,2,225.0,54.95,Outdoors,Outdoors,Sleepingbags,Tipee Summer Sleeping Bag,GB,Outback Outfitters Ltd
+13035,46351,platinum,2021-07-01,2021-07-06,2,252.2,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+13539,45087,silver,2021-07-01,2021-07-06,3,112.2,16.3,Children,Children Sports,"Ypsilon, Kids",Ypsilon Children's Sweatshirt,FR,Ypsilon S.A.
+14091,55442,silver,2021-07-01,2021-07-03,2,444.0,110.95,Sports,Assorted Sports Articles,Skates,Proskater Kitalpha Gamma Roller Skates,US,Roll-Over Inc
+14307,1823,gold,2021-07-01,2021-07-10,1,106.9,45.5,Outdoors,Outdoors,Anoraks & Parkas,Men's Jacket Caians,NO,Scandinavian Clothing A/S
+14995,12500,gold,2021-07-01,2021-07-05,1,12.4,5.6,Sports,Team Sports,Soccer,Red Cap,GB,SportsFan Products Ltd
+18310,73572,silver,2021-07-01,2021-07-12,1,42.8,19.3,Sports,Winter Sports,Winter Sports,"South Vally Iii,Royal",CA,CrystalClear Optics Inc
+19411,86375,gold,2021-07-01,2021-07-10,2,27.8,6.55,Children,Children Sports,"Osprey, Kids",Osprey Cat T-Shirt 100% Cotton,US,Triple Sportswear Inc
+22534,11660,gold,2021-07-01,2021-07-03,2,91.2,21.7,Outdoors,Outdoors,Outdoor Gear,Double Full Box Madras honeycomb-weave 200,GB,Prime Sports Ltd
+23567,31668,gold,2021-07-01,2021-07-07,2,431.0,97.85,Outdoors,Outdoors,Backpacks,Jaguar 60-85 Navy Men's Backpack,AU,Toto Outdoor Gear
+28218,21911,silver,2021-07-01,2021-07-03,3,303.0,46.05,Clothes & Shoes,Shoes,Tracker Shoes,Men's Running Shoes Supernova,US,3Top Sports
+29040,89370,gold,2021-07-01,2021-07-06,2,50.0,11.45,Children,Children Sports,Tracker Kid's Clothes,Kaitum Children's Swim Suit,US,3Top Sports
+30311,71239,silver,2021-07-01,2021-07-05,2,331.0,82.85,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Sterling,US,Eclipse Inc
+32031,1021,silver,2021-07-01,2021-07-03,1,57.9,24.4,Outdoors,Outdoors,Anoraks & Parkas,Lh Classic Reinforced Cargo Pants,US,AllSeasons Outdoor Clothing
+34061,3121,silver,2021-07-01,2021-07-06,2,53.4,12.65,Sports,Swim Sports,Bathing Suits,Sunfit Soustons Swimming Trunks,US,Nautlius SportsWear Inc
+34721,22462,gold,2021-07-01,2021-07-02,1,35.0,17.6,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Dry Fit T-Shirt w/Short sleeves,US,Eclipse Inc
+37513,93522,silver,2021-07-01,2021-07-06,2,14.4,3.25,Clothes & Shoes,Shoes,Tracker Shoes,Sole Double Active Insole,US,3Top Sports
+39957,29428,silver,2021-07-01,2021-07-06,2,103.98,37.85,Clothes & Shoes,Shoes,Tracker Shoes,Mid Women's Aerobic Shoes X,US,3Top Sports
+41573,85249,gold,2021-07-01,2021-07-05,1,20.0,8.1,Outdoors,Outdoors,Knitted Accessories,Mayday Fleece Cap,US,Mayday Inc
+42500,33843,silver,2021-07-01,2021-07-04,2,24.8,5.25,Children,Children Sports,"N.D. Gear, Kids",Essex Swimming Trunks,ES,Luna sastreria S.A.
+42501,72465,silver,2021-07-01,2021-07-06,2,24.8,5.25,Children,Children Sports,"N.D. Gear, Kids",Essex Swimming Trunks,ES,Luna sastreria S.A.
+42785,18404,gold,2021-07-01,2021-07-07,2,109.2,23.7,Clothes & Shoes,Clothes,Street Wear,Tyfoon Erol Shorts,AU,Typhoon Clothing
+43150,8949,silver,2021-07-01,2021-07-09,1,250.9,104.2,Outdoors,Outdoors,Anoraks & Parkas,4men Men's Polar Down Jacket,US,AllSeasons Outdoor Clothing
+44339,89685,gold,2021-07-01,2021-07-06,2,119.2,29.9,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Internationalist Athlet,US,Eclipse Inc
+44465,44798,silver,2021-07-01,2021-07-03,2,67.4,16.95,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's S/L Fleece Pants,US,Eclipse Inc
+44641,35274,silver,2021-07-01,2021-07-05,1,41.0,17.6,Sports,Indoor Sports,Top Trim,Top Active Top,US,Top Sports Inc
+45653,63017,gold,2021-07-01,2021-07-14,2,39.6,8.05,Sports,Swim Sports,Bathing Suits,Black Flexsoft Metal Goggles,US,Nautlius SportsWear Inc
+46316,75730,silver,2021-07-01,2021-07-02,2,47.2,10.8,Clothes & Shoes,Clothes,Tracker Clothes,Casual Sweat Pants,US,3Top Sports
+46362,89733,gold,2021-07-01,2021-07-05,2,2.8,0.6,Outdoors,Outdoors,Outdoor Gear,Plastic Plug 19.5 cm A`10,GB,Prime Sports Ltd
+49260,85082,silver,2021-07-01,2021-07-05,2,113.6,25.9,Clothes & Shoes,Clothes,Tracker Clothes,Comp.blues Women's Pant,US,3Top Sports
+53195,58306,gold,2021-07-01,2021-07-07,2,82.2,18.75,Children,Children Sports,Tracker Kid's Clothes,Kola Cf Velcro Children's Shoes,US,3Top Sports
+53805,36539,gold,2021-07-01,2021-07-02,2,67.8,16.35,Children,Children Sports,"Osprey, Kids",Steamboat Children's Polyester Suit,US,Triple Sportswear Inc
+54073,74026,silver,2021-07-01,2021-07-04,2,340.6,85.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Metal Mickey Shoes,US,Eclipse Inc

@@ -1,0 +1,33 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+862,86682,gold,2021-08-14,2021-08-17,2,103.4,23.6,Clothes & Shoes,Clothes,Tracker Clothes,Casual Sweatshirt with large Logo,US,3Top Sports
+3823,51375,silver,2021-08-14,2021-08-18,2,69.98,20.0,Sports,Swim Sports,Bathing Suits,Sunfit Malda Low Women's Swim Suit,US,Nautlius SportsWear Inc
+3883,55063,silver,2021-08-14,2021-08-19,2,142.4,28.5,Sports,Running - Jogging,Jogging,Triffy Nylon Pants,NL,Triffy B.V.
+5880,81912,silver,2021-08-14,2021-08-18,2,226.4,54.0,Sports,Assorted Sports Articles,Skates,Pro-roll Lazer Roller Skates,PT,Magnifico Sports
+6335,4287,silver,2021-08-14,2021-08-15,2,1038.6,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+7128,40,gold,2021-08-14,2021-08-15,2,48.0,11.95,Children,Children Sports,"Lucky Guy, Kids","Rain Suit, Plain w/backpack Jacket",US,AllSeasons Outdoor Clothing
+7647,25641,gold,2021-08-14,2021-08-18,3,548.7,77.8,Sports,Assorted Sports Articles,Assorted Sports articles,Brt Anorak,ES,Luna sastreria S.A.
+12102,45170,silver,2021-08-14,2021-08-20,1,35.7,14.35,Sports,Racket Sports,Tennis,Smasher Polo-Shirt w/V-Neck,GB,British Sports Ltd
+13990,54242,gold,2021-08-14,2021-08-19,1,55.4,22.8,Sports,Assorted Sports Articles,Darts,Pacific 95% 23 Gram,GB,Royal Darts Ltd
+13991,64493,gold,2021-08-14,2021-08-20,1,55.4,22.8,Sports,Assorted Sports Articles,Darts,Pacific 95% 23 Gram,GB,Royal Darts Ltd
+14093,86162,silver,2021-08-14,2021-08-18,3,666.0,110.95,Sports,Assorted Sports Articles,Skates,Proskater Kitalpha Gamma Roller Skates,US,Roll-Over Inc
+19292,56528,gold,2021-08-14,2021-08-17,2,838.0,209.45,Sports,Assorted Sports Articles,Skates,Weston F4 Men's Hockey Skates,US,Roll-Over Inc
+19566,60415,gold,2021-08-14,2021-08-18,1,189.7,80.9,Clothes & Shoes,Clothes,Knitwear,Mayday Classic Triangle Pullover,US,Mayday Inc
+24323,73633,silver,2021-08-14,2021-08-17,2,85.6,21.5,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Halter Top,US,Eclipse Inc
+24772,23006,gold,2021-08-14,2021-08-18,2,126.0,28.7,Clothes & Shoes,Clothes,Leisure,Van Damme Women's Polo Pique L,NL,Van Dammeren International
+25999,10416,silver,2021-08-14,2021-08-17,2,59.2,11.85,Clothes & Shoes,Clothes,Green Tomato,Green Lime Sports Top,US,Green Lime Sports Inc
+27965,77268,gold,2021-08-14,2021-08-16,3,799.2,131.65,Sports,Assorted Sports Articles,Skates,Cool Fit Men's Roller Skates,US,Twain Inc
+29130,3019,gold,2021-08-14,2021-08-18,2,35.6,8.25,Children,Children Sports,"Lucky Guy, Kids",Teen Lifa Ski Undershirt,US,AllSeasons Outdoor Clothing
+31399,76063,gold,2021-08-14,2021-08-17,5,213.5,18.55,Sports,Swim Sports,Bathing Suits,Pool Swimming Trunks,ES,Luna sastreria S.A.
+36578,28345,silver,2021-08-14,2021-08-17,3,79.8,11.4,Sports,Team Sports,American Football,Football Super Bowl,US,Carolina Sports
+36804,75893,silver,2021-08-14,2021-08-18,3,340.2,54.5,Sports,Assorted Sports Articles,Skates,Aln Roller Skates,PT,Magnifico Sports
+37057,3276,silver,2021-08-14,2021-08-15,3,74.7,11.2,Clothes & Shoes,Clothes,Tracker Clothes,Logo Coord.Chelsea 5 Men's Shorts,US,3Top Sports
+40104,79533,silver,2021-08-14,2021-08-18,2,341.6,128.3,Sports,Assorted Sports Articles,Skates,Pro-roll Iridium Roller Skates,PT,Magnifico Sports
+41457,7414,silver,2021-08-14,2021-08-19,2,53.98,10.23,Sports,Team Sports,American Football,Football - Helmet Pro M,US,A Team Sports
+42300,4795,gold,2021-08-14,2021-08-20,3,162.3,26.45,Outdoors,Outdoors,Backpacks,Sioux Men's Backpack 26 Litre.,US,Miller Trading Inc
+42423,70043,platinum,2021-08-14,2021-08-17,3,175.5,26.65,Clothes & Shoes,Shoes,Shoes,Soft The Move Women's Running Shoes,US,Pro Sportswear Inc
+42509,86708,silver,2021-08-14,2021-08-19,2,57.4,12.0,Clothes & Shoes,Clothes,Osprey,"Osprey J. Line T-Shirt, Cotton/Polyester",US,Triple Sportswear Inc
+46364,56616,silver,2021-08-14,2021-08-16,2,2.8,0.6,Outdoors,Outdoors,Outdoor Gear,Plastic Plug 19.5 cm A`10,GB,Prime Sports Ltd
+47971,45872,gold,2021-08-14,2021-08-18,2,77.2,16.45,Children,Children Sports,"N.D. Gear, Kids",Children's Canvas Shoes,ES,Luna sastreria S.A.
+51051,85096,gold,2021-08-14,2021-08-18,1,33.0,15.05,Clothes & Shoes,Clothes,Tracker Clothes,Nwt Polo Men's Polo-Shirt,US,3Top Sports
+52168,80204,gold,2021-08-14,2021-08-18,2,587.8,168.05,Sports,Golf,Golf,Lady Super Steel Driver+Fair+Bubble,US,Twain Inc
+53172,15686,silver,2021-08-14,2021-08-16,2,56.4,14.2,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Brand Mini Shorts,US,Eclipse Inc

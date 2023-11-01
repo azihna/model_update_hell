@@ -1,0 +1,33 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+3632,46747,gold,2021-04-23,2021-04-28,2,212.4,50.6,Clothes & Shoes,Clothes,Orion,Power Dmx Wide Shoes,CA,Fuller Trading Co.
+4728,6915,silver,2021-04-23,2021-04-26,2,28.8,6.45,Sports,Team Sports,Soccer,Soccer Mjf 2000 Size 4 Black/Yellow,US,Teamsports Inc
+4823,29061,gold,2021-04-23,2021-04-24,2,47.0,10.2,Sports,Team Sports,Soccer,Soccer Ball-autogr Rafer Size 5  Red/,US,Teamsports Inc
+5663,33079,gold,2021-04-23,2021-04-24,3,389.4,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+8221,29586,gold,2021-04-23,2021-04-26,1,85.8,39.9,Sports,Winter Sports,Ski Dress,Garbo Fleece Jacket,US,Miller Trading Inc
+8232,62601,gold,2021-04-23,2021-04-24,1,7.5,3.15,Children,Children Sports,"N.D. Gear, Kids",Children's Socks,ES,Luna sastreria S.A.
+15592,15088,gold,2021-04-23,2021-04-26,1,22.7,10.85,Sports,Running - Jogging,Running Clothes,Original Running Pants,BE,Force Sports
+15727,89137,silver,2021-04-23,2021-04-25,1,568.1,289.95,Outdoors,Outdoors,Tents,Family Holiday 6,SE,Petterson AB
+19337,29594,gold,2021-04-23,2021-04-25,1,18.1,7.8,Clothes & Shoes,Clothes,Eclipse Clothing,Socks Competition,US,AllSeasons Outdoor Clothing
+19408,42355,gold,2021-04-23,2021-04-25,1,13.9,6.55,Children,Children Sports,"Osprey, Kids",Osprey Cat T-Shirt 100% Cotton,US,Triple Sportswear Inc
+21105,29704,silver,2021-04-23,2021-04-27,1,60.5,30.35,Outdoors,Outdoors,Outdoor Gear,Sailing Jacket Dock,US,AllSeasons Outdoor Clothing
+22021,41370,silver,2021-04-23,2021-04-25,2,362.6,90.8,Sports,Assorted Sports Articles,Skates,Twain Ac7/Ft7 Men's Roller Skates,US,Twain Inc
+23026,32926,gold,2021-04-23,2021-04-25,2,59.2,13.2,Children,Children Sports,Tracker Kid's Clothes,Toddler Jogger Babyjogger,US,3Top Sports
+25023,45348,gold,2021-04-23,2021-04-29,2,80.6,18.35,Clothes & Shoes,Clothes,Tracker Clothes,Casual Open Sweat Pant,US,3Top Sports
+27651,49037,silver,2021-04-23,2021-04-28,2,126.0,31.6,Sports,Team Sports,Soccer,Soccer Fan Football Player Shirt,GB,SportsFan Products Ltd
+27772,61551,gold,2021-04-23,2021-04-24,3,67.5,10.65,Sports,Running - Jogging,Running Clothes,Stout Men's Running Singlet,BE,Force Sports
+34058,59375,gold,2021-04-23,2021-04-29,2,53.4,12.65,Sports,Swim Sports,Bathing Suits,Sunfit Soustons Swimming Trunks,US,Nautlius SportsWear Inc
+34213,24714,silver,2021-04-23,2021-04-28,1,36.1,16.3,Children,Children Sports,"Osprey, Kids",Osprey Guardian Low Jr.Football Boots,US,Triple Sportswear Inc
+34246,48277,gold,2021-04-23,2021-04-25,1,235.5,100.1,Sports,Assorted Sports Articles,Assorted Sports articles,Knit,ES,Luna sastreria S.A.
+34780,42755,gold,2021-04-23,2021-04-25,3,417.3,59.2,Sports,Running - Jogging,Running Clothes,Allda Jacket,ES,Luna sastreria S.A.
+36175,78029,gold,2021-04-23,2021-04-27,1,12.7,5.55,Sports,Golf,Golf,Grandslam Grip Sg Women's Golf Gloves,GB,GrandSlam Sporting Goods Ltd
+40833,15213,silver,2021-04-23,2021-04-25,1,42.2,19.8,Sports,Assorted Sports Articles,Assorted Sports articles,"Leather Bag, 3 balls",GB,Royal Darts Ltd
+40931,39782,silver,2021-04-23,2021-04-26,1,139.5,68.3,Outdoors,Outdoors,Sleepingbags,Compact Summer Twin 180 Cm Blue Sleeping Bag,GB,Outback Outfitters Ltd
+45989,88624,gold,2021-04-23,2021-04-27,2,104.6,23.9,Children,Children Sports,Tracker Kid's Clothes,Mona  J- Children's Street Shoes,US,3Top Sports
+48179,40455,silver,2021-04-23,2021-04-26,1,59.8,25.35,Sports,Swim Sports,Bathing Suits,Atlantis Swim Suit,ES,Luna sastreria S.A.
+48653,20091,gold,2021-04-23,2021-04-26,1,40.0,18.25,Sports,Indoor Sports,Gymnastic Clothing,Cougar Top with Broad Straps,US,SD Sporting Goods Inc
+48908,77402,gold,2021-04-23,2021-04-26,1,67.1,30.55,Clothes & Shoes,Shoes,Tracker Shoes,Armadillo Women's Running Shoes,US,3Top Sports
+51269,46615,silver,2021-04-23,2021-04-28,1,11.3,4.95,Clothes & Shoes,Clothes,Stockings & Socks,Double Layer Ankle Socks,FR,Bon Garrments
+51340,1740,gold,2021-04-23,2021-04-26,2,51.4,11.4,Sports,Assorted Sports Articles,Assorted Sports articles,General 33 Children's Goal Keeper Gloves,US,Teamsports Inc
+52914,11142,gold,2021-04-23,2021-04-26,2,130.4,31.35,Clothes & Shoes,Clothes,Orion,Rugged Women's Walking Shoes,CA,Fuller Trading Co.
+53296,86029,gold,2021-04-23,2021-04-29,1,16.3,8.1,Clothes & Shoes,Clothes,Eclipse Clothing,Volleyball,US,Eclipse Inc
+53829,25495,silver,2021-04-23,2021-04-28,1,22.8,10.45,Clothes & Shoes,Clothes,Tracker Clothes,Men's Running Tee Short Sleeves,US,3Top Sports

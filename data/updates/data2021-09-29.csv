@@ -1,0 +1,11 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+3993,81349,gold,2021-09-29,2021-10-04,1,32.4,14.8,Clothes & Shoes,Clothes,Tracker Clothes,2bwet 3 Cb Swimming Trunks,US,3Top Sports
+5922,53136,silver,2021-09-29,2021-09-30,1,14.1,5.95,Sports,Running - Jogging,Running Clothes,Running Socks,US,Pro Sportswear Inc
+10255,23754,gold,2021-09-29,2021-10-03,2,135.6,30.8,Outdoors,Outdoors,Outdoor Gear,Inflatable 3.5 Confort,GB,Prime Sports Ltd
+11494,51668,gold,2021-09-29,2021-10-05,2,359.2,93.4,Sports,Golf,Golf,Expert Men's Nubbins Putter,US,Twain Inc
+15606,18982,silver,2021-09-29,2021-10-05,1,22.7,10.85,Sports,Running - Jogging,Running Clothes,Original Running Pants,BE,Force Sports
+23677,24826,silver,2021-09-29,2021-10-05,1,247.6,116.0,Outdoors,Outdoors,Backpacks,Victor Grey/Olive Men's Backpack,DK,Top Sports
+45656,18766,gold,2021-09-29,2021-10-04,1,19.8,8.05,Sports,Swim Sports,Bathing Suits,Black Flexsoft Metal Goggles,US,Nautlius SportsWear Inc
+51690,74770,gold,2021-09-29,2021-10-01,1,57.6,23.85,Sports,Swim Sports,Bathing Suits,Electric Perform.Swim Suit,US,Dolphin Sportswear Inc
+52784,92275,gold,2021-09-29,2021-09-30,1,39.8,20.0,Children,Children Sports,"Eclipse, Kid's Shoes",Toddle Children's Understudy(Bp) Shoes,US,Eclipse Inc
+53585,80621,gold,2021-09-29,2021-10-01,1,49.1,24.65,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Pique Halter Top,US,Eclipse Inc

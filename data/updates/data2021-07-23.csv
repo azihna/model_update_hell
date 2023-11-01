@@ -1,0 +1,40 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+333,46493,gold,2021-07-23,2021-07-24,2,85.2,18.5,Clothes & Shoes,Shoes,Shoes,Dundas Rubber Boot,ES,Luna sastreria S.A.
+496,28414,silver,2021-07-23,2021-07-29,2,202.2,48.1,Sports,Running - Jogging,Running Clothes,Ultra Line Bike overall w/Isofilm,BE,Force Sports
+962,59016,gold,2021-07-23,2021-07-25,1,24.5,11.75,Sports,Winter Sports,Winter Sports,Original Eco Thermo 01 Yellow,US,Twain Inc
+2199,63053,gold,2021-07-23,2021-07-29,2,380.8,88.8,Sports,Assorted Sports Articles,Assorted Sports articles,Barret 2.12 Men's Softboot,US,Roll-Over Inc
+3078,34561,gold,2021-07-23,2021-07-24,2,183.2,45.75,Sports,Assorted Sports Articles,Skates,Bladeline S-Fitness In-Line Skates,US,Roll-Over Inc
+4585,25154,silver,2021-07-23,2021-07-29,3,431.1,71.95,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air MickeyTailwind Shoes,US,Eclipse Inc
+5405,22520,gold,2021-07-23,2021-07-24,2,110.2,24.05,Sports,Running - Jogging,Jogging,Ypsilon Men's Sweatshirt w/Piping,FR,Ypsilon S.A.
+7646,81222,silver,2021-07-23,2021-07-28,1,182.9,77.8,Sports,Assorted Sports Articles,Assorted Sports articles,Brt Anorak,ES,Luna sastreria S.A.
+8112,22696,gold,2021-07-23,2021-07-29,2,168.2,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+10186,48277,silver,2021-07-23,2021-07-25,2,564.0,139.45,Sports,Assorted Sports Articles,Skates,Perfect Fit Men's  Roller Skates,US,Twain Inc
+12381,8254,gold,2021-07-23,2021-07-24,1,187.2,85.15,Sports,Winter Sports,Winter Sports,"C.A.M.,Bone",CA,CrystalClear Optics Inc
+12457,34933,gold,2021-07-23,2021-07-24,1,124.8,53.6,Outdoors,Outdoors,Anoraks & Parkas,Duwall Pants,US,AllSeasons Outdoor Clothing
+12617,84633,silver,2021-07-23,2021-07-28,4,406.8,42.0,Outdoors,Outdoors,Outdoor Gear,Men's Sports Pullover,US,Mayday Inc
+13989,83860,silver,2021-07-23,2021-07-25,1,55.4,22.8,Sports,Assorted Sports Articles,Darts,Pacific 95% 23 Gram,GB,Royal Darts Ltd
+16656,26470,silver,2021-07-23,2021-07-30,1,34.5,14.55,Sports,Assorted Sports Articles,Darts,Aim4it 80% Tungsten 23 Gram,GB,Royal Darts Ltd
+17876,72273,silver,2021-07-23,2021-07-26,1,79.9,34.3,Sports,Assorted Sports Articles,Assorted Sports articles,Stream Sweatshirt with Tube,ES,Luna sastreria S.A.
+19482,24888,silver,2021-07-23,2021-07-24,3,111.3,18.65,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Fund Dri Fit Polo Pique,US,Eclipse Inc
+22573,59431,silver,2021-07-23,2021-07-29,2,142.2,30.65,Sports,Assorted Sports Articles,Assorted Sports articles,Wyoming Men's Sweat with V-Neck,ES,Luna sastreria S.A.
+26384,2205,silver,2021-07-23,2021-07-27,1,118.4,49.45,Sports,Racket Sports,Racket Sports,Aftm Swing Power 500 Sr Black/Silver/Red,GB,British Sports Ltd
+27259,55150,gold,2021-07-23,2021-07-28,1,175.2,73.65,Outdoors,Outdoors,Anoraks & Parkas,Topper Jacket,US,AllSeasons Outdoor Clothing
+27653,28184,silver,2021-07-23,2021-07-27,1,63.0,31.6,Sports,Team Sports,Soccer,Soccer Fan Football Player Shirt,GB,SportsFan Products Ltd
+31188,79909,gold,2021-07-23,2021-08-08,6,1177.8,95.65,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates A7 80/78a Action,PT,Magnifico Sports
+33709,64891,silver,2021-07-23,2021-07-26,4,295.6,33.25,Outdoors,Outdoors,Outdoor Gear,Inflatable 3.5,GB,Prime Sports Ltd
+34178,72716,silver,2021-07-23,2021-07-26,2,31.2,6.05,Sports,Golf,Golf,Bb Softspikes - Xp-M 22-pack.,GB,TeeTime Ltd
+35550,70049,silver,2021-07-23,2021-07-27,2,45.0,10.35,Children,Children Sports,Tracker Kid's Clothes,Essential Children's Swim Suit,US,3Top Sports
+37244,21811,gold,2021-07-23,2021-07-28,2,58.0,13.3,Clothes & Shoes,Clothes,Tracker Clothes,South Peak Men's Shorts,US,3Top Sports
+37679,94078,gold,2021-07-23,2021-07-30,2,168.4,38.35,Clothes & Shoes,Shoes,Tracker Shoes,South Peak Men's Running Shoes,US,3Top Sports
+41819,16880,silver,2021-07-23,2021-07-28,3,228.6,34.55,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Pant,GB,Harry Penny Ltd
+42208,43502,gold,2021-07-23,2021-07-24,2,58.4,12.9,Sports,Assorted Sports Articles,Assorted Sports articles,Men's T-Shirt,ES,Luna sastreria S.A.
+47436,36728,gold,2021-07-23,2021-07-28,2,51.98,20.9,Children,Children Sports,"Eclipse, Kid's Shoes",Toddler Pico V.,US,Eclipse Inc
+47437,52294,gold,2021-07-23,2021-07-27,1,25.99,20.9,Children,Children Sports,"Eclipse, Kid's Shoes",Toddler Pico V.,US,Eclipse Inc
+47449,55435,silver,2021-07-23,2021-08-01,2,207.4,47.2,Clothes & Shoes,Clothes,Tracker Clothes,Suit SVH,US,3Top Sports
+49238,45699,silver,2021-07-23,2021-07-27,2,100.0,20.75,Children,Children Sports,"N.D. Gear, Kids",Brisbane Swimming Trunks,ES,Luna sastreria S.A.
+49675,71535,gold,2021-07-23,2021-07-27,2,80.2,16.45,Children,Children Sports,"Bathing Suits, Kids",Sunfit Moreau Swim Suit Jr.,US,Nautlius SportsWear Inc
+50414,51629,silver,2021-07-23,2021-07-28,2,80.0,18.25,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Shorts,GB,Harry Penny Ltd
+52620,79102,silver,2021-07-23,2021-07-31,2,46.8,11.8,Children,Children Sports,Orion Kid's Clothes,Soccer Jr.Cap,CA,Fuller Trading Co.
+53384,40622,silver,2021-07-23,2021-07-30,2,100.8,22.75,Children,Children Sports,"N.D. Gear, Kids",Butch T-Shirt with V-Neck,ES,Luna sastreria S.A.
+53549,5503,silver,2021-07-23,2021-07-24,2,77.8,17.4,Clothes & Shoes,Clothes,Tracker Clothes,K.j. Men's Shorts,US,3Top Sports
+53901,52942,gold,2021-07-23,2021-07-28,3,216.0,32.7,Clothes & Shoes,Clothes,LSF,Bill London Calling Shoes,SE,Petterson AB

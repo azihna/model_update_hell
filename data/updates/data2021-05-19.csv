@@ -1,0 +1,21 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2328,10896,gold,2021-05-19,2021-05-24,2,720.0,199.0,Outdoors,Outdoors,Tents,Expedition Dome 3,GB,Outback Outfitters Ltd
+3635,41175,silver,2021-05-19,2021-05-22,1,106.2,50.6,Clothes & Shoes,Clothes,Orion,Power Dmx Wide Shoes,CA,Fuller Trading Co.
+4959,91814,silver,2021-05-19,2021-05-22,3,40.5,5.6,Sports,Assorted Sports Articles,Assorted Sports articles,Clearview Glass Green,CA,CrystalClear Optics Inc
+8099,18774,gold,2021-05-19,2021-05-25,3,252.3,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+9331,42053,silver,2021-05-19,2021-05-24,3,473.4,79.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tuned Sirocco Shoes,US,Eclipse Inc
+9332,89278,silver,2021-05-19,2021-05-20,1,157.8,79.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tuned Sirocco Shoes,US,Eclipse Inc
+9726,29809,silver,2021-05-19,2021-05-20,3,984.9,165.95,Sports,Assorted Sports Articles,Skates,Perfect Fit Men's Stunt Skates,US,Twain Inc
+12688,50753,gold,2021-05-19,2021-05-25,1,77.0,35.9,Clothes & Shoes,Shoes,Tracker Shoes,Hardcore Men's Street Shoes,GB,Greenline Sports Ltd
+13789,48085,gold,2021-05-19,2021-05-20,1,40.2,16.85,Outdoors,Outdoors,Knitted Accessories,Breaker Frozen Husky Hat,DK,Norsok A/S
+21412,6612,silver,2021-05-19,2021-05-23,2,53.98,23.2,Sports,Team Sports,Soccer,Prosoccer Home Shorts,US,Fga Sports Inc
+23843,59567,silver,2021-05-19,2021-05-23,1,29.0,11.95,Sports,Assorted Sports Articles,Assorted Sports articles,Eliza T-Shirt,ES,Luna sastreria S.A.
+24606,55007,silver,2021-05-19,2021-05-24,1,75.7,37.95,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Mantra Shoes,US,Eclipse Inc
+25129,34461,silver,2021-05-19,2021-05-25,1,45.8,19.5,Sports,Assorted Sports Articles,Assorted Sports articles,Saturn Big Bag,ES,Luna sastreria S.A.
+27736,38754,silver,2021-05-19,2021-05-20,1,52.0,23.75,Clothes & Shoes,Shoes,Tracker Shoes,Men's Indoor Shoes Uproar,US,3Top Sports
+28810,64377,gold,2021-05-19,2021-05-21,1,29.1,13.95,Sports,Running - Jogging,Running Clothes,Maxrun Short Running Tights,BE,Force Sports
+32806,81015,silver,2021-05-19,2021-05-24,1,175.3,74.95,Outdoors,Outdoors,Anoraks & Parkas,Men's Jacket Rem,NO,Scandinavian Clothing A/S
+35353,92347,silver,2021-05-19,2021-05-20,1,80.4,36.75,Clothes & Shoes,Shoes,Tracker Shoes,Cross Ripple Women's Street Shoes,US,3Top Sports
+40065,28491,gold,2021-05-19,2021-05-23,3,515.7,80.2,Sports,Assorted Sports Articles,Assorted Sports articles,Barret 2.12 Women's Softboot,US,Roll-Over Inc
+44149,4521,silver,2021-05-19,2021-05-21,1,43.6,17.35,Sports,Assorted Sports Articles,Assorted Sports articles,Olive Met.,CA,CrystalClear Optics Inc
+44736,37475,silver,2021-05-19,2021-05-22,1,22.1,9.2,Clothes & Shoes,Clothes,Stockings & Socks,Hawkins Tk1 Women's Trekking Socks,US,Sockeye Sportswear Inc

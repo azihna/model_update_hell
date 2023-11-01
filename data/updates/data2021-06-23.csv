@@ -1,0 +1,12 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1037,75616,platinum,2021-06-23,2021-06-28,3,104.7,17.55,Clothes & Shoes,Shoes,Eclipse Shoes,Eclipse Mens Off Court Tennis Shoes,US,Eclipse Inc
+1225,33300,gold,2021-06-23,2021-06-24,2,71.0,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+8105,11915,gold,2021-06-23,2021-06-24,2,168.2,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+9799,72829,silver,2021-06-23,2021-06-27,3,102.9,14.35,Sports,Assorted Sports Articles,Assorted Sports articles,Top Bag Navy/White/Green,GB,British Sports Ltd
+10810,89922,gold,2021-06-23,2021-06-28,2,54.6,12.25,Clothes & Shoes,Clothes,T-Shirts,A-team Polo Pique w/Short Sleeve,US,A Team Sports
+27395,52842,silver,2021-06-23,2021-06-26,2,171.98,55.85,Outdoors,Outdoors,Outdoor Gear,Mayday W'S Sports Pullover,US,Mayday Inc
+35503,76378,gold,2021-06-23,2021-06-27,2,211.0,52.85,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Stormy,US,Eclipse Inc
+43668,73203,gold,2021-06-23,2021-06-28,3,186.6,28.25,Clothes & Shoes,Shoes,Tracker Shoes,Men's Running Shoes Estes,US,3Top Sports
+45229,16311,gold,2021-06-23,2021-06-25,2,84.6,18.85,Children,Children Sports,"A-Team, Kids",Pants Shiny Children's Pants,US,A Team Sports
+46824,50583,silver,2021-06-23,2021-06-28,3,169.5,26.95,Clothes & Shoes,Clothes,Orion,Original Women's Nylon Street Shoes,CA,Fuller Trading Co.
+52147,80431,silver,2021-06-23,2021-06-26,2,57.8,11.9,Sports,Assorted Sports Articles,Assorted Sports articles,Mission 70% 21 Gram,GB,Royal Darts Ltd

@@ -1,0 +1,33 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+750,59384,silver,2021-07-08,2021-07-10,2,234.4,58.55,Sports,Assorted Sports Articles,Skates,Relation 76 millimetre/78a Roller Skates,PT,Magnifico Sports
+2016,75876,gold,2021-07-08,2021-07-12,2,173.2,34.1,Outdoors,Outdoors,Outdoor Gear,"Men's Pants, Basic",US,Mayday Inc
+2017,83100,gold,2021-07-08,2021-07-12,4,346.4,34.1,Outdoors,Outdoors,Outdoor Gear,"Men's Pants, Basic",US,Mayday Inc
+2335,5620,gold,2021-07-08,2021-07-11,4,1440.0,199.0,Outdoors,Outdoors,Tents,Expedition Dome 3,GB,Outback Outfitters Ltd
+3189,86038,silver,2021-07-08,2021-07-09,2,154.4,32.9,Sports,Assorted Sports Articles,Assorted Sports articles,Fleece with Zipper Hay,ES,Luna sastreria S.A.
+3821,36919,gold,2021-07-08,2021-07-13,2,95.8,20.0,Sports,Swim Sports,Bathing Suits,Sunfit Malda Low Women's Swim Suit,US,Nautlius SportsWear Inc
+5333,52234,gold,2021-07-08,2021-07-16,2,170.4,36.3,Sports,Assorted Sports Articles,Assorted Sports articles,Wyoming Men's Sweat with Small Zipper,ES,Luna sastreria S.A.
+5879,58094,silver,2021-07-08,2021-07-11,2,226.4,54.0,Sports,Assorted Sports Articles,Skates,Pro-roll Lazer Roller Skates,PT,Magnifico Sports
+6329,46887,silver,2021-07-08,2021-07-12,4,2077.2,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+8703,37901,silver,2021-07-08,2021-07-09,2,185.0,40.25,Clothes & Shoes,Shoes,Shoes,Twain Inco Women's Street Shoes,US,Twain Inc
+9609,6106,platinum,2021-07-08,2021-07-11,2,289.8,72.55,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Tuned Sovereign,US,Eclipse Inc
+13038,51200,silver,2021-07-08,2021-07-12,2,252.2,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+17009,73516,gold,2021-07-08,2021-07-10,2,44.0,9.1,Sports,Swim Sports,Bathing Suits,Sunfit Bombay Swimming Trunks,US,Nautlius SportsWear Inc
+17010,75916,silver,2021-07-08,2021-07-11,2,44.0,9.1,Sports,Swim Sports,Bathing Suits,Sunfit Bombay Swimming Trunks,US,Nautlius SportsWear Inc
+17472,12299,silver,2021-07-08,2021-07-09,1,32.4,13.4,Sports,Assorted Sports Articles,Darts,Bulls Eye 15 Gram 80% Tungsten Soft,GB,Royal Darts Ltd
+19630,75525,silver,2021-07-08,2021-07-10,2,47.6,10.65,Clothes & Shoes,Clothes,T-Shirts,Men's T-Shirt Big Logo Pro Jersey,US,A Team Sports
+25682,43993,silver,2021-07-08,2021-07-09,2,52.4,8.85,Sports,Running - Jogging,Jogging,Triffy Logo T-Shirt with V-Neck,NL,Triffy B.V.
+29855,65230,gold,2021-07-08,2021-07-11,2,408.8,87.15,Clothes & Shoes,Clothes,Knitwear,Mayday Stripe Pullover,US,Mayday Inc
+30163,41820,gold,2021-07-08,2021-07-09,3,605.4,91.65,Clothes & Shoes,Shoes,Shoes,Twain Stf7 Women's Outdoor Boots,US,Twain Inc
+33734,73178,silver,2021-07-08,2021-07-12,2,107.8,22.9,Sports,Swim Sports,Bathing Suits,Sunfit Malarme Low Swim Suit,US,Nautlius SportsWear Inc
+34755,75801,gold,2021-07-08,2021-07-09,1,298.1,186.85,Sports,Indoor Sports,Fitness,Letour Mag Plus Bike-Buy Now Paper,NL,TrimSport B.V.
+37277,54926,silver,2021-07-08,2021-07-11,2,127.0,29.95,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Imara,US,Eclipse Inc
+37586,61658,silver,2021-07-08,2021-07-10,2,58.8,13.55,Children,Children Sports,Tracker Kid's Clothes,Corp.Baby Jogger,US,3Top Sports
+39107,16538,silver,2021-07-08,2021-07-13,5,1306.0,130.55,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Flex-E Perf.Skates,US,Eclipse Inc
+39718,72038,silver,2021-07-08,2021-07-10,2,197.6,42.95,Clothes & Shoes,Shoes,Shoes,Salida Low Men's Outdoor Shoes,US,Twain Inc
+39890,59848,silver,2021-07-08,2021-07-09,1,38.4,17.5,Clothes & Shoes,Clothes,Tracker Clothes,Casual Genuine Polo-Shirt,US,3Top Sports
+43912,7156,silver,2021-07-08,2021-07-10,3,179.7,25.4,Sports,Assorted Sports Articles,Assorted Sports articles,Stream Polo-Shirt,ES,Luna sastreria S.A.
+45022,40403,silver,2021-07-08,2021-07-09,2,13.6,2.75,Sports,Racket Sports,Tennis,Smasher 4-Pak Socks,GB,British Sports Ltd
+45936,77008,silver,2021-07-08,2021-07-16,2,79.8,16.05,Children,Children Sports,"Osprey, Kids",Kid Catalyst Sweat w/Hood,US,Triple Sportswear Inc
+46897,5787,silver,2021-07-08,2021-07-09,2,13.8,3.15,Sports,Assorted Sports Articles,Assorted Sports articles,Croix 62mm Clear,PT,Magnifico Sports
+52137,29861,gold,2021-07-08,2021-07-09,2,134.6,28.0,Sports,Running - Jogging,Running Clothes,Force Technical Jacket w/Coolmax,BE,Force Sports
+53196,77981,silver,2021-07-08,2021-07-29,2,82.2,18.75,Children,Children Sports,Tracker Kid's Clothes,Kola Cf Velcro Children's Shoes,US,3Top Sports

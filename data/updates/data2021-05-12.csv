@@ -1,0 +1,25 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2327,88309,gold,2021-05-12,2021-05-15,3,1080.0,199.0,Outdoors,Outdoors,Tents,Expedition Dome 3,GB,Outback Outfitters Ltd
+2877,55483,gold,2021-05-12,2021-05-18,1,23.5,9.2,Children,Children Sports,"Olssons, Kids",Strap Pants BBO,ES,Sportico
+3634,76165,silver,2021-05-12,2021-05-15,2,212.4,50.6,Clothes & Shoes,Clothes,Orion,Power Dmx Wide Shoes,CA,Fuller Trading Co.
+5873,31134,gold,2021-05-12,2021-05-17,1,113.2,54.0,Sports,Assorted Sports Articles,Skates,Pro-roll Lazer Roller Skates,PT,Magnifico Sports
+7341,79614,silver,2021-05-12,2021-05-16,2,346.0,72.75,Outdoors,Outdoors,Outdoor Gear,Jl Legacy Curig I.A.Jacket,US,AllSeasons Outdoor Clothing
+7512,16184,silver,2021-05-12,2021-05-14,1,75.8,32.95,Sports,Assorted Sports Articles,Assorted Sports articles,"Comp,Bkp.Blue",CA,CrystalClear Optics Inc
+18944,54403,gold,2021-05-12,2021-05-15,2,45.8,9.1,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls 3-pack Chromium 72mm,GB,Royal Darts Ltd
+21865,52076,gold,2021-05-12,2021-05-14,3,660.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+22904,50349,silver,2021-05-12,2021-05-14,3,441.9,61.3,Outdoors,Outdoors,Outdoor Gear,Mayday Rain Jacket,US,Mayday Inc
+26733,33362,gold,2021-05-12,2021-05-14,1,93.5,40.7,Clothes & Shoes,Shoes,Shoes,Twain Inco Men's Street Shoes,US,Twain Inc
+27285,84530,gold,2021-05-12,2021-05-16,1,151.3,67.95,Sports,Assorted Sports Articles,Assorted Sports articles,Prime Classic,AU,Health-Sports
+28908,22991,silver,2021-05-12,2021-05-13,4,401.6,50.3,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Terra Train Shoes,US,Eclipse Inc
+30629,3764,gold,2021-05-12,2021-05-14,1,32.8,14.0,Sports,Assorted Sports Articles,Assorted Sports articles,Knee Dressing Knee Pad Rehband Thermo,US,Teamsports Inc
+32013,81996,gold,2021-05-12,2021-05-15,1,237.2,118.55,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Ms Proto Sv80/72mm,PT,Magnifico Sports
+33286,47764,silver,2021-05-12,2021-05-14,1,48.4,21.5,Sports,Running - Jogging,Jogging,"A-team Sweat w/small Zipper,C-Logo",US,A Team Sports
+33421,81147,silver,2021-05-12,2021-05-15,1,48.2,20.75,Sports,Assorted Sports Articles,Assorted Sports articles,Fred T-Shirt,ES,Luna sastreria S.A.
+34009,14742,gold,2021-05-12,2021-05-18,1,112.3,68.6,Sports,Assorted Sports Articles,Skates,Pro-roll Sq9 80-76mm/78a Roller Skates,PT,Magnifico Sports
+34260,16374,silver,2021-05-12,2021-05-17,1,83.0,37.0,Clothes & Shoes,Shoes,Tracker Shoes,Polly Millennium Men's Tennis Shoes,US,3Top Sports
+35456,58192,silver,2021-05-12,2021-05-14,3,1051.5,175.2,Sports,Assorted Sports Articles,Skates,Proskater Coyote Off Road Roller Skates,US,Roll-Over Inc
+35828,65230,silver,2021-05-12,2021-05-15,1,251.4,125.65,Sports,Assorted Sports Articles,Skates,Roller Skates Styll,PT,Magnifico Sports
+37390,88608,gold,2021-05-12,2021-05-14,2,16.8,3.8,Clothes & Shoes,Clothes,Tracker Clothes,Gym Bag,US,3Top Sports
+39644,88804,silver,2021-05-12,2021-05-18,1,23.5,9.45,Sports,Assorted Sports Articles,Assorted Sports articles,Brown Metallic,CA,CrystalClear Optics Inc
+42908,93235,silver,2021-05-12,2021-05-16,1,22.9,10.3,Children,Children Sports,Tracker Kid's Clothes,For Children,US,3Top Sports
+50686,38489,silver,2021-05-12,2021-05-15,1,24.3,10.9,Clothes & Shoes,Clothes,T-Shirts,Toncot Beefy 2-Pack T-Shirts,US,A Team Sports

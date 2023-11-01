@@ -1,0 +1,37 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+182,85530,silver,2021-08-22,2021-08-24,2,128.0,37.85,Clothes & Shoes,Shoes,Shoes,Pro Fit  Gel Ds Trainer Iv Men's Running Shoe,US,Pro Sportswear Inc
+1232,1704,silver,2021-08-22,2021-08-27,2,71.0,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+1745,71361,gold,2021-08-22,2021-08-23,2,33.98,9.65,Clothes & Shoes,Shoes,Tracker Shoes,Multicolour Bathing Sandal,ES,Luna sastreria S.A.
+2649,25335,silver,2021-08-22,2021-08-24,1,178.875,71.55,Sports,Winter Sports,Winter Sports,Massif Bandit Ski Parcel Axial,FR,Massif S.A.
+2832,7758,silver,2021-08-22,2021-08-27,2,154.0,38.6,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Right,Charcoal",DK,Top Sports
+3323,89568,gold,2021-08-22,2021-08-25,1,95.5,43.55,Clothes & Shoes,Shoes,Shoes,Soft Cumulus Men's Running Shoes,US,Pro Sportswear Inc
+4830,53288,silver,2021-08-22,2021-08-26,2,47.0,10.2,Sports,Team Sports,Soccer,Soccer Ball-autogr Rafer Size 5  Red/,US,Teamsports Inc
+6964,1818,silver,2021-08-22,2021-08-26,2,577.8,119.15,Outdoors,Outdoors,Tents,Hurricane 4,SE,Petterson AB
+7000,4894,silver,2021-08-22,2021-08-25,2,439.0,124.9,Sports,Golf,Golf,Hi-fly Intimidator Ti R80/10,NL,Van Dammeren International
+9010,36059,silver,2021-08-22,2021-08-24,2,73.4,18.45,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Polo-Shirt Fit,US,Eclipse Inc
+10490,70164,gold,2021-08-22,2021-08-25,3,18.6,2.45,Sports,Swim Sports,Bathing Suits,Soft Women's Latex Socks,US,Nautlius SportsWear Inc
+10521,40292,silver,2021-08-22,2021-08-27,2,833.6,124.2,Sports,Racket Sports,Racket Sports,Smasher Tg 70 Tennis String Roll,GB,British Sports Ltd
+11104,36236,gold,2021-08-22,2021-08-27,2,193.4,48.45,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Medium,Right,Forestgreen",DK,Top Sports
+11339,10586,gold,2021-08-22,2021-08-26,2,53.98,10.23,Sports,Team Sports,American Football,Football - Helmet Pro XL,US,A Team Sports
+11810,32454,gold,2021-08-22,2021-08-24,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+18900,70896,silver,2021-08-22,2021-08-27,1,35.2,14.8,Sports,Assorted Sports Articles,Darts,Aim4it 80% Tungsten 22 Gram,GB,Royal Darts Ltd
+19631,16040,silver,2021-08-22,2021-08-28,1,23.8,10.65,Clothes & Shoes,Clothes,T-Shirts,Men's T-Shirt Big Logo Pro Jersey,US,A Team Sports
+21366,48006,silver,2021-08-22,2021-08-25,2,49.2,9.9,Sports,Assorted Sports Articles,Assorted Sports articles,Grey Met.,CA,CrystalClear Optics Inc
+21887,33600,silver,2021-08-22,2021-08-26,2,440.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+23768,27111,silver,2021-08-22,2021-08-24,1,266.7,121.6,Sports,Winter Sports,Ski Dress,4men Men's Invert Jacket,US,Miller Trading Inc
+23845,17029,gold,2021-08-22,2021-08-28,3,87.0,11.95,Sports,Assorted Sports Articles,Assorted Sports articles,Eliza T-Shirt,ES,Luna sastreria S.A.
+24564,78153,gold,2021-08-22,2021-08-26,2,66.4,14.45,Children,Children Sports,"Ypsilon, Kids",Albany Pants,FR,Ypsilon S.A.
+24799,75716,silver,2021-08-22,2021-08-24,2,208.6,52.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Baltoro Shoes,US,Eclipse Inc
+26221,21639,gold,2021-08-22,2021-08-24,2,122.8,30.8,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Flyer Plus,US,Eclipse Inc
+28125,83422,gold,2021-08-22,2021-08-25,2,74.8,16.3,Sports,Swim Sports,Bathing Suits,Milan Swimming Trunks,ES,Luna sastreria S.A.
+29490,12778,gold,2021-08-22,2021-08-23,3,333.9,55.75,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Structure Triax Shoes,US,Eclipse Inc
+34189,51651,gold,2021-08-22,2021-08-28,3,5.7,0.85,Sports,Assorted Sports Articles,Assorted Sports articles,Medium,GB,Royal Darts Ltd
+35039,25741,gold,2021-08-22,2021-08-25,2,60.8,9.2,Sports,Swim Sports,Bathing Suits,Sharky Swimming Trunks,US,Dolphin Sportswear Inc
+35395,78482,gold,2021-08-22,2021-08-24,1,33.8,14.7,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Polo,GB,Harry Penny Ltd
+35783,93235,gold,2021-08-22,2021-08-26,2,78.4,15.8,Sports,Swim Sports,Bathing Suits,Swim Suit Basic,US,Dolphin Sportswear Inc
+36703,12196,gold,2021-08-22,2021-08-27,2,88.6,17.75,Clothes & Shoes,Clothes,Green Tomato,Green Lime Camisol Top,US,Green Lime Sports Inc
+39721,63566,gold,2021-08-22,2021-08-23,3,296.4,42.95,Clothes & Shoes,Shoes,Shoes,Salida Low Men's Outdoor Shoes,US,Twain Inc
+40203,27249,silver,2021-08-22,2021-08-26,2,267.0,60.85,Clothes & Shoes,Clothes,Tracker Clothes,Otter Snowboard Jacket,US,3Top Sports
+44863,37757,gold,2021-08-22,2021-08-25,5,127.0,11.0,Sports,Assorted Sports Articles,Assorted Sports articles,Trg 4/32 Red/Orange/Black Star-,US,Teamsports Inc
+45831,53766,gold,2021-08-22,2021-08-27,2,244.0,53.75,Clothes & Shoes,Clothes,Leisure,Van Damme Women's Golf Pants Classic,NL,Van Dammeren International
+48910,5801,gold,2021-08-22,2021-08-27,3,201.3,30.55,Clothes & Shoes,Shoes,Tracker Shoes,Armadillo Women's Running Shoes,US,3Top Sports

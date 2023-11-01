@@ -1,0 +1,47 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+455,33013,silver,2021-06-25,2021-06-27,2,195.0,40.55,Outdoors,Outdoors,Outdoor Gear,Mayday Qd Zip Pants,US,Mayday Inc
+1604,57972,silver,2021-06-25,2021-06-27,2,146.0,30.35,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Classic Rain Pants,US,AllSeasons Outdoor Clothing
+2333,6395,silver,2021-06-25,2021-06-28,2,720.0,199.0,Outdoors,Outdoors,Tents,Expedition Dome 3,GB,Outback Outfitters Ltd
+3233,16257,gold,2021-06-25,2021-07-04,2,298.2,90.7,Sports,Golf,Golf,Expert Men's Firesole Loose Iron,US,Twain Inc
+3319,7666,silver,2021-06-25,2021-06-30,2,191.0,43.55,Clothes & Shoes,Shoes,Shoes,Soft Cumulus Men's Running Shoes,US,Pro Sportswear Inc
+4119,28477,silver,2021-06-25,2021-06-30,3,213.0,32.3,Clothes & Shoes,Shoes,Tracker Shoes,Indoor Handbold Special Shoes,US,3Top Sports
+4230,72750,silver,2021-06-25,2021-06-27,2,64.8,13.0,Children,Children Sports,"Osprey, Kids",Kid Catalyst Sweat w/Round Neck,US,Triple Sportswear Inc
+5878,39233,silver,2021-06-25,2021-06-29,3,339.6,54.0,Sports,Assorted Sports Articles,Skates,Pro-roll Lazer Roller Skates,PT,Magnifico Sports
+7912,70590,silver,2021-06-25,2021-06-29,2,114.6,28.75,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Payoff Trainer Shoes,US,Eclipse Inc
+10692,65482,gold,2021-06-25,2021-06-28,4,354.0,42.45,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Large,Right, Blue/Black",DK,Top Sports
+11805,65316,silver,2021-06-25,2021-06-26,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+12615,49958,silver,2021-06-25,2021-06-27,2,203.4,42.0,Outdoors,Outdoors,Outdoor Gear,Men's Sports Pullover,US,Mayday Inc
+14163,30828,gold,2021-06-25,2021-07-03,1,21.99,7.25,Sports,Team Sports,Basket Ball,Basket Ball Pro,US,HighPoint Trading
+15215,82282,silver,2021-06-25,2021-06-28,2,89.98,28.05,Sports,Golf,Golf,Precision Jack Blade 2-853 Balata,GB,GrandSlam Sporting Goods Ltd
+16412,62114,gold,2021-06-25,2021-06-30,2,69.8,16.75,Sports,Running - Jogging,Running Clothes,Maxrun Running T-Shirt,BE,Force Sports
+20560,46615,silver,2021-06-25,2021-06-30,2,321.6,78.5,Sports,Golf,Golf,Rubby Women's Golf Shoes w/Goretex,ES,Rubby Zapatos S.A.
+21190,60770,gold,2021-06-25,2021-06-26,2,53.8,10.3,Sports,Team Sports,Baseball,Bat - Home Run S,US,Miller Trading Inc
+21287,92571,gold,2021-06-25,2021-06-27,3,101.1,15.7,Clothes & Shoes,Clothes,Tracker Clothes,Men's Backpack,GB,Greenline Sports Ltd
+22498,9685,gold,2021-06-25,2021-06-30,2,462.0,113.65,Sports,Assorted Sports Articles,Skates,N.d.gear Roller Skates Ff80 80 millimetre78a,PT,Magnifico Sports
+22620,52310,gold,2021-06-25,2021-06-29,2,363.0,77.85,Sports,Assorted Sports Articles,Assorted Sports articles,Women's Jacket,ES,Luna sastreria S.A.
+25989,9030,silver,2021-06-25,2021-06-29,2,128.2,30.2,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Turbulence,US,Eclipse Inc
+26609,20803,gold,2021-06-25,2021-07-01,2,106.6,26.75,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Winter Tights,US,Eclipse Inc
+28690,59572,gold,2021-06-25,2021-06-29,3,107.1,17.35,Children,Children Sports,"Osprey, Kids",Osprey Boston Polyester Suit,US,Triple Sportswear Inc
+29025,70021,silver,2021-06-25,2021-06-26,2,45.6,11.5,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's T-Shirt,US,Eclipse Inc
+29194,77062,silver,2021-06-25,2021-07-01,2,146.8,36.65,Clothes & Shoes,Shoes,Tracker Shoes,Hardcore Men's Street Shoes Large,GB,Greenline Sports Ltd
+31559,24095,gold,2021-06-25,2021-07-01,2,156.6,35.75,Clothes & Shoes,Shoes,Tracker Shoes,Multi Women's Running Shoes,US,3Top Sports
+31632,14561,gold,2021-06-25,2021-07-09,1,55.0,24.5,Clothes & Shoes,Shoes,Tracker Shoes,The Wish L Women's Running Shoes,US,3Top Sports
+32968,91146,gold,2021-06-25,2021-06-28,1,111.3,53.0,Clothes & Shoes,Clothes,Orion Clothing,Windy Micro Jacket,CA,Fuller Trading Co.
+33475,27738,silver,2021-06-25,2021-07-01,3,68.97,7.3,Sports,Team Sports,Soccer,Soccer Fan Football Player Shorts,GB,SportsFan Products Ltd
+33569,1933,silver,2021-06-25,2021-06-29,2,627.6,159.15,Sports,Golf,Golf Clothes,Hi-fly Staff Rain Suit,NL,Van Dammeren International
+34177,70695,gold,2021-06-25,2021-06-28,2,31.2,6.05,Sports,Golf,Golf,Bb Softspikes - Xp-M 22-pack.,GB,TeeTime Ltd
+34614,47508,platinum,2021-06-25,2021-06-30,2,187.8,47.05,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Shatter Mid LI,US,Eclipse Inc
+35335,93255,gold,2021-06-25,2021-06-27,2,137.6,34.5,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Soc Moc,US,Eclipse Inc
+36110,79528,silver,2021-06-25,2021-07-01,2,67.2,16.9,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Shorts Dri Fit,US,Eclipse Inc
+36701,4935,silver,2021-06-25,2021-06-28,3,132.9,17.75,Clothes & Shoes,Clothes,Green Tomato,Green Lime Camisol Top,US,Green Lime Sports Inc
+37658,76833,silver,2021-06-25,2021-06-30,2,277.4,62.5,Outdoors,Outdoors,Outdoor Gear,Ultra Ht Lightning Set,US,AllSeasons Outdoor Clothing
+39042,58662,silver,2021-06-25,2021-06-30,1,186.3,88.8,Sports,Racket Sports,Racket Sports,Grandslam Hammer 6.2 Tennis Racket,GB,GrandSlam Sporting Goods Ltd
+41227,4617,silver,2021-06-25,2021-06-27,2,130.6,29.8,Sports,Assorted Sports Articles,Assorted Sports articles,Northern Pace Pulse Meter,GB,EA Sports Limited
+46212,86124,silver,2021-06-25,2021-06-27,1,52.1,24.7,Sports,Golf,Golf,Putting Mat Putting Mat with Return,NL,Van Dammeren International
+46692,10758,silver,2021-06-25,2021-06-26,2,117.2,26.7,Clothes & Shoes,Shoes,Tracker Shoes,Armadillo Men's Running Shoes,US,3Top Sports
+47435,46471,silver,2021-06-25,2021-06-27,2,83.2,20.9,Children,Children Sports,"Eclipse, Kid's Shoes",Toddler Pico V.,US,Eclipse Inc
+47507,53589,gold,2021-06-25,2021-06-27,3,593.7,84.9,Sports,Assorted Sports Articles,Assorted Sports articles,Ribstop Jacket,ES,Luna sastreria S.A.
+47743,20959,platinum,2021-06-25,2021-06-28,1,73.99,44.25,Clothes & Shoes,Clothes,Orion,Armadillo Road Dmx Men's Running Shoes,CA,Fuller Trading Co.
+48525,52557,gold,2021-06-25,2021-06-27,2,70.2,15.6,Sports,Swim Sports,Bathing Suits,Pew Swimming Trunks,ES,Luna sastreria S.A.
+50814,9762,silver,2021-06-25,2021-06-27,2,32.0,8.1,Clothes & Shoes,Clothes,Tracker Clothes,Sgh Goal W/B Player Shirt,US,3Top Sports
+54109,60437,gold,2021-06-25,2021-06-27,2,66.6,16.75,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Fresh Soft Nylon Pants,US,Eclipse Inc

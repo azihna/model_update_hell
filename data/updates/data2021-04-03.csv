@@ -1,0 +1,34 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+67,6363,silver,2021-04-03,2021-04-06,4,6.8,0.8,Outdoors,Outdoors,Outdoor Gear,Plate Picnic Deep,GB,Prime Sports Ltd
+1725,7301,platinum,2021-04-03,2021-04-08,3,67.8,9.65,Clothes & Shoes,Shoes,Tracker Shoes,Multicolour Bathing Sandal,ES,Luna sastreria S.A.
+4725,28257,gold,2021-04-03,2021-04-09,3,43.2,6.45,Sports,Team Sports,Soccer,Soccer Mjf 2000 Size 4 Black/Yellow,US,Teamsports Inc
+7852,61401,silver,2021-04-03,2021-04-11,1,16.8,7.7,Sports,Golf,Golf,"Fishing Rod, 9 Feet JRH",NL,Van Dammeren International
+9325,72047,gold,2021-04-03,2021-04-06,3,473.4,79.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tuned Sirocco Shoes,US,Eclipse Inc
+9779,79977,gold,2021-04-03,2021-04-05,1,71.5,31.65,Clothes & Shoes,Shoes,Shoes,Profi Crosswinds 23 Sandal,NL,Van Dammeren International
+11794,82890,gold,2021-04-03,2021-04-07,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+12685,7402,gold,2021-04-03,2021-04-07,3,231.0,35.9,Clothes & Shoes,Shoes,Tracker Shoes,Hardcore Men's Street Shoes,GB,Greenline Sports Ltd
+15483,63659,silver,2021-04-03,2021-04-04,1,61.0,28.75,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Turbulence Shoes,US,Eclipse Inc
+17462,53529,gold,2021-04-03,2021-04-06,3,97.2,13.4,Sports,Assorted Sports Articles,Darts,Bulls Eye 15 Gram 80% Tungsten Soft,GB,Royal Darts Ltd
+18220,54725,gold,2021-04-03,2021-04-18,1,34.6,14.4,Sports,Assorted Sports Articles,Darts,Bulls Eye Stuart/Tungsten 24 Gram,GB,Royal Darts Ltd
+18221,90463,gold,2021-04-03,2021-04-06,2,69.2,14.4,Sports,Assorted Sports Articles,Darts,Bulls Eye Stuart/Tungsten 24 Gram,GB,Royal Darts Ltd
+24296,31742,gold,2021-04-03,2021-04-10,2,97.6,23.3,Clothes & Shoes,Clothes,Orion Clothing,Tx Tribe 3/4 Pants,CA,Fuller Trading Co.
+24439,79024,gold,2021-04-03,2021-04-06,3,57.3,7.7,Sports,Racket Sports,Tennis,Smasher Shorts,GB,British Sports Ltd
+25292,25380,silver,2021-04-03,2021-04-05,1,41.5,18.5,Children,Children Sports,"A-Team, Kids","Kids Sweat with Hood, Large Logo",US,A Team Sports
+27914,63986,gold,2021-04-03,2021-04-08,1,7.8,2.95,Clothes & Shoes,Clothes,Stockings & Socks,Fitness Slouch Socks,FR,Bon Garrments
+31482,35417,silver,2021-04-03,2021-04-05,1,112.1,56.15,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Althea Triax,US,Eclipse Inc
+32650,2330,platinum,2021-04-03,2021-04-04,1,12.3,4.65,Sports,Golf,Golf,Crew Titanium Straigt Distance 3 S,GB,GrandSlam Sporting Goods Ltd
+33132,8671,gold,2021-04-03,2021-04-08,1,19.6,10.55,Sports,Team Sports,Baseball,Helmet XL,US,Miller Trading Inc
+34451,81343,silver,2021-04-03,2021-04-04,1,131.7,55.0,Sports,Racket Sports,Racket Sports,Aftm Swing Power 500 Sa Black/Silver/Red,GB,British Sports Ltd
+35025,55900,gold,2021-04-03,2021-04-07,1,30.4,9.2,Sports,Swim Sports,Bathing Suits,Sharky Swimming Trunks,US,Dolphin Sportswear Inc
+41884,78381,gold,2021-04-03,2021-04-04,1,523.2,247.25,Sports,Golf,Golf,Proplay Women's Molitor 3+8 Golf set,NL,Van Dammeren International
+45195,91935,gold,2021-04-03,2021-04-04,2,46.2,10.45,Children,Children Sports,"Olssons, Kids",Suit Flounced Suit 95% Cotton 5% Lycra,ES,Sportico
+46276,32944,gold,2021-04-03,2021-04-08,1,10.6,4.25,Sports,Assorted Sports Articles,Assorted Sports articles,"Prex Proofing, for washing machine",FR,Massif S.A.
+47046,72117,silver,2021-04-03,2021-04-06,1,62.3,28.35,Clothes & Shoes,Shoes,Shoes,Soft Modesto Women's Indoor Shoes,US,Pro Sportswear Inc
+48178,79519,silver,2021-04-03,2021-04-08,1,59.8,25.35,Sports,Swim Sports,Bathing Suits,Atlantis Swim Suit,ES,Luna sastreria S.A.
+48303,76150,gold,2021-04-03,2021-04-07,1,97.8,39.1,Sports,Running - Jogging,Jogging,Triffy Top with Zipper and Hood,NL,Triffy B.V.
+48592,36823,silver,2021-04-03,2021-04-05,2,28.4,7.8,Clothes & Shoes,Clothes,Eclipse Clothing,Fit Gloves,US,Eclipse Inc
+49940,75609,gold,2021-04-03,2021-04-09,2,36.2,9.15,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Reversible Hat,US,Eclipse Inc
+51532,26585,silver,2021-04-03,2021-04-05,2,113.2,26.95,Clothes & Shoes,Clothes,Orion Clothing,Original Jersey Zip Polo,CA,Fuller Trading Co.
+53068,89766,silver,2021-04-03,2021-04-09,1,57.6,27.5,Clothes & Shoes,Clothes,Orion Clothing,Jumper,CA,Fuller Trading Co.
+53181,83831,gold,2021-04-03,2021-04-04,2,129.8,26.5,Sports,Swim Sports,Bathing Suits,Sunfit Fluid Swim Suit,US,Nautlius SportsWear Inc
+53644,33986,gold,2021-04-03,2021-04-04,1,36.4,16.2,Children,Children Sports,Tracker Kid's Clothes,Logo Coord.Logo Children's Sweatshirt,US,3Top Sports

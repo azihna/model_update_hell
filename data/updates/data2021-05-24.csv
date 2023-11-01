@@ -1,0 +1,50 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+807,49131,gold,2021-05-24,2021-05-31,1,119.8,52.05,Clothes & Shoes,Shoes,Shoes,Twain Women's Exit Low 2000 Street Shoes,US,Twain Inc
+1033,21065,platinum,2021-05-24,2021-05-27,1,34.9,17.55,Clothes & Shoes,Shoes,Eclipse Shoes,Eclipse Mens Off Court Tennis Shoes,US,Eclipse Inc
+1034,37505,silver,2021-05-24,2021-05-28,1,34.9,17.55,Clothes & Shoes,Shoes,Eclipse Shoes,Eclipse Mens Off Court Tennis Shoes,US,Eclipse Inc
+1035,83683,silver,2021-05-24,2021-05-30,1,34.9,17.55,Clothes & Shoes,Shoes,Eclipse Shoes,Eclipse Mens Off Court Tennis Shoes,US,Eclipse Inc
+1221,19403,silver,2021-05-24,2021-05-29,3,106.5,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+2646,31330,gold,2021-05-24,2021-05-29,1,178.875,71.55,Sports,Winter Sports,Winter Sports,Massif Bandit Ski Parcel Axial,FR,Massif S.A.
+4435,29455,silver,2021-05-24,2021-05-25,3,100.8,14.65,Sports,Team Sports,Soccer,Stephens Shirt,US,Teamsports Inc
+5101,65404,gold,2021-05-24,2021-05-26,1,32.7,14.95,Clothes & Shoes,Clothes,Tracker Clothes,Casual Sport Shorts,US,3Top Sports
+5672,49733,silver,2021-05-24,2021-05-25,2,259.6,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+5875,50760,silver,2021-05-24,2021-05-29,1,113.2,54.0,Sports,Assorted Sports Articles,Skates,Pro-roll Lazer Roller Skates,PT,Magnifico Sports
+5876,71634,silver,2021-05-24,2021-05-26,1,113.2,54.0,Sports,Assorted Sports Articles,Skates,Pro-roll Lazer Roller Skates,PT,Magnifico Sports
+7475,59631,gold,2021-05-24,2021-05-31,3,178.5,23.85,Clothes & Shoes,Clothes,Knitwear,Mayday Stunner Adventure Shirt,US,Mayday Inc
+7644,42355,silver,2021-05-24,2021-05-26,1,182.9,77.8,Sports,Assorted Sports Articles,Assorted Sports articles,Brt Anorak,ES,Luna sastreria S.A.
+10038,8489,gold,2021-05-24,2021-05-26,2,16.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+10039,63174,silver,2021-05-24,2021-05-30,3,24.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+13029,51805,gold,2021-05-24,2021-06-07,2,252.2,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+13130,52100,silver,2021-05-24,2021-05-27,1,45.5,20.2,Sports,Running - Jogging,Jogging,"Men's Sweatshirt Round Neck, Big Logo",US,A Team Sports
+16038,73197,gold,2021-05-24,2021-05-30,1,26.3,12.6,Sports,Running - Jogging,Running Clothes,Breath-shirt Undershirt,BE,Force Sports
+17122,70712,silver,2021-05-24,2021-05-29,1,22.4,10.6,Clothes & Shoes,Clothes,Knitwear,Instyle Pullover Lite,US,AllSeasons Outdoor Clothing
+17468,33940,gold,2021-05-24,2021-05-26,2,64.8,13.4,Sports,Assorted Sports Articles,Darts,Bulls Eye 15 Gram 80% Tungsten Soft,GB,Royal Darts Ltd
+18226,77622,gold,2021-05-24,2021-05-26,1,34.6,14.4,Sports,Assorted Sports Articles,Darts,Bulls Eye Stuart/Tungsten 24 Gram,GB,Royal Darts Ltd
+19472,8532,gold,2021-05-24,2021-06-01,1,51.8,23.05,Clothes & Shoes,Shoes,Tracker Shoes,The Wish M Men's Running Shoes,US,3Top Sports
+20236,41525,gold,2021-05-24,2021-05-26,3,18.3,2.9,Sports,Team Sports,Baseball,Baseball White Large,US,Top Sports Inc
+20922,18286,silver,2021-05-24,2021-05-30,1,245.0,102.2,Clothes & Shoes,Clothes,Knitwear,Massif Men's Kitzbuhel Gore Windst.,FR,Massif S.A.
+26966,40415,silver,2021-05-24,2021-05-28,1,27.5,11.75,Children,Children Sports,"N.D. Gear, Kids",O'my Athen Swimming Trunks,ES,Luna sastreria S.A.
+28604,8375,silver,2021-05-24,2021-05-30,1,87.2,34.9,Sports,Winter Sports,Winter Sports,Amber Cc,CA,CrystalClear Optics Inc
+29107,48493,silver,2021-05-24,2021-05-29,3,183.3,27.1,Sports,Running - Jogging,Jogging,A-team Sweatshirt Round Neck,US,A Team Sports
+30385,10703,silver,2021-05-24,2021-05-30,1,26.9,11.7,Clothes & Shoes,Clothes,Street Wear,Tyfoon Ketch T-Shirt,AU,Typhoon Clothing
+31860,21058,gold,2021-05-24,2021-05-27,1,24.6,11.3,Clothes & Shoes,Clothes,Tracker Clothes,Mm Daypouch Shoulder Bag,US,3Top Sports
+32189,13290,gold,2021-05-24,2021-06-05,2,250.8,12.5,Sports,Golf,Golf Clothes,Bogie Golf Fleece with small Zipper,US,Mike Schaeffer Inc
+32555,46585,gold,2021-05-24,2021-05-29,1,228.2,97.05,Sports,Winter Sports,Ski Dress,Hot Duck Men's Ski Pants Halley,DK,Norsok A/S
+32924,72056,gold,2021-05-24,2021-06-01,3,319.8,53.4,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Exploraid Shoes,US,Eclipse Inc
+33348,74751,silver,2021-05-24,2021-05-25,2,32.6,7.45,Outdoors,Outdoors,Sleepingbags,"Cellrest  3 Season 180x50x8, Purple, Sleeping",AU,Toto Outdoor Gear
+38959,78918,gold,2021-05-24,2021-05-27,1,9.9,4.3,Children,Children Sports,"N.D. Gear, Kids",Fleece Children's Headband,ES,Luna sastreria S.A.
+39282,61588,silver,2021-05-24,2021-05-29,1,111.5,50.7,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Disruptor Junior,GB,Greenline Sports Ltd
+40419,117,silver,2021-05-24,2021-05-26,3,89.7,14.3,Sports,Assorted Sports Articles,Assorted Sports articles,Mk Splinter 66 5m 88a Pea.,PT,Magnifico Sports
+41093,62120,gold,2021-05-24,2021-05-28,1,187.6,76.3,Sports,Winter Sports,Ski Dress,Mayday Girl's Rider Pants,US,Mayday Inc
+42038,4375,silver,2021-05-24,2021-05-27,3,99.0,16.6,Sports,Assorted Sports Articles,Assorted Sports articles,Soccer Fan Children's Football Player Shorts,GB,SportsFan Products Ltd
+43121,2259,gold,2021-05-24,2021-05-30,3,381.9,53.05,Sports,Racket Sports,Racket Sports,Smasher Rd Power 5 Tennis Racket,GB,British Sports Ltd
+45923,55175,gold,2021-05-24,2021-05-30,1,83.9,35.05,Sports,Assorted Sports Articles,Assorted Sports articles,Gordon Sweatshirt,ES,Luna sastreria S.A.
+46457,30804,silver,2021-05-24,2021-05-26,1,8.5,3.3,Sports,Assorted Sports Articles,Assorted Sports articles,Stout Brass 18 Gram,GB,Royal Darts Ltd
+47091,57823,silver,2021-05-24,2021-05-28,1,91.2,36.55,Sports,Winter Sports,Winter Sports,"Like Regulator,Carbon",CA,CrystalClear Optics Inc
+47480,86132,gold,2021-05-24,2021-05-25,2,56.2,14.15,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Components + Te,US,Eclipse Inc
+49059,73867,gold,2021-05-24,2021-05-25,1,478.0,238.95,Sports,Assorted Sports Articles,Skates,Rollerskate  Roller Skates Hockey Proto Vs80/,PT,Magnifico Sports
+49627,43372,gold,2021-05-24,2021-05-29,1,32.3,14.75,Clothes & Shoes,Clothes,Tracker Clothes,Tims Shorts,US,3Top Sports
+51515,23006,silver,2021-05-24,2021-05-28,3,302.7,50.55,Clothes & Shoes,Clothes,LSF,Big Guy Air Terra Grande,US,Eclipse Inc
+51516,85163,silver,2021-05-24,2021-05-30,4,403.6,50.55,Clothes & Shoes,Clothes,LSF,Big Guy Air Terra Grande,US,Eclipse Inc
+51831,79051,silver,2021-05-24,2021-05-28,1,23.4,11.8,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Long Twill Short,US,Eclipse Inc
+53863,76267,gold,2021-05-24,2021-05-30,1,34.4,17.3,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Tactel Pants,US,Eclipse Inc

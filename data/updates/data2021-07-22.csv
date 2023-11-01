@@ -1,0 +1,36 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2092,84278,silver,2021-07-22,2021-07-23,1,13.2,6.5,Clothes & Shoes,Clothes,Knitwear,Instyle Long Pants with Fly,US,AllSeasons Outdoor Clothing
+3519,78501,gold,2021-07-22,2021-07-27,4,294.8,38.4,Sports,Team Sports,Soccer,Fga Away Football Shirt,US,Fga Sports Inc
+4176,3911,gold,2021-07-22,2021-07-27,2,460.6,102.45,Sports,Assorted Sports Articles,Skates,Proskater E 4.2 Women's Fitness Skates,US,Roll-Over Inc
+8529,48851,silver,2021-07-22,2021-07-27,1,134.4,57.05,Outdoors,Outdoors,Anoraks & Parkas,Tieman Down Jacket,US,AllSeasons Outdoor Clothing
+13256,57103,silver,2021-07-22,2021-07-26,2,47.2,12.3,Sports,Team Sports,American Football,Armour L,US,A Team Sports
+14581,10015,gold,2021-07-22,2021-07-28,3,125.7,18.2,Sports,Assorted Sports Articles,Assorted Sports articles,Ultra York Shorts,ES,Luna sastreria S.A.
+16810,16082,silver,2021-07-22,2021-07-25,2,6.4,1.35,Outdoors,Outdoors,Outdoor Gear,"Backpack Flag, 6,5x9 Cm.",GB,Prime Sports Ltd
+18232,40415,gold,2021-07-22,2021-07-26,1,34.6,14.4,Sports,Assorted Sports Articles,Darts,Bulls Eye Stuart/Tungsten 24 Gram,GB,Royal Darts Ltd
+18372,86711,gold,2021-07-22,2021-07-26,2,272.0,51.3,Outdoors,Outdoors,Outdoor Gear,"Tent Milano Tent,4 Persons, about 4.8",GB,Prime Sports Ltd
+20715,31330,silver,2021-07-22,2021-07-27,1,61.3,31.95,Sports,Team Sports,Soccer,Enland Player Shirt,US,Fga Sports Inc
+22500,42153,gold,2021-07-22,2021-07-24,2,462.0,113.65,Sports,Assorted Sports Articles,Skates,N.d.gear Roller Skates Ff80 80 millimetre78a,PT,Magnifico Sports
+24217,19481,platinum,2021-07-22,2021-07-26,3,345.0,52.35,Clothes & Shoes,Shoes,Tracker Shoes,Liga Football Boot,US,3Top Sports
+24770,82623,silver,2021-07-22,2021-07-31,3,189.0,28.7,Clothes & Shoes,Clothes,Leisure,Van Damme Women's Polo Pique L,NL,Van Dammeren International
+25683,93503,silver,2021-07-22,2021-07-26,2,52.4,8.85,Sports,Running - Jogging,Jogging,Triffy Logo T-Shirt with V-Neck,NL,Triffy B.V.
+28943,37048,silver,2021-07-22,2021-07-25,2,78.4,17.85,Sports,Running - Jogging,Jogging,Pants Woven,US,3Top Sports
+30471,43085,gold,2021-07-22,2021-07-24,2,345.0,78.5,Clothes & Shoes,Shoes,Tracker Shoes,Mns.raptor Precision Sg Football,US,3Top Sports
+32275,65152,silver,2021-07-22,2021-07-23,4,372.8,40.7,Outdoors,Outdoors,Outdoor Gear,Polyester 3-Persons,GB,Prime Sports Ltd
+33064,80945,silver,2021-07-22,2021-07-24,2,37.4,8.55,Sports,Assorted Sports Articles,Assorted Sports articles,Cruise First Star Baby Shoes,SE,Petterson AB
+33306,42266,gold,2021-07-22,2021-07-23,2,69.4,16.25,Sports,Assorted Sports Articles,Assorted Sports articles,"Sealion Junior,Blue/Balck Sleeping Bag",DK,Top Sports
+33799,15848,silver,2021-07-22,2021-07-25,2,207.0,51.7,Sports,Assorted Sports Articles,Skates,Gamma Roller Skates,US,Roll-Over Inc
+34570,47519,platinum,2021-07-22,2021-07-26,2,28.0,5.8,Sports,Assorted Sports Articles,Assorted Sports articles,Beaver Glass Black,CA,CrystalClear Optics Inc
+34591,1347,gold,2021-07-22,2021-07-27,2,217.8,54.55,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Athena Triax-Running Shoes,US,Eclipse Inc
+36416,9931,silver,2021-07-22,2021-07-28,2,219.8,46.8,Sports,Assorted Sports Articles,Assorted Sports articles,Lyon Men's Jacket,ES,Luna sastreria S.A.
+37542,51256,gold,2021-07-22,2021-07-26,2,391.4,97.95,Clothes & Shoes,Shoes,Shoes,Soft Kayano Men's Running Shoes,US,Pro Sportswear Inc
+37587,63042,gold,2021-07-22,2021-07-25,2,58.8,13.55,Children,Children Sports,Tracker Kid's Clothes,Corp.Baby Jogger,US,3Top Sports
+39719,21441,silver,2021-07-22,2021-07-24,2,197.6,42.95,Clothes & Shoes,Shoes,Shoes,Salida Low Men's Outdoor Shoes,US,Twain Inc
+39734,10508,silver,2021-07-22,2021-07-24,2,57.0,12.35,Sports,Swim Sports,Bathing Suits,Sunfit Stockton Swimming Trunks,US,Nautlius SportsWear Inc
+40030,84336,gold,2021-07-22,2021-07-23,2,94.0,21.45,Clothes & Shoes,Shoes,Shoes,Allinall Star Men's Canvas Shoes,SE,Petterson AB
+43395,29732,gold,2021-07-22,2021-07-28,1,40.2,20.05,Children,Children Sports,"N.D. Gear, Kids",Essential Tracking Pants with Pocket,GB,Greenline Sports Ltd
+44589,49847,silver,2021-07-22,2021-07-26,2,39.2,7.9,Sports,Racket Sports,Tennis,Smasher Tights,GB,British Sports Ltd
+49285,76168,gold,2021-07-22,2021-07-24,2,53.8,13.4,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Basic T-Shirt,GB,Greenline Sports Ltd
+49817,18628,silver,2021-07-22,2021-07-27,2,173.0,34.65,Sports,Running - Jogging,Jogging,Triffy Top with Hood,NL,Triffy B.V.
+50754,65482,gold,2021-07-22,2021-07-25,2,218.6,54.75,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Croos Trainer Iii Shoes,US,Eclipse Inc
+53438,61024,gold,2021-07-22,2021-07-24,1,64.6,27.2,Sports,Indoor Sports,Gymnastic Clothing,Mayday Sports Sweater,US,Mayday Inc
+54287,42814,gold,2021-07-22,2021-07-27,2,78.4,16.45,Sports,Running - Jogging,Running Clothes,Force Short Sprinter Men's Tights,BE,Force Sports

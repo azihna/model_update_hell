@@ -1,0 +1,40 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+127,81150,gold,2021-07-18,2021-07-19,4,98.8,11.8,Sports,Golf,Golf,Ball Bag,NL,Van Dammeren International
+961,27113,gold,2021-07-18,2021-07-23,1,24.5,11.75,Sports,Winter Sports,Winter Sports,Original Eco Thermo 01 Yellow,US,Twain Inc
+1228,49485,gold,2021-07-18,2021-07-23,2,71.0,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+1229,60800,gold,2021-07-18,2021-07-25,2,71.0,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+2828,61594,gold,2021-07-18,2021-07-20,5,385.0,38.6,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Right,Charcoal",DK,Top Sports
+2981,58897,gold,2021-07-18,2021-07-22,1,25.6,12.1,Clothes & Shoes,Clothes,Knitwear,Instyle Pullover Mid,US,AllSeasons Outdoor Clothing
+4122,82051,silver,2021-07-18,2021-07-20,2,142.0,32.3,Clothes & Shoes,Shoes,Tracker Shoes,Indoor Handbold Special Shoes,US,3Top Sports
+4373,33687,gold,2021-07-18,2021-07-19,1,46.9,21.95,Sports,Team Sports,Soccer,Fga Home Shorts,US,Fga Sports Inc
+4530,142,silver,2021-07-18,2021-07-20,2,69.0,15.4,Sports,Running - Jogging,Jogging,Sweatshirt Women's Sweatshirt with O-Neck,US,A Team Sports
+8370,87924,silver,2021-07-18,2021-07-20,2,32.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+10839,87408,silver,2021-07-18,2021-07-19,1,35.7,17.95,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Dry Fit T-Shirt,US,Eclipse Inc
+13540,89031,gold,2021-07-18,2021-07-19,2,74.8,16.3,Children,Children Sports,"Ypsilon, Kids",Ypsilon Children's Sweatshirt,FR,Ypsilon S.A.
+13736,77634,gold,2021-07-18,2021-07-20,5,69.95,8.15,Children,Children Sports,"Osprey, Kids",Osprey Children's The Cat  Shorts,US,Triple Sportswear Inc
+15196,74245,gold,2021-07-18,2021-07-22,3,18.6,2.75,Sports,Team Sports,Soccer,Soccer Socks Senior,US,Teamsports Inc
+17685,27366,silver,2021-07-18,2021-07-19,2,224.0,56.1,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Shorter Length Down Jacket,US,Eclipse Inc
+18609,50804,gold,2021-07-18,2021-07-19,2,132.8,30.25,Clothes & Shoes,Shoes,Shoes,Lulu Men's Street Shoes,SE,Petterson AB
+20237,10278,silver,2021-07-18,2021-07-20,2,12.2,2.9,Sports,Team Sports,Baseball,Baseball White Large,US,Top Sports Inc
+21878,47406,gold,2021-07-18,2021-07-19,4,880.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+22499,48167,gold,2021-07-18,2021-07-19,1,231.0,113.65,Sports,Assorted Sports Articles,Skates,N.d.gear Roller Skates Ff80 80 millimetre78a,PT,Magnifico Sports
+23055,88731,silver,2021-07-18,2021-07-22,4,360.8,38.3,Clothes & Shoes,Clothes,Knitwear,Fleece Jacket Compass,US,AllSeasons Outdoor Clothing
+25903,35072,silver,2021-07-18,2021-07-20,4,50.4,5.65,Outdoors,Outdoors,Outdoor Gear,Compass Compass,US,KN Outdoor Trading Inc
+30068,2537,gold,2021-07-18,2021-07-22,2,107.8,25.8,Outdoors,Outdoors,Backpacks,"Backpack Black/Blue,600 Gr.20 Litre",DK,Top Sports
+30511,84052,gold,2021-07-18,2021-07-19,2,48.8,10.6,Clothes & Shoes,Clothes,Street Wear,Tyfoon Brake Shorts,AU,Typhoon Clothing
+32238,93255,silver,2021-07-18,2021-07-20,2,173.2,43.4,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Quest Shoes,US,Eclipse Inc
+32373,5532,gold,2021-07-18,2021-07-23,2,124.6,31.25,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Striped Rib Polo,US,Eclipse Inc
+33422,74967,gold,2021-07-18,2021-07-21,2,96.4,20.75,Sports,Assorted Sports Articles,Assorted Sports articles,Fred T-Shirt,ES,Luna sastreria S.A.
+34554,82210,gold,2021-07-18,2021-07-29,2,49.2,11.3,Clothes & Shoes,Clothes,Tracker Clothes,Casual Sport V-Tee,US,3Top Sports
+35383,70397,silver,2021-07-18,2021-07-19,2,77.2,18.35,Clothes & Shoes,Clothes,Orion Clothing,Bra Top Wom.Fitn.Cl,CA,Fuller Trading Co.
+35644,38702,gold,2021-07-18,2021-07-21,2,173.4,43.3,Clothes & Shoes,Clothes,Eclipse Clothing,Watchit 42 Silver/Black/Silver,US,Eclipse Inc
+37158,88651,gold,2021-07-18,2021-07-21,3,161.1,22.3,Sports,Swim Sports,Bathing Suits,Sunfit Madi Swim Suit,US,Nautlius SportsWear Inc
+38050,59208,gold,2021-07-18,2021-07-23,1,77.7,33.1,Sports,Assorted Sports Articles,Assorted Sports articles,St. John's Men's Polo College,ES,Luna sastreria S.A.
+38394,73268,silver,2021-07-18,2021-07-20,2,150.8,37.8,Outdoors,Outdoors,Backpacks,Large Rust/Black Backpack,DK,Top Sports
+41055,24329,silver,2021-07-18,2021-07-20,2,63.0,14.45,Sports,Swim Sports,Bathing Suits,Swim Suit Semani,US,3Top Sports
+42921,20740,silver,2021-07-18,2021-07-23,3,29.7,2.75,Clothes & Shoes,Clothes,Stockings & Socks,Massif Polisox Tube,FR,Massif S.A.
+44804,71356,silver,2021-07-18,2021-07-21,2,117.0,23.4,Sports,Golf,Golf Clothes,Eagle Polo Shirt,US,HighPoint Trading
+46542,40583,gold,2021-07-18,2021-07-22,2,221.4,51.35,Sports,Assorted Sports Articles,Assorted Sports articles,Copper,GB,Royal Darts Ltd
+48765,90963,silver,2021-07-18,2021-07-24,2,42.8,8.9,Clothes & Shoes,Clothes,Stockings & Socks,Hawkins Tk2 Men's Trekking Socks,US,Sockeye Sportswear Inc
+49949,13418,gold,2021-07-18,2021-07-22,2,140.2,31.95,Clothes & Shoes,Shoes,Tracker Shoes,Torino Women's Leather Shoes,US,3Top Sports
+54012,53947,silver,2021-07-18,2021-07-22,2,146.6,33.4,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Cargo Pants Box Log.,GB,Greenline Sports Ltd

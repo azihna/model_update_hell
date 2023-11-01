@@ -1,0 +1,31 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1744,83429,silver,2021-08-21,2021-08-26,2,33.98,9.65,Clothes & Shoes,Shoes,Tracker Shoes,Multicolour Bathing Sandal,ES,Luna sastreria S.A.
+1876,78394,gold,2021-08-21,2021-08-26,1,48.3,20.5,Outdoors,Outdoors,Anoraks & Parkas,Tasmania Men's Shirt,NO,Scandinavian Clothing A/S
+5305,16519,silver,2021-08-21,2021-08-24,3,395.4,62.7,Sports,Assorted Sports Articles,Skates,Pro-roll Nitro Roller Skates,PT,Magnifico Sports
+6056,18780,silver,2021-08-21,2021-08-23,2,146.8,36.8,Outdoors,Outdoors,Sleepingbags,"Expedition 10,Small,Left,Blue Ribbon",DK,Top Sports
+7515,81739,gold,2021-08-21,2021-08-23,3,227.4,32.95,Sports,Assorted Sports Articles,Assorted Sports articles,"Comp,Bkp.Blue",CA,CrystalClear Optics Inc
+14926,54265,gold,2021-08-21,2021-08-24,3,124.5,17.25,Sports,Assorted Sports Articles,Assorted Sports articles,Pool Shorts,ES,Luna sastreria S.A.
+15489,43453,silver,2021-08-21,2021-08-25,2,122.0,28.75,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Turbulence Shoes,US,Eclipse Inc
+17180,61653,silver,2021-08-21,2021-08-23,2,78.2,19.65,Clothes & Shoes,Shoes,Eclipse Shoes,Cnv Plus Men's Off Court Tennis,US,Eclipse Inc
+26656,24773,silver,2021-08-21,2021-08-27,1,78.5,35.7,Sports,Winter Sports,Winter Sports,"Regulator,Stopsign",CA,CrystalClear Optics Inc
+26803,73852,platinum,2021-08-21,2021-08-23,2,206.0,42.4,Clothes & Shoes,Clothes,Knitwear,Lucky Knitwear Wool Sweater,US,AllSeasons Outdoor Clothing
+28611,25134,gold,2021-08-21,2021-08-22,1,87.2,34.9,Sports,Winter Sports,Winter Sports,Amber Cc,CA,CrystalClear Optics Inc
+29336,19154,gold,2021-08-21,2021-08-24,2,182.0,40.25,Clothes & Shoes,Clothes,LSF,Osprey Men's Street Cat Nubuck Street Shoes,US,Triple Sportswear Inc
+29700,19684,silver,2021-08-21,2021-08-26,1,438.0,182.55,Sports,Winter Sports,Ski Dress,Massif Men's Pro Jacket,FR,Massif S.A.
+30810,10763,silver,2021-08-21,2021-08-23,3,335.4,49.0,Sports,Assorted Sports Articles,Assorted Sports articles,Chris Rain Pants,ES,Luna sastreria S.A.
+31012,14728,gold,2021-08-21,2021-08-23,2,170.2,40.65,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Medium,Right/Blue/Black",DK,Top Sports
+31571,81187,gold,2021-08-21,2021-08-22,2,109.6,26.1,Sports,Running - Jogging,Running Clothes,Winter Tights Winter Tights,BE,Force Sports
+33478,39122,gold,2021-08-21,2021-08-26,2,67.0,7.3,Sports,Team Sports,Soccer,Soccer Fan Football Player Shorts,GB,SportsFan Products Ltd
+34298,45332,gold,2021-08-21,2021-08-25,2,70.4,15.55,Sports,Team Sports,Soccer,Oneshot 10,US,Teamsports Inc
+34782,29342,silver,2021-08-21,2021-08-24,2,278.2,59.2,Sports,Running - Jogging,Running Clothes,Allda Jacket,ES,Luna sastreria S.A.
+37515,35239,gold,2021-08-21,2021-09-06,2,14.4,3.25,Clothes & Shoes,Shoes,Tracker Shoes,Sole Double Active Insole,US,3Top Sports
+39844,65040,silver,2021-08-21,2021-08-23,2,78.4,20.05,Outdoors,Outdoors,Outdoor Gear,Outback Storm Kitchen,GB,Prime Sports Ltd
+40139,14521,silver,2021-08-21,2021-08-27,3,151.8,25.25,Sports,Running - Jogging,Jogging,Pants Fun,GB,Greenline Sports Ltd
+41517,73827,gold,2021-08-21,2021-08-23,2,215.8,53.35,Sports,Golf,Golf,Proplay Stand Black,NL,Van Dammeren International
+42251,6296,silver,2021-08-21,2021-08-22,2,50.4,11.05,Sports,Assorted Sports Articles,Assorted Sports articles,Inlet Purple/Black,NL,Van Dammeren International
+46152,46689,silver,2021-08-21,2021-08-26,3,679.8,113.4,Outdoors,Outdoors,Backpacks,Commanche Backpack 7000 Dark Grey,DK,Top Sports
+47632,55240,silver,2021-08-21,2021-08-22,3,143.7,21.85,Children,Children Sports,Tracker Kid's Clothes,Infant Children's Shoes,US,3Top Sports
+48575,36944,silver,2021-08-21,2021-08-24,3,74.7,10.35,Sports,Swim Sports,Bathing Suits,Men's Swimming Trunks,US,Dolphin Sportswear Inc
+50248,27407,gold,2021-08-21,2021-08-25,1,33.4,16.0,Clothes & Shoes,Clothes,Orion Clothing,Tx Tribe Tank Top,CA,Fuller Trading Co.
+51500,88169,gold,2021-08-21,2021-08-26,2,225.4,56.45,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men'sAir Duration Shoes,US,Eclipse Inc
+51587,37702,gold,2021-08-21,2021-08-25,2,244.2,61.15,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Court Motion,US,Eclipse Inc

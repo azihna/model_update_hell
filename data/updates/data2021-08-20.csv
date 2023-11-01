@@ -1,0 +1,47 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+461,1414,gold,2021-08-20,2021-08-26,2,195.0,40.55,Outdoors,Outdoors,Outdoor Gear,Mayday Qd Zip Pants,US,Mayday Inc
+1456,54472,silver,2021-08-20,2021-08-22,2,206.4,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+2539,55878,gold,2021-08-20,2021-08-24,3,342.6,57.2,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Clima Fit Ultra Lite Jacket,US,Eclipse Inc
+4376,93041,gold,2021-08-20,2021-08-24,2,94.6,22.15,Sports,Team Sports,Soccer,Fga Home Shorts,US,Fga Sports Inc
+4829,62216,silver,2021-08-20,2021-08-24,2,47.0,10.2,Sports,Team Sports,Soccer,Soccer Ball-autogr Rafer Size 5  Red/,US,Teamsports Inc
+5406,2191,gold,2021-08-20,2021-08-21,2,110.2,24.05,Sports,Running - Jogging,Jogging,Ypsilon Men's Sweatshirt w/Piping,FR,Ypsilon S.A.
+5681,36978,gold,2021-08-20,2021-08-26,3,389.4,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+7820,63965,silver,2021-08-20,2021-08-23,2,100.0,25.1,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Fresh Soft Nylon Pants,US,Eclipse Inc
+8119,35295,gold,2021-08-20,2021-08-21,2,168.2,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+9510,74530,gold,2021-08-20,2021-08-25,1,113.1,58.9,Outdoors,Outdoors,Anoraks & Parkas,Jacket with Removable Fleece,US,AllSeasons Outdoor Clothing
+10923,30381,silver,2021-08-20,2021-08-22,3,79.2,11.8,Sports,Swim Sports,Bathing Suits,Sunfit Madly Swim Suit,US,Nautlius SportsWear Inc
+13590,73041,silver,2021-08-20,2021-08-22,3,125.1,19.75,Sports,Running - Jogging,Running Clothes,Maxrun Running Tights,BE,Force Sports
+15603,11358,gold,2021-08-20,2021-08-21,2,45.4,10.85,Sports,Running - Jogging,Running Clothes,Original Running Pants,BE,Force Sports
+16218,22923,gold,2021-08-20,2021-08-24,2,116.4,24.2,Sports,Running - Jogging,Running Clothes,Force Men's Running Vest,BE,Force Sports
+17532,33982,silver,2021-08-20,2021-08-21,3,375.6,57.1,Outdoors,Outdoors,Backpacks,Tornado 55 Litre Red Women's Backpack,AU,Toto Outdoor Gear
+18616,27631,gold,2021-08-20,2021-08-24,3,199.2,30.25,Clothes & Shoes,Shoes,Shoes,Lulu Men's Street Shoes,SE,Petterson AB
+20238,59335,gold,2021-08-20,2021-08-23,3,18.3,2.9,Sports,Team Sports,Baseball,Baseball White Large,US,Top Sports Inc
+20562,55128,silver,2021-08-20,2021-08-22,2,321.6,78.5,Sports,Golf,Golf,Rubby Women's Golf Shoes w/Goretex,ES,Rubby Zapatos S.A.
+21580,93935,silver,2021-08-20,2021-08-23,2,119.8,24.95,Sports,Running - Jogging,Running Clothes,"Brafit Classic Jacket, Running",BE,Force Sports
+21886,78668,gold,2021-08-20,2021-08-24,2,440.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+22175,74784,silver,2021-08-20,2021-08-25,2,205.98,63.7,Clothes & Shoes,Shoes,Tracker Shoes,Mns Gazelle Men's Running Shoes,US,3Top Sports
+22850,43909,gold,2021-08-20,2021-08-25,3,36.0,6.05,Clothes & Shoes,Clothes,Eclipse Clothing,Toto Band Socks (3-pack) L,US,Eclipse Inc
+26149,20915,silver,2021-08-20,2021-08-24,2,201.8,50.4,Sports,Assorted Sports Articles,Skates,Plus Jr.Skates,US,Roll-Over Inc
+26386,4134,silver,2021-08-20,2021-08-25,2,236.8,49.45,Sports,Racket Sports,Racket Sports,Aftm Swing Power 500 Sr Black/Silver/Red,GB,British Sports Ltd
+26548,61490,gold,2021-08-20,2021-08-25,2,47.98,9.75,Sports,Team Sports,American Football,Football - Helmet XL,US,A Team Sports
+28814,16621,gold,2021-08-20,2021-08-23,2,58.2,13.95,Sports,Running - Jogging,Running Clothes,Maxrun Short Running Tights,BE,Force Sports
+30071,52537,gold,2021-08-20,2021-08-26,2,107.8,25.8,Outdoors,Outdoors,Backpacks,"Backpack Black/Blue,600 Gr.20 Litre",DK,Top Sports
+30437,92293,gold,2021-08-20,2021-08-22,2,270.4,67.7,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Zoom Drive Shoes,US,Eclipse Inc
+33916,87949,silver,2021-08-20,2021-08-25,2,37.6,8.55,Sports,Team Sports,Soccer,Fanatic Blue/Yellow/Blue,US,Teamsports Inc
+35088,41995,gold,2021-08-20,2021-08-23,3,406.5,61.5,Outdoors,Outdoors,Backpacks,Tornado 65 Litre Blue Women's Backpack,AU,Toto Outdoor Gear
+38730,41588,platinum,2021-08-20,2021-08-21,2,352.8,86.05,Sports,Assorted Sports Articles,Skates,N.d.gear  Roller Skates Ff60 76 millimetre/78,PT,Magnifico Sports
+39222,80040,gold,2021-08-20,2021-08-25,2,171.6,39.05,Clothes & Shoes,Shoes,Tracker Shoes,Hi Response Women's Aerobic Shoes Large,US,3Top Sports
+40482,19717,silver,2021-08-20,2021-09-05,2,54.0,13.6,Sports,Assorted Sports Articles,Assorted Sports articles,Soccer Fan Children's Player Shorts,GB,SportsFan Products Ltd
+42729,50051,silver,2021-08-20,2021-08-24,3,109.8,18.45,Clothes & Shoes,Clothes,Orion Clothing,Soccer Adult's Homeshorts,CA,Fuller Trading Co.
+42922,24934,silver,2021-08-20,2021-08-21,3,29.7,2.75,Clothes & Shoes,Clothes,Stockings & Socks,Massif Polisox Tube,FR,Massif S.A.
+43379,74317,silver,2021-08-20,2021-08-22,2,78.8,17.8,Children,Children Sports,"Lucky Guy, Kids",Bozeman Rain & Storm Set,US,AllSeasons Outdoor Clothing
+43830,37327,gold,2021-08-20,2021-08-26,3,160.5,26.85,Children,Children Sports,"Eclipse, Kid's Shoes",Tony's Terra Reach(Bp),US,Eclipse Inc
+44671,38892,gold,2021-08-20,2021-08-22,2,247.6,61.8,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Women's Firewire,GB,Greenline Sports Ltd
+45181,49862,gold,2021-08-20,2021-08-22,2,75.6,17.2,Clothes & Shoes,Clothes,Tracker Clothes,Casual.duke 2-Layer Pants,US,3Top Sports
+48666,9839,gold,2021-08-20,2021-08-25,2,107.4,26.95,Clothes & Shoes,Clothes,LSF,Big Guy Men's Ldv B Athlet,US,Eclipse Inc
+50168,5838,silver,2021-08-20,2021-08-25,3,252.3,37.5,Clothes & Shoes,Clothes,Tracker Clothes,K.j. Men's Sweat Jacket,US,3Top Sports
+50666,40396,silver,2021-08-20,2021-08-26,3,123.3,18.4,Clothes & Shoes,Clothes,Tracker Clothes,Centercourt Women's Tennis Skirt,US,3Top Sports
+51818,16366,silver,2021-08-20,2021-08-22,2,67.6,15.4,Children,Children Sports,Tracker Kid's Clothes,Children's Shoes Stratosphere,US,3Top Sports
+51824,62007,gold,2021-08-20,2021-08-22,3,225.3,37.65,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's 1/2 Zip Fleece,US,Eclipse Inc
+53055,21500,silver,2021-08-20,2021-08-27,2,75.4,16.55,Clothes & Shoes,Clothes,Osprey,Osprey King Backpack '99,US,Triple Sportswear Inc
+54361,10743,silver,2021-08-20,2021-08-23,1,30.4,11.0,Sports,Indoor Sports,Gymnastic Clothing,Top with sleeve 100% Polyamid/Supplex,ES,Sportico

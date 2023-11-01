@@ -1,0 +1,41 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+684,7455,silver,2021-06-26,2021-06-29,1,15.4,6.1,Sports,Assorted Sports Articles,Darts,Aim4it 18 Gram Softtip Pil,GB,Royal Darts Ltd
+2014,6908,silver,2021-06-26,2021-07-01,2,173.2,34.1,Outdoors,Outdoors,Outdoor Gear,"Men's Pants, Basic",US,Mayday Inc
+2824,15937,silver,2021-06-26,2021-06-29,2,154.0,38.6,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Right,Charcoal",DK,Top Sports
+3075,14146,silver,2021-06-26,2021-06-28,2,183.2,45.75,Sports,Assorted Sports Articles,Skates,Bladeline S-Fitness In-Line Skates,US,Roll-Over Inc
+3992,49955,silver,2021-06-26,2021-07-01,2,64.8,14.8,Clothes & Shoes,Clothes,Tracker Clothes,2bwet 3 Cb Swimming Trunks,US,3Top Sports
+5403,79024,silver,2021-06-26,2021-06-29,2,110.2,24.05,Sports,Running - Jogging,Jogging,Ypsilon Men's Sweatshirt w/Piping,FR,Ypsilon S.A.
+7349,30254,gold,2021-06-26,2021-06-27,2,346.0,72.75,Outdoors,Outdoors,Outdoor Gear,Jl Legacy Curig I.A.Jacket,US,AllSeasons Outdoor Clothing
+8366,91961,silver,2021-06-26,2021-07-01,1,16.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+10048,65015,gold,2021-06-26,2021-07-01,5,40.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+10693,2784,silver,2021-06-26,2021-06-29,4,354.0,42.45,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Large,Right, Blue/Black",DK,Top Sports
+12528,83912,gold,2021-06-26,2021-06-29,2,166.0,41.6,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Terra Sebec Shoes,US,Eclipse Inc
+12616,221,silver,2021-06-26,2021-06-30,5,508.5,42.0,Outdoors,Outdoors,Outdoor Gear,Men's Sports Pullover,US,Mayday Inc
+12733,6963,silver,2021-06-26,2021-06-27,2,225.0,54.95,Outdoors,Outdoors,Sleepingbags,Tipee Summer Sleeping Bag,GB,Outback Outfitters Ltd
+15856,33674,silver,2021-06-26,2021-07-01,3,297.6,49.55,Sports,Assorted Sports Articles,Skates,Proskater Z-10 Jr. Fitness Roller Skates,US,Roll-Over Inc
+17178,90297,gold,2021-06-26,2021-07-02,2,78.2,19.65,Clothes & Shoes,Shoes,Eclipse Shoes,Cnv Plus Men's Off Court Tennis,US,Eclipse Inc
+17359,15351,gold,2021-06-26,2021-06-29,3,54.6,8.35,Sports,Assorted Sports Articles,Assorted Sports articles,Steady Sure-Grip,US,Roll-Over Inc
+25408,9864,silver,2021-06-26,2021-06-27,2,38.0,8.85,Clothes & Shoes,Clothes,Tracker Clothes,Stars Swim Suit,US,3Top Sports
+27493,2493,gold,2021-06-26,2021-06-27,2,47.0,9.5,Sports,Team Sports,American Football,Football - Helmet L,US,A Team Sports
+31187,19950,gold,2021-06-26,2021-07-05,2,392.6,95.65,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates A7 80/78a Action,PT,Magnifico Sports
+35417,47543,silver,2021-06-26,2021-06-30,3,797.7,131.5,Sports,Assorted Sports Articles,Skates,Twain Tr7 Men's Roller Skates,US,Twain Inc
+35592,1165,silver,2021-06-26,2021-06-28,1,24.4,11.05,Children,Children Sports,Tracker Kid's Clothes,Stars Pes Children's Shorts,US,3Top Sports
+37077,18413,silver,2021-06-26,2021-07-01,3,119.4,17.3,Children,Children Sports,"N.D. Gear, Kids",O'my York Children's Tracking Pants,ES,Luna sastreria S.A.
+37678,24738,gold,2021-06-26,2021-07-02,2,168.4,38.35,Clothes & Shoes,Shoes,Tracker Shoes,South Peak Men's Running Shoes,US,3Top Sports
+37894,46718,gold,2021-06-26,2021-07-02,1,35.5,15.2,Sports,Assorted Sports Articles,Assorted Sports articles,Goodtime Sports Bag,ES,Luna sastreria S.A.
+40136,53369,silver,2021-06-26,2021-06-30,3,151.8,25.25,Sports,Running - Jogging,Jogging,Pants Fun,GB,Greenline Sports Ltd
+41897,77969,gold,2021-06-26,2021-06-27,4,114.4,14.4,Sports,Golf,Golf,Tee18 Ascot Chipper,NL,Van Dammeren International
+42025,14911,silver,2021-06-26,2021-07-01,2,96.6,19.25,Sports,Assorted Sports Articles,Assorted Sports articles,Top Elite Kit Small,US,Roll-Over Inc
+42892,12561,gold,2021-06-26,2021-06-28,2,22.8,5.15,Children,Children Sports,"Osprey, Kids",Osprey Childen's Seperates Shorts,US,Triple Sportswear Inc
+43784,55625,silver,2021-06-26,2021-06-27,1,11.4,5.6,Clothes & Shoes,Clothes,Knitwear,Instyle Long Pants without Fly,US,AllSeasons Outdoor Clothing
+43812,53261,silver,2021-06-26,2021-07-01,2,55.8,14.05,Sports,Golf,Golf,Top Covers with Cap,US,Twain Inc
+44216,77089,gold,2021-06-26,2021-06-29,3,160.5,25.5,Clothes & Shoes,Clothes,Orion Clothing,Tx Tribe V-Neck Hood Tee,CA,Fuller Trading Co.
+45317,38448,gold,2021-06-26,2021-06-27,3,298.8,45.35,Clothes & Shoes,Shoes,Tracker Shoes,South Peak Women's Light Indoor Shoes,US,3Top Sports
+45756,21837,silver,2021-06-26,2021-06-29,2,109.6,23.75,Clothes & Shoes,Clothes,Street Wear,Tyfoon Oliver Sweatshirt,AU,Typhoon Clothing
+45765,79134,silver,2021-06-26,2021-06-30,1,32.5,14.9,Children,Children Sports,"Osprey, Kids",Osprey Seperates Sweat Big Logo,US,Triple Sportswear Inc
+45799,71990,gold,2021-06-26,2021-06-29,1,29.99,21.7,Clothes & Shoes,Clothes,Orion Clothing,Tank Top,CA,Fuller Trading Co.
+47994,5275,gold,2021-06-26,2021-07-01,4,91.6,10.85,Outdoors,Outdoors,Outdoor Gear,"Small Belt Bag, Black",DK,Top Sports
+48465,90929,gold,2021-06-26,2021-06-28,3,94.2,15.8,Children,Children Sports,"Eclipse, Kid's Shoes",Toddler Hermosa Nubuck,US,Eclipse Inc
+48801,23590,silver,2021-06-26,2021-06-28,2,90.6,21.6,Clothes & Shoes,Clothes,Orion Clothing,Zx Core Twill Bermuda,CA,Fuller Trading Co.
+49476,12985,silver,2021-06-26,2021-06-27,2,334.2,77.25,Outdoors,Outdoors,Backpacks,Backpack Boblebee Peoples Burden,US,Mayday Inc
+54022,17033,gold,2021-06-26,2021-06-27,3,121.2,18.4,Children,Children Sports,"N.D. Gear, Kids",N.d.gear Eruptor Kids,GB,Greenline Sports Ltd

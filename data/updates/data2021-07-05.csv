@@ -1,0 +1,35 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2198,78524,silver,2021-07-05,2021-07-08,2,380.8,88.8,Sports,Assorted Sports Articles,Assorted Sports articles,Barret 2.12 Men's Softboot,US,Roll-Over Inc
+4529,47912,gold,2021-07-05,2021-07-08,3,103.5,15.4,Sports,Running - Jogging,Jogging,Sweatshirt Women's Sweatshirt with O-Neck,US,A Team Sports
+5332,37999,gold,2021-07-05,2021-07-09,2,170.4,36.3,Sports,Assorted Sports Articles,Assorted Sports articles,Wyoming Men's Sweat with Small Zipper,ES,Luna sastreria S.A.
+5677,19743,gold,2021-07-05,2021-07-11,2,259.6,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+6692,76678,silver,2021-07-05,2021-07-07,2,201.2,43.45,Children,Children Sports,"Lucky Guy, Kids",Kid Suit One-piece Suit Beaver Nylon 50/50%,US,AllSeasons Outdoor Clothing
+7383,3197,gold,2021-07-05,2021-07-13,2,127.6,31.85,Sports,Assorted Sports Articles,Skates,Proskater W-10 Jr. Fitness Roller Skates,US,Roll-Over Inc
+7736,83719,silver,2021-07-05,2021-07-09,2,223.2,44.45,Sports,Assorted Sports Articles,Assorted Sports articles,"Morphe,Sand",CA,CrystalClear Optics Inc
+11183,39774,platinum,2021-07-05,2021-07-23,2,118.0,26.85,Clothes & Shoes,Shoes,Shoes,Cruise 1984 Men's Street Shoes,SE,Petterson AB
+12201,21082,silver,2021-07-05,2021-07-07,1,97.8,42.45,Sports,Winter Sports,Winter Sports,Cayenne Red,CA,CrystalClear Optics Inc
+13036,64646,silver,2021-07-05,2021-07-13,2,252.2,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+14684,30381,gold,2021-07-05,2021-07-07,2,80.4,18.9,Children,Children Sports,"N.D. Gear, Kids",Big Kid Children's Shoes,US,3Top Sports
+16145,6360,silver,2021-07-05,2021-07-06,2,68.2,15.55,Children,Children Sports,Tracker Kid's Clothes,Aac Shorts,US,3Top Sports
+19106,1162,gold,2021-07-05,2021-07-06,2,432.4,98.2,Clothes & Shoes,Shoes,Shoes,Mountain Adventura 7 Women's Hiking Boots,US,Twain Inc
+19212,53555,gold,2021-07-05,2021-07-07,2,25.8,5.45,Outdoors,Outdoors,Backpacks,Deer Waist Bag,ES,Luna sastreria S.A.
+20712,1924,gold,2021-07-05,2021-07-10,3,183.9,31.95,Sports,Team Sports,Soccer,Enland Player Shirt,US,Fga Sports Inc
+21874,33293,gold,2021-07-05,2021-07-06,2,440.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+22174,93082,gold,2021-07-05,2021-07-07,2,279.8,63.7,Clothes & Shoes,Shoes,Tracker Shoes,Mns Gazelle Men's Running Shoes,US,3Top Sports
+22621,78166,gold,2021-07-05,2021-07-08,1,181.5,77.85,Sports,Assorted Sports Articles,Assorted Sports articles,Women's Jacket,ES,Luna sastreria S.A.
+26323,93128,gold,2021-07-05,2021-07-10,2,38.8,8.8,Clothes & Shoes,Clothes,T-Shirts,Men's T-Shirt Small Logo,US,A Team Sports
+26576,54740,gold,2021-07-05,2021-07-08,2,337.4,76.55,Sports,Assorted Sports Articles,Assorted Sports articles,Proskater Viablade Tx Women's Fitness,US,Roll-Over Inc
+26676,22404,silver,2021-07-05,2021-07-09,2,71.4,15.55,Sports,Swim Sports,Bathing Suits,Sunfit Mimoun Swim Suit,US,Nautlius SportsWear Inc
+28609,23226,silver,2021-07-05,2021-07-07,1,87.2,34.9,Sports,Winter Sports,Winter Sports,Amber Cc,CA,CrystalClear Optics Inc
+29312,45751,silver,2021-07-05,2021-07-07,2,243.2,57.85,Clothes & Shoes,Clothes,Orion,Trooper Ii Dmx-2x Men's Walking Shoes,CA,Fuller Trading Co.
+31075,22216,silver,2021-07-05,2021-07-06,2,151.6,36.25,Clothes & Shoes,Clothes,Orion,Classic Men's Leisure Shoes,CA,Fuller Trading Co.
+32135,82499,silver,2021-07-05,2021-07-07,1,27.9,12.1,Sports,Team Sports,Soccer,Bruce Lance,US,Teamsports Inc
+33219,86985,gold,2021-07-05,2021-07-07,3,222.6,32.3,Sports,Assorted Sports Articles,Assorted Sports articles,Midnight Blue,CA,CrystalClear Optics Inc
+37285,75616,silver,2021-07-05,2021-07-10,2,38.8,9.8,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Athletic Shorts,US,Eclipse Inc
+37312,52988,gold,2021-07-05,2021-07-07,2,190.0,39.4,Sports,Assorted Sports Articles,Assorted Sports articles,Sweat with Hood,ES,Luna sastreria S.A.
+42590,73491,silver,2021-07-05,2021-07-10,2,361.4,90.45,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Zoom Total 90 F.G Shoes,US,Eclipse Inc
+42755,42781,platinum,2021-07-05,2021-07-10,1,26.8,12.15,Sports,Winter Sports,Winter Sports,Shine Black PRO,CA,CrystalClear Optics Inc
+45582,49593,gold,2021-07-05,2021-07-07,1,115.8,48.7,Clothes & Shoes,Clothes,Knitwear,Mayday Resque Fleece Pullover,US,Mayday Inc
+49201,25320,gold,2021-07-05,2021-07-12,2,76.2,19.15,Children,Children Sports,"Eclipse, Kid's Clothes",Toddle Knit Crew,US,Eclipse Inc
+52718,33067,silver,2021-07-05,2021-07-09,3,88.2,10.4,Sports,Swim Sports,Bathing Suits,Ass. Shorts Shorts,FR,Le Blanc S.A.
+54002,88137,gold,2021-07-05,2021-07-10,2,252.6,62.6,Sports,Golf,Golf,Hi-fly Micro Groove Tradi.Flange,NL,Van Dammeren International

@@ -1,0 +1,35 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2337,4565,gold,2021-07-17,2021-07-23,2,720.0,199.0,Outdoors,Outdoors,Tents,Expedition Dome 3,GB,Outback Outfitters Ltd
+2827,91168,silver,2021-07-17,2021-07-20,2,154.0,38.6,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Right,Charcoal",DK,Top Sports
+5404,56102,silver,2021-07-17,2021-07-20,2,110.2,24.05,Sports,Running - Jogging,Jogging,Ypsilon Men's Sweatshirt w/Piping,FR,Ypsilon S.A.
+7352,20799,silver,2021-07-17,2021-07-20,2,346.0,72.75,Outdoors,Outdoors,Outdoor Gear,Jl Legacy Curig I.A.Jacket,US,AllSeasons Outdoor Clothing
+9729,72559,gold,2021-07-17,2021-07-21,2,656.6,165.95,Sports,Assorted Sports Articles,Skates,Perfect Fit Men's Stunt Skates,US,Twain Inc
+13041,282,silver,2021-07-17,2021-07-26,4,504.4,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+13331,19390,gold,2021-07-17,2021-07-22,4,606.8,74.35,Outdoors,Outdoors,Sleepingbags,Compact Summer 195 Cm Blue Sleeping Bag,GB,Outback Outfitters Ltd
+13988,79679,gold,2021-07-17,2021-07-18,1,55.4,22.8,Sports,Assorted Sports Articles,Darts,Pacific 95% 23 Gram,GB,Royal Darts Ltd
+19412,42524,silver,2021-07-17,2021-07-21,2,27.8,6.55,Children,Children Sports,"Osprey, Kids",Osprey Cat T-Shirt 100% Cotton,US,Triple Sportswear Inc
+20343,56116,gold,2021-07-17,2021-07-18,5,1365.0,122.8,Sports,Assorted Sports Articles,Assorted Sports articles,Barret 3.1 Women's Softboot,US,Roll-Over Inc
+20713,73994,silver,2021-07-17,2021-07-22,3,183.9,31.95,Sports,Team Sports,Soccer,Enland Player Shirt,US,Fga Sports Inc
+20732,59504,gold,2021-07-17,2021-07-18,2,67.8,14.75,Children,Children Sports,Tracker Kid's Clothes,Children's Pants Toledo,ES,Luna sastreria S.A.
+20857,62599,platinum,2021-07-17,2021-07-24,1,134.8,55.1,Outdoors,Outdoors,Anoraks & Parkas,Gpv Jacket,US,AllSeasons Outdoor Clothing
+21191,7836,silver,2021-07-17,2021-07-18,2,53.8,10.3,Sports,Team Sports,Baseball,Bat - Home Run S,US,Miller Trading Inc
+22027,64157,silver,2021-07-17,2021-07-21,2,362.6,90.8,Sports,Assorted Sports Articles,Skates,Twain Ac7/Ft7 Men's Roller Skates,US,Twain Inc
+22908,65406,silver,2021-07-17,2021-07-20,4,589.2,61.3,Outdoors,Outdoors,Outdoor Gear,Mayday Rain Jacket,US,Mayday Inc
+24297,74476,gold,2021-07-17,2021-07-20,2,97.6,23.3,Clothes & Shoes,Clothes,Orion Clothing,Tx Tribe 3/4 Pants,CA,Fuller Trading Co.
+25641,56097,gold,2021-07-17,2021-07-23,2,342.2,73.15,Clothes & Shoes,Clothes,Street Wear,Tyfoon Floyd Ski Jacket,AU,Typhoon Clothing
+27775,35935,gold,2021-07-17,2021-07-21,2,45.0,10.65,Sports,Running - Jogging,Running Clothes,Stout Men's Running Singlet,BE,Force Sports
+29196,3923,silver,2021-07-17,2021-07-19,2,146.8,36.65,Clothes & Shoes,Shoes,Tracker Shoes,Hardcore Men's Street Shoes Large,GB,Greenline Sports Ltd
+30164,5275,gold,2021-07-17,2021-07-22,3,605.4,91.65,Clothes & Shoes,Shoes,Shoes,Twain Stf7 Women's Outdoor Boots,US,Twain Inc
+30519,91678,silver,2021-07-17,2021-07-21,2,131.6,33.0,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Dri-Fit Short,US,Eclipse Inc
+31162,53387,silver,2021-07-17,2021-07-22,1,124.5,60.75,Clothes & Shoes,Clothes,Orion,Dmx 6 Shoes,CA,Fuller Trading Co.
+31851,20916,silver,2021-07-17,2021-07-23,2,118.0,26.85,Clothes & Shoes,Shoes,Tracker Shoes,Asto Tf Football Boot,US,3Top Sports
+33399,63542,gold,2021-07-17,2021-07-21,3,119.4,19.85,Children,Children Sports,"N.D. Gear, Kids",Tee with V-Neck + Long sleeves,GB,Greenline Sports Ltd
+34296,44966,gold,2021-07-17,2021-07-20,3,105.6,15.55,Sports,Team Sports,Soccer,Oneshot 10,US,Teamsports Inc
+35418,21635,silver,2021-07-17,2021-07-28,4,1063.6,131.5,Sports,Assorted Sports Articles,Skates,Twain Tr7 Men's Roller Skates,US,Twain Inc
+36488,65700,silver,2021-07-17,2021-07-25,2,474.8,111.0,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Sq9 80-76mm/78a,PT,Magnifico Sports
+43295,949,silver,2021-07-17,2021-07-18,2,277.6,63.15,Clothes & Shoes,Shoes,Shoes,Twain Women's Exit Iii Mid Cd X-Hiking Shoes,US,Twain Inc
+46880,61308,gold,2021-07-17,2021-07-19,3,153.9,22.5,Sports,Assorted Sports Articles,Assorted Sports articles,Montevideo Shorts,ES,Luna sastreria S.A.
+48050,55655,gold,2021-07-17,2021-07-22,2,92.8,21.25,Clothes & Shoes,Clothes,Tracker Clothes,Casual.st.polo Long-sleeved Polo-shirt,US,3Top Sports
+48100,3264,silver,2021-07-17,2021-07-20,1,58.2,23.35,Outdoors,Outdoors,Anoraks & Parkas,"Dp City Jungle 2 Pants Canvas,Cotton",US,Mayday Inc
+48755,72500,gold,2021-07-17,2021-07-21,3,222.9,33.85,Clothes & Shoes,Shoes,Tracker Shoes,Vigil Women's Tennis Shoes,US,3Top Sports
+48821,60724,silver,2021-07-17,2021-07-19,2,110.2,27.65,Clothes & Shoes,Clothes,Orion,"Power Men's Dmx Wide, Walking Shoes",CA,Fuller Trading Co.

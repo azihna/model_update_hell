@@ -1,0 +1,35 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+494,53884,silver,2021-07-04,2021-07-07,3,303.3,48.1,Sports,Running - Jogging,Running Clothes,Ultra Line Bike overall w/Isofilm,BE,Force Sports
+7191,30979,silver,2021-07-04,2021-07-06,2,185.6,39.85,Sports,Assorted Sports Articles,Assorted Sports articles,Tybor Sweatshirt with Hood,ES,Luna sastreria S.A.
+8369,93945,silver,2021-07-04,2021-07-08,1,16.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+8398,91458,gold,2021-07-04,2021-07-05,3,239.4,40.0,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Convertible Cargo Pants,US,Eclipse Inc
+8628,2123,silver,2021-07-04,2021-07-05,2,109.6,24.3,Sports,Running - Jogging,Jogging,SweatPants Sweat Pants,US,A Team Sports
+8654,61573,gold,2021-07-04,2021-07-05,2,158.0,32.8,Children,Children Sports,"Lucky Guy, Kids",Lh Brand Duvet Jacket,US,AllSeasons Outdoor Clothing
+9099,22901,silver,2021-07-04,2021-07-07,2,26.0,5.75,Children,Children Sports,"A-Team, Kids",A-team Children's T-Shirt,US,A Team Sports
+9556,23536,silver,2021-07-04,2021-07-16,2,113.0,28.35,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's New Work-Out Pants,US,Eclipse Inc
+10529,82475,silver,2021-07-04,2021-07-16,1,38.2,15.1,Sports,Indoor Sports,Gymnastic Clothing,Essential Long-sleeved Suit,ES,Sportico
+10694,35788,silver,2021-07-04,2021-07-06,2,177.0,42.45,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Large,Right, Blue/Black",DK,Top Sports
+11583,72555,gold,2021-07-04,2021-07-07,4,735.6,86.65,Sports,Golf,Golf,Rubby Men's Golf Shoes w/Goretex Plain Toe,ES,Rubby Zapatos S.A.
+11806,29192,gold,2021-07-04,2021-07-11,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+11807,62942,silver,2021-07-04,2021-07-08,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+13255,35492,gold,2021-07-04,2021-07-09,3,70.8,12.3,Sports,Team Sports,American Football,Armour L,US,A Team Sports
+17812,35010,silver,2021-07-04,2021-07-06,1,101.875,40.75,Sports,Winter Sports,Winter Sports,Massif Cut X Super 9.9 Ski Parcel,FR,Massif S.A.
+20711,35010,silver,2021-07-04,2021-07-06,1,61.3,31.95,Sports,Team Sports,Soccer,Enland Player Shirt,US,Fga Sports Inc
+21518,65316,silver,2021-07-04,2021-07-05,1,169.5,67.8,Sports,Winter Sports,Winter Sports,Massif  Bandit L Ski Axial,FR,Massif S.A.
+21873,21684,silver,2021-07-04,2021-07-05,2,440.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+24102,763,silver,2021-07-04,2021-07-05,5,202.0,18.25,Children,Children Sports,"Osprey, Kids",Osprey Seperates Hood Sweat,US,Triple Sportswear Inc
+25878,64791,silver,2021-07-04,2021-07-05,1,52.5,24.35,Clothes & Shoes,Clothes,Knitwear,Instyle Wool Shirt,US,AllSeasons Outdoor Clothing
+27096,54376,silver,2021-07-04,2021-07-07,2,525.6,125.15,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Spectrum,PT,Magnifico Sports
+27286,31666,silver,2021-07-04,2021-07-09,3,453.9,67.95,Sports,Assorted Sports Articles,Assorted Sports articles,Prime Classic,AU,Health-Sports
+36034,48284,silver,2021-07-04,2021-07-05,1,35.9,14.8,Sports,Winter Sports,Winter Sports,Brown,CA,CrystalClear Optics Inc
+39147,53256,gold,2021-07-04,2021-07-07,2,95.8,20.65,Sports,Assorted Sports Articles,Assorted Sports articles,Wyoming Men's T-Shirt with V-Neck,ES,Luna sastreria S.A.
+42661,93387,silver,2021-07-04,2021-07-05,2,18.8,4.0,Sports,Assorted Sports Articles,Assorted Sports articles,Oneshot 10 Junior,US,Teamsports Inc
+43151,75091,silver,2021-07-04,2021-07-07,1,250.9,104.2,Outdoors,Outdoors,Anoraks & Parkas,4men Men's Polar Down Jacket,US,AllSeasons Outdoor Clothing
+43850,25801,silver,2021-07-04,2021-07-06,3,138.3,19.7,Sports,Swim Sports,Bathing Suits,Sunfit Luffa Bikini,US,Nautlius SportsWear Inc
+44455,74449,silver,2021-07-04,2021-07-09,3,128.97,27.9,Children,Children Sports,"N.D. Gear, Kids",Kiddy Swim Suit,ES,Luna sastreria S.A.
+46030,88608,silver,2021-07-04,2021-07-06,1,49.2,21.5,Children,Children Sports,"Ypsilon, Kids",Ypsilon Children's Sweat w/Big Logo,FR,Ypsilon S.A.
+50345,65721,silver,2021-07-04,2021-07-08,2,154.4,32.25,Sports,Assorted Sports Articles,Assorted Sports articles,Ultra York Sweatshirt w/Polo Collar,ES,Luna sastreria S.A.
+51410,58895,silver,2021-07-04,2021-07-06,2,19.0,4.7,Sports,Golf,Golf,Hi-fly Xl2000 Super Titanium,NL,Van Dammeren International
+51709,37294,silver,2021-07-04,2021-07-06,2,81.2,18.05,Clothes & Shoes,Clothes,Tracker Clothes,Kaitum Women's Swim Suit,US,3Top Sports
+52535,56610,gold,2021-07-04,2021-07-06,2,4.0,0.9,Outdoors,Outdoors,Outdoor Gear,"Lock Padlock, Brass, 20 millimetre",GB,Prime Sports Ltd
+54249,76436,silver,2021-07-04,2021-07-16,1,70.8,29.4,Sports,Indoor Sports,Gymnastic Clothing,Mayday W'S Tech Pants,US,Mayday Inc

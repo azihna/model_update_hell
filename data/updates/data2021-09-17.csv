@@ -1,0 +1,21 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2341,53498,gold,2021-09-17,2021-09-18,3,1080.0,199.0,Outdoors,Outdoors,Tents,Expedition Dome 3,GB,Outback Outfitters Ltd
+4177,34622,platinum,2021-09-17,2021-09-19,1,230.3,102.45,Sports,Assorted Sports Articles,Skates,Proskater E 4.2 Women's Fitness Skates,US,Roll-Over Inc
+7790,26453,silver,2021-09-17,2021-09-24,1,184.9,78.15,Outdoors,Outdoors,Anoraks & Parkas,Lucky Voss Jacket,US,AllSeasons Outdoor Clothing
+8451,79253,silver,2021-09-17,2021-09-22,1,342.2,169.05,Sports,Assorted Sports Articles,Skates,Perfect Fit Women's Roller Skates XP,US,Twain Inc
+9179,49223,gold,2021-09-17,2021-09-19,2,72.2,18.2,Sports,Assorted Sports Articles,Petanque - Boule,Boule Set 6-pack Lux,GB,Royal Darts Ltd
+9180,75317,silver,2021-09-17,2021-09-20,2,72.2,18.2,Sports,Assorted Sports Articles,Petanque - Boule,Boule Set 6-pack Lux,GB,Royal Darts Ltd
+11628,87215,silver,2021-09-17,2021-09-18,1,134.5,67.35,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Converge Triax X,US,Eclipse Inc
+12620,9094,gold,2021-09-17,2021-09-19,2,203.4,42.0,Outdoors,Outdoors,Outdoor Gear,Men's Sports Pullover,US,Mayday Inc
+16502,7184,gold,2021-09-17,2021-09-21,2,104.6,23.9,Clothes & Shoes,Shoes,Tracker Shoes,Fg Football Boots,US,3Top Sports
+20840,90220,gold,2021-09-17,2021-09-18,2,214.8,48.9,Clothes & Shoes,Shoes,Tracker Shoes,Damaskus Men's Running Shoes,US,3Top Sports
+21017,77418,silver,2021-09-17,2021-09-19,2,117.8,26.1,Sports,Running - Jogging,Jogging,Men's Sweatshirt w/Hood Big Logo,US,A Team Sports
+23142,13693,gold,2021-09-17,2021-09-18,1,55.5,22.25,Sports,Racket Sports,Tennis,Smasher Cotton,GB,British Sports Ltd
+29213,54649,gold,2021-09-17,2021-09-19,1,67.0,33.6,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Align Shoes,US,Eclipse Inc
+30845,25365,gold,2021-09-17,2021-10-01,2,204.8,51.15,Sports,Assorted Sports Articles,Skates,Children's Roller Skates,PT,Magnifico Sports
+36322,17938,silver,2021-09-17,2021-09-19,2,23.2,5.4,Sports,Assorted Sports Articles,Assorted Sports articles,Dark Grey,CA,CrystalClear Optics Inc
+37461,78524,gold,2021-09-17,2021-09-20,1,114.2,44.6,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Sq5 76mm/78a,PT,Magnifico Sports
+38089,81202,silver,2021-09-17,2021-09-22,1,87.2,44.95,Sports,Golf,Golf,Bretagne Stabilities Women's Golf Shoes,NL,Van Dammeren International
+43458,23056,silver,2021-09-17,2021-09-18,2,213.0,51.55,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tailwind Shoes,US,Eclipse Inc
+46512,6952,silver,2021-09-17,2021-09-22,1,99.3,45.2,Sports,Assorted Sports Articles,Assorted Sports articles,Fit4you Wheelbag Red,US,Twain Inc
+49608,21112,platinum,2021-09-17,2021-09-20,1,42.4,21.3,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Eden Soft Nylon Pants,US,Eclipse Inc

@@ -1,0 +1,28 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+6341,20558,gold,2021-09-27,2021-10-02,2,1038.6,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+13678,16863,silver,2021-09-27,2021-10-01,1,124.3,62.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Structure Triax Shoes,US,Eclipse Inc
+15001,57220,silver,2021-09-27,2021-10-02,1,12.4,5.6,Sports,Team Sports,Soccer,Red Cap,GB,SportsFan Products Ltd
+15296,11409,silver,2021-09-27,2021-09-29,1,197.4,82.25,Sports,Racket Sports,Racket Sports,Smasher Rd Power 7 Long Tennis Racket,GB,British Sports Ltd
+15913,21996,silver,2021-09-27,2021-10-01,2,181.8,45.4,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Xpander,PT,Magnifico Sports
+16289,65640,silver,2021-09-27,2021-09-28,1,34.2,13.75,Sports,Racket Sports,Tennis,"Smasher Polo-Shirt, Short Sleeved",GB,British Sports Ltd
+18501,49995,gold,2021-09-27,2021-10-03,2,489.2,100.75,Outdoors,Outdoors,Outdoor Gear,Mayday Active Work Parca,US,Mayday Inc
+21889,485,silver,2021-09-27,2021-09-30,1,220.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+22537,62719,silver,2021-09-27,2021-09-28,1,45.6,21.7,Outdoors,Outdoors,Outdoor Gear,Double Full Box Madras honeycomb-weave 200,GB,Prime Sports Ltd
+24453,4210,gold,2021-09-27,2021-10-02,1,19.1,7.7,Sports,Racket Sports,Tennis,Smasher Shorts,GB,British Sports Ltd
+26736,23372,silver,2021-09-27,2021-10-01,2,187.0,40.7,Clothes & Shoes,Shoes,Shoes,Twain Inco Men's Street Shoes,US,Twain Inc
+28066,82934,silver,2021-09-27,2021-09-29,1,196.7,91.7,Sports,Assorted Sports Articles,Skates,Bladeline Zx 7-Men's Fitness In-Line,US,Roll-Over Inc
+29752,51307,silver,2021-09-27,2021-09-29,1,63.5,28.0,Sports,Running - Jogging,Jogging,Pants N,ES,Luna sastreria S.A.
+31246,27570,silver,2021-09-27,2021-09-30,1,115.8,58.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy  Men's Air Internatioal Triax(Plus) S,US,Eclipse Inc
+35202,42534,silver,2021-09-27,2021-10-12,1,17.6,7.75,Outdoors,Outdoors,Sleepingbags,"Sheet Sleeping Bag, Red",GB,Outback Outfitters Ltd
+39379,75616,silver,2021-09-27,2021-10-02,2,50.0,10.7,Sports,Swim Sports,Bathing Suits,Mary Bikini Top C,ES,Luna sastreria S.A.
+40984,40023,gold,2021-09-27,2021-10-15,2,169.4,42.45,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Cortez Nbuck-Street Shoes,US,Eclipse Inc
+44727,78822,gold,2021-09-27,2021-09-30,1,61.6,28.05,Clothes & Shoes,Shoes,Tracker Shoes,Men's Shoes Tegern,US,3Top Sports
+44832,17332,gold,2021-09-27,2021-10-03,1,98.1,49.15,Clothes & Shoes,Shoes,Eclipse Shoes,Atmosphere Zoom Playmaker,US,Eclipse Inc
+46661,83024,gold,2021-09-27,2021-10-01,1,28.2,12.9,Clothes & Shoes,Clothes,Tracker Clothes,Essential Suit 2 Swim Suit,US,3Top Sports
+46669,65731,silver,2021-09-27,2021-10-03,1,49.5,19.5,Sports,Winter Sports,Winter Sports,"Ii Pmt,Bone",CA,CrystalClear Optics Inc
+47947,46660,gold,2021-09-27,2021-09-29,2,12.4,2.85,Outdoors,Outdoors,Outdoor Gear,Pocket Light with Crypton Bulb,GB,Prime Sports Ltd
+51330,91364,gold,2021-09-27,2021-09-29,1,62.9,31.55,Clothes & Shoes,Clothes,Eclipse Clothing,Watchit 10 Black,US,Eclipse Inc
+51742,5811,silver,2021-09-27,2021-10-01,1,85.9,37.3,Sports,Winter Sports,Winter Sports,"Southbound,Black",CA,CrystalClear Optics Inc
+53530,28402,silver,2021-09-27,2021-10-14,2,117.6,26.75,Clothes & Shoes,Clothes,Tracker Clothes,Mns Men's P. Long Tight,US,3Top Sports
+53550,76502,gold,2021-09-27,2021-09-29,2,77.8,17.4,Clothes & Shoes,Clothes,Tracker Clothes,K.j. Men's Shorts,US,3Top Sports
+54054,85777,gold,2021-09-27,2021-09-28,1,44.7,22.45,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's L-Sleeve Fleece Sweat,US,Eclipse Inc

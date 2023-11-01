@@ -1,0 +1,37 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+959,11407,silver,2021-04-16,2021-04-18,1,24.5,11.75,Sports,Winter Sports,Winter Sports,Original Eco Thermo 01 Yellow,US,Twain Inc
+5662,10981,gold,2021-04-16,2021-04-20,1,129.8,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+6040,91663,silver,2021-04-16,2021-04-22,3,220.2,36.8,Outdoors,Outdoors,Sleepingbags,"Expedition 10,Small,Left,Blue Ribbon",DK,Top Sports
+7009,54739,gold,2021-04-16,2021-04-18,1,22.8,11.5,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Ringer 'T',US,Eclipse Inc
+8095,52382,silver,2021-04-16,2021-04-21,3,252.3,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+8781,43346,gold,2021-04-16,2021-04-17,1,86.3,41.4,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Large,Left,Blue/Black",DK,Top Sports
+9766,46747,gold,2021-04-16,2021-04-21,1,32.8,14.9,Clothes & Shoes,Clothes,Tracker Clothes,Sports Bra,US,3Top Sports
+10035,31869,silver,2021-04-16,2021-04-20,3,24.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+11639,89972,silver,2021-04-16,2021-04-20,1,33.3,14.85,Sports,Assorted Sports Articles,Assorted Sports articles,A-team Action-Tech Bra,US,A Team Sports
+14198,72733,silver,2021-04-16,2021-04-19,1,59.7,27.2,Sports,Assorted Sports Articles,Assorted Sports articles,Fit4you Padded 2 Pair Red,US,Twain Inc
+14392,87869,gold,2021-04-16,2021-04-18,1,12.7,6.1,Outdoors,Outdoors,Outdoor Gear,Outback Spirits Kitchen,GB,Prime Sports Ltd
+16441,39390,platinum,2021-04-16,2021-04-19,2,81.4,18.9,Children,Children Sports,"N.D. Gear, Kids",Kid Tracking Pants w/pocket,GB,Greenline Sports Ltd
+16804,44902,gold,2021-04-16,2021-04-20,1,3.2,1.35,Outdoors,Outdoors,Outdoor Gear,"Backpack Flag, 6,5x9 Cm.",GB,Prime Sports Ltd
+19161,236,silver,2021-04-16,2021-04-19,1,38.0,16.8,Outdoors,Outdoors,Outdoor Gear,Dome Tent Monodome Alu,GB,Prime Sports Ltd
+24242,36504,silver,2021-04-16,2021-04-19,2,245.2,52.8,Outdoors,Outdoors,Anoraks & Parkas,Lh Brand Anorak treated with Teflon,US,AllSeasons Outdoor Clothing
+25678,21011,gold,2021-04-16,2021-04-19,3,78.6,8.85,Sports,Running - Jogging,Jogging,Triffy Logo T-Shirt with V-Neck,NL,Triffy B.V.
+28433,23158,silver,2021-04-16,2021-04-21,4,710.0,74.6,Sports,Running - Jogging,Jogging,Pants Ozone,US,AllSeasons Outdoor Clothing
+30723,31506,gold,2021-04-16,2021-04-17,4,373.2,39.95,Sports,Assorted Sports Articles,Skates,Pro-roll Panga Roller Skates,PT,Magnifico Sports
+32802,49699,gold,2021-04-16,2021-04-20,1,175.3,74.95,Outdoors,Outdoors,Anoraks & Parkas,Men's Jacket Rem,NO,Scandinavian Clothing A/S
+34719,56091,gold,2021-04-16,2021-04-20,2,70.0,17.6,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Dry Fit T-Shirt w/Short sleeves,US,Eclipse Inc
+37768,43626,gold,2021-04-16,2021-04-21,1,22.4,9.3,Sports,Swim Sports,Bathing Suits,Sunfit Souchon Swimming Trunks,US,Nautlius SportsWear Inc
+37802,90600,silver,2021-04-16,2021-04-20,2,77.2,19.4,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Mandarin Shorts,US,Eclipse Inc
+38854,71501,gold,2021-04-16,2021-04-20,2,107.2,26.9,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Brand Full Zip,US,Eclipse Inc
+38945,48525,silver,2021-04-16,2021-04-17,1,98.9,47.7,Clothes & Shoes,Clothes,LSF,Ultra M803 Ng Men's Street Shoes,US,Ultra Sporting Goods Inc
+38986,83220,silver,2021-04-16,2021-04-20,3,266.7,44.4,Clothes & Shoes,Shoes,Tracker Shoes,Hardcore Junior/Women's Street Shoes,GB,Greenline Sports Ltd
+42023,61636,gold,2021-04-16,2021-04-19,1,48.3,19.25,Sports,Assorted Sports Articles,Assorted Sports articles,Top Elite Kit Small,US,Roll-Over Inc
+42117,70727,gold,2021-04-16,2021-04-18,1,42.8,21.5,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Woven Pants,US,Eclipse Inc
+44364,34907,gold,2021-04-16,2021-04-20,1,175.5,89.55,Sports,Golf,Golf,Hi-fly Intrepid Stand 8  Black,NL,Van Dammeren International
+44519,70003,gold,2021-04-16,2021-04-21,1,17.1,8.65,Clothes & Shoes,Clothes,Knitwear,Instyle Polo Zip Unisex,US,AllSeasons Outdoor Clothing
+44624,87378,gold,2021-04-16,2021-04-21,1,60.7,24.25,Sports,Golf,Golf Clothes,Top Of Florence Polo without sleeves,FR,ToughWear S.A.
+45159,45798,gold,2021-04-16,2021-04-23,1,34.7,15.45,Sports,Assorted Sports Articles,Assorted Sports articles,Sport Top,US,A Team Sports
+45843,19609,gold,2021-04-16,2021-04-21,3,190.2,30.5,Clothes & Shoes,Shoes,Eclipse Shoes,Atmosphere Imara Women's Running Shoes,US,Eclipse Inc
+46460,28239,silver,2021-04-16,2021-04-21,1,90.0,40.95,Sports,Indoor Sports,Gymnastic Clothing,Cougar Long Sweat Jacket w/Zip + Hood,US,SD Sporting Goods Inc
+48573,65738,silver,2021-04-16,2021-04-19,1,24.9,10.35,Sports,Swim Sports,Bathing Suits,Men's Swimming Trunks,US,Dolphin Sportswear Inc
+49301,60435,gold,2021-04-16,2021-04-20,1,118.2,50.85,Clothes & Shoes,Clothes,Street Wear,Tyfoon Rusty Down Jacket,AU,Typhoon Clothing
+50582,44509,silver,2021-04-16,2021-04-19,2,177.2,44.4,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Blaze Light Fill Jacket,US,Eclipse Inc

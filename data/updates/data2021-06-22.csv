@@ -1,0 +1,38 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+328,42832,gold,2021-06-22,2021-06-24,3,127.8,18.5,Clothes & Shoes,Shoes,Shoes,Dundas Rubber Boot,ES,Luna sastreria S.A.
+1224,47036,gold,2021-06-22,2021-06-23,2,71.0,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+2979,2940,silver,2021-06-22,2021-07-07,1,25.6,12.1,Clothes & Shoes,Clothes,Knitwear,Instyle Pullover Mid,US,AllSeasons Outdoor Clothing
+3642,45119,gold,2021-06-22,2021-06-27,2,212.4,50.6,Clothes & Shoes,Clothes,Orion,Power Dmx Wide Shoes,CA,Fuller Trading Co.
+3965,85893,silver,2021-06-22,2021-06-24,2,100.0,24.0,Sports,Assorted Sports Articles,Assorted Sports articles,Northern Speedometer Sensor,GB,EA Sports Limited
+5110,28305,gold,2021-06-22,2021-06-26,2,66.2,14.4,Children,Children Sports,"N.D. Gear, Kids",Pool Childen's Swim Tights,ES,Luna sastreria S.A.
+5252,47297,gold,2021-06-22,2021-06-24,5,251.5,25.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Multicourt Ii Shoes,US,Eclipse Inc
+6673,27995,gold,2021-06-22,2021-06-26,2,269.0,56.05,Sports,Running - Jogging,Running Clothes,Force Micro Men's Suit,BE,Force Sports
+10047,35267,silver,2021-06-22,2021-06-27,2,16.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+10384,5970,silver,2021-06-22,2021-06-25,5,63.0,5.95,Sports,Running - Jogging,Running Clothes,Winter Winter Running Gloves,BE,Force Sports
+10918,91353,gold,2021-06-22,2021-06-26,2,52.8,11.8,Sports,Swim Sports,Bathing Suits,Sunfit Madly Swim Suit,US,Nautlius SportsWear Inc
+12380,45191,gold,2021-06-22,2021-06-25,1,187.2,85.15,Sports,Winter Sports,Winter Sports,"C.A.M.,Bone",CA,CrystalClear Optics Inc
+12614,61599,silver,2021-06-22,2021-06-25,2,203.4,42.0,Outdoors,Outdoors,Outdoor Gear,Men's Sports Pullover,US,Mayday Inc
+14580,9962,gold,2021-06-22,2021-06-25,2,83.8,18.2,Sports,Assorted Sports Articles,Assorted Sports articles,Ultra York Shorts,ES,Luna sastreria S.A.
+17997,52306,gold,2021-06-22,2021-06-23,2,551.8,125.25,Outdoors,Outdoors,Backpacks,Feelgood 55-75 Litre Black Women's Backpack,AU,Toto Outdoor Gear
+18606,71382,silver,2021-06-22,2021-06-26,3,199.2,30.25,Clothes & Shoes,Shoes,Shoes,Lulu Men's Street Shoes,SE,Petterson AB
+21414,54782,silver,2021-06-22,2021-06-28,2,89.8,23.2,Sports,Team Sports,Soccer,Prosoccer Home Shorts,US,Fga Sports Inc
+23565,87211,gold,2021-06-22,2021-06-26,2,269.98,97.85,Outdoors,Outdoors,Backpacks,Jaguar 60-85 Navy Men's Backpack,AU,Toto Outdoor Gear
+28812,43362,gold,2021-06-22,2021-06-26,3,87.3,13.95,Sports,Running - Jogging,Running Clothes,Maxrun Short Running Tights,BE,Force Sports
+31483,17552,gold,2021-06-22,2021-07-02,2,224.2,56.15,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Althea Triax,US,Eclipse Inc
+34542,6,gold,2021-06-22,2021-06-24,2,26.2,6.6,Clothes & Shoes,Clothes,Eclipse Clothing,Trois-fit Headband,US,Eclipse Inc
+38016,48489,gold,2021-06-22,2021-06-26,2,26.4,5.95,Sports,Team Sports,Soccer,Red Scarf,GB,SportsFan Products Ltd
+38288,45307,gold,2021-06-22,2021-06-25,2,236.6,59.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Terra Central Shoes,US,Eclipse Inc
+38948,12713,gold,2021-06-22,2021-06-26,2,197.8,47.7,Clothes & Shoes,Clothes,LSF,Ultra M803 Ng Men's Street Shoes,US,Ultra Sporting Goods Inc
+40029,63526,gold,2021-06-22,2021-06-26,2,94.0,21.45,Clothes & Shoes,Shoes,Shoes,Allinall Star Men's Canvas Shoes,SE,Petterson AB
+41865,5932,silver,2021-06-22,2021-06-26,2,47.0,10.0,Children,Children Sports,"N.D. Gear, Kids",Baffin Mini Sports Bag,ES,Luna sastreria S.A.
+42040,25295,gold,2021-06-22,2021-06-24,3,99.0,16.6,Sports,Assorted Sports Articles,Assorted Sports articles,Soccer Fan Children's Football Player Shorts,GB,SportsFan Products Ltd
+43811,1557,silver,2021-06-22,2021-06-27,4,111.6,14.05,Sports,Golf,Golf,Top Covers with Cap,US,Twain Inc
+43977,48280,gold,2021-06-22,2021-06-24,1,273.5,114.45,Sports,Indoor Sports,Top Trim,Top Men's Stretch Ski Pants,US,Top Sports Inc
+44862,88010,gold,2021-06-22,2021-06-23,2,50.8,11.0,Sports,Assorted Sports Articles,Assorted Sports articles,Trg 4/32 Red/Orange/Black Star-,US,Teamsports Inc
+45355,79732,platinum,2021-06-22,2021-06-23,1,51.7,22.65,Children,Children Sports,"N.D. Gear, Kids",Montevideo Pants,ES,Luna sastreria S.A.
+46490,93119,silver,2021-06-22,2021-06-24,2,18.2,4.6,Clothes & Shoes,Clothes,Orion Clothing,Soccer Adult Socks,CA,Fuller Trading Co.
+47326,73393,gold,2021-06-22,2021-06-26,1,2.5,0.7,Sports,Indoor Sports,Fitness,Elastic,US,SD Sporting Goods Inc
+47357,37929,gold,2021-06-22,2021-06-26,2,200.4,50.2,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Clima Fit Ultra Lite Jacket,US,Eclipse Inc
+52262,58444,silver,2021-06-22,2021-06-23,2,217.2,10.15,Sports,Golf,Golf Clothes,Big Boss Couples 1/247 Knit Vest,US,Mike Schaeffer Inc
+52600,35139,gold,2021-06-22,2021-06-27,1,49.3,21.5,Sports,Winter Sports,Winter Sports,Pearl,CA,CrystalClear Optics Inc
+52632,17638,silver,2021-06-22,2021-06-23,3,199.8,30.3,Clothes & Shoes,Clothes,Tracker Clothes,Rock-solid Jacket,US,3Top Sports

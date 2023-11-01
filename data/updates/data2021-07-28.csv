@@ -1,0 +1,22 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+4738,36383,silver,2021-07-28,2021-08-02,1,14.4,6.45,Sports,Team Sports,Soccer,Soccer Mjf 2000 Size 4 Black/Yellow,US,Teamsports Inc
+6459,90411,gold,2021-07-28,2021-07-29,5,111.5,10.0,Clothes & Shoes,Clothes,Tracker Clothes,Highnoon Sweatshirt,US,3Top Sports
+6961,86870,silver,2021-07-28,2021-08-03,1,288.9,119.15,Outdoors,Outdoors,Tents,Hurricane 4,SE,Petterson AB
+12230,76905,silver,2021-07-28,2021-07-29,2,142.6,29.35,Sports,Swim Sports,Bathing Suits,Swim Suit Pacific,US,Dolphin Sportswear Inc
+17043,74007,gold,2021-07-28,2021-08-03,4,87.2,11.0,Sports,Golf,Golf,"Bretagne Difference Women's Golf Glove, left",NL,Van Dammeren International
+17814,60467,gold,2021-07-28,2021-07-30,1,101.875,40.75,Sports,Winter Sports,Winter Sports,Massif Cut X Super 9.9 Ski Parcel,FR,Massif S.A.
+17924,70590,silver,2021-07-28,2021-07-30,2,189.4,47.45,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Micro Fibre Jacket,US,Eclipse Inc
+22160,62859,gold,2021-07-28,2021-07-31,1,225.5,112.85,Sports,Winter Sports,Winter Sports,Twain Women's Evolution 8.0 T Ski Boots,US,Twain Inc
+25782,80557,silver,2021-07-28,2021-08-03,2,113.4,27.25,Outdoors,Outdoors,Backpacks,Medium Black/Bark Backpack,DK,Top Sports
+28691,23069,gold,2021-07-28,2021-07-29,2,71.4,17.35,Children,Children Sports,"Osprey, Kids",Osprey Boston Polyester Suit,US,Triple Sportswear Inc
+30100,34789,gold,2021-07-28,2021-08-03,2,49.0,11.75,Sports,Running - Jogging,Running Clothes,Breath-brief Long Underpants XXL,BE,Force Sports
+33005,21734,silver,2021-07-28,2021-07-31,2,85.98,27.5,Sports,Assorted Sports Articles,Assorted Sports articles,Caviar Sweatshirt with V-Neck,ES,Luna sastreria S.A.
+33328,44134,silver,2021-07-28,2021-08-01,2,37.6,10.3,Sports,Team Sports,Baseball,Helmet L,US,Miller Trading Inc
+42041,57277,silver,2021-07-28,2021-08-01,3,53.97,16.6,Sports,Assorted Sports Articles,Assorted Sports articles,Soccer Fan Children's Football Player Shorts,GB,SportsFan Products Ltd
+42458,86013,platinum,2021-07-28,2021-08-05,1,188.1,90.35,Outdoors,Outdoors,Backpacks,"Commanche Men's Backpack 6000, Bark",DK,Top Sports
+42577,45872,gold,2021-07-28,2021-08-01,2,66.8,16.8,Children,Children Sports,Tracker Kid's Clothes,T&l Children's Shoes,US,3Top Sports
+43567,77942,silver,2021-07-28,2021-07-31,2,92.0,16.05,Children,Children Sports,"Osprey, Kids",Kid Basic Tracking Suit,US,Triple Sportswear Inc
+46146,56859,silver,2021-07-28,2021-08-03,1,1595.5,791.8,Sports,Indoor Sports,Fitness,Top-form 325 Treadmill,NL,TrimSport B.V.
+51233,63955,silver,2021-07-28,2021-07-31,2,968.6,247.7,Sports,Golf,Golf,Proplay Executive Bi-Metal Graphite,NL,Van Dammeren International
+52776,92081,silver,2021-07-28,2021-07-30,4,38.4,4.75,Sports,Golf,Golf,Hi-fly Xl2000 Extra Long 3-pack,NL,Van Dammeren International
+53711,87908,silver,2021-07-28,2021-08-02,2,49.8,12.4,Children,Children Sports,Tracker Kid's Clothes,Children's Street Shoes,US,3Top Sports

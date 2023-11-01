@@ -1,0 +1,15 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+6407,38837,silver,2021-09-02,2021-09-03,2,52.2,11.85,Sports,Assorted Sports Articles,Assorted Sports articles,Jugg's Junior Bag,ES,Luna sastreria S.A.
+11923,23098,gold,2021-09-02,2021-09-05,1,21.6,10.65,Sports,Racket Sports,Badminton,Aftm 20 Badminton Racket,GB,British Sports Ltd
+19927,15302,silver,2021-09-02,2021-09-03,1,201.5,86.1,Sports,Assorted Sports Articles,Assorted Sports articles,Shirt Termir,ES,Luna sastreria S.A.
+24933,38692,silver,2021-09-02,2021-09-04,1,78.2,39.2,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Left,Charcoal",DK,Top Sports
+25372,57865,gold,2021-09-02,2021-09-04,1,22.9,10.35,Clothes & Shoes,Clothes,Stockings & Socks,Men's Trekking Socks High,US,Twain Inc
+26066,4024,silver,2021-09-02,2021-09-07,1,42.4,19.35,Clothes & Shoes,Clothes,Tracker Clothes,Elastic Knee Pant,US,3Top Sports
+28692,92907,silver,2021-09-02,2021-09-05,2,71.4,17.35,Children,Children Sports,"Osprey, Kids",Osprey Boston Polyester Suit,US,Triple Sportswear Inc
+29920,15847,silver,2021-09-02,2021-09-13,1,117.6,58.9,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Clima Fit Jacket,US,Eclipse Inc
+35139,91149,gold,2021-09-02,2021-09-06,1,131.7,58.6,Clothes & Shoes,Shoes,Tracker Shoes,Mns.winner Men's Running Shoes,US,3Top Sports
+43037,17953,gold,2021-09-02,2021-09-06,2,63.8,12.85,Sports,Racket Sports,Tennis,Smasher Polo-Shirt,GB,British Sports Ltd
+44206,72309,silver,2021-09-02,2021-09-03,2,55.8,12.25,Sports,Golf,Golf Clothes,Tek Cap,US,Twain Inc
+47573,24536,silver,2021-09-02,2021-09-11,1,16.7,6.6,Sports,Team Sports,Baseball,Bat - Large,US,Miller Trading Inc
+50376,71403,silver,2021-09-02,2021-09-04,2,39.8,8.5,Sports,Assorted Sports Articles,Assorted Sports articles,Goodtime Mini Bag,ES,Luna sastreria S.A.
+51012,78467,silver,2021-09-02,2021-09-06,2,41.4,10.45,Clothes & Shoes,Clothes,Eclipse Clothing,Stripe Hat,US,Eclipse Inc

@@ -1,0 +1,16 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+4220,35349,silver,2021-07-14,2021-07-23,5,526.0,47.85,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Disruptor,GB,Greenline Sports Ltd
+8606,51242,gold,2021-07-14,2021-07-20,2,41.0,9.55,Sports,Golf,Golf,Precision Widow 6 Mm Softspikes 24 Piece,GB,TeeTime Ltd
+10101,73635,gold,2021-07-14,2021-07-20,1,25.99,13.8,Sports,Assorted Sports Articles,Assorted Sports articles,Grey,CA,CrystalClear Optics Inc
+14655,30491,gold,2021-07-14,2021-07-16,2,92.2,21.05,Sports,Running - Jogging,Jogging,Pants Palazzo,US,3Top Sports
+19717,76605,silver,2021-07-14,2021-07-15,2,276.8,62.85,Sports,Assorted Sports Articles,Assorted Sports articles,M.Heart Trainer Software,AU,Health-Sports
+25328,88907,gold,2021-07-14,2021-07-20,3,126.6,19.2,Children,Children Sports,Tracker Kid's Clothes,Ultra Samson Pants,US,3Top Sports
+27190,59633,gold,2021-07-14,2021-07-18,1,49.0,19.65,Outdoors,Outdoors,Gloves & Mittens,Massif Dual Gloves,FR,Massif S.A.
+28747,47900,silver,2021-07-14,2021-07-18,3,793.8,108.6,Sports,Assorted Sports Articles,Assorted Sports articles,Titanium Destiny,FR,Le Blanc S.A.
+31903,57595,silver,2021-07-14,2021-07-15,2,92.8,20.95,Children,Children Sports,"N.D. Gear, Kids",Caviar Children's Sweatshirt Round Neck,ES,Luna sastreria S.A.
+37594,87562,gold,2021-07-14,2021-07-19,1,144.1,72.0,Clothes & Shoes,Clothes,Eclipse Clothing,Watchit 300 Black/Grey,US,Eclipse Inc
+46442,57047,gold,2021-07-14,2021-07-18,2,77.2,15.35,Sports,Assorted Sports Articles,Assorted Sports articles,Shoeshine Olive,CA,CrystalClear Optics Inc
+47155,8996,gold,2021-07-14,2021-07-16,2,291.8,66.35,Clothes & Shoes,Shoes,Shoes,Twain Stf6 Gtx M Men's Trekking Boot,US,Twain Inc
+49360,70535,gold,2021-07-14,2021-07-20,1,154.6,116.6,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Gretzky Mvp S.B.S,PT,Magnifico Sports
+50861,44105,silver,2021-07-14,2021-07-18,2,140.8,35.35,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Full Leg Pants,US,Eclipse Inc
+50948,9970,silver,2021-07-14,2021-07-22,1,11.3,4.55,Clothes & Shoes,Clothes,Knitwear,Instyle T-Shirt,US,AllSeasons Outdoor Clothing

@@ -1,0 +1,25 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2009,39814,silver,2021-04-28,2021-05-02,1,86.6,34.1,Outdoors,Outdoors,Outdoor Gear,"Men's Pants, Basic",US,Mayday Inc
+3515,26814,gold,2021-04-28,2021-04-29,2,147.4,38.4,Sports,Team Sports,Soccer,Fga Away Football Shirt,US,Fga Sports Inc
+4286,89494,silver,2021-04-28,2021-05-02,1,101.6,50.9,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Mickey Wilma,US,Eclipse Inc
+9098,78612,silver,2021-04-28,2021-04-30,3,39.0,5.75,Children,Children Sports,"A-Team, Kids",A-team Children's T-Shirt,US,A Team Sports
+11798,55925,gold,2021-04-28,2021-04-29,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+15928,39963,silver,2021-04-28,2021-04-30,1,110.7,49.35,Clothes & Shoes,Shoes,Tracker Shoes,Women's Running Shoes Piedmont,US,3Top Sports
+17830,16274,silver,2021-04-28,2021-05-02,1,61.3,26.75,Sports,Running - Jogging,Jogging,Ypsilon Men's Sweat Pants,FR,Ypsilon S.A.
+21555,70423,gold,2021-04-28,2021-04-29,1,112.6,51.3,Clothes & Shoes,Shoes,Shoes,Soft Ds Trainer Men's Running Shoes,US,Pro Sportswear Inc
+27808,77026,gold,2021-04-28,2021-04-30,1,100.6,51.9,Sports,Golf,Golf,Bretagne Stabilities Tg Men's Golf Shoes,NL,Van Dammeren International
+29073,37664,gold,2021-04-28,2021-04-29,1,34.0,15.6,Clothes & Shoes,Shoes,Tracker Shoes,Soccer Slide Bathing Sandal,US,3Top Sports
+32272,47984,silver,2021-04-28,2021-05-02,1,93.2,40.7,Outdoors,Outdoors,Outdoor Gear,Polyester 3-Persons,GB,Prime Sports Ltd
+33360,61019,gold,2021-04-28,2021-04-30,1,57.9,23.9,Sports,Swim Sports,Bathing Suits,Lucille Short Men's Swimming Trunks,US,Dolphin Sportswear Inc
+34341,54796,silver,2021-04-28,2021-05-01,2,34.0,7.95,Sports,Golf,Golf,"Umbrella Umbrella, w/Steel handle",NL,Van Dammeren International
+37699,35317,gold,2021-04-28,2021-05-01,2,36.2,7.7,Sports,Assorted Sports Articles,Assorted Sports articles,Hot Mini Backboard Bulls,NL,Van Dammeren International
+38619,62434,gold,2021-04-28,2021-05-01,1,34.6,15.05,Children,Children Sports,"N.D. Gear, Kids",Nh Sweatshirt with Tube Neck,ES,Luna sastreria S.A.
+39499,71747,silver,2021-04-28,2021-04-30,1,8.1,3.15,Sports,Assorted Sports Articles,Assorted Sports articles,Stout Brass 20 Gram,GB,Royal Darts Ltd
+39794,16641,silver,2021-04-28,2021-05-03,1,72.2,37.6,Children,Children Sports,"Eclipse, Kid's Clothes",Winter Children's Down Jacket,US,Eclipse Inc
+42024,93034,gold,2021-04-28,2021-05-01,1,48.3,19.25,Sports,Assorted Sports Articles,Assorted Sports articles,Top Elite Kit Small,US,Roll-Over Inc
+42250,8612,gold,2021-04-28,2021-05-02,1,25.2,11.05,Sports,Assorted Sports Articles,Assorted Sports articles,Inlet Purple/Black,NL,Van Dammeren International
+42368,80880,gold,2021-04-28,2021-05-01,1,270.0,125.65,Outdoors,Outdoors,Backpacks,Victor Grey/Olive Women's Backpack,DK,Top Sports
+42867,80376,gold,2021-04-28,2021-04-30,1,36.2,18.2,Clothes & Shoes,Clothes,Eclipse Clothing,Nylon Backpack,US,Eclipse Inc
+45775,78059,silver,2021-04-28,2021-05-02,2,70.8,15.8,Clothes & Shoes,Clothes,Tracker Clothes,Tnw Men's Swimming Trunks,US,3Top Sports
+51157,89422,gold,2021-04-28,2021-04-30,1,3.7,1.3,Sports,Assorted Sports Articles,Assorted Sports articles,Capsy Hood,US,Nautlius SportsWear Inc
+54020,78338,platinum,2021-04-28,2021-05-01,1,40.4,18.4,Children,Children Sports,"N.D. Gear, Kids",N.d.gear Eruptor Kids,GB,Greenline Sports Ltd

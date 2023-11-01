@@ -1,0 +1,36 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+3877,71778,silver,2021-05-16,2021-05-22,1,71.2,28.5,Sports,Running - Jogging,Jogging,Triffy Nylon Pants,NL,Triffy B.V.
+8473,50833,silver,2021-05-16,2021-05-17,1,38.2,18.95,Clothes & Shoes,Shoes,Shoes,Soft Court Women's Indoor Shoes,US,Pro Sportswear Inc
+11288,31095,silver,2021-05-16,2021-05-18,3,155.4,25.85,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Lightning Rain Pants,US,AllSeasons Outdoor Clothing
+12100,9649,gold,2021-05-16,2021-05-19,2,71.4,14.35,Sports,Racket Sports,Tennis,Smasher Polo-Shirt w/V-Neck,GB,British Sports Ltd
+13490,52784,gold,2021-05-16,2021-05-17,3,120.0,20.1,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Gts Lite Canvas,US,Eclipse Inc
+17467,90293,gold,2021-05-16,2021-05-19,1,32.4,13.4,Sports,Assorted Sports Articles,Darts,Bulls Eye 15 Gram 80% Tungsten Soft,GB,Royal Darts Ltd
+18604,5047,gold,2021-05-16,2021-05-21,1,66.4,30.25,Clothes & Shoes,Shoes,Shoes,Lulu Men's Street Shoes,SE,Petterson AB
+20341,55125,silver,2021-05-16,2021-05-17,1,273.0,122.8,Sports,Assorted Sports Articles,Assorted Sports articles,Barret 3.1 Women's Softboot,US,Roll-Over Inc
+20559,35639,silver,2021-05-16,2021-05-19,2,321.6,78.5,Sports,Golf,Golf,Rubby Women's Golf Shoes w/Goretex,ES,Rubby Zapatos S.A.
+23562,40169,silver,2021-05-16,2021-05-19,2,431.0,97.85,Outdoors,Outdoors,Backpacks,Jaguar 60-85 Navy Men's Backpack,AU,Toto Outdoor Gear
+23748,13440,gold,2021-05-16,2021-05-22,1,51.6,22.9,Sports,Running - Jogging,Jogging,"A-team SweatPants without Strip, Small Logo",US,A Team Sports
+25851,72846,silver,2021-05-16,2021-05-17,1,59.5,29.85,Clothes & Shoes,Clothes,Orion,Duration Women's Trainer Aerobic Shoes,CA,Fuller Trading Co.
+27189,54749,silver,2021-05-16,2021-05-19,1,49.0,19.65,Outdoors,Outdoors,Gloves & Mittens,Massif Dual Gloves,FR,Massif S.A.
+27652,40446,platinum,2021-05-16,2021-05-20,2,126.0,31.6,Sports,Team Sports,Soccer,Soccer Fan Football Player Shirt,GB,SportsFan Products Ltd
+28312,85550,gold,2021-05-16,2021-05-20,1,57.3,23.75,Sports,Running - Jogging,Running Clothes,Smash Coolmax Long Tights,BE,Force Sports
+28695,85208,silver,2021-05-16,2021-05-21,1,24.2,11.1,Clothes & Shoes,Shoes,Tracker Shoes,Vesuv Sandal,US,3Top Sports
+29548,84909,silver,2021-05-16,2021-05-21,3,50.1,6.75,Sports,Swim Sports,Bathing Suits,"Goggles, Assorted Colours",US,Nautlius SportsWear Inc
+30014,2886,silver,2021-05-16,2021-05-17,1,95.1,43.4,Children,Children Sports,"N.D. Gear, Kids",Kid Jacket w/hidden Hood,GB,Greenline Sports Ltd
+31244,17819,gold,2021-05-16,2021-05-19,1,115.8,58.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy  Men's Air Internatioal Triax(Plus) S,US,Eclipse Inc
+33662,92407,gold,2021-05-16,2021-05-17,1,47.9,22.85,Clothes & Shoes,Clothes,Orion Clothing,Zx Women's Tee Small Logo,CA,Fuller Trading Co.
+37676,2678,silver,2021-05-16,2021-05-19,1,84.2,38.35,Clothes & Shoes,Shoes,Tracker Shoes,South Peak Men's Running Shoes,US,3Top Sports
+41195,79817,gold,2021-05-16,2021-05-21,3,88.5,13.55,Children,Children Sports,Tracker Kid's Clothes,Swimsuit Swim Suit,US,3Top Sports
+44795,82154,silver,2021-05-16,2021-05-18,3,441.3,58.85,Sports,Golf,Golf Clothes,Eagle Windstopper Sweat Neck,US,HighPoint Trading
+45896,44105,gold,2021-05-16,2021-05-20,1,83.7,38.05,Clothes & Shoes,Shoes,Tracker Shoes,Wm Trx Fg Liga Football Boots,US,3Top Sports
+45922,49467,silver,2021-05-16,2021-05-19,1,83.9,35.05,Sports,Assorted Sports Articles,Assorted Sports articles,Gordon Sweatshirt,ES,Luna sastreria S.A.
+46540,83059,gold,2021-05-16,2021-05-18,1,110.7,51.35,Sports,Assorted Sports Articles,Assorted Sports articles,Copper,GB,Royal Darts Ltd
+47869,86154,silver,2021-05-16,2021-05-20,1,89.2,35.7,Clothes & Shoes,Clothes,Osprey,Osprey Nanton Micro Suit,US,Triple Sportswear Inc
+48709,6477,silver,2021-05-16,2021-05-20,1,42.6,21.4,Children,Children Sports,"Eclipse, Kid's Clothes",Toddle Wowen Pants,US,Eclipse Inc
+50167,64492,silver,2021-05-16,2021-05-17,3,252.3,37.5,Clothes & Shoes,Clothes,Tracker Clothes,K.j. Men's Sweat Jacket,US,3Top Sports
+52192,80663,silver,2021-05-16,2021-05-19,4,169.6,19.25,Clothes & Shoes,Shoes,Tracker Shoes,11m Men's Team Football Boots,US,3Top Sports
+53219,53382,silver,2021-05-16,2021-05-20,1,26.8,12.3,Clothes & Shoes,Clothes,Tracker Clothes,Far Out Backpack,US,3Top Sports
+53248,79435,gold,2021-05-16,2021-05-21,1,23.8,11.0,Sports,Assorted Sports Articles,Skates,Oregon Back-Brake,US,Roll-Over Inc
+53480,86553,gold,2021-05-16,2021-05-19,3,136.2,19.35,Sports,Swim Sports,Bathing Suits,Swim Suit Sanford,ES,Luna sastreria S.A.
+53723,36734,silver,2021-05-16,2021-05-22,2,71.0,14.8,Children,Children Sports,"Bathing Suits, Kids",Swimming Trunks Domo,ES,Luna sastreria S.A.
+53733,80769,gold,2021-05-16,2021-05-19,2,92.8,19.95,Sports,Swim Sports,Bathing Suits,Sunfit Blinka Swimming Trunks,US,Nautlius SportsWear Inc

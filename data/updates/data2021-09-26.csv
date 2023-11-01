@@ -1,0 +1,9 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+5334,89145,silver,2021-09-26,2021-10-01,2,170.4,36.3,Sports,Assorted Sports Articles,Assorted Sports articles,Wyoming Men's Sweat with Small Zipper,ES,Luna sastreria S.A.
+6340,25478,gold,2021-09-26,2021-09-28,1,519.3,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+11105,32497,gold,2021-09-26,2021-09-27,1,96.7,48.45,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Medium,Right,Forestgreen",DK,Top Sports
+20033,46351,silver,2021-09-26,2021-09-27,2,36.2,6.85,Sports,Golf,Golf Clothes,Eagle Men's Cap,US,HighPoint Trading
+26970,23056,gold,2021-09-26,2021-09-27,2,55.0,11.75,Children,Children Sports,"N.D. Gear, Kids",O'my Athen Swimming Trunks,ES,Luna sastreria S.A.
+28613,10586,gold,2021-09-26,2021-09-30,1,87.2,34.9,Sports,Winter Sports,Winter Sports,Amber Cc,CA,CrystalClear Optics Inc
+41589,24008,gold,2021-09-26,2021-09-30,2,285.8,71.55,Clothes & Shoes,Shoes,Eclipse Shoes,Sire Air Tailwind 1v Running Shoes,US,Eclipse Inc
+46693,61489,gold,2021-09-26,2021-09-28,2,117.2,26.7,Clothes & Shoes,Shoes,Tracker Shoes,Armadillo Men's Running Shoes,US,3Top Sports

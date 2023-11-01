@@ -1,0 +1,34 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+3879,42730,silver,2021-05-20,2021-05-21,3,213.6,28.5,Sports,Running - Jogging,Jogging,Triffy Nylon Pants,NL,Triffy B.V.
+7343,27246,silver,2021-05-20,2021-05-25,3,519.0,72.75,Outdoors,Outdoors,Outdoor Gear,Jl Legacy Curig I.A.Jacket,US,AllSeasons Outdoor Clothing
+7534,24492,gold,2021-05-20,2021-05-22,1,27.8,11.65,Sports,Running - Jogging,Running Clothes,Alfredo Coolmax Women's Top,BE,Force Sports
+8100,12927,gold,2021-05-20,2021-05-26,3,252.3,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+9505,36545,gold,2021-05-20,2021-05-22,1,113.1,58.9,Outdoors,Outdoors,Anoraks & Parkas,Jacket with Removable Fleece,US,AllSeasons Outdoor Clothing
+11451,9729,silver,2021-05-20,2021-05-25,2,128.4,32.2,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Small,Right,Charcoal",DK,Top Sports
+14465,65384,silver,2021-05-20,2021-05-23,2,51.0,10.75,Outdoors,Outdoors,Outdoor Gear,Knife w. Lock,US,KN Outdoor Trading Inc
+17269,32356,silver,2021-05-20,2021-05-24,1,20.2,9.55,Sports,Running - Jogging,Running Clothes,Stout Short Running Tights,BE,Force Sports
+23280,79192,silver,2021-05-20,2021-05-26,1,36.8,18.5,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Fleece Crew,US,Eclipse Inc
+23749,6224,silver,2021-05-20,2021-05-22,3,154.8,22.9,Sports,Running - Jogging,Jogging,"A-team SweatPants without Strip, Small Logo",US,A Team Sports
+26194,91650,gold,2021-05-20,2021-05-22,1,51.2,21.85,Sports,Assorted Sports Articles,Assorted Sports articles,Sandals,ES,Luna sastreria S.A.
+27897,49956,silver,2021-05-20,2021-05-24,2,143.4,35.95,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Large,Left,Charcoal",DK,Top Sports
+29644,19609,silver,2021-05-20,2021-05-25,1,115.0,52.4,Clothes & Shoes,Shoes,Tracker Shoes,Men's Running Shoes Piedmmont,US,3Top Sports
+29853,58822,gold,2021-05-20,2021-05-25,1,204.4,87.15,Clothes & Shoes,Clothes,Knitwear,Mayday Stripe Pullover,US,Mayday Inc
+31073,77012,gold,2021-05-20,2021-05-25,1,75.8,36.25,Clothes & Shoes,Clothes,Orion,Classic Men's Leisure Shoes,CA,Fuller Trading Co.
+31322,33634,gold,2021-05-20,2021-05-21,1,102.2,51.2,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Force Strong Shoes,US,Eclipse Inc
+33287,65414,gold,2021-05-20,2021-05-24,1,48.4,21.5,Sports,Running - Jogging,Jogging,"A-team Sweat w/small Zipper,C-Logo",US,A Team Sports
+33489,88014,silver,2021-05-20,2021-05-22,3,364.5,55.25,Clothes & Shoes,Shoes,Shoes,Twain Men's Exit Iii Mid Cd X-Hiking Shoes,US,Twain Inc
+34700,63808,silver,2021-05-20,2021-05-21,1,284.4,121.25,Sports,Winter Sports,Ski Dress,Mayday Men's Serious Pant,US,Mayday Inc
+37656,61594,silver,2021-05-20,2021-05-22,2,277.4,62.5,Outdoors,Outdoors,Outdoor Gear,Ultra Ht Lightning Set,US,AllSeasons Outdoor Clothing
+37892,70546,silver,2021-05-20,2021-05-23,1,35.5,15.2,Sports,Assorted Sports Articles,Assorted Sports articles,Goodtime Sports Bag,ES,Luna sastreria S.A.
+39872,70768,gold,2021-05-20,2021-05-21,2,24.0,3.85,Sports,Golf,Golf,Bb Softspikes - Original 24-pack.,GB,TeeTime Ltd
+40134,27554,gold,2021-05-20,2021-05-22,1,50.6,25.25,Sports,Running - Jogging,Jogging,Pants Fun,GB,Greenline Sports Ltd
+41930,47907,silver,2021-05-20,2021-05-22,1,129.7,64.95,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Define Mid Gym,US,Eclipse Inc
+42217,23584,gold,2021-05-20,2021-05-26,3,31.8,4.65,Children,Children Sports,"Olssons, Kids",Short Children's Tights,ES,Sportico
+42920,78537,silver,2021-05-20,2021-05-23,1,9.9,2.75,Clothes & Shoes,Clothes,Stockings & Socks,Massif Polisox Tube,FR,Massif S.A.
+44033,7758,silver,2021-05-20,2021-05-25,2,191.8,48.05,Outdoors,Outdoors,Backpacks,Large Silver Silver/Black Backpack,DK,Top Sports
+46027,19584,silver,2021-05-20,2021-05-22,5,246.0,21.5,Children,Children Sports,"Ypsilon, Kids",Ypsilon Children's Sweat w/Big Logo,FR,Ypsilon S.A.
+47600,91069,silver,2021-05-20,2021-05-25,3,20.1,3.1,Sports,Assorted Sports Articles,Assorted Sports articles,Healtit Small 6-pack in box,US,Teamsports Inc
+48253,25537,silver,2021-05-20,2021-05-21,2,126.0,26.15,Sports,Racket Sports,Tennis,Anthony Women's Tennis Cable Pullover,US,Mayday Inc
+51672,55323,silver,2021-05-20,2021-05-26,1,12.2,5.35,Clothes & Shoes,Clothes,Stockings & Socks,Grizzly Hiking,FR,Bon Garrments
+54196,38891,silver,2021-05-20,2021-05-23,2,151.0,30.3,Sports,Golf,Golf Clothes,Top Of Florence Polo-Shirt Small,FR,ToughWear S.A.
+54384,36345,gold,2021-05-20,2021-06-06,3,37.8,6.25,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Socks Basic,GB,Greenline Sports Ltd

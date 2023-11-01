@@ -1,0 +1,18 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+3105,29732,silver,2021-06-30,2021-07-06,2,22.4,5.7,Clothes & Shoes,Clothes,Eclipse Clothing,Toto Tube Socks,US,Eclipse Inc
+4060,4188,silver,2021-06-30,2021-07-01,2,238.8,49.75,Sports,Running - Jogging,Running Clothes,Polar Jacket,BE,Force Sports
+7122,81147,gold,2021-06-30,2021-07-07,2,48.0,11.95,Children,Children Sports,"Lucky Guy, Kids","Rain Suit, Plain w/backpack Jacket",US,AllSeasons Outdoor Clothing
+7350,46323,silver,2021-06-30,2021-07-03,2,346.0,72.75,Outdoors,Outdoors,Outdoor Gear,Jl Legacy Curig I.A.Jacket,US,AllSeasons Outdoor Clothing
+7787,21147,silver,2021-06-30,2021-07-06,2,369.8,78.15,Outdoors,Outdoors,Anoraks & Parkas,Lucky Voss Jacket,US,AllSeasons Outdoor Clothing
+8107,87793,silver,2021-06-30,2021-07-06,4,336.4,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+14165,61277,gold,2021-06-30,2021-07-01,1,21.99,7.25,Sports,Team Sports,Basket Ball,Basket Ball Pro,US,HighPoint Trading
+18894,2439,gold,2021-06-30,2021-07-08,1,35.2,14.8,Sports,Assorted Sports Articles,Darts,Aim4it 80% Tungsten 22 Gram,GB,Royal Darts Ltd
+20414,53288,gold,2021-06-30,2021-07-04,3,652.5,161.2,Sports,Assorted Sports Articles,Skates,Pro-roll Gretzky Roller Skates,PT,Magnifico Sports
+21634,17756,gold,2021-06-30,2021-07-04,3,49.8,7.5,Clothes & Shoes,Clothes,T-Shirts,Toncot Beefy-T Emb T-Shirt,US,A Team Sports
+25130,1606,gold,2021-06-30,2021-07-02,2,91.6,19.5,Sports,Assorted Sports Articles,Assorted Sports articles,Saturn Big Bag,ES,Luna sastreria S.A.
+27011,1900,gold,2021-06-30,2021-07-08,3,152.1,23.15,Children,Children Sports,Tracker Kid's Clothes,Mountain Bike Shirt,US,3Top Sports
+32807,697,gold,2021-06-30,2021-07-01,2,350.6,74.95,Outdoors,Outdoors,Anoraks & Parkas,Men's Jacket Rem,NO,Scandinavian Clothing A/S
+34060,37310,gold,2021-06-30,2021-07-01,2,53.4,12.65,Sports,Swim Sports,Bathing Suits,Sunfit Soustons Swimming Trunks,US,Nautlius SportsWear Inc
+35782,50024,gold,2021-06-30,2021-07-04,4,156.8,15.8,Sports,Swim Sports,Bathing Suits,Swim Suit Basic,US,Dolphin Sportswear Inc
+42566,25320,silver,2021-06-30,2021-07-01,3,19.2,3.0,Children,Children Sports,"N.D. Gear, Kids",Children's Mini Socks,ES,Luna sastreria S.A.
+49200,74732,gold,2021-06-30,2021-07-02,2,76.2,19.15,Children,Children Sports,"Eclipse, Kid's Clothes",Toddle Knit Crew,US,Eclipse Inc

@@ -1,0 +1,38 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+236,5763,gold,2021-05-13,2021-05-18,1,79.8,25.55,Sports,Running - Jogging,Jogging,Triffy Polyester Pants,NL,Triffy B.V.
+1438,6783,silver,2021-05-13,2021-05-14,2,206.4,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+3708,77163,gold,2021-05-13,2021-05-14,2,196.4,42.7,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Sweater,GB,Harry Penny Ltd
+4730,51302,gold,2021-05-13,2021-05-16,3,29.97,6.45,Sports,Team Sports,Soccer,Soccer Mjf 2000 Size 4 Black/Yellow,US,Teamsports Inc
+4731,52839,silver,2021-05-13,2021-05-14,2,19.98,6.45,Sports,Team Sports,Soccer,Soccer Mjf 2000 Size 4 Black/Yellow,US,Teamsports Inc
+6321,10419,gold,2021-05-13,2021-05-17,2,1038.6,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+6671,48265,platinum,2021-05-13,2021-05-14,3,403.5,56.05,Sports,Running - Jogging,Running Clothes,Force Micro Men's Suit,BE,Force Sports
+7118,82587,silver,2021-05-13,2021-05-14,1,24.0,11.95,Children,Children Sports,"Lucky Guy, Kids","Rain Suit, Plain w/backpack Jacket",US,AllSeasons Outdoor Clothing
+8098,43650,platinum,2021-05-13,2021-05-15,2,168.2,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+8526,71641,gold,2021-05-13,2021-05-19,1,134.4,57.05,Outdoors,Outdoors,Anoraks & Parkas,Tieman Down Jacket,US,AllSeasons Outdoor Clothing
+10036,36480,gold,2021-05-13,2021-05-16,3,24.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+11626,49566,gold,2021-05-13,2021-05-15,1,134.5,67.35,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Converge Triax X,US,Eclipse Inc
+14432,34316,silver,2021-05-13,2021-05-16,3,141.6,22.45,Sports,Running - Jogging,Running Clothes,Short Biking Spinning Pants,BE,Force Sports
+17466,88482,gold,2021-05-13,2021-05-19,1,32.4,13.4,Sports,Assorted Sports Articles,Darts,Bulls Eye 15 Gram 80% Tungsten Soft,GB,Royal Darts Ltd
+18643,70956,gold,2021-05-13,2021-05-14,1,31.0,14.8,Sports,Running - Jogging,Running Clothes,Breath-shirt Undershirt with Windstopper XS,BE,Force Sports
+26435,87560,silver,2021-05-13,2021-05-18,1,479.3,239.6,Sports,Assorted Sports Articles,Assorted Sports articles,Jeff's Hockey,PT,Magnifico Sports
+26521,77277,silver,2021-05-13,2021-05-15,1,65.8,30.0,Clothes & Shoes,Clothes,Leisure,"Van Damme Polo Pique,100% Cotton",NL,Van Dammeren International
+29793,7633,silver,2021-05-13,2021-05-14,1,176.4,84.1,Sports,Racket Sports,Racket Sports,Grandslam Ultra Cs Titanium Stretch Tennis,GB,GrandSlam Sporting Goods Ltd
+31007,11220,gold,2021-05-13,2021-05-19,3,255.3,40.65,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Medium,Right/Blue/Black",DK,Top Sports
+33707,41715,gold,2021-05-13,2021-05-18,2,147.8,33.25,Outdoors,Outdoors,Outdoor Gear,Inflatable 3.5,GB,Prime Sports Ltd
+34010,34498,silver,2021-05-13,2021-05-20,3,336.9,68.6,Sports,Assorted Sports Articles,Skates,Pro-roll Sq9 80-76mm/78a Roller Skates,PT,Magnifico Sports
+37511,13124,gold,2021-05-13,2021-05-17,3,21.6,3.25,Clothes & Shoes,Shoes,Tracker Shoes,Sole Double Active Insole,US,3Top Sports
+37583,54376,silver,2021-05-13,2021-05-16,1,29.4,13.55,Children,Children Sports,Tracker Kid's Clothes,Corp.Baby Jogger,US,3Top Sports
+38947,73212,silver,2021-05-13,2021-05-16,3,296.7,47.7,Clothes & Shoes,Clothes,LSF,Ultra M803 Ng Men's Street Shoes,US,Ultra Sporting Goods Inc
+40604,91813,gold,2021-05-13,2021-05-27,3,299.7,50.05,Outdoors,Outdoors,Backpacks,Black/Black,DK,Top Sports
+41156,45604,gold,2021-05-13,2021-05-16,6,61.2,4.5,Outdoors,Outdoors,Outdoor Gear,"Cover Cover for Water Bottle, 0.3 Litre",AU,Toto Outdoor Gear
+42833,29018,silver,2021-05-13,2021-05-17,3,202.2,30.05,Clothes & Shoes,Clothes,Tracker Clothes,Millar Shiny Men's Suit,US,3Top Sports
+43377,35308,silver,2021-05-13,2021-05-18,3,118.2,17.8,Children,Children Sports,"Lucky Guy, Kids",Bozeman Rain & Storm Set,US,AllSeasons Outdoor Clothing
+44098,49552,silver,2021-05-13,2021-05-14,3,67.2,10.3,Children,Children Sports,Tracker Kid's Clothes,Celcius Children's Shorts,US,3Top Sports
+44700,84776,platinum,2021-05-13,2021-05-15,1,82.9,36.05,Sports,Assorted Sports Articles,Assorted Sports articles,Crater Vanilla Coco,CA,CrystalClear Optics Inc
+45639,53344,gold,2021-05-13,2021-05-14,3,97.8,13.6,Sports,Running - Jogging,Running Clothes,Arabica P.D. T-Shirt,BE,Force Sports
+46834,278,silver,2021-05-13,2021-05-15,2,16.8,3.6,Outdoors,Outdoors,Outdoor Gear,Coated Pillow,GB,Prime Sports Ltd
+47217,12528,gold,2021-05-13,2021-05-16,1,139.4,75.35,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Mercurial Fg-Football Boots,US,Eclipse Inc
+47741,56926,gold,2021-05-13,2021-05-15,1,93.0,44.25,Clothes & Shoes,Clothes,Orion,Armadillo Road Dmx Men's Running Shoes,CA,Fuller Trading Co.
+50017,91869,silver,2021-05-13,2021-05-17,2,44.6,9.25,Children,Children Sports,"Olssons, Kids",Short Tights Suplex,ES,Sportico
+50059,15935,gold,2021-05-13,2021-05-14,2,129.98,50.1,Outdoors,Outdoors,Outdoor Gear,Army Tool,US,KN Outdoor Trading Inc
+51430,12332,silver,2021-05-13,2021-05-18,1,17.4,8.8,Clothes & Shoes,Clothes,Eclipse Clothing,Knit Hat,US,Eclipse Inc

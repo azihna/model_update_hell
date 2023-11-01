@@ -1,0 +1,48 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+516,39687,silver,2021-07-27,2021-07-28,3,84.0,13.4,Sports,Running - Jogging,Running Clothes,Topline Winter Tights,BE,Force Sports
+2829,39388,silver,2021-07-27,2021-08-01,2,154.0,38.6,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Right,Charcoal",DK,Top Sports
+4374,18107,gold,2021-07-27,2021-08-06,3,140.7,21.95,Sports,Team Sports,Soccer,Fga Home Shorts,US,Fga Sports Inc
+4827,46366,gold,2021-07-27,2021-07-31,1,23.5,10.2,Sports,Team Sports,Soccer,Soccer Ball-autogr Rafer Size 5  Red/,US,Teamsports Inc
+6960,61805,silver,2021-07-27,2021-07-30,2,577.8,119.15,Outdoors,Outdoors,Tents,Hurricane 4,SE,Petterson AB
+7536,50020,platinum,2021-07-27,2021-07-30,2,55.6,11.65,Sports,Running - Jogging,Running Clothes,Alfredo Coolmax Women's Top,BE,Force Sports
+12394,17520,silver,2021-07-27,2021-07-28,2,65.6,13.15,Clothes & Shoes,Clothes,Green Tomato,Green Lime T-Shirt,US,Green Lime Sports Inc
+14746,29304,gold,2021-07-27,2021-07-29,2,369.0,73.85,Sports,Golf,Golf Clothes,Eagle Windstopper Knit Neck,US,HighPoint Trading
+16811,71785,gold,2021-07-27,2021-07-31,4,12.8,1.35,Outdoors,Outdoors,Outdoor Gear,"Backpack Flag, 6,5x9 Cm.",GB,Prime Sports Ltd
+17011,71847,silver,2021-07-27,2021-08-06,2,44.0,9.1,Sports,Swim Sports,Bathing Suits,Sunfit Bombay Swimming Trunks,US,Nautlius SportsWear Inc
+17998,54450,gold,2021-07-27,2021-08-01,2,551.8,125.25,Outdoors,Outdoors,Backpacks,Feelgood 55-75 Litre Black Women's Backpack,AU,Toto Outdoor Gear
+19289,75462,silver,2021-07-27,2021-07-31,2,838.0,209.45,Sports,Assorted Sports Articles,Skates,Weston F4 Men's Hockey Skates,US,Roll-Over Inc
+20733,72465,silver,2021-07-27,2021-08-01,2,67.8,14.75,Children,Children Sports,Tracker Kid's Clothes,Children's Pants Toledo,ES,Luna sastreria S.A.
+22159,56849,gold,2021-07-27,2021-07-28,1,225.5,112.85,Sports,Winter Sports,Winter Sports,Twain Women's Evolution 8.0 T Ski Boots,US,Twain Inc
+22321,55255,gold,2021-07-27,2021-07-31,2,237.2,59.4,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Large,Right,Forestgreen",DK,Top Sports
+22322,89129,gold,2021-07-27,2021-07-28,2,237.2,59.4,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Large,Right,Forestgreen",DK,Top Sports
+22910,59755,silver,2021-07-27,2021-08-07,2,294.6,61.3,Outdoors,Outdoors,Outdoor Gear,Mayday Rain Jacket,US,Mayday Inc
+23087,39633,gold,2021-07-27,2021-07-30,2,355.6,81.25,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Bubble Jacket,GB,Greenline Sports Ltd
+23281,43079,gold,2021-07-27,2021-08-04,2,73.6,18.5,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Fleece Crew,US,Eclipse Inc
+23788,85550,gold,2021-07-27,2021-07-31,2,36.0,8.55,Sports,Running - Jogging,Running Clothes,Maxrun Men Slip (Men's underwear),BE,Force Sports
+25106,38691,silver,2021-07-27,2021-08-01,4,654.8,81.8,Sports,Assorted Sports Articles,Skates,Rollerskate  Roller Skates Sq6 76mm/78a Biofi,PT,Magnifico Sports
+26220,90072,gold,2021-07-27,2021-08-02,2,122.8,30.8,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Flyer Plus,US,Eclipse Inc
+28465,73336,gold,2021-07-27,2021-08-01,2,232.6,56.3,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Tailwind,US,Eclipse Inc
+31323,52788,silver,2021-07-27,2021-08-02,2,204.4,51.2,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Force Strong Shoes,US,Eclipse Inc
+32932,86477,silver,2021-07-27,2021-07-31,2,37.0,7.5,Sports,Golf,Golf Clothes,Eagle Cap,US,HighPoint Trading
+33364,26793,silver,2021-07-27,2021-07-31,3,173.7,23.9,Sports,Swim Sports,Bathing Suits,Lucille Short Men's Swimming Trunks,US,Dolphin Sportswear Inc
+34672,47664,silver,2021-07-27,2021-08-02,2,173.4,37.6,Clothes & Shoes,Clothes,Street Wear,Tyfoon Linen Pants,AU,Typhoon Clothing
+36101,42781,gold,2021-07-27,2021-08-01,3,26.7,3.9,Sports,Assorted Sports Articles,Assorted Sports articles,A-team Jogbra Sport Panty,US,A Team Sports
+36277,56004,silver,2021-07-27,2021-07-29,1,12.7,5.75,Outdoors,Outdoors,Gloves & Mittens,Adult Mitten,US,AllSeasons Outdoor Clothing
+36346,92656,silver,2021-07-27,2021-08-01,2,22.8,5.75,Clothes & Shoes,Clothes,Eclipse Clothing,Sport Visor (Screen),US,Eclipse Inc
+36417,12999,gold,2021-07-27,2021-08-02,2,219.8,46.8,Sports,Assorted Sports Articles,Assorted Sports articles,Lyon Men's Jacket,ES,Luna sastreria S.A.
+38527,19261,silver,2021-07-27,2021-07-29,2,105.0,23.95,Clothes & Shoes,Clothes,Tracker Clothes,Rock-solid Long Tights,US,3Top Sports
+39228,24176,gold,2021-07-27,2021-08-08,2,110.4,22.15,Clothes & Shoes,Clothes,Street Wear,Anthony Bork Maggan 3/4 Long Pique,US,Mayday Inc
+39508,33729,gold,2021-07-27,2021-08-02,2,138.6,34.75,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Sweatshirt w/Zipper and Hood,US,Eclipse Inc
+39987,4783,silver,2021-07-27,2021-07-30,2,79.4,15.9,Clothes & Shoes,Clothes,Green Tomato,Green Lime Spaghetti Top,US,Green Lime Sports Inc
+40780,57085,silver,2021-07-27,2021-08-01,2,41.8,9.9,Sports,Assorted Sports Articles,Assorted Sports articles,Teen Team 06 Iris/Blue,US,Twain Inc
+42627,51221,gold,2021-07-27,2021-07-29,2,46.0,10.55,Clothes & Shoes,Clothes,Tracker Clothes,Bra BBO,US,3Top Sports
+43249,81542,gold,2021-07-27,2021-07-31,2,106.0,23.25,Sports,Swim Sports,Bathing Suits,Swim Suit Laurel,ES,Luna sastreria S.A.
+43913,44352,silver,2021-07-27,2021-07-29,3,179.7,25.4,Sports,Assorted Sports Articles,Assorted Sports articles,Stream Polo-Shirt,ES,Luna sastreria S.A.
+44397,93852,silver,2021-07-27,2021-07-31,2,193.0,44.25,Clothes & Shoes,Shoes,Shoes,Profi Crosswinds 24 Sandal,NL,Van Dammeren International
+44442,4510,silver,2021-07-27,2021-07-29,3,315.9,50.15,Clothes & Shoes,Clothes,Eclipse Clothing,Swap Sports Glasses Vapor,US,Eclipse Inc
+47508,80466,gold,2021-07-27,2021-07-29,2,395.8,84.9,Sports,Assorted Sports Articles,Assorted Sports articles,Ribstop Jacket,ES,Luna sastreria S.A.
+48166,23458,gold,2021-07-27,2021-07-29,3,65.7,11.05,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Cut & Sew T-Shirt,US,Eclipse Inc
+48655,62789,gold,2021-07-27,2021-07-28,1,40.0,18.25,Sports,Indoor Sports,Gymnastic Clothing,Cougar Top with Broad Straps,US,SD Sporting Goods Inc
+49889,8312,gold,2021-07-27,2021-08-01,1,12.5,5.4,Sports,Indoor Sports,Fitness,Wrist Weight  0.45 Kg,NL,TrimSport B.V.
+50467,65524,gold,2021-07-27,2021-07-30,3,99.3,14.1,Sports,Assorted Sports Articles,Assorted Sports articles,Saturn Junior Sports Bag,ES,Luna sastreria S.A.
+52052,64714,gold,2021-07-27,2021-07-28,2,208.8,52.3,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air One Eighty Nb,US,Eclipse Inc

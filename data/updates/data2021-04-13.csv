@@ -1,0 +1,46 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+145,47454,silver,2021-04-13,2021-04-14,3,159.0,26.6,Clothes & Shoes,Shoes,Tracker Shoes,Maya Trx Liga Football Boot,US,3Top Sports
+7333,76190,gold,2021-04-13,2021-04-16,1,173.0,72.75,Outdoors,Outdoors,Outdoor Gear,Jl Legacy Curig I.A.Jacket,US,AllSeasons Outdoor Clothing
+10034,84194,gold,2021-04-13,2021-04-16,1,8.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+10687,7447,gold,2021-04-13,2021-04-17,1,88.5,42.45,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Large,Right, Blue/Black",DK,Top Sports
+10915,88771,silver,2021-04-13,2021-04-17,1,26.4,11.8,Sports,Swim Sports,Bathing Suits,Sunfit Madly Swim Suit,US,Nautlius SportsWear Inc
+12613,40649,gold,2021-04-13,2021-04-17,1,101.7,42.0,Outdoors,Outdoors,Outdoor Gear,Men's Sports Pullover,US,Mayday Inc
+13831,28008,gold,2021-04-13,2021-04-16,2,39.2,8.7,Sports,Team Sports,Soccer,Big-Jim 22 Goalkeeper Gloves,US,Teamsports Inc
+14085,74300,silver,2021-04-13,2021-04-15,2,444.0,110.95,Sports,Assorted Sports Articles,Skates,Proskater Kitalpha Gamma Roller Skates,US,Roll-Over Inc
+18385,29081,gold,2021-04-13,2021-04-18,2,55.0,12.55,Clothes & Shoes,Clothes,Tracker Clothes,Mojo Tee 2,US,3Top Sports
+18730,86515,gold,2021-04-13,2021-04-19,3,75.0,12.2,Outdoors,Outdoors,Outdoor Gear,Jl Rainlight Essential Pants,US,AllSeasons Outdoor Clothing
+19368,4737,silver,2021-04-13,2021-04-16,1,127.3,63.6,Sports,Winter Sports,Winter Sports,Typhoon Black,US,Eclipse Inc
+20303,48472,silver,2021-04-13,2021-04-15,1,64.6,27.35,Sports,Assorted Sports Articles,Assorted Sports articles,Richard Polo-Shirt,ES,Luna sastreria S.A.
+20409,18232,silver,2021-04-13,2021-04-14,2,435.0,161.2,Sports,Assorted Sports Articles,Skates,Pro-roll Gretzky Roller Skates,PT,Magnifico Sports
+22316,78869,silver,2021-04-13,2021-04-15,1,118.6,59.4,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Large,Right,Forestgreen",DK,Top Sports
+23627,22670,gold,2021-04-13,2021-04-16,3,54.9,8.05,Outdoors,Outdoors,Outdoor Gear,Navy Knife,US,KN Outdoor Trading Inc
+23973,36803,gold,2021-04-13,2021-04-15,1,359.2,149.5,Sports,Winter Sports,Ski Dress,Hot Duck Ski Jacket Samourai,DK,Norsok A/S
+24132,26867,gold,2021-04-13,2021-04-20,1,57.8,26.45,Children,Children Sports,Tracker Kid's Clothes,Wa.wpr Shiny Children's Suit,US,3Top Sports
+24241,91213,gold,2021-04-13,2021-04-19,1,122.6,52.8,Outdoors,Outdoors,Anoraks & Parkas,Lh Brand Anorak treated with Teflon,US,AllSeasons Outdoor Clothing
+24594,76355,gold,2021-04-13,2021-04-15,1,77.7,32.25,Outdoors,Outdoors,Anoraks & Parkas,Biker Outdoor Jacket,US,AllSeasons Outdoor Clothing
+26861,32944,silver,2021-04-13,2021-04-18,2,12.2,2.85,Sports,Assorted Sports Articles,Skates,Brake Pad 1-pack,PT,Magnifico Sports
+27894,40199,gold,2021-04-13,2021-04-14,3,215.1,35.95,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Large,Left,Charcoal",DK,Top Sports
+28337,15058,silver,2021-04-13,2021-04-14,1,119.4,59.8,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Terra Triax Shoes,US,Eclipse Inc
+29916,33115,gold,2021-04-13,2021-04-16,2,235.2,58.9,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Clima Fit Jacket,US,Eclipse Inc
+32444,11019,silver,2021-04-13,2021-04-17,1,114.5,52.25,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Delta Trainer,GB,Greenline Sports Ltd
+33568,71146,gold,2021-04-13,2021-04-16,1,313.8,159.15,Sports,Golf,Golf Clothes,Hi-fly Staff Rain Suit,NL,Van Dammeren International
+34453,40297,silver,2021-04-13,2021-04-21,1,131.7,55.0,Sports,Racket Sports,Racket Sports,Aftm Swing Power 500 Sa Black/Silver/Red,GB,British Sports Ltd
+35026,59232,silver,2021-04-13,2021-04-19,2,60.8,9.2,Sports,Swim Sports,Bathing Suits,Sharky Swimming Trunks,US,Dolphin Sportswear Inc
+36414,40182,silver,2021-04-13,2021-04-18,1,109.9,46.8,Sports,Assorted Sports Articles,Assorted Sports articles,Lyon Men's Jacket,ES,Luna sastreria S.A.
+36634,86426,silver,2021-04-13,2021-04-17,1,27.7,13.75,Clothes & Shoes,Clothes,Tracker Clothes,"Essential Men's T-Shirt w/V-neck, Small Logo",GB,Greenline Sports Ltd
+37050,30027,silver,2021-04-13,2021-04-15,1,24.9,11.2,Clothes & Shoes,Clothes,Tracker Clothes,Logo Coord.Chelsea 5 Men's Shorts,US,3Top Sports
+40100,18770,silver,2021-04-13,2021-04-17,1,170.8,128.3,Sports,Assorted Sports Articles,Skates,Pro-roll Iridium Roller Skates,PT,Magnifico Sports
+40346,40962,gold,2021-04-13,2021-04-18,1,22.375,8.95,Sports,Winter Sports,Winter Sports,Massif Cut Z 9.6l Ski Parcel Fdx95,FR,Massif S.A.
+40929,29202,gold,2021-04-13,2021-04-14,1,139.5,68.3,Outdoors,Outdoors,Sleepingbags,Compact Summer Twin 180 Cm Blue Sleeping Bag,GB,Outback Outfitters Ltd
+42848,70441,gold,2021-04-13,2021-04-19,1,14.8,7.5,Sports,Golf,Golf,"Bretagne Soft-Tech Women's Glove, left",NL,Van Dammeren International
+44363,4465,gold,2021-04-13,2021-04-17,1,175.5,89.55,Sports,Golf,Golf,Hi-fly Intrepid Stand 8  Black,NL,Van Dammeren International
+44794,55778,silver,2021-04-13,2021-04-14,1,147.1,58.85,Sports,Golf,Golf Clothes,Eagle Windstopper Sweat Neck,US,HighPoint Trading
+45441,58915,silver,2021-04-13,2021-04-14,2,126.0,25.15,Clothes & Shoes,Clothes,Green Tomato,Green Lime Mesh Top,US,Green Lime Sports Inc
+46539,37388,gold,2021-04-13,2021-04-18,1,110.7,51.35,Sports,Assorted Sports Articles,Assorted Sports articles,Copper,GB,Royal Darts Ltd
+46978,64763,silver,2021-04-13,2021-04-18,1,46.7,23.45,Clothes & Shoes,Clothes,Tracker Clothes,Dima 2-Layer Men's Suit,US,3Top Sports
+47786,34505,silver,2021-04-13,2021-04-14,1,47.9,23.45,Clothes & Shoes,Shoes,Shoes,Soft 1040 Women's Running Shoes,US,Pro Sportswear Inc
+48276,29839,gold,2021-04-13,2021-04-23,1,11.6,4.65,Sports,Assorted Sports Articles,Assorted Sports articles,Clearview Glass Black,CA,CrystalClear Optics Inc
+50258,83359,silver,2021-04-13,2021-04-16,1,14.6,4.8,Clothes & Shoes,Clothes,Stockings & Socks,Snowtech Snowboard Socks,DK,Norsok A/S
+51288,76230,gold,2021-04-13,2021-04-18,1,21.3,9.05,Children,Children Sports,"N.D. Gear, Kids",O'my Children's Shorts,ES,Luna sastreria S.A.
+51563,83729,gold,2021-04-13,2021-04-17,2,84.8,19.25,Children,Children Sports,Tracker Kid's Clothes,Kids Children's Badge Jogger,US,3Top Sports
+52358,40174,silver,2021-04-13,2021-04-24,1,76.2,33.9,Sports,Running - Jogging,Jogging,Men's Sweatshirt w/Hood + Zipper,US,A Team Sports

@@ -1,0 +1,22 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1601,72383,gold,2021-05-26,2021-05-31,2,146.0,30.35,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Classic Rain Pants,US,AllSeasons Outdoor Clothing
+2878,46616,silver,2021-05-26,2021-06-02,3,70.5,9.2,Children,Children Sports,"Olssons, Kids",Strap Pants BBO,ES,Sportico
+4582,56280,silver,2021-05-26,2021-05-31,1,143.7,71.95,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air MickeyTailwind Shoes,US,Eclipse Inc
+5125,77168,silver,2021-05-26,2021-05-27,1,61.0,29.95,Sports,Golf,Golf,Proplay Pro Series Copper Omega,NL,Van Dammeren International
+9173,48996,gold,2021-05-26,2021-06-02,2,72.2,18.2,Sports,Assorted Sports Articles,Petanque - Boule,Boule Set 6-pack Lux,GB,Royal Darts Ltd
+9333,94008,gold,2021-05-26,2021-05-30,3,473.4,79.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tuned Sirocco Shoes,US,Eclipse Inc
+11336,82018,gold,2021-05-26,2021-05-27,2,53.98,10.23,Sports,Team Sports,American Football,Football - Helmet Pro XL,US,A Team Sports
+12527,39600,gold,2021-05-26,2021-05-31,3,249.0,41.6,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Terra Sebec Shoes,US,Eclipse Inc
+15595,49220,silver,2021-05-26,2021-05-27,1,22.7,10.85,Sports,Running - Jogging,Running Clothes,Original Running Pants,BE,Force Sports
+16409,9727,platinum,2021-05-26,2021-05-28,1,34.9,16.75,Sports,Running - Jogging,Running Clothes,Maxrun Running T-Shirt,BE,Force Sports
+21936,23126,silver,2021-05-26,2021-05-29,1,16.8,8.15,Sports,Indoor Sports,Fitness,"Jump Rope, Leater",NL,TrimSport B.V.
+24446,58284,silver,2021-05-26,2021-05-28,2,38.2,7.7,Sports,Racket Sports,Tennis,Smasher Shorts,GB,British Sports Ltd
+27577,19467,gold,2021-05-26,2021-05-30,2,45.4,10.4,Sports,Assorted Sports Articles,Assorted Sports articles,Prosoccer  Club Football 4/32 (Replica) Synth,US,Teamsports Inc
+29952,26926,gold,2021-05-26,2021-05-29,1,22.9,10.3,Sports,Indoor Sports,Fitness,Topgun Evb-10 Vinyl-Dumbbells 4.5,NL,TrimSport B.V.
+31609,86711,silver,2021-05-26,2021-05-30,3,70.2,11.4,Outdoors,Outdoors,Sleepingbags,Cover Compression cover M 200 Gram Yellow,GB,Outback Outfitters Ltd
+32945,18804,gold,2021-05-26,2021-05-29,1,41.6,16.55,Sports,Assorted Sports Articles,Assorted Sports articles,Silver SAL,CA,CrystalClear Optics Inc
+39956,1517,silver,2021-05-26,2021-05-28,3,249.0,37.85,Clothes & Shoes,Shoes,Tracker Shoes,Mid Women's Aerobic Shoes X,US,3Top Sports
+46029,77008,gold,2021-05-26,2021-05-30,1,49.2,21.5,Children,Children Sports,"Ypsilon, Kids",Ypsilon Children's Sweat w/Big Logo,FR,Ypsilon S.A.
+50426,32612,silver,2021-05-26,2021-05-30,1,13.3,5.65,Sports,Assorted Sports Articles,Assorted Sports articles,Jugg's Toilet Bag,ES,Luna sastreria S.A.
+52886,90586,silver,2021-05-26,2021-05-28,1,43.5,21.85,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Kimono Long Top,US,Eclipse Inc
+53420,85168,gold,2021-05-26,2021-06-02,3,185.7,30.9,Clothes & Shoes,Clothes,Tracker Clothes,Polo-shirt,GB,Greenline Sports Ltd

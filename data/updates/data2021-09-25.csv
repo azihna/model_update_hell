@@ -1,0 +1,20 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+4912,78858,silver,2021-09-25,2021-09-30,1,14.5,7.35,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Embroidered Tee,US,Eclipse Inc
+11518,10096,gold,2021-09-25,2021-09-26,1,22.3,11.25,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Sweatshirt w/Round Neck L,US,Eclipse Inc
+11817,92767,silver,2021-09-25,2021-09-26,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+18239,5728,gold,2021-09-25,2021-09-28,2,69.2,14.4,Sports,Assorted Sports Articles,Darts,Bulls Eye Stuart/Tungsten 24 Gram,GB,Royal Darts Ltd
+23398,85785,silver,2021-09-25,2021-09-28,1,16.7,7.25,Outdoors,Outdoors,Outdoor Gear,Mattress with 5 channels 196x72,GB,Prime Sports Ltd
+25622,53563,gold,2021-09-25,2021-09-26,1,223.6,101.6,Sports,Racket Sports,Racket Sports,Smasher Super Rq Ti-700 Long Tennis Racket,GB,British Sports Ltd
+27151,22460,gold,2021-09-25,2021-09-29,2,38.2,8.75,Clothes & Shoes,Clothes,Tracker Clothes,Logo Coord. Round Neck Men's T-Shirt,US,3Top Sports
+27180,43860,gold,2021-09-25,2021-09-28,2,233.0,56.8,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Sq3 76mm/85a,PT,Magnifico Sports
+28065,73784,silver,2021-09-25,2021-09-26,2,393.4,91.7,Sports,Assorted Sports Articles,Skates,Bladeline Zx 7-Men's Fitness In-Line,US,Roll-Over Inc
+28223,73825,silver,2021-09-25,2021-09-28,2,202.0,46.05,Clothes & Shoes,Shoes,Tracker Shoes,Men's Running Shoes Supernova,US,3Top Sports
+33663,20803,gold,2021-09-25,2021-10-01,2,95.8,22.85,Clothes & Shoes,Clothes,Orion Clothing,Zx Women's Tee Small Logo,CA,Fuller Trading Co.
+34232,17790,gold,2021-09-25,2021-09-30,1,61.3,30.75,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Victory Peach Poplin Pants,US,Eclipse Inc
+34724,36788,gold,2021-09-25,2021-09-27,2,70.0,17.6,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Dry Fit T-Shirt w/Short sleeves,US,Eclipse Inc
+36622,13013,gold,2021-09-25,2021-09-30,2,83.8,16.8,Sports,Swim Sports,Bathing Suits,Sunfit Swimming Trunks,US,Nautlius SportsWear Inc
+36869,20231,silver,2021-09-25,2021-09-29,1,55.7,27.95,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Small,Left,Charcoal",DK,Top Sports
+42705,57461,platinum,2021-09-25,2021-09-28,1,18.3,7.4,Sports,Swim Sports,Bathing Suits,"K2 Mirror Goggles, Assorted colours",US,Nautlius SportsWear Inc
+47883,78420,gold,2021-09-25,2021-09-27,2,35.4,8.5,Clothes & Shoes,Clothes,Orion Clothing,Essence Bob Cap,CA,Fuller Trading Co.
+47946,8619,silver,2021-09-25,2021-09-30,2,12.4,2.85,Outdoors,Outdoors,Outdoor Gear,Pocket Light with Crypton Bulb,GB,Prime Sports Ltd
+50160,71511,silver,2021-09-25,2021-09-27,1,52.9,26.55,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Twill Pants Golf,US,Eclipse Inc

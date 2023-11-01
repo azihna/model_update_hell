@@ -1,0 +1,41 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+450,62459,gold,2021-04-17,2021-04-20,3,292.5,40.55,Outdoors,Outdoors,Outdoor Gear,Mayday Qd Zip Pants,US,Mayday Inc
+2007,75366,gold,2021-04-17,2021-04-20,3,259.8,34.1,Outdoors,Outdoors,Outdoor Gear,"Men's Pants, Basic",US,Mayday Inc
+3071,30112,gold,2021-04-17,2021-04-18,2,183.2,45.75,Sports,Assorted Sports Articles,Skates,Bladeline S-Fitness In-Line Skates,US,Roll-Over Inc
+4017,40841,gold,2021-04-17,2021-04-23,3,79.8,13.75,Sports,Team Sports,American Football,Armour XL,US,A Team Sports
+4057,32601,silver,2021-04-17,2021-04-22,1,119.4,49.75,Sports,Running - Jogging,Running Clothes,Polar Jacket,BE,Force Sports
+6041,22101,silver,2021-04-17,2021-04-21,1,73.4,36.8,Outdoors,Outdoors,Sleepingbags,"Expedition 10,Small,Left,Blue Ribbon",DK,Top Sports
+7169,76082,silver,2021-04-17,2021-04-19,1,80.0,39.45,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's International Triax Shoes,US,Eclipse Inc
+7420,73301,gold,2021-04-17,2021-04-21,1,226.8,105.55,Outdoors,Outdoors,Backpacks,Victor Grey/Red Men's Backpack,DK,Top Sports
+9096,93703,gold,2021-04-17,2021-04-20,1,13.0,5.75,Children,Children Sports,"A-Team, Kids",A-team Children's T-Shirt,US,A Team Sports
+11090,40186,gold,2021-04-17,2021-04-23,1,96.7,48.45,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Medium,Right,Forestgreen",DK,Top Sports
+12033,91565,silver,2021-04-17,2021-04-20,1,124.7,59.65,Outdoors,Outdoors,Sleepingbags,Tipee Twin Blue/Orange,GB,Outback Outfitters Ltd
+13489,37098,silver,2021-04-17,2021-04-21,4,160.0,20.1,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Gts Lite Canvas,US,Eclipse Inc
+13832,4884,silver,2021-04-17,2021-04-20,2,39.2,8.7,Sports,Team Sports,Soccer,Big-Jim 22 Goalkeeper Gloves,US,Teamsports Inc
+14578,28693,silver,2021-04-17,2021-04-21,1,41.9,18.2,Sports,Assorted Sports Articles,Assorted Sports articles,Ultra York Shorts,ES,Luna sastreria S.A.
+15624,92907,silver,2021-04-17,2021-04-27,1,41.7,18.9,Clothes & Shoes,Clothes,Tracker Clothes,Casual.Pants Open Tracking Pants,US,3Top Sports
+17854,23941,gold,2021-04-17,2021-04-21,2,34.0,7.8,Sports,Team Sports,Soccer,Fga Black/White/Black,US,Teamsports Inc
+19962,18089,silver,2021-04-17,2021-04-18,1,37.3,15.6,Sports,Assorted Sports Articles,Assorted Sports articles,Ultra York T-Shirt with V-Neck,ES,Luna sastreria S.A.
+21453,32617,gold,2021-04-17,2021-04-19,2,426.6,104.1,Sports,Assorted Sports Articles,Skates,N.d.gear  Roller Skates Ff70 76 millimetre/78,PT,Magnifico Sports
+21860,54307,gold,2021-04-17,2021-04-18,1,220.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+22493,59572,silver,2021-04-17,2021-04-21,2,462.0,113.65,Sports,Assorted Sports Articles,Skates,N.d.gear Roller Skates Ff80 80 millimetre78a,PT,Magnifico Sports
+23451,75192,gold,2021-04-17,2021-04-18,1,179.3,83.55,Clothes & Shoes,Shoes,Shoes,Ultra M1210 Men's Running Shoes,US,Ultra Sporting Goods Inc
+24629,41230,silver,2021-04-17,2021-04-23,3,201.3,27.8,Sports,Racket Sports,Tennis,Anthony Retro Men's Tennis Polo,US,Mayday Inc
+27555,17744,gold,2021-04-17,2021-04-20,2,50.0,11.1,Sports,Team Sports,Soccer,General 33 Goal Keeper Gloves,US,Teamsports Inc
+28870,14738,silver,2021-04-17,2021-04-20,2,52.6,13.25,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Brand Bucket,US,Eclipse Inc
+30159,56420,silver,2021-04-17,2021-04-23,1,201.8,91.65,Clothes & Shoes,Shoes,Shoes,Twain Stf7 Women's Outdoor Boots,US,Twain Inc
+33062,19328,gold,2021-04-17,2021-04-21,1,18.7,8.55,Sports,Assorted Sports Articles,Assorted Sports articles,Cruise First Star Baby Shoes,SE,Petterson AB
+38340,57426,silver,2021-04-17,2021-04-25,1,40.7,20.45,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Brand Long-Sleeved,US,Eclipse Inc
+39834,50950,silver,2021-04-17,2021-04-21,1,39.2,20.05,Outdoors,Outdoors,Outdoor Gear,Outback Storm Kitchen,GB,Prime Sports Ltd
+40930,41357,silver,2021-04-17,2021-04-22,3,418.5,68.3,Outdoors,Outdoors,Sleepingbags,Compact Summer Twin 180 Cm Blue Sleeping Bag,GB,Outback Outfitters Ltd
+41966,35144,silver,2021-04-17,2021-04-21,1,26.9,12.0,Clothes & Shoes,Clothes,T-Shirts,A-team Polo Pique,US,A Team Sports
+42331,84565,silver,2021-04-17,2021-04-22,1,167.2,71.6,Children,Children Sports,"N.D. Gear, Kids",Carolina Sailing Jacket,US,AllSeasons Outdoor Clothing
+42976,61406,silver,2021-04-17,2021-04-22,2,221.6,50.55,Children,Children Sports,Tracker Kid's Clothes,Nwt Punjab Down Jacket,US,3Top Sports
+44706,73559,gold,2021-04-17,2021-04-22,1,14.0,7.05,Sports,Golf,Golf,Hi-fly Stata Dist.90 Balls 3-pack,NL,Van Dammeren International
+46510,76738,gold,2021-04-17,2021-04-18,1,99.3,45.2,Sports,Assorted Sports Articles,Assorted Sports articles,Fit4you Wheelbag Red,US,Twain Inc
+48464,41553,gold,2021-04-17,2021-04-23,1,31.4,15.8,Children,Children Sports,"Eclipse, Kid's Shoes",Toddler Hermosa Nubuck,US,Eclipse Inc
+48596,47601,silver,2021-04-17,2021-04-18,2,132.4,28.15,Sports,Indoor Sports,Top Trim,Top Men's Outback Pike Polo-Shirt,US,Top Sports Inc
+52059,10858,platinum,2021-04-17,2021-04-22,1,74.8,37.35,Clothes & Shoes,Clothes,Eclipse Clothing,Proficient Black/Silver,US,Eclipse Inc
+52973,5569,silver,2021-04-17,2021-04-18,1,46.5,21.2,Clothes & Shoes,Clothes,Tracker Clothes,Ultra Young Corporate Team Bag Medium,US,3Top Sports
+53838,80663,silver,2021-04-17,2021-04-20,1,56.5,28.35,Clothes & Shoes,Shoes,Eclipse Shoes,Sire Trainer-X-Train,US,Eclipse Inc
+54310,47060,gold,2021-04-17,2021-04-21,1,342.8,141.75,Sports,Winter Sports,Ski Dress,Fit4you Ski Jacket Orion,US,AllSeasons Outdoor Clothing

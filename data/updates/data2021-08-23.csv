@@ -1,0 +1,50 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1609,57561,gold,2021-08-23,2021-08-28,2,146.0,30.35,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Classic Rain Pants,US,AllSeasons Outdoor Clothing
+1877,21538,gold,2021-08-23,2021-08-28,1,48.3,20.5,Outdoors,Outdoors,Anoraks & Parkas,Tasmania Men's Shirt,NO,Scandinavian Clothing A/S
+3521,49023,gold,2021-08-23,2021-08-24,3,221.1,38.4,Sports,Team Sports,Soccer,Fga Away Football Shirt,US,Fga Sports Inc
+3745,74405,silver,2021-08-23,2021-08-27,2,186.2,42.45,Clothes & Shoes,Shoes,Tracker Shoes,Banto Light Men's Shoes,US,3Top Sports
+5126,81318,silver,2021-08-23,2021-08-24,2,122.0,29.95,Sports,Golf,Golf,Proplay Pro Series Copper Omega,NL,Van Dammeren International
+5786,88469,gold,2021-08-23,2021-08-24,3,94.2,13.9,Sports,Assorted Sports Articles,Assorted Sports articles,A-team Smoothsport Bra,US,A Team Sports
+5920,17541,gold,2021-08-23,2021-08-28,2,28.2,5.95,Sports,Running - Jogging,Running Clothes,Running Socks,US,Pro Sportswear Inc
+6965,20284,silver,2021-08-23,2021-08-26,2,577.8,119.15,Outdoors,Outdoors,Tents,Hurricane 4,SE,Petterson AB
+7672,79486,silver,2021-08-23,2021-08-27,2,114.0,25.25,Sports,Running - Jogging,Jogging,Sweatshirt  Children's Sweat w/Small Zipper C,US,A Team Sports
+8629,72266,silver,2021-08-23,2021-08-26,2,109.6,24.3,Sports,Running - Jogging,Jogging,SweatPants Sweat Pants,US,A Team Sports
+10304,51486,silver,2021-08-23,2021-08-25,3,364.8,62.9,Sports,Golf,Golf,Proplay Men's Tour Force Lp 7-Wood,NL,Van Dammeren International
+11340,23378,silver,2021-08-23,2021-08-25,3,80.97,10.23,Sports,Team Sports,American Football,Football - Helmet Pro XL,US,A Team Sports
+11455,30619,gold,2021-08-23,2021-08-28,2,128.4,32.2,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Small,Right,Charcoal",DK,Top Sports
+12274,94028,silver,2021-08-23,2021-08-24,1,144.0,59.05,Clothes & Shoes,Clothes,Knitwear,Mayday Riders Pullover,US,Mayday Inc
+12530,72827,silver,2021-08-23,2021-08-24,2,166.0,41.6,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Terra Sebec Shoes,US,Eclipse Inc
+13043,33253,silver,2021-08-23,2021-08-25,2,252.2,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+13044,34711,silver,2021-08-23,2021-09-03,1,126.1,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+14094,78453,gold,2021-08-23,2021-08-24,2,444.0,110.95,Sports,Assorted Sports Articles,Skates,Proskater Kitalpha Gamma Roller Skates,US,Roll-Over Inc
+15604,63175,gold,2021-08-23,2021-08-26,2,45.4,10.85,Sports,Running - Jogging,Running Clothes,Original Running Pants,BE,Force Sports
+16043,51179,gold,2021-08-23,2021-08-25,2,52.6,12.6,Sports,Running - Jogging,Running Clothes,Breath-shirt Undershirt,BE,Force Sports
+19484,24194,silver,2021-08-23,2021-08-26,2,74.2,18.65,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Fund Dri Fit Polo Pique,US,Eclipse Inc
+19567,4935,gold,2021-08-23,2021-08-26,1,189.7,80.9,Clothes & Shoes,Clothes,Knitwear,Mayday Classic Triangle Pullover,US,Mayday Inc
+24692,34914,gold,2021-08-23,2021-08-27,3,41.1,6.9,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Little Boy's Athletic Cap,US,Eclipse Inc
+27098,14936,gold,2021-08-23,2021-08-28,2,525.6,125.15,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Spectrum,PT,Magnifico Sports
+27580,14174,gold,2021-08-23,2021-08-24,2,45.4,10.4,Sports,Assorted Sports Articles,Assorted Sports articles,Prosoccer  Club Football 4/32 (Replica) Synth,US,Teamsports Inc
+28024,32487,gold,2021-08-23,2021-08-26,2,81.2,19.35,Sports,Running - Jogging,Running Clothes,Bike.Pants Short Biking Pants,BE,Force Sports
+29337,90271,gold,2021-08-23,2021-08-26,2,182.0,40.25,Clothes & Shoes,Clothes,LSF,Osprey Men's Street Cat Nubuck Street Shoes,US,Triple Sportswear Inc
+31331,39003,gold,2021-08-23,2021-08-27,2,227.2,51.7,Clothes & Shoes,Shoes,Tracker Shoes,The Gonzales Men's Shoes,US,3Top Sports
+31979,84650,gold,2021-08-23,2021-08-26,2,216.0,47.0,Clothes & Shoes,Shoes,Shoes,Twain Men's Exentric Ii X-Hiking Shoes,US,Twain Inc
+32721,19676,silver,2021-08-23,2021-08-25,5,431.0,39.25,Clothes & Shoes,Shoes,Shoes,Cruise Platypus Men's Street Shoes,SE,Petterson AB
+32891,86363,gold,2021-08-23,2021-08-30,1,47.9,21.4,Outdoors,Outdoors,Anoraks & Parkas,Dean Creek Men's Vest,NO,Scandinavian Clothing A/S
+32892,86856,silver,2021-08-23,2021-08-27,1,47.9,21.4,Outdoors,Outdoors,Anoraks & Parkas,Dean Creek Men's Vest,NO,Scandinavian Clothing A/S
+33031,80505,silver,2021-08-23,2021-08-28,2,110.4,24.5,Sports,Running - Jogging,Jogging,"Men's Sweat Pants without Rib, Small Logo",US,A Team Sports
+33868,34316,silver,2021-08-23,2021-08-25,3,161.1,24.5,Children,Children Sports,Tracker Kid's Clothes,Dima Shiny Children's Suit,US,3Top Sports
+36676,82758,silver,2021-08-23,2021-08-28,2,238.6,53.1,Clothes & Shoes,Shoes,Tracker Shoes,Mns. Mercury 2 Men's Crosstraining,US,3Top Sports
+37771,11318,silver,2021-08-23,2021-08-29,2,33.98,9.3,Sports,Swim Sports,Bathing Suits,Sunfit Souchon Swimming Trunks,US,Nautlius SportsWear Inc
+38395,73325,silver,2021-08-23,2021-08-25,2,150.8,37.8,Outdoors,Outdoors,Backpacks,Large Rust/Black Backpack,DK,Top Sports
+40483,4424,silver,2021-08-23,2021-08-28,2,54.0,13.6,Sports,Assorted Sports Articles,Assorted Sports articles,Soccer Fan Children's Player Shorts,GB,SportsFan Products Ltd
+41176,8161,silver,2021-08-23,2021-08-24,2,121.2,32.85,Clothes & Shoes,Shoes,Shoes,Pro Fit Gel Gt 2030 Women's Running Shoes,US,Pro Sportswear Inc
+43086,775,silver,2021-08-23,2021-08-24,3,117.3,17.8,Clothes & Shoes,Clothes,Tracker Clothes,Progression Short Tights,US,3Top Sports
+45077,8703,gold,2021-08-23,2021-08-26,2,98.4,24.7,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Brand Pants,US,Eclipse Inc
+45898,32231,gold,2021-08-23,2021-08-28,3,251.1,38.05,Clothes & Shoes,Shoes,Tracker Shoes,Wm Trx Fg Liga Football Boots,US,3Top Sports
+47586,13140,silver,2021-08-23,2021-08-24,2,153.8,34.95,Clothes & Shoes,Clothes,LSF,Bill V-3-London Calling Shoes,SE,Petterson AB
+48549,88014,gold,2021-08-23,2021-08-25,1,33.7,16.05,Sports,Indoor Sports,Fitness,Lift Weights 10 Kg Dumbbell,NL,TrimSport B.V.
+51482,973,gold,2021-08-23,2021-08-28,2,43.6,9.75,Clothes & Shoes,Clothes,Tracker Clothes,Stars Swimming Trunks,US,3Top Sports
+53136,92465,silver,2021-08-23,2021-08-27,2,65.6,16.5,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Deschutz Slide Shoes,US,Eclipse Inc
+53205,22165,silver,2021-08-23,2021-08-29,3,206.1,34.45,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Osaka Suede,US,Eclipse Inc
+53571,18815,silver,2021-08-23,2021-08-26,2,62.0,15.6,Clothes & Shoes,Clothes,Eclipse Clothing,"Woman's Top w/Small, Embroidery",US,Eclipse Inc
+54255,81740,gold,2021-08-23,2021-08-29,2,107.0,25.5,Clothes & Shoes,Clothes,Orion Clothing,Zx Women's Tee Mix Big Logo,CA,Fuller Trading Co.

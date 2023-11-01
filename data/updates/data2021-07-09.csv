@@ -1,0 +1,46 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+286,76473,silver,2021-07-09,2021-07-13,1,129.2,56.35,Sports,Indoor Sports,Top Trim,Bike Pants Activent,US,Top Sports Inc
+331,48056,silver,2021-07-09,2021-07-10,3,127.8,18.5,Clothes & Shoes,Shoes,Shoes,Dundas Rubber Boot,ES,Luna sastreria S.A.
+1606,47197,silver,2021-07-09,2021-07-11,2,146.0,30.35,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Classic Rain Pants,US,AllSeasons Outdoor Clothing
+2018,10504,silver,2021-07-09,2021-07-11,2,173.2,34.1,Outdoors,Outdoors,Outdoor Gear,"Men's Pants, Basic",US,Mayday Inc
+2512,71157,gold,2021-07-09,2021-07-11,1,71.7,28.65,Clothes & Shoes,Clothes,Green Tomato,Green Lime Board Pants Ii,US,Green Lime Sports Inc
+3711,28844,silver,2021-07-09,2021-07-13,5,491.0,42.7,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Sweater,GB,Harry Penny Ltd
+4288,78065,gold,2021-07-09,2021-07-14,2,203.2,50.9,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Mickey Wilma,US,Eclipse Inc
+4537,75399,gold,2021-07-09,2021-07-14,2,84.4,18.35,Children,Children Sports,"Bathing Suits, Kids",Sunfit Maximum Swim Suit Jr.,US,Nautlius SportsWear Inc
+4903,10994,gold,2021-07-09,2021-07-13,4,953.6,116.35,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Proto Sv,PT,Magnifico Sports
+5678,7968,silver,2021-07-09,2021-07-10,2,259.6,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+6051,44907,silver,2021-07-09,2021-07-13,2,146.8,36.8,Outdoors,Outdoors,Sleepingbags,"Expedition 10,Small,Left,Blue Ribbon",DK,Top Sports
+7124,9962,gold,2021-07-09,2021-07-12,2,48.0,11.95,Children,Children Sports,"Lucky Guy, Kids","Rain Suit, Plain w/backpack Jacket",US,AllSeasons Outdoor Clothing
+8564,52525,silver,2021-07-09,2021-07-10,2,17.8,4.1,Sports,Assorted Sports Articles,Assorted Sports articles,Hiclass Mundo 78a 36x72mm Pink-Swirl,US,Roll-Over Inc
+9335,37539,gold,2021-07-09,2021-07-10,2,315.6,79.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tuned Sirocco Shoes,US,Eclipse Inc
+10946,78864,gold,2021-07-09,2021-07-10,1,84.7,35.35,Sports,Assorted Sports Articles,Assorted Sports articles,Fred Sweatshirt with Tube Neck,ES,Luna sastreria S.A.
+12456,45288,gold,2021-07-09,2021-07-12,1,124.8,53.6,Outdoors,Outdoors,Anoraks & Parkas,Duwall Pants,US,AllSeasons Outdoor Clothing
+13039,49083,gold,2021-07-09,2021-07-12,4,504.4,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+13040,50263,gold,2021-07-09,2021-07-13,2,252.2,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+13550,86728,gold,2021-07-09,2021-07-14,4,445.2,56.95,Sports,Golf,Golf,Proplay Staff 9 Black/Brown,NL,Van Dammeren International
+14654,39530,silver,2021-07-09,2021-07-13,2,92.2,21.05,Sports,Running - Jogging,Jogging,Pants Palazzo,US,3Top Sports
+15193,9541,gold,2021-07-09,2021-07-14,1,6.2,2.75,Sports,Team Sports,Soccer,Soccer Socks Senior,US,Teamsports Inc
+15194,57714,gold,2021-07-09,2021-07-12,4,24.8,2.75,Sports,Team Sports,Soccer,Soccer Socks Senior,US,Teamsports Inc
+16475,24890,silver,2021-07-09,2021-07-11,3,314.1,47.65,Clothes & Shoes,Shoes,Tracker Shoes,Damaskus Women's Running Shoes,US,3Top Sports
+21875,18576,gold,2021-07-09,2021-07-12,2,440.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+22691,18386,silver,2021-07-09,2021-07-11,1,175.7,75.95,Sports,Racket Sports,Racket Sports,Sledgehammer 120 Ph Black,GB,GrandSlam Sporting Goods Ltd
+22723,80477,gold,2021-07-09,2021-07-10,2,11.6,2.95,Sports,Golf,Golf,White Top Flite Titanium 90 Golf Ball,NL,Van Dammeren International
+23628,87369,silver,2021-07-09,2021-07-14,1,12.99,8.05,Outdoors,Outdoors,Outdoor Gear,Navy Knife,US,KN Outdoor Trading Inc
+27579,25632,gold,2021-07-09,2021-07-12,2,45.4,10.4,Sports,Assorted Sports Articles,Assorted Sports articles,Prosoccer  Club Football 4/32 (Replica) Synth,US,Teamsports Inc
+27964,70107,silver,2021-07-09,2021-07-15,4,1065.6,131.65,Sports,Assorted Sports Articles,Skates,Cool Fit Men's Roller Skates,US,Twain Inc
+28871,61987,gold,2021-07-09,2021-07-12,3,78.9,13.25,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Brand Bucket,US,Eclipse Inc
+29232,72254,platinum,2021-07-09,2021-07-10,3,156.9,21.0,Clothes & Shoes,Clothes,Osprey,Osprey Men's King Sweat,US,Triple Sportswear Inc
+32477,3213,silver,2021-07-09,2021-07-15,3,419.4,70.0,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Mickey Tailwind,US,Eclipse Inc
+33438,90337,silver,2021-07-09,2021-07-11,2,46.8,10.5,Children,Children Sports,Tracker Kid's Clothes,Children's Shorts,US,3Top Sports
+35336,85808,gold,2021-07-09,2021-07-15,2,137.6,34.5,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Soc Moc,US,Eclipse Inc
+37895,58190,gold,2021-07-09,2021-07-11,5,177.5,15.2,Sports,Assorted Sports Articles,Assorted Sports articles,Goodtime Sports Bag,ES,Luna sastreria S.A.
+39108,14669,gold,2021-07-09,2021-07-13,2,522.4,130.55,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Flex-E Perf.Skates,US,Eclipse Inc
+39986,47572,silver,2021-07-09,2021-07-14,2,79.4,15.9,Clothes & Shoes,Clothes,Green Tomato,Green Lime Spaghetti Top,US,Green Lime Sports Inc
+42617,78864,silver,2021-07-09,2021-07-10,1,25.0,11.35,Children,Children Sports,"N.D. Gear, Kids","O'my Bida Sandal, Junior",ES,Luna sastreria S.A.
+42735,56409,gold,2021-07-09,2021-07-11,2,167.0,41.85,Clothes & Shoes,Clothes,Eclipse Clothing,Coolman Bag with Wheels,US,Eclipse Inc
+44670,58759,silver,2021-07-09,2021-07-10,3,371.4,61.8,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Women's Firewire,GB,Greenline Sports Ltd
+45970,88783,silver,2021-07-09,2021-07-11,7,669.9,47.95,Sports,Golf,Golf,Proplay Men's Tour Force Ti 5w,NL,Van Dammeren International
+47320,3334,gold,2021-07-09,2021-07-12,2,103.98,41.2,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Terma Fit Jacket,US,Eclipse Inc
+48211,78276,gold,2021-07-09,2021-07-15,1,57.1,25.85,Sports,Racket Sports,Racket Sports,Bag  Tit.Weekend,FR,Le Blanc S.A.
+49415,54993,silver,2021-07-09,2021-07-13,2,35.0,7.3,Clothes & Shoes,Clothes,Stockings & Socks,Hawkins Tk3 Men's Trekking Socks High T,US,Sockeye Sportswear Inc
+54205,89826,silver,2021-07-09,2021-07-10,1,86.7,43.45,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Mada Cargo Pants,US,Eclipse Inc

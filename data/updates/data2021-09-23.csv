@@ -1,0 +1,18 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+11493,43807,gold,2021-09-23,2021-09-24,1,179.6,93.4,Sports,Golf,Golf,Expert Men's Nubbins Putter,US,Twain Inc
+11815,13539,gold,2021-09-23,2021-09-27,1,53.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+11816,81398,gold,2021-09-23,2021-09-27,1,53.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+13836,12974,gold,2021-09-23,2021-09-25,1,19.6,8.7,Sports,Team Sports,Soccer,Big-Jim 22 Goalkeeper Gloves,US,Teamsports Inc
+16100,54501,silver,2021-09-23,2021-09-26,2,76.8,17.1,Sports,Running - Jogging,Jogging,"Woman Sweat with Round Neck, Big Logo",US,A Team Sports
+18312,36033,silver,2021-09-23,2021-09-26,1,42.8,19.3,Sports,Winter Sports,Winter Sports,"South Vally Iii,Royal",CA,CrystalClear Optics Inc
+18739,28422,silver,2021-09-23,2021-09-26,1,25.0,12.2,Outdoors,Outdoors,Outdoor Gear,Jl Rainlight Essential Pants,US,AllSeasons Outdoor Clothing
+21598,54791,silver,2021-09-23,2021-09-24,1,23.9,10.15,Sports,Indoor Sports,Gymnastic Clothing,"Essential 3/4 Tights, 92% Cotton",ES,Sportico
+25865,3213,silver,2021-09-23,2021-10-02,1,38.7,19.45,Children,Children Sports,"Eclipse, Kid's Shoes",Tony's Golden (Bg),US,Eclipse Inc
+27241,19324,silver,2021-09-23,2021-09-24,2,79.4,18.9,Sports,Running - Jogging,Running Clothes,Maxrun Long-sleeved T-Shirt,BE,Force Sports
+30219,3681,platinum,2021-09-23,2021-09-26,1,199.1,95.65,Outdoors,Outdoors,Backpacks,Commanche Women's 6000 Q Backpack. Bark,DK,Top Sports
+42801,50512,silver,2021-09-23,2021-09-24,1,70.1,31.9,Clothes & Shoes,Shoes,Shoes,Soft Astro Women's Running Shoes,US,Pro Sportswear Inc
+43382,48639,silver,2021-09-23,2021-09-26,1,39.4,17.8,Children,Children Sports,"Lucky Guy, Kids",Bozeman Rain & Storm Set,US,AllSeasons Outdoor Clothing
+46098,55128,silver,2021-09-23,2021-09-25,2,181.2,38.45,Clothes & Shoes,Clothes,Orion,"Power Women's Dmx Wide, Walking Shoes",CA,Fuller Trading Co.
+49432,85711,silver,2021-09-23,2021-09-25,2,45.6,9.85,Children,Children Sports,"Bathing Suits, Kids",Sunfit Brosman Swimming Trunks,US,Nautlius SportsWear Inc
+50832,32733,gold,2021-09-23,2021-09-24,2,165.2,33.05,Sports,Golf,Golf Clothes,Top Of Florence Shorts,FR,ToughWear S.A.
+51368,7323,gold,2021-09-23,2021-09-29,1,55.8,28.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Ultraccel 2 F.G. Soccer Shoes,US,Eclipse Inc

@@ -1,0 +1,38 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+958,20670,silver,2021-04-10,2021-04-11,1,24.5,11.75,Sports,Winter Sports,Winter Sports,Original Eco Thermo 01 Yellow,US,Twain Inc
+1436,44746,gold,2021-04-10,2021-04-13,1,103.2,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+5088,77366,silver,2021-04-10,2021-04-14,1,148.1,74.15,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Zoom Seismic-X-Training,US,Eclipse Inc
+6106,45800,silver,2021-04-10,2021-04-15,2,22.4,4.85,Clothes & Shoes,Clothes,Stockings & Socks,Sports Training Socks,FR,Bon Garrments
+6314,7323,silver,2021-04-10,2021-04-16,3,1557.9,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+6943,10889,silver,2021-04-10,2021-04-13,1,288.9,119.15,Outdoors,Outdoors,Tents,Hurricane 4,SE,Petterson AB
+8849,65277,silver,2021-04-10,2021-04-13,1,96.1,45.9,Sports,Racket Sports,Racket Sports,Grandslam Graphite Pro Ti 95 Tennis Racket,GB,GrandSlam Sporting Goods Ltd
+12197,60615,gold,2021-04-10,2021-04-14,1,97.8,42.45,Sports,Winter Sports,Winter Sports,Cayenne Red,CA,CrystalClear Optics Inc
+13022,7593,silver,2021-04-10,2021-04-11,1,126.1,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+13978,94094,gold,2021-04-10,2021-04-12,1,55.4,22.8,Sports,Assorted Sports Articles,Darts,Pacific 95% 23 Gram,GB,Royal Darts Ltd
+14911,52102,gold,2021-04-10,2021-04-12,1,141.2,70.75,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Zoom Pivot Mid Ii Shoes,US,Eclipse Inc
+15589,36245,silver,2021-04-10,2021-04-13,1,22.7,10.85,Sports,Running - Jogging,Running Clothes,Original Running Pants,BE,Force Sports
+19961,4375,silver,2021-04-10,2021-04-13,1,37.3,15.6,Sports,Assorted Sports Articles,Assorted Sports articles,Ultra York T-Shirt with V-Neck,ES,Luna sastreria S.A.
+21969,2487,silver,2021-04-10,2021-04-15,4,347.2,41.4,Sports,Assorted Sports Articles,Skates,Vamos Road 80mm/82a Wheel(10 Piece),PT,Magnifico Sports
+21970,20592,gold,2021-04-10,2021-04-14,2,173.6,41.4,Sports,Assorted Sports Articles,Skates,Vamos Road 80mm/82a Wheel(10 Piece),PT,Magnifico Sports
+22381,52894,silver,2021-04-10,2021-04-15,3,450.3,64.1,Outdoors,Outdoors,Outdoor Gear,Polyester 4-Persons,GB,Prime Sports Ltd
+23261,50695,silver,2021-04-10,2021-04-14,2,171.0,36.7,Children,Children Sports,"N.D. Gear, Kids",Butch Sweatshirt with Tube,ES,Luna sastreria S.A.
+24689,58066,gold,2021-04-10,2021-04-16,1,13.7,6.9,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Little Boy's Athletic Cap,US,Eclipse Inc
+25956,6086,silver,2021-04-10,2021-04-16,1,224.6,101.9,Sports,Winter Sports,Ski Dress,Big Guy Men's Revert Jacket,US,Miller Trading Inc
+27238,62238,silver,2021-04-10,2021-04-16,1,39.7,18.9,Sports,Running - Jogging,Running Clothes,Maxrun Long-sleeved T-Shirt,BE,Force Sports
+28023,92478,silver,2021-04-10,2021-04-12,1,40.6,19.35,Sports,Running - Jogging,Running Clothes,Bike.Pants Short Biking Pants,BE,Force Sports
+28546,31147,silver,2021-04-10,2021-04-12,1,22.8,9.4,Children,Children Sports,"N.D. Gear, Kids",Baby Swim Suit,ES,Luna sastreria S.A.
+29435,93798,silver,2021-04-10,2021-04-16,1,38.5,17.5,Clothes & Shoes,Shoes,Tracker Shoes,Pytossage Bathing Sandal,US,3Top Sports
+31397,81444,silver,2021-04-10,2021-04-15,2,85.4,18.55,Sports,Swim Sports,Bathing Suits,Pool Swimming Trunks,ES,Luna sastreria S.A.
+32288,92159,silver,2021-04-10,2021-04-15,3,71.1,11.95,Clothes & Shoes,Clothes,Eclipse Clothing,Woman Women's,US,Eclipse Inc
+32532,88428,gold,2021-04-10,2021-04-12,1,71.4,35.8,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Speedy Flight Plus Shoes,US,Eclipse Inc
+36384,93251,gold,2021-04-10,2021-04-14,2,9.2,1.35,Sports,Assorted Sports Articles,Assorted Sports articles,"Shoelace 140 Cm, Assorted Colours",US,Roll-Over Inc
+39426,3284,silver,2021-04-10,2021-04-12,2,269.2,67.25,Clothes & Shoes,Clothes,Eclipse Clothing,Watchit 250 Silver/Black/Yellow,US,Eclipse Inc
+40852,84988,silver,2021-04-10,2021-04-15,1,196.5,98.35,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Mickey 95 Running Shoes,US,Eclipse Inc
+41145,57814,gold,2021-04-10,2021-04-16,1,13.5,6.8,Children,Children Sports,"Eclipse, Kid's Clothes",Small Kid's T-Shirt,US,Eclipse Inc
+46993,86313,gold,2021-04-10,2021-04-11,1,16.9,7.4,Children,Children Sports,"Olssons, Kids",Blues Jazz Pants,ES,Sportico
+49400,50679,gold,2021-04-10,2021-04-16,1,30.3,9.7,Sports,Swim Sports,Bathing Suits,Moveit Short Swimming Trunks,US,Dolphin Sportswear Inc
+49401,53969,silver,2021-04-10,2021-04-14,1,30.3,9.7,Sports,Swim Sports,Bathing Suits,Moveit Short Swimming Trunks,US,Dolphin Sportswear Inc
+50144,32900,gold,2021-04-10,2021-04-16,2,118.2,24.5,Sports,Racket Sports,Tennis,Anthony Men's Tennis Strib Vest,US,Mayday Inc
+50159,16346,gold,2021-04-10,2021-04-13,1,52.9,26.55,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Twill Pants Golf,US,Eclipse Inc
+52547,40750,gold,2021-04-10,2021-04-11,1,9.4,3.3,Clothes & Shoes,Clothes,Tracker Clothes,Fashion T-Socks,US,3Top Sports
+53981,84559,silver,2021-04-10,2021-04-16,1,56.8,25.95,Children,Children Sports,Tracker Kid's Clothes,Northern Children's Jacket,US,3Top Sports

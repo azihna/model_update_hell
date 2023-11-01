@@ -1,0 +1,38 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+200,75222,gold,2021-04-25,2021-04-27,3,399.6,66.7,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Drive,US,Eclipse Inc
+1871,60227,silver,2021-04-25,2021-04-28,1,48.3,20.5,Outdoors,Outdoors,Anoraks & Parkas,Tasmania Men's Shirt,NO,Scandinavian Clothing A/S
+2165,32677,silver,2021-04-25,2021-04-28,2,127.2,33.15,Sports,Team Sports,Soccer,Prosoccer Away Shirt,US,Fga Sports Inc
+2819,83544,gold,2021-04-25,2021-04-29,3,231.0,38.6,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Right,Charcoal",DK,Top Sports
+3263,48448,silver,2021-04-25,2021-04-27,1,125.8,63.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Mickey Willy Shoes,US,Eclipse Inc
+3316,35239,gold,2021-04-25,2021-04-26,3,286.5,43.55,Clothes & Shoes,Shoes,Shoes,Soft Cumulus Men's Running Shoes,US,Pro Sportswear Inc
+3818,52557,gold,2021-04-25,2021-04-27,1,47.9,20.0,Sports,Swim Sports,Bathing Suits,Sunfit Malda Low Women's Swim Suit,US,Nautlius SportsWear Inc
+4285,42273,gold,2021-04-25,2021-04-29,1,101.6,50.9,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Mickey Wilma,US,Eclipse Inc
+6317,87211,gold,2021-04-25,2021-04-28,1,519.3,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+6596,34649,gold,2021-04-25,2021-04-30,1,242.5,115.45,Sports,Racket Sports,Racket Sports,Grandslam Hyper Hammer 6.3 Ph Tennis,GB,GrandSlam Sporting Goods Ltd
+7336,85537,gold,2021-04-25,2021-04-27,1,173.0,72.75,Outdoors,Outdoors,Outdoor Gear,Jl Legacy Curig I.A.Jacket,US,AllSeasons Outdoor Clothing
+7885,38489,silver,2021-04-25,2021-04-27,1,23.0,10.3,Children,Children Sports,"Osprey, Kids",Osprey Cat  Jr. Fleece Shirt,US,Triple Sportswear Inc
+8782,7838,silver,2021-04-25,2021-04-26,1,86.3,41.4,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Large,Left,Blue/Black",DK,Top Sports
+9097,92079,gold,2021-04-25,2021-05-01,1,13.0,5.75,Children,Children Sports,"A-Team, Kids",A-team Children's T-Shirt,US,A Team Sports
+11449,46725,gold,2021-04-25,2021-04-27,1,64.2,32.2,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Small,Right,Charcoal",DK,Top Sports
+12523,42832,gold,2021-04-25,2021-04-27,1,83.0,41.6,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Terra Sebec Shoes,US,Eclipse Inc
+12731,79458,silver,2021-04-25,2021-04-30,3,337.5,54.95,Outdoors,Outdoors,Sleepingbags,Tipee Summer Sleeping Bag,GB,Outback Outfitters Ltd
+13348,70654,silver,2021-04-25,2021-04-29,2,42.2,10.65,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Constructed Top S/Sleeve,US,Eclipse Inc
+13833,78662,gold,2021-04-25,2021-04-30,3,58.8,8.7,Sports,Team Sports,Soccer,Big-Jim 22 Goalkeeper Gloves,US,Teamsports Inc
+15593,13233,gold,2021-04-25,2021-04-26,3,68.1,10.85,Sports,Running - Jogging,Running Clothes,Original Running Pants,BE,Force Sports
+18386,71494,gold,2021-04-25,2021-04-28,1,27.5,12.55,Clothes & Shoes,Clothes,Tracker Clothes,Mojo Tee 2,US,3Top Sports
+19018,47018,silver,2021-04-25,2021-04-28,1,181.5,76.3,Outdoors,Outdoors,Outdoor Gear,Ht Legacy Curig I.A.Parca,US,AllSeasons Outdoor Clothing
+22439,24603,gold,2021-04-25,2021-04-29,2,27.6,6.25,Sports,Assorted Sports Articles,Assorted Sports articles,Bag Denim Bag for 3 Balls,GB,Royal Darts Ltd
+22937,59596,silver,2021-04-25,2021-04-30,1,59.1,29.65,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Flyer Plus Shoes,US,Eclipse Inc
+26862,75315,gold,2021-04-25,2021-04-28,2,12.2,2.85,Sports,Assorted Sports Articles,Skates,Brake Pad 1-pack,PT,Magnifico Sports
+29519,61441,silver,2021-04-25,2021-04-27,3,94.2,12.55,Clothes & Shoes,Clothes,Osprey,Osprey Men's King T-Shirt w/Small Logo,US,Triple Sportswear Inc
+32030,55618,silver,2021-04-25,2021-04-26,1,57.9,24.4,Outdoors,Outdoors,Anoraks & Parkas,Lh Classic Reinforced Cargo Pants,US,AllSeasons Outdoor Clothing
+32165,36535,gold,2021-04-25,2021-04-26,1,29.0,13.9,Clothes & Shoes,Clothes,Orion Clothing,Zx Core V-Neck Tank Top,CA,Fuller Trading Co.
+32638,80018,silver,2021-04-25,2021-05-01,2,508.4,115.6,Sports,Racket Sports,Racket Sports,Smasher Super Rq Ti 700 Long Tennis,GB,British Sports Ltd
+33285,7814,silver,2021-04-25,2021-04-26,1,48.4,21.5,Sports,Running - Jogging,Jogging,"A-team Sweat w/small Zipper,C-Logo",US,A Team Sports
+33420,82271,gold,2021-04-25,2021-04-30,1,48.2,20.75,Sports,Assorted Sports Articles,Assorted Sports articles,Fred T-Shirt,ES,Luna sastreria S.A.
+38569,56817,gold,2021-04-25,2021-04-27,2,471.8,116.6,Sports,Assorted Sports Articles,Skates,Cool Fit Women's Roller Skates,US,Twain Inc
+40969,54308,silver,2021-04-25,2021-04-28,2,483.4,118.9,Sports,Assorted Sports Articles,Skates,N.d.gear  Roller Skates Ff80l 78 millimetre/7,PT,Magnifico Sports
+42703,3521,gold,2021-04-25,2021-05-02,1,18.3,7.4,Sports,Swim Sports,Bathing Suits,"K2 Mirror Goggles, Assorted colours",US,Nautlius SportsWear Inc
+42840,26192,gold,2021-04-25,2021-04-29,1,47.8,24.0,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Cargo Short,US,Eclipse Inc
+51184,24065,gold,2021-04-25,2021-04-26,1,13.8,6.3,Sports,Racket Sports,Racket Sports,"Memhis 350,Yellow Medium, 6-pack tube",GB,British Sports Ltd
+53194,17808,silver,2021-04-25,2021-04-29,1,41.1,18.75,Children,Children Sports,Tracker Kid's Clothes,Kola Cf Velcro Children's Shoes,US,3Top Sports

@@ -1,0 +1,26 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1233,28658,silver,2021-09-10,2021-09-15,2,71.0,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+3884,13240,silver,2021-09-10,2021-09-20,1,71.2,28.5,Sports,Running - Jogging,Jogging,Triffy Nylon Pants,NL,Triffy B.V.
+6388,88906,silver,2021-09-10,2021-09-15,2,47.6,11.4,Sports,Running - Jogging,Running Clothes,Men's Singlet,BE,Force Sports
+8950,29327,silver,2021-09-10,2021-09-16,2,110.8,29.35,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air One Eighty  Shoes,US,Eclipse Inc
+9178,80936,silver,2021-09-10,2021-09-11,1,36.1,18.2,Sports,Assorted Sports Articles,Petanque - Boule,Boule Set 6-pack Lux,GB,Royal Darts Ltd
+9730,19419,gold,2021-09-10,2021-09-11,1,328.3,165.95,Sports,Assorted Sports Articles,Skates,Perfect Fit Men's Stunt Skates,US,Twain Inc
+10305,7372,gold,2021-09-10,2021-09-12,1,121.6,62.9,Sports,Golf,Golf,Proplay Men's Tour Force Lp 7-Wood,NL,Van Dammeren International
+12042,17082,silver,2021-09-10,2021-09-13,2,254.2,60.8,Outdoors,Outdoors,Sleepingbags,Tipee Twin Blue/Orange,GB,Outback Outfitters Ltd
+12475,57881,gold,2021-09-10,2021-09-15,1,235.5,117.45,Sports,Indoor Sports,Fitness,Bench,NL,TrimSport B.V.
+23962,18385,silver,2021-09-10,2021-09-17,1,77.5,32.25,Clothes & Shoes,Clothes,Knitwear,Profleece with Zipper,US,AllSeasons Outdoor Clothing
+29520,78533,gold,2021-09-10,2021-09-13,1,31.4,12.55,Clothes & Shoes,Clothes,Osprey,Osprey Men's King T-Shirt w/Small Logo,US,Triple Sportswear Inc
+30218,50429,gold,2021-09-10,2021-09-22,1,199.1,95.65,Outdoors,Outdoors,Backpacks,Commanche Women's 6000 Q Backpack. Bark,DK,Top Sports
+30811,14928,gold,2021-09-10,2021-09-16,2,223.6,49.0,Sports,Assorted Sports Articles,Assorted Sports articles,Chris Rain Pants,ES,Luna sastreria S.A.
+33205,44114,gold,2021-09-10,2021-09-16,1,57.3,25.45,Sports,Running - Jogging,Jogging,SweatPants Sweat Pants C-Logo,US,A Team Sports
+36889,50435,gold,2021-09-10,2021-09-15,2,134.0,28.9,Children,Children Sports,"N.D. Gear, Kids",Children's Knit Sweater,ES,Luna sastreria S.A.
+38511,73301,gold,2021-09-10,2021-09-14,1,85.2,34.15,Outdoors,Outdoors,Anoraks & Parkas,"Dp Single Jacket,Nylon",US,Mayday Inc
+39058,42077,gold,2021-09-10,2021-09-12,2,105.6,22.1,Sports,Assorted Sports Articles,Assorted Sports articles,"Top Bag L, Navy",GB,British Sports Ltd
+40616,79697,silver,2021-09-10,2021-09-14,1,1.6,0.6,Sports,Assorted Sports Articles,Assorted Sports articles,Long Life,GB,Royal Darts Ltd
+47170,65335,silver,2021-09-10,2021-09-11,1,23.9,9.55,Clothes & Shoes,Clothes,Green Tomato,Green Lime Top,US,Green Lime Sports Inc
+48685,89348,silver,2021-09-10,2021-09-12,1,46.4,23.3,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Woven Pants,US,Eclipse Inc
+49062,16821,gold,2021-09-10,2021-09-12,1,478.0,238.95,Sports,Assorted Sports Articles,Skates,Rollerskate  Roller Skates Hockey Proto Vs80/,PT,Magnifico Sports
+49551,80608,silver,2021-09-10,2021-09-15,1,40.5,16.95,Sports,Indoor Sports,Gymnastic Clothing,"Essential  One-piece Suit, 92% Cotton 8% Lycr",ES,Sportico
+53386,85919,silver,2021-09-10,2021-09-11,1,50.4,22.75,Children,Children Sports,"N.D. Gear, Kids",Butch T-Shirt with V-Neck,ES,Luna sastreria S.A.
+53724,13776,gold,2021-09-10,2021-09-15,1,35.5,14.8,Children,Children Sports,"Bathing Suits, Kids",Swimming Trunks Domo,ES,Luna sastreria S.A.
+53983,16342,silver,2021-09-10,2021-09-20,2,113.6,25.95,Children,Children Sports,Tracker Kid's Clothes,Northern Children's Jacket,US,3Top Sports

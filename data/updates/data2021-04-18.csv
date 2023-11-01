@@ -1,0 +1,46 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1729,57505,gold,2021-04-18,2021-04-19,1,22.6,9.65,Clothes & Shoes,Shoes,Tracker Shoes,Multicolour Bathing Sandal,ES,Luna sastreria S.A.
+5779,38028,silver,2021-04-18,2021-04-20,1,31.4,13.9,Sports,Assorted Sports Articles,Assorted Sports articles,A-team Smoothsport Bra,US,A Team Sports
+5780,87895,gold,2021-04-18,2021-04-20,1,31.4,13.9,Sports,Assorted Sports Articles,Assorted Sports articles,A-team Smoothsport Bra,US,A Team Sports
+5871,43332,silver,2021-04-18,2021-04-22,2,226.4,54.0,Sports,Assorted Sports Articles,Skates,Pro-roll Lazer Roller Skates,PT,Magnifico Sports
+6315,55579,gold,2021-04-18,2021-04-21,4,2077.2,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+7643,39551,silver,2021-04-18,2021-04-19,1,182.9,77.8,Sports,Assorted Sports Articles,Assorted Sports articles,Brt Anorak,ES,Luna sastreria S.A.
+7909,81454,silver,2021-04-18,2021-04-21,1,57.3,28.75,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Payoff Trainer Shoes,US,Eclipse Inc
+9170,76394,silver,2021-04-18,2021-04-23,2,72.2,18.2,Sports,Assorted Sports Articles,Petanque - Boule,Boule Set 6-pack Lux,GB,Royal Darts Ltd
+11795,82493,gold,2021-04-18,2021-04-20,3,159.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+11796,84565,silver,2021-04-18,2021-04-23,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+13538,29518,silver,2021-04-18,2021-04-21,1,37.4,16.3,Children,Children Sports,"Ypsilon, Kids",Ypsilon Children's Sweatshirt,FR,Ypsilon S.A.
+13549,71202,gold,2021-04-18,2021-04-20,1,111.3,56.95,Sports,Golf,Golf,Proplay Staff 9 Black/Brown,NL,Van Dammeren International
+17996,28279,silver,2021-04-18,2021-04-19,4,1103.6,125.25,Outdoors,Outdoors,Backpacks,Feelgood 55-75 Litre Black Women's Backpack,AU,Toto Outdoor Gear
+20410,93628,silver,2021-04-18,2021-04-19,4,870.0,161.2,Sports,Assorted Sports Articles,Skates,Pro-roll Gretzky Roller Skates,PT,Magnifico Sports
+23396,16157,gold,2021-04-18,2021-04-19,1,16.7,7.25,Outdoors,Outdoors,Outdoor Gear,Mattress with 5 channels 196x72,GB,Prime Sports Ltd
+24117,88563,gold,2021-04-18,2021-04-22,1,22.2,10.05,Sports,Indoor Sports,Fitness,Fitness Dumbbell Foam 1.40,NL,TrimSport B.V.
+24193,78591,silver,2021-04-18,2021-04-22,1,56.0,23.35,Outdoors,Outdoors,Gloves & Mittens,Twain Freeride Powder Ski Gloves,US,Twain Inc
+26108,65384,gold,2021-04-18,2021-04-21,1,16.8,7.55,Outdoors,Outdoors,Sleepingbags,Pillow 40x50 160 Gram Blue/Red,GB,Outback Outfitters Ltd
+26938,2577,gold,2021-04-18,2021-04-19,1,153.0,64.3,Sports,Indoor Sports,Top Trim,Top Men's Classic Fleece w/Zipper,US,Top Sports Inc
+29917,81740,silver,2021-04-18,2021-04-24,1,117.6,58.9,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Clima Fit Jacket,US,Eclipse Inc
+31004,17531,gold,2021-04-18,2021-04-21,1,85.1,40.65,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Medium,Right/Blue/Black",DK,Top Sports
+31161,93084,gold,2021-04-18,2021-04-25,1,123.3,60.15,Clothes & Shoes,Clothes,Orion,Dmx 6 Shoes,CA,Fuller Trading Co.
+31365,20596,silver,2021-04-18,2021-04-19,1,60.7,30.45,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's New Terry Tight,US,Eclipse Inc
+31536,78260,silver,2021-04-18,2021-04-19,1,103.5,51.85,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Structure Triax,US,Eclipse Inc
+34935,3781,gold,2021-04-18,2021-04-22,1,26.3,9.1,Sports,Assorted Sports Articles,Assorted Sports articles,Regular Wrist Small,US,Roll-Over Inc
+35415,8844,gold,2021-04-18,2021-04-21,4,1063.6,131.5,Sports,Assorted Sports Articles,Skates,Twain Tr7 Men's Roller Skates,US,Twain Inc
+41409,86111,platinum,2021-04-18,2021-04-24,1,13.5,6.65,Sports,Golf,Golf,"Bretagne St2 Men's Golf Glove, left",NL,Van Dammeren International
+42367,29236,silver,2021-04-18,2021-04-21,3,810.0,125.65,Outdoors,Outdoors,Backpacks,Victor Grey/Olive Women's Backpack,DK,Top Sports
+42421,5047,silver,2021-04-18,2021-04-23,1,58.5,26.65,Clothes & Shoes,Shoes,Shoes,Soft The Move Women's Running Shoes,US,Pro Sportswear Inc
+44294,82991,platinum,2021-04-18,2021-04-20,1,165.4,82.8,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Seismic,US,Eclipse Inc
+45718,42097,silver,2021-04-18,2021-04-24,1,44.6,18.65,Sports,Running - Jogging,Running Clothes,Alfredo Long-sleeved Women's P.D.T-Shirt,BE,Force Sports
+45754,266,silver,2021-04-18,2021-04-23,1,54.8,23.75,Clothes & Shoes,Clothes,Street Wear,Tyfoon Oliver Sweatshirt,AU,Typhoon Clothing
+46198,56497,gold,2021-04-18,2021-04-20,2,104.0,23.7,Clothes & Shoes,Clothes,Tracker Clothes,Casual Sport Sweatshirt,US,3Top Sports
+46994,53264,gold,2021-04-18,2021-04-22,1,16.9,7.4,Children,Children Sports,"Olssons, Kids",Blues Jazz Pants,ES,Sportico
+47472,70868,silver,2021-04-18,2021-04-19,1,28.8,12.95,Clothes & Shoes,Clothes,Shorts,"Men's Men's Jam Bermuda, Big Logo",US,A Team Sports
+47844,81691,silver,2021-04-18,2021-04-24,1,49.5,22.6,Clothes & Shoes,Clothes,Tracker Clothes,Casual Woven Pants,US,3Top Sports
+48141,12701,gold,2021-04-18,2021-04-23,2,132.2,31.45,Clothes & Shoes,Clothes,Eclipse Clothing,Clearview Sports Glases Hemalite,US,Eclipse Inc
+48764,62818,silver,2021-04-18,2021-04-19,1,21.4,8.9,Clothes & Shoes,Clothes,Stockings & Socks,Hawkins Tk2 Men's Trekking Socks,US,Sockeye Sportswear Inc
+49048,60888,silver,2021-04-18,2021-04-20,1,38.8,19.5,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's T-Shirt Dri Fit,US,Eclipse Inc
+50617,52693,gold,2021-04-18,2021-04-21,2,80.6,20.25,Children,Children Sports,"Eclipse, Kid's Shoes",Tony's Extra Children's Multicourt(Bg) Shoes,US,Eclipse Inc
+50618,56882,silver,2021-04-18,2021-04-25,1,40.3,20.25,Children,Children Sports,"Eclipse, Kid's Shoes",Tony's Extra Children's Multicourt(Bg) Shoes,US,Eclipse Inc
+52463,77696,silver,2021-04-18,2021-04-21,4,796.8,90.6,Clothes & Shoes,Shoes,Shoes,Soft Kayano Men's Running Shoes VI,US,Pro Sportswear Inc
+52847,55939,silver,2021-04-18,2021-04-19,1,48.3,23.0,Clothes & Shoes,Clothes,Orion Clothing,Tx Tribe Dance Pants,CA,Fuller Trading Co.
+54065,81534,platinum,2021-04-18,2021-04-24,1,62.2,27.45,Sports,Swim Sports,Bathing Suits,Seyschelle  Swim Suit w/legs,ES,Luna sastreria S.A.
+54369,10095,gold,2021-04-18,2021-04-21,1,29.4,14.8,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Dri-Fit Scoop Neck Bra,US,Eclipse Inc

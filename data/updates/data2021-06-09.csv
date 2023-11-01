@@ -1,0 +1,12 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+3232,77203,gold,2021-06-09,2021-06-13,2,298.2,90.7,Sports,Golf,Golf,Expert Men's Firesole Loose Iron,US,Twain Inc
+9175,30156,silver,2021-06-09,2021-06-10,2,72.2,18.2,Sports,Assorted Sports Articles,Petanque - Boule,Boule Set 6-pack Lux,GB,Royal Darts Ltd
+15987,10217,silver,2021-06-09,2021-06-12,2,89.8,22.55,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy  Men's Ultraccel R9 F.G Rbr Soccer Sh,US,Eclipse Inc
+17923,94039,silver,2021-06-09,2021-06-13,2,189.4,47.45,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Micro Fibre Jacket,US,Eclipse Inc
+23210,77338,silver,2021-06-09,2021-06-13,2,94.0,21.45,Clothes & Shoes,Clothes,Tracker Clothes,Pine 3/4 Tee,US,3Top Sports
+25681,22035,gold,2021-06-09,2021-06-13,2,52.4,8.85,Sports,Running - Jogging,Jogging,Triffy Logo T-Shirt with V-Neck,NL,Triffy B.V.
+32133,690,silver,2021-06-09,2021-06-13,2,55.8,12.1,Sports,Team Sports,Soccer,Bruce Lance,US,Teamsports Inc
+33637,32992,gold,2021-06-09,2021-06-16,2,122.2,26.95,Sports,Assorted Sports Articles,Assorted Sports articles,"Van Damme Children's Polo,  Striped",NL,Van Dammeren International
+35034,33781,silver,2021-06-09,2021-06-12,2,60.8,9.2,Sports,Swim Sports,Bathing Suits,Sharky Swimming Trunks,US,Dolphin Sportswear Inc
+52693,14559,gold,2021-06-09,2021-06-15,2,66.0,16.6,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Core Shorts,US,Eclipse Inc
+54202,15270,gold,2021-06-09,2021-06-12,6,237.0,17.5,Sports,Swim Sports,Bathing Suits,Fastlane Swim Suit XL,US,Dolphin Sportswear Inc

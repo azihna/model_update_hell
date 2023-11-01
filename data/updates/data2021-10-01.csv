@@ -1,0 +1,37 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2835,30557,silver,2021-10-01,2021-10-03,1,77.0,38.6,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Right,Charcoal",DK,Top Sports
+4124,65590,silver,2021-10-01,2021-10-07,1,71.0,32.3,Clothes & Shoes,Shoes,Tracker Shoes,Indoor Handbold Special Shoes,US,3Top Sports
+4832,16741,silver,2021-10-01,2021-10-05,1,23.5,10.2,Sports,Team Sports,Soccer,Soccer Ball-autogr Rafer Size 5  Red/,US,Teamsports Inc
+6966,12610,gold,2021-10-01,2021-10-03,1,288.9,119.15,Outdoors,Outdoors,Tents,Hurricane 4,SE,Petterson AB
+7821,55605,gold,2021-10-01,2021-10-02,1,50.0,25.1,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Fresh Soft Nylon Pants,US,Eclipse Inc
+9511,89416,silver,2021-10-01,2021-10-05,2,226.2,58.9,Outdoors,Outdoors,Anoraks & Parkas,Jacket with Removable Fleece,US,AllSeasons Outdoor Clothing
+10924,59894,silver,2021-10-01,2021-10-05,1,26.4,11.8,Sports,Swim Sports,Bathing Suits,Sunfit Madly Swim Suit,US,Nautlius SportsWear Inc
+14098,50097,silver,2021-10-01,2021-10-04,1,222.0,110.95,Sports,Assorted Sports Articles,Skates,Proskater Kitalpha Gamma Roller Skates,US,Roll-Over Inc
+15002,36836,gold,2021-10-01,2021-10-04,1,12.4,5.6,Sports,Team Sports,Soccer,Red Cap,GB,SportsFan Products Ltd
+20720,61416,silver,2021-10-01,2021-10-02,1,61.3,31.95,Sports,Team Sports,Soccer,Enland Player Shirt,US,Fga Sports Inc
+21456,92837,gold,2021-10-01,2021-10-03,1,213.3,104.1,Sports,Assorted Sports Articles,Skates,N.d.gear  Roller Skates Ff70 76 millimetre/78,PT,Magnifico Sports
+22698,20733,gold,2021-10-01,2021-10-02,1,175.7,75.95,Sports,Racket Sports,Racket Sports,Sledgehammer 120 Ph Black,GB,GrandSlam Sporting Goods Ltd
+23905,82654,silver,2021-10-01,2021-10-06,1,353.3,159.95,Outdoors,Outdoors,Anoraks & Parkas,Men's Goretex Outdoor Jacket,US,Miller Trading Inc
+25171,52101,gold,2021-10-01,2021-10-02,2,60.6,13.15,Outdoors,Outdoors,Anoraks & Parkas,Women's Shorts,NO,Scandinavian Clothing A/S
+27940,87186,silver,2021-10-01,2021-10-05,1,18.9,9.55,Sports,Golf,Golf,"Bretagne Difference Men's Golf Glove, left",NL,Van Dammeren International
+28324,26010,silver,2021-10-01,2021-10-02,1,20.7,10.45,Sports,Assorted Sports Articles,Assorted Sports articles,Super Pro Compatible Board,DK,Top Sports
+32723,80827,gold,2021-10-01,2021-10-06,1,86.2,39.25,Clothes & Shoes,Shoes,Shoes,Cruise Platypus Men's Street Shoes,SE,Petterson AB
+33206,63047,silver,2021-10-01,2021-10-05,1,57.3,25.45,Sports,Running - Jogging,Jogging,SweatPants Sweat Pants C-Logo,US,A Team Sports
+34836,79705,silver,2021-10-01,2021-10-06,1,188.2,86.1,Outdoors,Outdoors,Anoraks & Parkas,Jacket Talkeetna,US,Miller Trading Inc
+37227,62189,gold,2021-10-01,2021-10-02,1,7.4,2.45,Sports,Racket Sports,Racket Sports,Tieman Grip 36-pack,FR,Le Blanc S.A.
+38290,78183,silver,2021-10-01,2021-10-05,1,118.3,59.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Terra Central Shoes,US,Eclipse Inc
+40689,45949,silver,2021-10-01,2021-10-02,1,67.8,29.45,Sports,Team Sports,Soccer,Goalkeeper Gloves,US,Teamsports Inc
+41842,94028,silver,2021-10-01,2021-10-02,1,154.4,73.6,Clothes & Shoes,Clothes,Orion,Tcp 6 Men's Running Shoes,CA,Fuller Trading Co.
+43184,59564,silver,2021-10-01,2021-10-07,1,74.3,41.35,Sports,Golf,Golf,Hi-fly Tour Advance Flex Steel,NL,Van Dammeren International
+44277,83324,silver,2021-10-01,2021-10-05,1,68.7,34.45,Outdoors,Outdoors,Backpacks,Medium Olive Olive/Black Backpack,DK,Top Sports
+47420,41437,gold,2021-10-01,2021-10-03,1,42.6,17.75,Sports,Running - Jogging,Running Clothes,Cama Short Coolmax Men's Tights,BE,Force Sports
+48667,10451,gold,2021-10-01,2021-10-06,1,53.7,26.95,Clothes & Shoes,Clothes,LSF,Big Guy Men's Ldv B Athlet,US,Eclipse Inc
+48937,53387,gold,2021-10-01,2021-10-06,2,1461.0,365.2,Sports,Assorted Sports Articles,Skates,Rollerskate  Roller Skates Hockey Wicked L.80,PT,Magnifico Sports
+49232,1312,silver,2021-10-01,2021-10-02,1,12.9,6.55,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Classic Sock Size Ii Football,US,Eclipse Inc
+50440,62508,silver,2021-10-01,2021-10-02,1,13.4,5.7,Sports,Assorted Sports Articles,Assorted Sports articles,Tough Boys,US,Teamsports Inc
+51067,29717,gold,2021-10-01,2021-10-03,1,566.6,276.45,Sports,Assorted Sports Articles,Skates,Racing Custom Fit Men's Roller Skates,US,Twain Inc
+52777,84278,silver,2021-10-01,2021-10-02,1,9.6,4.75,Sports,Golf,Golf,Hi-fly Xl2000 Extra Long 3-pack,NL,Van Dammeren International
+53233,76093,gold,2021-10-01,2021-10-02,2,143.2,31.6,Clothes & Shoes,Clothes,Leisure,"Van Damme Women's Polo, sleeveless",NL,Van Dammeren International
+53687,25852,gold,2021-10-01,2021-10-07,1,92.8,42.35,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Artema,GB,Greenline Sports Ltd
+54008,36191,gold,2021-10-01,2021-10-03,1,59.1,25.25,Sports,Swim Sports,Bathing Suits,Sunfit Mespila Swim Suit,US,Nautlius SportsWear Inc
+54347,49022,silver,2021-10-01,2021-10-02,1,84.1,42.15,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Micro Fibre Anorak,US,Eclipse Inc

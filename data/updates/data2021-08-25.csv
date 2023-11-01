@@ -1,0 +1,14 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+202,73743,silver,2021-08-25,2021-09-06,2,266.4,66.7,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Drive,US,Eclipse Inc
+18617,25552,silver,2021-08-25,2021-08-27,2,132.8,30.25,Clothes & Shoes,Shoes,Shoes,Lulu Men's Street Shoes,SE,Petterson AB
+19652,19585,gold,2021-08-25,2021-08-26,2,20.4,4.15,Sports,Assorted Sports Articles,Assorted Sports articles,Wyoming Men's Socks,ES,Luna sastreria S.A.
+21888,79375,gold,2021-08-25,2021-08-27,3,660.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+25294,4032,silver,2021-08-25,2021-08-26,2,83.0,18.5,Children,Children Sports,"A-Team, Kids","Kids Sweat with Hood, Large Logo",US,A Team Sports
+28653,47461,gold,2021-08-25,2021-08-28,2,187.8,47.05,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Skylon Triax,US,Eclipse Inc
+41247,4540,gold,2021-08-25,2021-08-30,2,64.4,19.4,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Airborne Top BBO,US,Eclipse Inc
+41980,38731,gold,2021-08-25,2021-08-30,2,83.6,21.0,Sports,Assorted Sports Articles,Assorted Sports articles,Keeper Shirt Goal Keeper with Dbu Logo,GB,SportsFan Products Ltd
+45431,90545,silver,2021-08-25,2021-09-01,2,199.0,44.3,Clothes & Shoes,Shoes,Tracker Shoes,Men's Shoes Solace,US,3Top Sports
+46127,10870,silver,2021-08-25,2021-08-29,2,75.4,18.95,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Short Sport Top,US,Eclipse Inc
+48364,53969,silver,2021-08-25,2021-08-29,2,54.0,11.55,Sports,Swim Sports,Bathing Suits,Swim Sandal with Velcro Bathing,ES,Luna sastreria S.A.
+50929,48047,silver,2021-08-25,2021-08-29,3,91.8,15.4,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Woven Short,US,Eclipse Inc
+54372,83166,silver,2021-08-25,2021-08-28,1,151.3,68.9,Sports,Indoor Sports,Top Trim,Golf Windstopper Poly.,US,Top Sports Inc

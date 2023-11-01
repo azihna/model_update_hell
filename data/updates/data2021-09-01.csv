@@ -1,0 +1,11 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+4763,35403,gold,2021-09-01,2021-09-03,1,44.5,17.75,Sports,Assorted Sports Articles,Assorted Sports articles,Golden Brown,CA,CrystalClear Optics Inc
+5882,6612,silver,2021-09-01,2021-09-05,2,226.4,54.0,Sports,Assorted Sports Articles,Skates,Pro-roll Lazer Roller Skates,PT,Magnifico Sports
+12204,42131,silver,2021-09-01,2021-09-02,1,97.8,42.45,Sports,Winter Sports,Winter Sports,Cayenne Red,CA,CrystalClear Optics Inc
+18966,86772,gold,2021-09-01,2021-09-02,1,49.8,22.75,Clothes & Shoes,Clothes,Tracker Clothes,Progression Top with Hood,US,3Top Sports
+26265,34399,gold,2021-09-01,2021-09-04,2,18.8,4.75,Outdoors,Outdoors,Outdoor Gear,Lamp with Battery Box,GB,Prime Sports Ltd
+36367,3289,gold,2021-09-01,2021-09-03,1,27.9,14.05,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Short/Sleve Top,US,Eclipse Inc
+38403,72555,silver,2021-09-01,2021-09-04,2,267.0,68.2,Sports,Golf,Golf,Proplay Staff 9 Green/Brown,NL,Van Dammeren International
+42154,50340,gold,2021-09-01,2021-09-03,1,72.8,31.35,Sports,Assorted Sports Articles,Assorted Sports articles,Montevideo Canvas Pants,ES,Luna sastreria S.A.
+50448,45592,silver,2021-09-01,2021-09-09,2,34.6,8.75,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Tiger W Hi-Quarter Golf,US,Eclipse Inc
+51483,21712,gold,2021-09-01,2021-09-04,1,21.8,9.75,Clothes & Shoes,Clothes,Tracker Clothes,Stars Swimming Trunks,US,3Top Sports

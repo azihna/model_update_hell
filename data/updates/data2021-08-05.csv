@@ -1,0 +1,29 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1874,25062,platinum,2021-08-05,2021-08-10,1,48.3,20.5,Outdoors,Outdoors,Anoraks & Parkas,Tasmania Men's Shirt,NO,Scandinavian Clothing A/S
+4375,13288,gold,2021-08-05,2021-08-06,2,94.6,22.15,Sports,Team Sports,Soccer,Fga Home Shorts,US,Fga Sports Inc
+6333,37179,gold,2021-08-05,2021-08-10,2,1038.6,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+7353,34652,silver,2021-08-05,2021-08-13,2,346.0,72.75,Outdoors,Outdoors,Outdoor Gear,Jl Legacy Curig I.A.Jacket,US,AllSeasons Outdoor Clothing
+11185,2497,silver,2021-08-05,2021-08-10,2,118.0,26.85,Clothes & Shoes,Shoes,Shoes,Cruise 1984 Men's Street Shoes,SE,Petterson AB
+12036,74479,gold,2021-08-05,2021-08-09,2,254.2,60.8,Outdoors,Outdoors,Sleepingbags,Tipee Twin Blue/Orange,GB,Outback Outfitters Ltd
+13187,9259,gold,2021-08-05,2021-08-10,2,289.4,72.3,Sports,Assorted Sports Articles,Assorted Sports articles,Skateboard Firecracker Torch,PT,Magnifico Sports
+13257,3663,silver,2021-08-05,2021-08-08,3,70.8,12.3,Sports,Team Sports,American Football,Armour L,US,A Team Sports
+15197,70690,silver,2021-08-05,2021-08-09,2,12.4,2.75,Sports,Team Sports,Soccer,Soccer Socks Senior,US,Teamsports Inc
+17360,16414,gold,2021-08-05,2021-08-06,3,54.6,8.35,Sports,Assorted Sports Articles,Assorted Sports articles,Steady Sure-Grip,US,Roll-Over Inc
+19302,85931,silver,2021-08-05,2021-08-06,2,35.98,11.9,Clothes & Shoes,Clothes,Tracker Clothes,Casual. Top Tee with V-Neck,US,3Top Sports
+20248,74476,silver,2021-08-05,2021-08-08,1,55.0,23.45,Sports,Indoor Sports,Top Trim,Top Trackster Tights,US,Top Sports Inc
+21248,35598,silver,2021-08-05,2021-08-08,3,332.4,55.5,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Stormy Skylon Shoes,US,Eclipse Inc
+22409,78404,gold,2021-08-05,2021-08-10,2,185.8,44.7,Clothes & Shoes,Clothes,LSF,Ultra W803 At Women's Street Shoes,US,Ultra Sporting Goods Inc
+23107,41015,gold,2021-08-05,2021-08-10,2,214.8,53.8,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Rapidup,US,Eclipse Inc
+29550,86281,gold,2021-08-05,2021-08-08,2,33.4,6.75,Sports,Swim Sports,Bathing Suits,"Goggles, Assorted Colours",US,Nautlius SportsWear Inc
+31324,79344,gold,2021-08-05,2021-08-10,2,204.4,51.2,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Force Strong Shoes,US,Eclipse Inc
+31368,45800,gold,2021-08-05,2021-08-06,2,121.4,30.45,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's New Terry Tight,US,Eclipse Inc
+31488,50003,silver,2021-08-05,2021-08-06,2,102.8,19.35,Sports,Swim Sports,Bathing Suits,Sunfit Makaland Swim Suit,US,Nautlius SportsWear Inc
+31862,75073,gold,2021-08-05,2021-08-12,1,24.6,11.3,Clothes & Shoes,Clothes,Tracker Clothes,Mm Daypouch Shoulder Bag,US,3Top Sports
+31889,59019,gold,2021-08-05,2021-08-08,3,344.1,57.45,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Sway,US,Eclipse Inc
+33030,595,gold,2021-08-05,2021-08-09,2,110.4,24.5,Sports,Running - Jogging,Jogging,"Men's Sweat Pants without Rib, Small Logo",US,A Team Sports
+33713,42436,silver,2021-08-05,2021-08-07,2,36.0,7.05,Children,Children Sports,"Bathing Suits, Kids",Sunfit Slow Swimming Trunks,US,Nautlius SportsWear Inc
+41548,60442,silver,2021-08-05,2021-08-09,2,62.8,15.8,Children,Children Sports,"Eclipse, Kid's Clothes",Children's Sweatshirt w/Big Logo,US,Eclipse Inc
+43978,49114,silver,2021-08-05,2021-08-07,2,547.0,114.45,Sports,Indoor Sports,Top Trim,Top Men's Stretch Ski Pants,US,Top Sports Inc
+47970,22310,silver,2021-08-05,2021-08-09,5,193.0,16.45,Children,Children Sports,"N.D. Gear, Kids",Children's Canvas Shoes,ES,Luna sastreria S.A.
+48247,43041,silver,2021-08-05,2021-08-08,2,99.2,20.65,Sports,Assorted Sports Articles,Assorted Sports articles,Eliza Polo-Shirt,ES,Luna sastreria S.A.
+50632,70758,gold,2021-08-05,2021-08-08,2,7.4,1.3,Sports,Swim Sports,Bathing Suits,Black Capsy Senior Swim Cap,US,Nautlius SportsWear Inc

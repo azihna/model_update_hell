@@ -1,0 +1,21 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+7131,77814,silver,2021-09-30,2021-10-02,2,48.0,11.95,Children,Children Sports,"Lucky Guy, Kids","Rain Suit, Plain w/backpack Jacket",US,AllSeasons Outdoor Clothing
+8206,73110,gold,2021-09-30,2021-10-01,2,22.4,5.35,Sports,Running - Jogging,Running Clothes,Maxrun Running Stockings,BE,Force Sports
+9101,9051,gold,2021-09-30,2021-10-03,1,13.0,5.75,Children,Children Sports,"A-Team, Kids",A-team Children's T-Shirt,US,A Team Sports
+12206,20020,gold,2021-09-30,2021-10-02,1,97.8,42.45,Sports,Winter Sports,Winter Sports,Cayenne Red,CA,CrystalClear Optics Inc
+14537,4283,silver,2021-09-30,2021-10-04,2,503.6,125.85,Sports,Assorted Sports Articles,Skates,Rollerskate  Roller Skates Ex9 76mm/78a Biofl,PT,Magnifico Sports
+14685,90955,gold,2021-09-30,2021-10-07,1,40.2,18.9,Children,Children Sports,"N.D. Gear, Kids",Big Kid Children's Shoes,US,3Top Sports
+16967,38978,gold,2021-09-30,2021-10-04,1,175.9,127.95,Sports,Assorted Sports Articles,Skates,Pro-roll Sabotage-Rp  Roller Skates,PT,Magnifico Sports
+17196,60092,gold,2021-09-30,2021-10-05,1,63.5,28.9,Clothes & Shoes,Shoes,Shoes,Allinall Star 2000 Women's Canvas Shoes,SE,Petterson AB
+20808,58695,silver,2021-09-30,2021-10-02,2,158.6,41.3,Sports,Team Sports,Soccer,Norwood Player Shirt,US,Fga Sports Inc
+21018,7605,gold,2021-09-30,2021-10-01,2,117.8,26.1,Sports,Running - Jogging,Jogging,Men's Sweatshirt w/Hood Big Logo,US,A Team Sports
+24807,265,silver,2021-09-30,2021-10-09,1,35.0,17.6,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Short Top Dri Fit,US,Eclipse Inc
+26163,48022,silver,2021-09-30,2021-10-03,2,152.2,38.15,Outdoors,Outdoors,Sleepingbags,"Expedition 10,Small,Right,Blue Ribbon",DK,Top Sports
+28614,37010,silver,2021-09-30,2021-10-04,1,87.2,34.9,Sports,Winter Sports,Winter Sports,Amber Cc,CA,CrystalClear Optics Inc
+28748,45737,gold,2021-09-30,2021-10-03,1,264.6,108.6,Sports,Assorted Sports Articles,Assorted Sports articles,Titanium Destiny,FR,Le Blanc S.A.
+30774,17033,gold,2021-09-30,2021-10-01,2,84.2,19.9,Sports,Assorted Sports Articles,Assorted Sports articles,Grandslam Stutesman Tour 23 Jr.Alu Tennis,GB,GrandSlam Sporting Goods Ltd
+32722,45240,gold,2021-09-30,2021-10-02,2,172.4,39.25,Clothes & Shoes,Shoes,Shoes,Cruise Platypus Men's Street Shoes,SE,Petterson AB
+37963,70628,gold,2021-09-30,2021-10-02,1,65.7,29.2,Clothes & Shoes,Clothes,Tracker Clothes,Centercourt Anna Women's Tennis Dress,US,3Top Sports
+39845,29580,silver,2021-09-30,2021-10-03,1,39.2,20.05,Outdoors,Outdoors,Outdoor Gear,Outback Storm Kitchen,GB,Prime Sports Ltd
+44456,35601,silver,2021-09-30,2021-10-02,1,66.3,27.9,Children,Children Sports,"N.D. Gear, Kids",Kiddy Swim Suit,ES,Luna sastreria S.A.
+45356,25090,gold,2021-09-30,2021-10-08,1,51.7,22.65,Children,Children Sports,"N.D. Gear, Kids",Montevideo Pants,ES,Luna sastreria S.A.

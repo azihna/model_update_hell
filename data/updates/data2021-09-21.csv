@@ -1,0 +1,22 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+11238,36664,silver,2021-09-21,2021-09-24,2,208.0,41.65,Sports,Golf,Golf Clothes,Eagle 5 Pocket Pants with Stretch,US,HighPoint Trading
+11629,16183,gold,2021-09-21,2021-09-26,1,134.5,67.35,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Converge Triax X,US,Eclipse Inc
+11814,73573,silver,2021-09-21,2021-09-25,1,53.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+12045,9833,gold,2021-09-21,2021-09-26,2,254.2,60.8,Outdoors,Outdoors,Sleepingbags,Tipee Twin Blue/Orange,GB,Outback Outfitters Ltd
+13198,55459,silver,2021-09-21,2021-09-24,1,252.1,116.15,Sports,Winter Sports,Ski Dress,Massif Men's Pro Pant Goretex Pants,FR,Massif S.A.
+22912,4533,silver,2021-09-21,2021-09-26,1,147.3,61.3,Outdoors,Outdoors,Outdoor Gear,Mayday Rain Jacket,US,Mayday Inc
+23719,38274,silver,2021-09-21,2021-09-24,1,44.0,20.95,Sports,Running - Jogging,Running Clothes,Original Running Anorak,BE,Force Sports
+25621,34579,silver,2021-09-21,2021-09-24,2,447.2,101.6,Sports,Racket Sports,Racket Sports,Smasher Super Rq Ti-700 Long Tennis Racket,GB,British Sports Ltd
+26325,5350,gold,2021-09-21,2021-09-25,1,19.4,8.8,Clothes & Shoes,Clothes,T-Shirts,Men's T-Shirt Small Logo,US,A Team Sports
+26969,91069,gold,2021-09-21,2021-09-26,2,55.0,11.75,Children,Children Sports,"N.D. Gear, Kids",O'my Athen Swimming Trunks,ES,Luna sastreria S.A.
+29214,93255,gold,2021-09-21,2021-09-23,2,134.0,33.6,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Align Shoes,US,Eclipse Inc
+29856,78943,silver,2021-09-21,2021-09-25,1,204.4,87.15,Clothes & Shoes,Clothes,Knitwear,Mayday Stripe Pullover,US,Mayday Inc
+34342,75092,silver,2021-09-21,2021-09-22,2,34.0,7.95,Sports,Golf,Golf,"Umbrella Umbrella, w/Steel handle",NL,Van Dammeren International
+34376,50123,silver,2021-09-21,2021-09-26,1,136.6,62.25,Clothes & Shoes,Shoes,Tracker Shoes,Mns.xzs Women's Aerobic Shoes,US,3Top Sports
+35667,20160,gold,2021-09-21,2021-09-23,1,55.3,25.25,Clothes & Shoes,Clothes,Tracker Clothes,Casual Sport Pants,US,3Top Sports
+39722,62509,gold,2021-09-21,2021-09-27,2,197.6,42.95,Clothes & Shoes,Shoes,Shoes,Salida Low Men's Outdoor Shoes,US,Twain Inc
+40740,75254,silver,2021-09-21,2021-09-23,2,179.0,44.85,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Klickitat Mid Shoes,US,Eclipse Inc
+43038,50504,silver,2021-09-21,2021-09-24,1,31.9,12.85,Sports,Racket Sports,Tennis,Smasher Polo-Shirt,GB,British Sports Ltd
+47429,3058,gold,2021-09-21,2021-09-27,1,132.3,63.1,Clothes & Shoes,Clothes,Orion,H Ignitor Women's Aerobic Shoes,CA,Fuller Trading Co.
+47574,46147,gold,2021-09-21,2021-09-28,1,16.7,6.6,Sports,Team Sports,Baseball,Bat - Large,US,Miller Trading Inc
+53887,73267,silver,2021-09-21,2021-09-22,1,138.0,60.1,Sports,Indoor Sports,Top Trim,Top Men's Retro T-Neck,US,Top Sports Inc

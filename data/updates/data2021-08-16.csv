@@ -1,0 +1,43 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1231,39303,silver,2021-08-16,2021-08-20,2,71.0,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+2831,33520,gold,2021-08-16,2021-08-17,3,231.0,38.6,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Right,Charcoal",DK,Top Sports
+6109,33575,gold,2021-08-16,2021-08-21,2,22.4,4.85,Clothes & Shoes,Clothes,Stockings & Socks,Sports Training Socks,FR,Bon Garrments
+8374,79683,silver,2021-08-16,2021-08-20,1,16.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+9041,72066,gold,2021-08-16,2021-08-19,3,128.1,21.45,Sports,Golf,Golf,Proplay Molitor Ms3,NL,Van Dammeren International
+10056,52615,silver,2021-08-16,2021-08-18,2,16.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+10441,77024,gold,2021-08-16,2021-08-18,2,129.0,30.95,Sports,Assorted Sports Articles,Skates,Proskater W-500 Jr.Roller Skates,US,Roll-Over Inc
+10922,94226,gold,2021-08-16,2021-08-21,3,79.2,11.8,Sports,Swim Sports,Bathing Suits,Sunfit Madly Swim Suit,US,Nautlius SportsWear Inc
+12038,31174,silver,2021-08-16,2021-08-19,2,254.2,60.8,Outdoors,Outdoors,Sleepingbags,Tipee Twin Blue/Orange,GB,Outback Outfitters Ltd
+12619,9121,gold,2021-08-16,2021-08-17,2,203.4,42.0,Outdoors,Outdoors,Outdoor Gear,Men's Sports Pullover,US,Mayday Inc
+13333,4578,silver,2021-08-16,2021-08-18,2,303.4,74.35,Outdoors,Outdoors,Sleepingbags,Compact Summer 195 Cm Blue Sleeping Bag,GB,Outback Outfitters Ltd
+13589,26249,gold,2021-08-16,2021-08-23,3,125.1,19.75,Sports,Running - Jogging,Running Clothes,Maxrun Running Tights,BE,Force Sports
+18236,33297,gold,2021-08-16,2021-08-18,1,34.6,14.4,Sports,Assorted Sports Articles,Darts,Bulls Eye Stuart/Tungsten 24 Gram,GB,Royal Darts Ltd
+19451,60333,silver,2021-08-16,2021-08-21,3,557.4,89.65,Sports,Assorted Sports Articles,Assorted Sports articles,"Extra Turbo 33, Side-By-Side",US,Roll-Over Inc
+21557,91980,silver,2021-08-16,2021-08-20,2,225.2,51.3,Clothes & Shoes,Shoes,Shoes,Soft Ds Trainer Men's Running Shoes,US,Pro Sportswear Inc
+21885,73879,platinum,2021-08-16,2021-08-17,1,220.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+22503,72997,silver,2021-08-16,2021-08-19,1,231.0,113.65,Sports,Assorted Sports Articles,Skates,N.d.gear Roller Skates Ff80 80 millimetre78a,PT,Magnifico Sports
+22695,48295,gold,2021-08-16,2021-08-17,2,351.4,75.95,Sports,Racket Sports,Racket Sports,Sledgehammer 120 Ph Black,GB,GrandSlam Sporting Goods Ltd
+25131,56308,platinum,2021-08-16,2021-08-18,2,91.6,19.5,Sports,Assorted Sports Articles,Assorted Sports articles,Saturn Big Bag,ES,Luna sastreria S.A.
+25573,39299,silver,2021-08-16,2021-08-18,3,170.7,24.1,Clothes & Shoes,Clothes,Orion,Alexis Women's Classic Shoes,CA,Fuller Trading Co.
+25944,47907,silver,2021-08-16,2021-08-18,2,193.2,44.1,Clothes & Shoes,Shoes,Tracker Shoes,Hispeed Shoes,GB,Greenline Sports Ltd
+28701,27783,silver,2021-08-16,2021-08-26,2,98.2,19.7,Sports,Golf,Golf Clothes,Eagle Pique Polo Shirt,US,HighPoint Trading
+29940,65363,gold,2021-08-16,2021-08-20,2,107.4,22.35,Sports,Running - Jogging,Running Clothes,Force Long Coolmax Men's Tights,BE,Force Sports
+34110,13155,gold,2021-08-16,2021-08-20,3,103.2,15.75,Clothes & Shoes,Clothes,Tracker Clothes,Casual.st.t-shirt Sports T-shirt,US,3Top Sports
+34851,82819,gold,2021-08-16,2021-08-21,1,51.4,20.6,Clothes & Shoes,Clothes,Knitwear,"Dp Ace Blouse Round Neck,Cotton",US,Mayday Inc
+35137,2624,silver,2021-08-16,2021-08-18,2,263.4,58.6,Clothes & Shoes,Shoes,Tracker Shoes,Mns.winner Men's Running Shoes,US,3Top Sports
+36550,29809,silver,2021-08-16,2021-08-17,5,116.0,9.95,Sports,Assorted Sports Articles,Assorted Sports articles,O'my Men's Logo T-Shirt,ES,Luna sastreria S.A.
+37750,93969,gold,2021-08-16,2021-08-22,2,274.2,62.4,Outdoors,Outdoors,Backpacks,Trekker 65 Royal Men's Backpack,AU,Toto Outdoor Gear
+38646,85038,silver,2021-08-16,2021-08-18,2,99.0,24.2,Sports,Golf,Golf,Tee18 Troon 7  Black/Red,NL,Van Dammeren International
+39843,8682,silver,2021-08-16,2021-08-19,2,78.4,20.05,Outdoors,Outdoors,Outdoor Gear,Outback Storm Kitchen,GB,Prime Sports Ltd
+40688,8748,gold,2021-08-16,2021-08-17,3,137.97,29.45,Sports,Team Sports,Soccer,Goalkeeper Gloves,US,Teamsports Inc
+44252,56484,silver,2021-08-16,2021-08-21,5,75.0,6.9,Sports,Golf,Golf,Hard Core Pro Distance 3-pack.,GB,GrandSlam Sporting Goods Ltd
+46561,55171,silver,2021-08-16,2021-08-21,1,17.0,8.45,Clothes & Shoes,Clothes,Eclipse Clothing,Insu F.I.T Basic,US,Eclipse Inc
+46758,91954,gold,2021-08-16,2021-09-01,3,585.3,100.65,Sports,Golf,Golf,Bretagne Difference 2000 Goretex Shoes,NL,Van Dammeren International
+46995,70690,gold,2021-08-16,2021-08-20,2,33.8,7.4,Children,Children Sports,"Olssons, Kids",Blues Jazz Pants,ES,Sportico
+48277,86582,silver,2021-08-16,2021-08-19,3,34.8,4.65,Sports,Assorted Sports Articles,Assorted Sports articles,Clearview Glass Black,CA,CrystalClear Optics Inc
+51840,82037,gold,2021-08-16,2021-08-18,1,91.5,45.85,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Micro Fibre Jacket,US,Eclipse Inc
+52374,85553,gold,2021-08-16,2021-08-25,1,31.7,15.95,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Shorts Dri Fit,US,Eclipse Inc
+52637,11894,gold,2021-08-16,2021-08-21,2,11.2,2.25,Outdoors,Outdoors,Outdoor Gear,Green PVC Poncho,GB,Prime Sports Ltd
+53592,5801,gold,2021-08-16,2021-08-21,2,50.4,10.6,Sports,Indoor Sports,Gymnastic Clothing,"Short Top, Cotton",ES,Sportico
+53690,88468,silver,2021-08-16,2021-08-22,3,59.4,10.0,Clothes & Shoes,Clothes,Eclipse Clothing,Eclipse Signature Cap,US,Eclipse Inc
+54208,9243,gold,2021-08-16,2021-08-17,2,51.2,12.9,Clothes & Shoes,Clothes,Eclipse Clothing,Northern Fleece Scarf,US,Eclipse Inc

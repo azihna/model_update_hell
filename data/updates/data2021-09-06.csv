@@ -1,0 +1,19 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+10189,74569,silver,2021-09-06,2021-09-10,1,282.0,139.45,Sports,Assorted Sports Articles,Skates,Perfect Fit Men's  Roller Skates,US,Twain Inc
+11237,47928,silver,2021-09-06,2021-09-09,1,104.0,41.65,Sports,Golf,Golf Clothes,Eagle 5 Pocket Pants with Stretch,US,HighPoint Trading
+16738,75133,gold,2021-09-06,2021-09-07,1,630.4,315.15,Sports,Indoor Sports,Fitness,Letour Trimag Bike,NL,TrimSport B.V.
+19025,43064,silver,2021-09-06,2021-09-07,2,363.0,76.3,Outdoors,Outdoors,Outdoor Gear,Ht Legacy Curig I.A.Parca,US,AllSeasons Outdoor Clothing
+19781,79375,silver,2021-09-06,2021-09-10,3,85.8,13.15,Clothes & Shoes,Shoes,Tracker Shoes,Tracker Lite Basic Sandals,US,3Top Sports
+19827,14561,silver,2021-09-06,2021-09-11,2,198.0,49.6,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Span Triax Shoes,US,Eclipse Inc
+27693,19992,silver,2021-09-06,2021-09-08,1,28.0,11.35,Sports,Team Sports,Baseball,Bat - Home Run M,US,Miller Trading Inc
+36868,21169,gold,2021-09-06,2021-09-08,2,111.4,27.95,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Small,Left,Charcoal",DK,Top Sports
+40853,28074,silver,2021-09-06,2021-09-08,1,196.5,98.35,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Mickey 95 Running Shoes,US,Eclipse Inc
+42252,41572,silver,2021-09-06,2021-09-10,1,25.2,11.05,Sports,Assorted Sports Articles,Assorted Sports articles,Inlet Purple/Black,NL,Van Dammeren International
+43096,82000,silver,2021-09-06,2021-09-09,1,64.8,32.5,Children,Children Sports,"Eclipse, Kid's Shoes",Tony's Air Edge Mickey(Bg),US,Eclipse Inc
+43787,78280,silver,2021-09-06,2021-09-09,2,22.8,5.6,Clothes & Shoes,Clothes,Knitwear,Instyle Long Pants without Fly,US,AllSeasons Outdoor Clothing
+46336,61871,silver,2021-09-06,2021-09-07,1,104.6,49.8,Clothes & Shoes,Clothes,Orion,Armadillo Road Dmx Women's Running Shoes,CA,Fuller Trading Co.
+46739,75702,silver,2021-09-06,2021-09-07,1,94.3,40.5,Children,Children Sports,"N.D. Gear, Kids",Butch Tracking Pants,ES,Luna sastreria S.A.
+47156,44176,gold,2021-09-06,2021-09-09,1,145.9,66.35,Clothes & Shoes,Shoes,Shoes,Twain Stf6 Gtx M Men's Trekking Boot,US,Twain Inc
+51039,19954,silver,2021-09-06,2021-09-08,1,74.1,35.3,Clothes & Shoes,Clothes,Orion Clothing,Zx Women's Dance Pants,CA,Fuller Trading Co.
+51367,37210,silver,2021-09-06,2021-09-07,2,111.6,28.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Ultraccel 2 F.G. Soccer Shoes,US,Eclipse Inc
+52063,84099,silver,2021-09-06,2021-09-11,1,74.8,37.35,Clothes & Shoes,Clothes,Eclipse Clothing,Proficient Black/Silver,US,Eclipse Inc

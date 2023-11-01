@@ -1,0 +1,44 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1453,26429,silver,2021-08-03,2021-08-07,2,206.4,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+2020,3521,silver,2021-08-03,2021-08-09,2,173.2,34.1,Outdoors,Outdoors,Outdoor Gear,"Men's Pants, Basic",US,Mayday Inc
+3079,10189,silver,2021-08-03,2021-08-06,2,183.2,45.75,Sports,Assorted Sports Articles,Skates,Bladeline S-Fitness In-Line Skates,US,Roll-Over Inc
+4633,15030,gold,2021-08-03,2021-08-09,3,342.0,54.8,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Panga 72mm/78a,PT,Magnifico Sports
+5679,28790,gold,2021-08-03,2021-08-09,2,259.6,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+6121,49661,gold,2021-08-03,2021-08-06,2,74.0,16.9,Clothes & Shoes,Clothes,Tracker Clothes,Anytime Pants,US,3Top Sports
+10303,57009,silver,2021-08-03,2021-08-06,2,243.2,62.9,Sports,Golf,Golf,Proplay Men's Tour Force Lp 7-Wood,NL,Van Dammeren International
+10476,63826,gold,2021-08-03,2021-08-04,1,39.6,19.75,Children,Children Sports,"Eclipse, Kid's Clothes",Watchit Watches Blue/Grashopper,US,Eclipse Inc
+11102,24329,silver,2021-08-03,2021-08-05,2,193.4,48.45,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Medium,Right,Forestgreen",DK,Top Sports
+13438,79087,gold,2021-08-03,2021-08-06,3,30.3,3.6,Children,Children Sports,"Olssons, Kids",Slomo Balance Children's Shoes,ES,Sportico
+15857,17977,gold,2021-08-03,2021-08-09,3,297.6,49.55,Sports,Assorted Sports Articles,Skates,Proskater Z-10 Jr. Fitness Roller Skates,US,Roll-Over Inc
+16217,21418,gold,2021-08-03,2021-08-05,2,116.4,24.2,Sports,Running - Jogging,Running Clothes,Force Men's Running Vest,BE,Force Sports
+17473,81658,gold,2021-08-03,2021-08-16,1,32.4,13.4,Sports,Assorted Sports Articles,Darts,Bulls Eye 15 Gram 80% Tungsten Soft,GB,Royal Darts Ltd
+17832,33544,silver,2021-08-03,2021-08-06,2,122.6,26.75,Sports,Running - Jogging,Jogging,Ypsilon Men's Sweat Pants,FR,Ypsilon S.A.
+18897,75642,gold,2021-08-03,2021-08-08,1,35.2,14.8,Sports,Assorted Sports Articles,Darts,Aim4it 80% Tungsten 22 Gram,GB,Royal Darts Ltd
+19450,21292,gold,2021-08-03,2021-08-09,3,557.4,89.65,Sports,Assorted Sports Articles,Assorted Sports articles,"Extra Turbo 33, Side-By-Side",US,Roll-Over Inc
+20647,44007,silver,2021-08-03,2021-08-05,2,93.4,21.1,Children,Children Sports,"N.D. Gear, Kids",Kiddy.bathrobe Children's Bathrobe,ES,Luna sastreria S.A.
+20716,25166,silver,2021-08-03,2021-08-05,2,122.6,31.95,Sports,Team Sports,Soccer,Enland Player Shirt,US,Fga Sports Inc
+20882,50572,silver,2021-08-03,2021-08-04,2,95.6,24.0,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Long Sport Top Extra,US,Eclipse Inc
+21307,2271,gold,2021-08-03,2021-08-07,2,29.4,6.25,Sports,Team Sports,Baseball,Bat - Small,US,Miller Trading Inc
+21339,22603,silver,2021-08-03,2021-08-08,2,26.2,5.6,Outdoors,Outdoors,Backpacks,Deer Little Waist Bag,ES,Luna sastreria S.A.
+21416,23070,gold,2021-08-03,2021-08-04,3,137.1,23.65,Sports,Team Sports,Soccer,Prosoccer Home Shorts,US,Fga Sports Inc
+22349,49070,gold,2021-08-03,2021-08-08,3,142.8,21.15,Sports,Running - Jogging,Jogging,Exercise Pants w/Rib C-Logo,US,A Team Sports
+22502,52697,gold,2021-08-03,2021-08-07,2,462.0,113.65,Sports,Assorted Sports Articles,Skates,N.d.gear Roller Skates Ff80 80 millimetre78a,PT,Magnifico Sports
+22693,65,silver,2021-08-03,2021-08-07,2,351.4,75.95,Sports,Racket Sports,Racket Sports,Sledgehammer 120 Ph Black,GB,GrandSlam Sporting Goods Ltd
+22833,91404,silver,2021-08-03,2021-08-05,2,24.2,5.1,Sports,Assorted Sports Articles,Assorted Sports articles,Fleece Hat,ES,Luna sastreria S.A.
+23675,31325,gold,2021-08-03,2021-08-06,2,495.2,116.0,Outdoors,Outdoors,Backpacks,Victor Grey/Olive Men's Backpack,DK,Top Sports
+24932,52098,silver,2021-08-03,2021-08-06,3,234.6,39.2,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Left,Charcoal",DK,Top Sports
+34456,7828,silver,2021-08-03,2021-08-07,2,263.4,55.0,Sports,Racket Sports,Racket Sports,Aftm Swing Power 500 Sa Black/Silver/Red,GB,British Sports Ltd
+35859,78612,gold,2021-08-03,2021-08-12,2,25.4,5.75,Children,Children Sports,"Olssons, Kids",Bike.Pants  Children's Biking Pants 95% Cotto,ES,Sportico
+38170,62982,gold,2021-08-03,2021-08-09,3,434.4,49.3,Sports,Racket Sports,Racket Sports,Metal Tit.,FR,Le Blanc S.A.
+39399,74022,gold,2021-08-03,2021-08-15,3,379.5,60.2,Clothes & Shoes,Clothes,Orion Clothing,Mick's Men's Cl.Tracksuit,CA,Fuller Trading Co.
+40651,34401,silver,2021-08-03,2021-08-07,2,78.2,16.4,Sports,Assorted Sports Articles,Assorted Sports articles,Precision 80% Tungsten 19 Gram,GB,Royal Darts Ltd
+40764,3271,silver,2021-08-03,2021-08-04,2,179.4,44.95,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Falcon Tactel Warm-Up,US,Eclipse Inc
+41608,24015,silver,2021-08-03,2021-08-05,2,24.2,5.45,Sports,Team Sports,Soccer,Proshot Juv Size,US,Teamsports Inc
+43786,59198,silver,2021-08-03,2021-08-04,1,11.4,5.6,Clothes & Shoes,Clothes,Knitwear,Instyle Long Pants without Fly,US,AllSeasons Outdoor Clothing
+44635,91727,silver,2021-08-03,2021-08-05,3,248.7,33.1,Clothes & Shoes,Clothes,Green Tomato,Green Lime Fleece Jacket,US,Green Lime Sports Inc
+45523,89921,silver,2021-08-03,2021-08-09,3,143.7,23.8,Sports,Running - Jogging,Running Clothes,"Topline Microsuit, Winter",BE,Force Sports
+48526,30599,silver,2021-08-03,2021-08-06,3,105.3,15.6,Sports,Swim Sports,Bathing Suits,Pew Swimming Trunks,ES,Luna sastreria S.A.
+49790,21773,gold,2021-08-03,2021-08-06,2,192.0,48.1,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Medium,Left,Forestgreen",DK,Top Sports
+51817,73433,gold,2021-08-03,2021-08-05,3,101.4,15.4,Children,Children Sports,Tracker Kid's Clothes,Children's Shoes Stratosphere,US,3Top Sports
+52658,12762,silver,2021-08-03,2021-08-07,2,94.8,19.7,Sports,Assorted Sports Articles,Assorted Sports articles,Fox Polo Shirt,ES,Luna sastreria S.A.
+53069,36641,silver,2021-08-03,2021-08-04,1,57.6,27.5,Clothes & Shoes,Clothes,Orion Clothing,Jumper,CA,Fuller Trading Co.

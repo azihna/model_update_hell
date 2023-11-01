@@ -1,0 +1,47 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+149,58369,gold,2021-07-13,2021-07-16,3,159.0,26.6,Clothes & Shoes,Shoes,Tracker Shoes,Maya Trx Liga Football Boot,US,3Top Sports
+960,55399,gold,2021-07-13,2021-07-18,1,24.5,11.75,Sports,Winter Sports,Winter Sports,Original Eco Thermo 01 Yellow,US,Twain Inc
+1227,35286,gold,2021-07-13,2021-07-17,2,71.0,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+1739,874,gold,2021-07-13,2021-07-14,2,45.2,9.65,Clothes & Shoes,Shoes,Tracker Shoes,Multicolour Bathing Sandal,ES,Luna sastreria S.A.
+2336,75864,gold,2021-07-13,2021-07-17,4,1440.0,199.0,Outdoors,Outdoors,Tents,Expedition Dome 3,GB,Outback Outfitters Ltd
+3518,51542,silver,2021-07-13,2021-07-16,1,73.7,38.4,Sports,Team Sports,Soccer,Fga Away Football Shirt,US,Fga Sports Inc
+4120,62582,platinum,2021-07-13,2021-07-14,2,142.0,32.3,Clothes & Shoes,Shoes,Tracker Shoes,Indoor Handbold Special Shoes,US,3Top Sports
+4372,28777,silver,2021-07-13,2021-07-18,1,46.9,21.95,Sports,Team Sports,Soccer,Fga Home Shorts,US,Fga Sports Inc
+6330,50788,gold,2021-07-13,2021-07-17,2,1038.6,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+8202,36462,silver,2021-07-13,2021-07-19,1,11.2,5.35,Sports,Running - Jogging,Running Clothes,Maxrun Running Stockings,BE,Force Sports
+8591,79273,gold,2021-07-13,2021-07-16,3,332.1,47.1,Sports,Assorted Sports Articles,Assorted Sports articles,Fleece with Zipper,ES,Luna sastreria S.A.
+9506,3969,silver,2021-07-13,2021-07-18,1,113.1,58.9,Outdoors,Outdoors,Anoraks & Parkas,Jacket with Removable Fleece,US,AllSeasons Outdoor Clothing
+10343,8080,gold,2021-07-13,2021-07-18,2,333.2,83.4,Sports,Assorted Sports Articles,Skates,Twain Ac7/Ft7 Women's Roller Skates,US,Twain Inc
+12639,23361,silver,2021-07-13,2021-07-15,3,162.0,22.5,Sports,Running - Jogging,Running Clothes,Romano Women's Classic Jacket,BE,Force Sports
+14166,83059,gold,2021-07-13,2021-07-15,1,21.99,7.25,Sports,Team Sports,Basket Ball,Basket Ball Pro,US,HighPoint Trading
+14534,86002,silver,2021-07-13,2021-07-16,1,251.8,125.85,Sports,Assorted Sports Articles,Skates,Rollerskate  Roller Skates Ex9 76mm/78a Biofl,PT,Magnifico Sports
+16414,38817,gold,2021-07-13,2021-07-19,3,104.7,16.75,Sports,Running - Jogging,Running Clothes,Maxrun Running T-Shirt,BE,Force Sports
+17179,32165,silver,2021-07-13,2021-07-26,2,78.2,19.65,Clothes & Shoes,Shoes,Eclipse Shoes,Cnv Plus Men's Off Court Tennis,US,Eclipse Inc
+18607,71935,gold,2021-07-13,2021-07-16,2,132.8,30.25,Clothes & Shoes,Shoes,Shoes,Lulu Men's Street Shoes,SE,Petterson AB
+18738,43520,gold,2021-07-13,2021-07-18,4,100.0,12.2,Outdoors,Outdoors,Outdoor Gear,Jl Rainlight Essential Pants,US,AllSeasons Outdoor Clothing
+20127,36987,silver,2021-07-13,2021-07-16,2,199.6,48.7,Sports,Assorted Sports Articles,Skates,Rollerskate Children's Roller Skates Xpander,PT,Magnifico Sports
+21877,49662,silver,2021-07-13,2021-07-16,4,880.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+24451,57062,gold,2021-07-13,2021-07-17,3,57.3,7.7,Sports,Racket Sports,Tennis,Smasher Shorts,GB,British Sports Ltd
+25409,59367,silver,2021-07-13,2021-07-17,2,38.0,8.85,Clothes & Shoes,Clothes,Tracker Clothes,Stars Swim Suit,US,3Top Sports
+25410,77759,silver,2021-07-13,2021-07-17,2,38.0,8.85,Clothes & Shoes,Clothes,Tracker Clothes,Stars Swim Suit,US,3Top Sports
+25744,51224,silver,2021-07-13,2021-07-17,5,138.5,12.4,Children,Children Sports,Tracker Kid's Clothes,Nwt Jogging Children's track Pants,US,3Top Sports
+26264,76169,silver,2021-07-13,2021-07-19,2,18.8,4.75,Outdoors,Outdoors,Outdoor Gear,Lamp with Battery Box,GB,Prime Sports Ltd
+26908,54926,gold,2021-07-13,2021-07-16,2,168.4,38.35,Clothes & Shoes,Shoes,Tracker Shoes,Men's Running Shoes Ozweego,US,3Top Sports
+27899,91816,silver,2021-07-13,2021-07-16,2,143.4,35.95,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Large,Left,Charcoal",DK,Top Sports
+33678,31039,gold,2021-07-13,2021-07-25,1,149.8,65.15,Sports,Indoor Sports,Top Trim,Top Lightline Vest Pertex,US,Top Sports Inc
+35649,4925,gold,2021-07-13,2021-07-19,2,74.8,29.65,Sports,Assorted Sports Articles,Skates,Pro-roll Hot Rod Roller Skates,PT,Magnifico Sports
+36176,79499,silver,2021-07-13,2021-07-19,2,25.4,5.55,Sports,Golf,Golf,Grandslam Grip Sg Women's Golf Gloves,GB,GrandSlam Sporting Goods Ltd
+36487,29004,silver,2021-07-13,2021-07-18,2,474.8,111.0,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Sq9 80-76mm/78a,PT,Magnifico Sports
+36577,62141,gold,2021-07-13,2021-07-15,2,53.2,11.4,Sports,Team Sports,American Football,Football Super Bowl,US,Carolina Sports
+36621,81286,platinum,2021-07-13,2021-07-17,2,83.8,16.8,Sports,Swim Sports,Bathing Suits,Sunfit Swimming Trunks,US,Nautlius SportsWear Inc
+36702,29777,gold,2021-07-13,2021-07-18,2,55.98,17.75,Clothes & Shoes,Clothes,Green Tomato,Green Lime Camisol Top,US,Green Lime Sports Inc
+41818,52139,gold,2021-07-13,2021-07-17,2,152.4,34.55,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Pant,GB,Harry Penny Ltd
+42508,40337,silver,2021-07-13,2021-07-20,2,57.4,12.0,Clothes & Shoes,Clothes,Osprey,"Osprey J. Line T-Shirt, Cotton/Polyester",US,Triple Sportswear Inc
+45654,75900,silver,2021-07-13,2021-07-18,3,59.4,8.05,Sports,Swim Sports,Bathing Suits,Black Flexsoft Metal Goggles,US,Nautlius SportsWear Inc
+47154,50479,silver,2021-07-13,2021-07-18,2,291.8,66.35,Clothes & Shoes,Shoes,Shoes,Twain Stf6 Gtx M Men's Trekking Boot,US,Twain Inc
+47384,44098,silver,2021-07-13,2021-07-16,2,328.8,126.0,Sports,Assorted Sports Articles,Skates,Pro-roll Laguna Roller Skates,PT,Magnifico Sports
+48351,89008,silver,2021-07-13,2021-07-18,2,90.0,20.55,Clothes & Shoes,Clothes,Tracker Clothes,2bwet 3 Cb Swim Suit,US,3Top Sports
+49753,89377,gold,2021-07-13,2021-07-17,3,148.5,24.85,Clothes & Shoes,Clothes,Eclipse Clothing,"Trois Fit Tights, Essentials Performance",US,Eclipse Inc
+50439,278,gold,2021-07-13,2021-07-18,2,26.8,5.7,Sports,Assorted Sports Articles,Assorted Sports articles,Tough Boys,US,Teamsports Inc
+51348,20414,silver,2021-07-13,2021-07-15,3,145.8,20.65,Children,Children Sports,"Osprey, Kids",D.line Sweat Suit,US,Triple Sportswear Inc
+51480,41556,silver,2021-07-13,2021-07-15,2,43.6,9.75,Clothes & Shoes,Clothes,Tracker Clothes,Stars Swimming Trunks,US,3Top Sports

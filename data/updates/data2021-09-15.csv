@@ -1,0 +1,14 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+6567,62682,gold,2021-09-15,2021-09-17,1,36.8,16.75,Sports,Winter Sports,Winter Sports,Top Equipe 07 Green,US,Twain Inc
+6649,56026,gold,2021-09-15,2021-09-21,2,73.6,18.5,Children,Children Sports,"Eclipse, Kid's Shoes",Toddle Children's Quokka V (Bp) Shoes,US,Eclipse Inc
+11482,17032,gold,2021-09-15,2021-09-20,1,253.5,108.0,Sports,Winter Sports,Ski Dress,Men's Ski Jacket Vent Air Pro,NO,Scandinavian Clothing A/S
+11813,88176,silver,2021-09-15,2021-09-16,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+14095,92972,gold,2021-09-15,2021-09-18,2,444.0,110.95,Sports,Assorted Sports Articles,Skates,Proskater Kitalpha Gamma Roller Skates,US,Roll-Over Inc
+15736,36977,silver,2021-09-15,2021-09-19,1,568.1,289.95,Outdoors,Outdoors,Tents,Family Holiday 6,SE,Petterson AB
+17564,57799,silver,2021-09-15,2021-09-18,1,78.4,33.95,Sports,Running - Jogging,Jogging,Ypsilon Men's Sweatshirt w/Hood,FR,Ypsilon S.A.
+17619,27284,silver,2021-09-15,2021-09-19,1,10.6,4.1,Sports,Assorted Sports Articles,Assorted Sports articles,"Teen Multi, Assorted Colours",US,Nautlius SportsWear Inc
+25441,26406,silver,2021-09-15,2021-09-20,1,135.8,68.0,Clothes & Shoes,Shoes,Shoes,Soft Gt 2050 Women's Running Shoes,US,Pro Sportswear Inc
+28147,19671,gold,2021-09-15,2021-09-21,1,46.2,20.75,Sports,Winter Sports,Winter Sports,"Riffle Pmt,Bone",CA,CrystalClear Optics Inc
+39446,45419,silver,2021-09-15,2021-09-20,1,0.625,0.25,Sports,Assorted Sports Articles,Assorted Sports articles,Yellow,CA,CrystalClear Optics Inc
+44714,41030,platinum,2021-09-15,2021-09-17,1,63.1,28.7,Clothes & Shoes,Clothes,Tracker Clothes,Casual.nordic Fleece Jacket with Zipper,US,3Top Sports
+44961,73855,gold,2021-09-15,2021-09-17,1,21.4,9.8,Clothes & Shoes,Clothes,Tracker Clothes,Women's Logo Zip Suit,US,3Top Sports

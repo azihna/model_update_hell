@@ -1,0 +1,39 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1618,10273,gold,2021-08-13,2021-08-24,2,24.6,4.95,Sports,Assorted Sports Articles,Assorted Sports articles,Me Met Red,CA,CrystalClear Optics Inc
+1875,74987,silver,2021-08-13,2021-08-18,1,48.3,20.5,Outdoors,Outdoors,Anoraks & Parkas,Tasmania Men's Shirt,NO,Scandinavian Clothing A/S
+3712,23606,silver,2021-08-13,2021-08-14,1,98.2,42.7,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Sweater,GB,Harry Penny Ltd
+4828,24789,gold,2021-08-13,2021-08-18,2,47.0,10.2,Sports,Team Sports,Soccer,Soccer Ball-autogr Rafer Size 5  Red/,US,Teamsports Inc
+6089,18386,silver,2021-08-13,2021-08-15,1,348.2,152.1,Outdoors,Outdoors,Anoraks & Parkas,Px Tempest Jacket,US,Miller Trading Inc
+7192,88951,silver,2021-08-13,2021-08-19,2,185.6,39.85,Sports,Assorted Sports Articles,Assorted Sports articles,Tybor Sweatshirt with Hood,ES,Luna sastreria S.A.
+8372,52180,gold,2021-08-13,2021-08-28,1,16.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+9100,88609,gold,2021-08-13,2021-08-18,2,26.0,5.75,Children,Children Sports,"A-Team, Kids",A-team Children's T-Shirt,US,A Team Sports
+9509,21509,silver,2021-08-13,2021-08-18,1,113.1,58.9,Outdoors,Outdoors,Anoraks & Parkas,Jacket with Removable Fleece,US,AllSeasons Outdoor Clothing
+11338,61519,silver,2021-08-13,2021-08-19,2,53.98,10.23,Sports,Team Sports,American Football,Football - Helmet Pro XL,US,A Team Sports
+12618,7598,gold,2021-08-13,2021-08-14,2,203.4,42.0,Outdoors,Outdoors,Outdoor Gear,Men's Sports Pullover,US,Mayday Inc
+20735,78736,gold,2021-08-13,2021-08-14,1,33.9,14.75,Children,Children Sports,Tracker Kid's Clothes,Children's Pants Toledo,ES,Luna sastreria S.A.
+21636,11097,silver,2021-08-13,2021-08-14,1,16.6,7.5,Clothes & Shoes,Clothes,T-Shirts,Toncot Beefy-T Emb T-Shirt,US,A Team Sports
+31245,91056,silver,2021-08-13,2021-08-16,2,231.6,58.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy  Men's Air Internatioal Triax(Plus) S,US,Eclipse Inc
+31759,18232,gold,2021-08-13,2021-08-14,1,93.2,43.2,Sports,Racket Sports,Badminton,Paltinum Badminton Racket,GB,British Sports Ltd
+31890,43064,gold,2021-08-13,2021-08-14,2,229.4,57.45,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Sway,US,Eclipse Inc
+33083,49852,gold,2021-08-13,2021-08-17,3,57.9,9.75,Children,Children Sports,"Eclipse, Kid's Clothes",Small Kid's Tracking Pants,US,Eclipse Inc
+33423,77475,gold,2021-08-13,2021-08-16,3,144.6,20.75,Sports,Assorted Sports Articles,Assorted Sports articles,Fred T-Shirt,ES,Luna sastreria S.A.
+33477,24859,silver,2021-08-13,2021-08-19,2,67.0,7.3,Sports,Team Sports,Soccer,Soccer Fan Football Player Shorts,GB,SportsFan Products Ltd
+35538,42812,gold,2021-08-13,2021-08-16,2,95.8,24.05,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Cairn Shorts,US,Eclipse Inc
+36490,22027,silver,2021-08-13,2021-08-18,2,474.8,111.0,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Sq9 80-76mm/78a,PT,Magnifico Sports
+38223,88529,gold,2021-08-13,2021-08-17,2,342.6,84.7,Clothes & Shoes,Shoes,Shoes,Twain Fronterra 7 Gtx Women's Boots,US,Twain Inc
+38465,18267,gold,2021-08-13,2021-08-16,2,346.4,127.0,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Gretzky,PT,Magnifico Sports
+38575,77745,silver,2021-08-13,2021-08-15,2,476.4,117.75,Sports,Assorted Sports Articles,Skates,Cool Fit Women's Roller Skates,US,Twain Inc
+39842,24872,gold,2021-08-13,2021-08-16,2,78.4,20.05,Outdoors,Outdoors,Outdoor Gear,Outback Storm Kitchen,GB,Prime Sports Ltd
+40718,70713,silver,2021-08-13,2021-08-19,1,58.6,26.65,Sports,Indoor Sports,Gymnastic Clothing,Cougar Capri Gym Pants,US,SD Sporting Goods Inc
+42186,89937,silver,2021-08-13,2021-08-26,1,63.5,26.35,Sports,Racket Sports,Tennis,Anthony Men's Tennis Cable Vest,US,Mayday Inc
+42488,75616,gold,2021-08-13,2021-08-30,2,195.98,13.0,Sports,Golf,Golf Clothes,Golf Windstopper,US,Mike Schaeffer Inc
+43914,84188,silver,2021-08-13,2021-08-14,2,119.8,25.4,Sports,Assorted Sports Articles,Assorted Sports articles,Stream Polo-Shirt,ES,Luna sastreria S.A.
+44891,34560,gold,2021-08-13,2021-08-15,3,163.5,22.65,Sports,Assorted Sports Articles,Assorted Sports articles,Force Classic Children's Jacket,BE,Force Sports
+45283,8128,silver,2021-08-13,2021-08-14,2,71.0,16.55,Sports,Running - Jogging,Running Clothes,Breath-shirt Undershirt with Windstopper,BE,Force Sports
+45952,29717,silver,2021-08-13,2021-08-15,2,39.2,9.0,Children,Children Sports,Tracker Kid's Clothes,Kid Children's T-Shirt,US,3Top Sports
+49096,41170,silver,2021-08-13,2021-08-16,1,228.5,94.9,Sports,Winter Sports,Ski Dress,Women's Ski Jacket,US,AllSeasons Outdoor Clothing
+49738,87703,silver,2021-08-13,2021-08-15,3,55.2,9.3,Clothes & Shoes,Clothes,Eclipse Clothing,Men's Micro Fibre Baggy Shorts,US,Eclipse Inc
+51141,32763,silver,2021-08-13,2021-08-14,3,252.9,42.25,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Training Soccer Classic,US,Eclipse Inc
+51321,12576,silver,2021-08-13,2021-08-15,1,121.0,48.45,Sports,Winter Sports,Ski Dress,Truls Pants w/Pocket On Hip,NO,Truls Sporting Goods
+52054,19684,silver,2021-08-13,2021-08-18,2,208.8,52.3,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air One Eighty Nb,US,Eclipse Inc
+53712,84725,platinum,2021-08-13,2021-08-17,2,49.8,12.4,Children,Children Sports,Tracker Kid's Clothes,Children's Street Shoes,US,3Top Sports

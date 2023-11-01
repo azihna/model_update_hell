@@ -1,0 +1,40 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+838,29045,silver,2021-07-06,2021-07-11,2,200.4,45.6,Clothes & Shoes,Shoes,Tracker Shoes,Hgf Low Men's Indoor Shoes,US,3Top Sports
+1767,78972,gold,2021-07-06,2021-07-09,2,97.4,24.45,Children,Children Sports,"Eclipse, Kid's Shoes",Toddle Children's Air Terra Grande Shoes,US,Eclipse Inc
+3820,34404,gold,2021-07-06,2021-07-09,2,95.8,20.0,Sports,Swim Sports,Bathing Suits,Sunfit Malda Low Women's Swim Suit,US,Nautlius SportsWear Inc
+3881,58506,silver,2021-07-06,2021-07-09,2,142.4,28.5,Sports,Running - Jogging,Jogging,Triffy Nylon Pants,NL,Triffy B.V.
+4061,44070,silver,2021-07-06,2021-07-07,2,238.8,49.75,Sports,Running - Jogging,Running Clothes,Polar Jacket,BE,Force Sports
+4437,78482,gold,2021-07-06,2021-07-08,1,33.6,14.65,Sports,Team Sports,Soccer,Stephens Shirt,US,Teamsports Inc
+6433,31816,gold,2021-07-06,2021-07-12,2,17.6,4.15,Sports,Running - Jogging,Running Clothes,Short Newline Running Socks,BE,Force Sports
+7123,78382,silver,2021-07-06,2021-07-08,2,48.0,11.95,Children,Children Sports,"Lucky Guy, Kids","Rain Suit, Plain w/backpack Jacket",US,AllSeasons Outdoor Clothing
+7887,36812,silver,2021-07-06,2021-07-10,3,69.0,10.3,Children,Children Sports,"Osprey, Kids",Osprey Cat  Jr. Fleece Shirt,US,Triple Sportswear Inc
+8867,48163,silver,2021-07-06,2021-07-09,1,50.7,24.0,Clothes & Shoes,Clothes,T-Shirts,Agr Men's T-Shirt with V-neck+Long sleeves,GB,Greenline Sports Ltd
+13037,2205,silver,2021-07-06,2021-07-10,2,252.2,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+15793,75872,gold,2021-07-06,2021-07-09,2,90.2,22.65,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Micro Fibre Pants XXL,US,Eclipse Inc
+16900,13242,silver,2021-07-06,2021-07-07,3,68.55,9.3,Sports,Team Sports,American Football,Football - Helmet M,US,A Team Sports
+18949,19789,silver,2021-07-06,2021-07-07,2,45.8,9.1,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls 3-pack Chromium 72mm,GB,Royal Darts Ltd
+21131,47447,gold,2021-07-06,2021-07-07,1,195.9,55.55,Sports,Racket Sports,Racket Sports,Titanium Twister,FR,Le Blanc S.A.
+21971,55204,silver,2021-07-06,2021-07-14,4,347.2,41.4,Sports,Assorted Sports Articles,Skates,Vamos Road 80mm/82a Wheel(10 Piece),PT,Magnifico Sports
+22712,38510,silver,2021-07-06,2021-07-11,2,8.8,1.9,Sports,Assorted Sports Articles,Assorted Sports articles,Wax 102 Ml.,DE,Schroeder Trim GmBH
+23423,25791,gold,2021-07-06,2021-07-13,1,161.8,81.0,Clothes & Shoes,Clothes,LSF,Big Guy Air Max Deluxe,US,Eclipse Inc
+29602,85325,silver,2021-07-06,2021-07-07,2,32.6,7.8,Sports,Assorted Sports Articles,Assorted Sports articles,Northern Liquid Belt with Bottle,GB,EA Sports Limited
+31106,84728,silver,2021-07-06,2021-07-11,2,536.8,132.7,Sports,Assorted Sports Articles,Skates,Twain Tr7 Women's Roller Skates,US,Twain Inc
+31356,49953,platinum,2021-07-06,2021-07-08,1,242.1,115.3,Sports,Racket Sports,Racket Sports,Grandslam Hammer 6.2 Ph Tennis Racket,GB,GrandSlam Sporting Goods Ltd
+33138,38100,gold,2021-07-06,2021-07-13,2,39.2,10.55,Sports,Team Sports,Baseball,Helmet XL,US,Miller Trading Inc
+33476,49337,platinum,2021-07-06,2021-07-08,1,33.5,7.3,Sports,Team Sports,Soccer,Soccer Fan Football Player Shorts,GB,SportsFan Products Ltd
+36221,14532,gold,2021-07-06,2021-07-12,2,534.2,113.6,Sports,Running - Jogging,Running Clothes,Astor Jacket,ES,Luna sastreria S.A.
+37585,41671,silver,2021-07-06,2021-07-11,2,58.8,13.55,Children,Children Sports,Tracker Kid's Clothes,Corp.Baby Jogger,US,3Top Sports
+39841,10700,gold,2021-07-06,2021-07-10,2,78.4,20.05,Outdoors,Outdoors,Outdoor Gear,Outback Storm Kitchen,GB,Prime Sports Ltd
+40068,47337,gold,2021-07-06,2021-07-07,2,343.8,80.2,Sports,Assorted Sports Articles,Assorted Sports articles,Barret 2.12 Women's Softboot,US,Roll-Over Inc
+40267,40688,silver,2021-07-06,2021-07-11,2,35.4,8.0,Clothes & Shoes,Clothes,Shorts,Carribian Women's Jersey Shorts,US,A Team Sports
+40268,74930,silver,2021-07-06,2021-07-11,2,35.4,8.0,Clothes & Shoes,Clothes,Shorts,Carribian Women's Jersey Shorts,US,A Team Sports
+41054,45226,gold,2021-07-06,2021-07-08,2,63.0,14.45,Sports,Swim Sports,Bathing Suits,Swim Suit Semani,US,3Top Sports
+44380,59431,silver,2021-07-06,2021-07-07,1,109.9,54.9,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Men's Firewire,GB,Greenline Sports Ltd
+46363,50504,silver,2021-07-06,2021-07-09,4,5.6,0.6,Outdoors,Outdoors,Outdoor Gear,Plastic Plug 19.5 cm A`10,GB,Prime Sports Ltd
+48851,7734,gold,2021-07-06,2021-07-07,3,69.0,9.55,Sports,Running - Jogging,Running Clothes,Force Coolmax Men's Shorts,BE,Force Sports
+49145,76235,silver,2021-07-06,2021-07-11,1,19.8,8.25,Sports,Assorted Sports Articles,Assorted Sports articles,Eliza Cap,ES,Luna sastreria S.A.
+49477,14999,gold,2021-07-06,2021-07-09,4,668.4,77.25,Outdoors,Outdoors,Backpacks,Backpack Boblebee Peoples Burden,US,Mayday Inc
+50492,8402,silver,2021-07-06,2021-07-10,1,141.7,61.0,Outdoors,Outdoors,Anoraks & Parkas,Topper Pants,US,AllSeasons Outdoor Clothing
+51347,84559,silver,2021-07-06,2021-07-12,2,97.2,20.65,Children,Children Sports,"Osprey, Kids",D.line Sweat Suit,US,Triple Sportswear Inc
+53249,50257,gold,2021-07-06,2021-07-12,4,95.2,11.0,Sports,Assorted Sports Articles,Skates,Oregon Back-Brake,US,Roll-Over Inc
+53543,7133,gold,2021-07-06,2021-07-11,3,216.9,31.25,Clothes & Shoes,Clothes,Street Wear,Tyfoon Axe Sweatshirt,AU,Typhoon Clothing

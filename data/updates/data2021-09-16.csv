@@ -1,0 +1,15 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1938,92969,gold,2021-09-16,2021-09-22,1,20.0,9.15,Children,Children Sports,Tracker Kid's Clothes,Nwt Tricia 5 Children's Shorts,US,3Top Sports
+2913,64608,silver,2021-09-16,2021-09-17,1,47.9,20.9,Sports,Winter Sports,Winter Sports,Gtx Powder Thermo 04 Red,US,Twain Inc
+8376,46955,gold,2021-09-16,2021-09-20,1,16.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+11877,80154,gold,2021-09-16,2021-09-19,1,29.1,12.3,Sports,Assorted Sports Articles,Darts,Aim4it 80% Tungsten 24 Gram,GB,Royal Darts Ltd
+14096,87804,silver,2021-09-16,2021-09-27,1,222.0,110.95,Sports,Assorted Sports Articles,Skates,Proskater Kitalpha Gamma Roller Skates,US,Roll-Over Inc
+17575,30593,silver,2021-09-16,2021-09-17,2,282.4,69.4,Sports,Golf,Golf,Bretagne Performance Tg Men's Golf Shoes L.,NL,Van Dammeren International
+17926,19274,silver,2021-09-16,2021-09-19,1,94.7,47.45,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Micro Fibre Jacket,US,Eclipse Inc
+20718,2879,gold,2021-09-16,2021-09-21,2,122.6,31.95,Sports,Team Sports,Soccer,Enland Player Shirt,US,Fga Sports Inc
+20923,34390,gold,2021-09-16,2021-10-01,1,245.0,102.2,Clothes & Shoes,Clothes,Knitwear,Massif Men's Kitzbuhel Gore Windst.,FR,Massif S.A.
+26096,25573,silver,2021-09-16,2021-09-18,1,47.4,22.6,Sports,Running - Jogging,Running Clothes,Bike.Tights Biking Tights without braces,BE,Force Sports
+26696,52221,gold,2021-09-16,2021-09-20,1,81.6,35.45,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Slipover,GB,Harry Penny Ltd
+40887,37418,silver,2021-09-16,2021-09-30,1,105.2,52.7,Clothes & Shoes,Clothes,Eclipse Clothing,Pullover Shell,US,Eclipse Inc
+43487,12810,silver,2021-09-16,2021-09-17,1,64.7,29.3,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Jacket,GB,Harry Penny Ltd
+51095,50695,silver,2021-09-16,2021-09-20,2,131.2,34.35,Sports,Assorted Sports Articles,Assorted Sports articles,Prosoccer Children's Home Shirt,US,Fga Sports Inc

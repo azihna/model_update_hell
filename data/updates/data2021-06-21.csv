@@ -1,0 +1,36 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1295,55627,gold,2021-06-21,2021-06-22,2,120.4,27.4,Clothes & Shoes,Shoes,Shoes,Soft Astro Men's Running Shoes,US,Pro Sportswear Inc
+1603,82208,gold,2021-06-21,2021-06-22,2,146.0,30.35,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Classic Rain Pants,US,AllSeasons Outdoor Clothing
+3641,56406,silver,2021-06-21,2021-06-24,3,318.6,50.6,Clothes & Shoes,Clothes,Orion,Power Dmx Wide Shoes,CA,Fuller Trading Co.
+7819,5431,silver,2021-06-21,2021-06-23,3,150.0,25.1,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Fresh Soft Nylon Pants,US,Eclipse Inc
+9644,46766,silver,2021-06-21,2021-06-23,1,406.8,172.95,Sports,Winter Sports,Ski Dress,Hot Duck Men's Krypton Ski Jacket,DK,Norsok A/S
+10046,35627,silver,2021-06-21,2021-06-26,2,16.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+13834,60433,silver,2021-06-21,2021-06-29,2,39.2,8.7,Sports,Team Sports,Soccer,Big-Jim 22 Goalkeeper Gloves,US,Teamsports Inc
+14397,36517,gold,2021-06-21,2021-06-24,2,25.4,6.1,Outdoors,Outdoors,Outdoor Gear,Outback Spirits Kitchen,GB,Prime Sports Ltd
+14813,91298,gold,2021-06-21,2021-06-23,1,47.9,21.75,Sports,Indoor Sports,Fitness,Lift Weights 15 Kg Dumbbell,NL,TrimSport B.V.
+17057,8858,silver,2021-06-21,2021-06-23,2,355.6,89.0,Clothes & Shoes,Shoes,Eclipse Shoes,Atmosphere Mickey Shoes,US,Eclipse Inc
+17195,77653,gold,2021-06-21,2021-06-23,3,190.5,28.9,Clothes & Shoes,Shoes,Shoes,Allinall Star 2000 Women's Canvas Shoes,SE,Petterson AB
+17684,12196,silver,2021-06-21,2021-06-26,2,224.0,56.1,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Shorter Length Down Jacket,US,Eclipse Inc
+18893,70327,gold,2021-06-21,2021-06-25,1,35.2,14.8,Sports,Assorted Sports Articles,Darts,Aim4it 80% Tungsten 22 Gram,GB,Royal Darts Ltd
+19410,79273,silver,2021-06-21,2021-06-24,3,41.7,6.55,Children,Children Sports,"Osprey, Kids",Osprey Cat T-Shirt 100% Cotton,US,Triple Sportswear Inc
+22690,77599,gold,2021-06-21,2021-06-24,2,351.4,75.95,Sports,Racket Sports,Racket Sports,Sledgehammer 120 Ph Black,GB,GrandSlam Sporting Goods Ltd
+23308,3318,gold,2021-06-21,2021-06-23,2,68.6,15.95,Outdoors,Outdoors,Anoraks & Parkas,Brisbane Men's Shorts,NO,Scandinavian Clothing A/S
+24448,23819,gold,2021-06-21,2021-06-24,6,114.6,7.7,Sports,Racket Sports,Tennis,Smasher Shorts,GB,British Sports Ltd
+27394,27569,gold,2021-06-21,2021-06-24,4,343.96,55.85,Outdoors,Outdoors,Outdoor Gear,Mayday W'S Sports Pullover,US,Mayday Inc
+27690,14872,gold,2021-06-21,2021-07-03,2,56.0,11.35,Sports,Team Sports,Baseball,Bat - Home Run M,US,Miller Trading Inc
+28811,41180,silver,2021-06-21,2021-07-02,3,87.3,13.95,Sports,Running - Jogging,Running Clothes,Maxrun Short Running Tights,BE,Force Sports
+31611,8654,gold,2021-06-21,2021-06-26,2,46.8,11.4,Outdoors,Outdoors,Sleepingbags,Cover Compression cover M 200 Gram Yellow,GB,Outback Outfitters Ltd
+33733,50639,silver,2021-06-21,2021-06-23,4,215.6,22.9,Sports,Swim Sports,Bathing Suits,Sunfit Malarme Low Swim Suit,US,Nautlius SportsWear Inc
+33827,27648,silver,2021-06-21,2021-06-22,2,169.8,38.65,Clothes & Shoes,Shoes,Tracker Shoes,South Peak Men's Light Low Indoor Shoes,US,3Top Sports
+34834,74047,gold,2021-06-21,2021-07-05,2,376.4,86.1,Outdoors,Outdoors,Anoraks & Parkas,Jacket Talkeetna,US,Miller Trading Inc
+35416,46815,silver,2021-06-21,2021-06-24,3,797.7,131.5,Sports,Assorted Sports Articles,Skates,Twain Tr7 Men's Roller Skates,US,Twain Inc
+36749,33978,silver,2021-06-21,2021-06-23,2,37.2,8.5,Sports,Team Sports,Soccer,Prosoccer  Club Football 5/32 (Replica) Synth,US,Teamsports Inc
+41587,27884,silver,2021-06-21,2021-06-23,3,428.7,71.55,Clothes & Shoes,Shoes,Eclipse Shoes,Sire Air Tailwind 1v Running Shoes,US,Eclipse Inc
+42385,78244,silver,2021-06-21,2021-06-26,2,98.6,19.75,Sports,Golf,Golf Clothes,"Eagle Polo-Shirt, Small Zip, without sleeves",US,HighPoint Trading
+45545,32829,gold,2021-06-21,2021-06-22,1,93.4,42.65,Sports,Assorted Sports Articles,Assorted Sports articles,Limit Classic,ES,Bianco Trading S.A.
+46441,10087,gold,2021-06-21,2021-06-27,2,77.2,15.35,Sports,Assorted Sports Articles,Assorted Sports articles,Shoeshine Olive,CA,CrystalClear Optics Inc
+48503,36978,silver,2021-06-21,2021-06-27,2,14.4,3.1,Outdoors,Outdoors,Outdoor Gear,Proofing Spray,GB,Prime Sports Ltd
+48991,86758,gold,2021-06-21,2021-06-25,2,364.4,91.2,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Statement Heavy Fill Jacket,US,Eclipse Inc
+49487,47386,silver,2021-06-21,2021-06-24,3,141.9,22.55,Sports,Assorted Sports Articles,Assorted Sports articles,Grandslam Stutesman Tour Alu 23 Junior,GB,GrandSlam Sporting Goods Ltd
+52589,91222,gold,2021-06-21,2021-06-23,2,78.2,16.7,Sports,Assorted Sports Articles,Assorted Sports articles,Youth,NL,Van Dammeren International
+52953,73198,silver,2021-06-21,2021-06-25,3,185.4,23.45,Clothes & Shoes,Clothes,Tracker Clothes,Toronto Cotton,US,3Top Sports

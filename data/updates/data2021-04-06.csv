@@ -1,0 +1,56 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+990,85516,silver,2021-04-06,2021-04-08,1,122.0,58.0,Outdoors,Outdoors,Backpacks,Expedition Camp Duffle Medium Backpack,US,Miller Trading Inc
+1435,61127,gold,2021-04-06,2021-04-07,1,103.2,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+3926,63238,silver,2021-04-06,2021-04-11,2,93.6,22.05,Sports,Assorted Sports Articles,Assorted Sports articles,Feeling Junior Right Hockey Stick,US,Roll-Over Inc
+4564,65622,silver,2021-04-06,2021-04-10,1,5.1,2.2,Sports,Team Sports,Baseball,Baseball White Small,US,Top Sports Inc
+5356,16502,silver,2021-04-06,2021-04-11,3,284.1,42.15,Clothes & Shoes,Shoes,Tracker Shoes,Women's Crosstraining Shoes,US,3Top Sports
+7908,36033,gold,2021-04-06,2021-04-09,3,171.9,28.75,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Payoff Trainer Shoes,US,Eclipse Inc
+8866,73212,silver,2021-04-06,2021-04-09,1,50.7,24.0,Clothes & Shoes,Clothes,T-Shirts,Agr Men's T-Shirt with V-neck+Long sleeves,GB,Greenline Sports Ltd
+10463,2304,silver,2021-04-06,2021-04-12,1,315.1,150.0,Clothes & Shoes,Clothes,Massif,Massif Men's Race 3 Ski Bottle,FR,Massif S.A.
+17995,91353,silver,2021-04-06,2021-04-10,3,827.7,125.25,Outdoors,Outdoors,Backpacks,Feelgood 55-75 Litre Black Women's Backpack,AU,Toto Outdoor Gear
+18642,76177,gold,2021-04-06,2021-04-07,1,31.0,14.8,Sports,Running - Jogging,Running Clothes,Breath-shirt Undershirt with Windstopper XS,BE,Force Sports
+19628,34845,silver,2021-04-06,2021-04-08,1,23.8,10.65,Clothes & Shoes,Clothes,T-Shirts,Men's T-Shirt Big Logo Pro Jersey,US,A Team Sports
+21103,12619,gold,2021-04-06,2021-04-07,1,60.5,30.35,Outdoors,Outdoors,Outdoor Gear,Sailing Jacket Dock,US,AllSeasons Outdoor Clothing
+21859,13487,platinum,2021-04-06,2021-04-12,3,660.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+22687,28861,gold,2021-04-06,2021-04-07,1,175.7,75.95,Sports,Racket Sports,Racket Sports,Sledgehammer 120 Ph Black,GB,GrandSlam Sporting Goods Ltd
+23560,59842,silver,2021-04-06,2021-04-11,3,646.5,97.85,Outdoors,Outdoors,Backpacks,Jaguar 60-85 Navy Men's Backpack,AU,Toto Outdoor Gear
+24216,85558,gold,2021-04-06,2021-04-11,1,115.0,52.35,Clothes & Shoes,Shoes,Tracker Shoes,Liga Football Boot,US,3Top Sports
+24604,89718,silver,2021-04-06,2021-04-09,1,75.7,37.95,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Mantra Shoes,US,Eclipse Inc
+25293,70695,silver,2021-04-06,2021-04-09,1,41.5,18.5,Children,Children Sports,"A-Team, Kids","Kids Sweat with Hood, Large Logo",US,A Team Sports
+26693,23231,gold,2021-04-06,2021-04-08,2,163.2,35.45,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Slipover,GB,Harry Penny Ltd
+28121,20729,gold,2021-04-06,2021-04-10,1,37.4,16.3,Sports,Swim Sports,Bathing Suits,Milan Swimming Trunks,ES,Luna sastreria S.A.
+28248,82260,silver,2021-04-06,2021-04-09,1,38.3,17.05,Clothes & Shoes,Clothes,Tracker Clothes,Tennis Women's Tee,US,3Top Sports
+28336,59854,gold,2021-04-06,2021-04-12,1,119.4,59.8,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Terra Triax Shoes,US,Eclipse Inc
+32509,63485,gold,2021-04-06,2021-04-10,1,41.4,17.3,Sports,Running - Jogging,Running Clothes,Cama Long-sleeved Men's T-Shirt,BE,Force Sports
+33326,8265,silver,2021-04-06,2021-04-10,3,56.4,10.3,Sports,Team Sports,Baseball,Helmet L,US,Miller Trading Inc
+33508,48813,silver,2021-04-06,2021-04-08,2,54.2,12.95,Children,Children Sports,"Osprey, Kids",Osprey Cuda Lo Jr. Shoes Synthetic,US,Triple Sportswear Inc
+34305,74258,gold,2021-04-06,2021-04-08,2,21.2,5.35,Sports,Golf,Golf,"White 90,Top-Flite Aero 3-pack",NL,Van Dammeren International
+34452,63684,silver,2021-04-06,2021-04-08,1,131.7,55.0,Sports,Racket Sports,Racket Sports,Aftm Swing Power 500 Sa Black/Silver/Red,GB,British Sports Ltd
+36547,870,silver,2021-04-06,2021-04-09,1,23.2,9.95,Sports,Assorted Sports Articles,Assorted Sports articles,O'my Men's Logo T-Shirt,ES,Luna sastreria S.A.
+38364,73491,silver,2021-04-06,2021-04-11,1,98.1,45.7,Clothes & Shoes,Shoes,Tracker Shoes,Hardcore Shoes,GB,Greenline Sports Ltd
+38763,40947,silver,2021-04-06,2021-04-09,1,97.3,44.25,Clothes & Shoes,Shoes,Shoes,Soft 140 Men's Running Shoes,US,Pro Sportswear Inc
+39057,87560,gold,2021-04-06,2021-04-11,1,52.8,22.1,Sports,Assorted Sports Articles,Assorted Sports articles,"Top Bag L, Navy",GB,British Sports Ltd
+39903,92561,silver,2021-04-06,2021-04-09,1,57.9,23.9,Sports,Swim Sports,Bathing Suits,Margo Tankini Women's Bikini,US,Dolphin Sportswear Inc
+40380,42956,gold,2021-04-06,2021-04-10,1,16.8,8.1,Sports,Running - Jogging,Running Clothes,Maxrun Panty,BE,Force Sports
+41127,11979,gold,2021-04-06,2021-04-12,1,98.2,42.05,Sports,Assorted Sports Articles,Assorted Sports articles,Club,AU,Health-Sports
+41456,16772,silver,2021-04-06,2021-04-07,1,26.99,10.23,Sports,Team Sports,American Football,Football - Helmet Pro M,US,A Team Sports
+41558,6545,gold,2021-04-06,2021-04-08,1,42.1,21.15,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Sweatshirt w/1/2 Zipper and Hood,US,Eclipse Inc
+42616,20380,gold,2021-04-06,2021-04-07,1,25.0,11.35,Children,Children Sports,"N.D. Gear, Kids","O'my Bida Sandal, Junior",ES,Luna sastreria S.A.
+42866,40780,silver,2021-04-06,2021-04-11,1,36.2,18.2,Clothes & Shoes,Clothes,Eclipse Clothing,Nylon Backpack,US,Eclipse Inc
+43232,44056,gold,2021-04-06,2021-04-08,2,133.6,33.5,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Sweatshirt w/Small Zipper,US,Eclipse Inc
+44947,17308,gold,2021-04-06,2021-04-08,3,116.1,17.35,Clothes & Shoes,Clothes,Tracker Clothes,Far Out Teambag M,US,3Top Sports
+45365,73607,silver,2021-04-06,2021-04-11,2,110.4,27.7,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's New Components 1/2 Zip Hood,US,Eclipse Inc
+45544,55760,silver,2021-04-06,2021-04-07,1,93.4,42.65,Sports,Assorted Sports Articles,Assorted Sports articles,Limit Classic,ES,Bianco Trading S.A.
+45596,13823,silver,2021-04-06,2021-04-07,1,41.4,19.2,Outdoors,Outdoors,Gloves & Mittens,Twain Women's 500 Expert Gtx Gloves,US,Twain Inc
+46332,35251,gold,2021-04-06,2021-04-08,1,104.6,49.8,Clothes & Shoes,Clothes,Orion,Armadillo Road Dmx Women's Running Shoes,CA,Fuller Trading Co.
+48501,52560,gold,2021-04-06,2021-04-09,1,7.2,3.1,Outdoors,Outdoors,Outdoor Gear,Proofing Spray,GB,Prime Sports Ltd
+50016,21275,silver,2021-04-06,2021-04-09,1,22.3,9.25,Children,Children Sports,"Olssons, Kids",Short Tights Suplex,ES,Sportico
+50058,9833,silver,2021-04-06,2021-04-11,3,320.7,50.1,Outdoors,Outdoors,Outdoor Gear,Army Tool,US,KN Outdoor Trading Inc
+50158,50648,gold,2021-04-06,2021-04-11,1,52.9,26.55,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Twill Pants Golf,US,Eclipse Inc
+50447,57706,gold,2021-04-06,2021-04-11,1,17.3,8.75,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Tiger W Hi-Quarter Golf,US,Eclipse Inc
+52765,46038,silver,2021-04-06,2021-04-07,1,45.5,22.85,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Dry Fit Long Tights,US,Eclipse Inc
+53032,85857,silver,2021-04-06,2021-04-11,1,49.7,23.05,Clothes & Shoes,Clothes,Knitwear,Instyle Wool Pants,US,AllSeasons Outdoor Clothing
+53537,57645,silver,2021-04-06,2021-04-11,1,65.9,33.05,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Overland Pants,US,Eclipse Inc
+54165,15031,silver,2021-04-06,2021-04-12,1,61.3,27.9,Clothes & Shoes,Shoes,Tracker Shoes,3top Women's Sandal,US,3Top Sports
+54375,88563,silver,2021-04-06,2021-04-10,1,30.4,12.25,Sports,Indoor Sports,Top Trim,Top Classic Tee,US,Top Sports Inc
+54377,19264,gold,2021-04-06,2021-04-10,1,42.1,21.15,Children,Children Sports,"Eclipse, Kid's Shoes",Tony's Children's Trainer Lite (Bg) Shoes,US,Eclipse Inc

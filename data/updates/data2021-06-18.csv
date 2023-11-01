@@ -1,0 +1,20 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+13437,51228,gold,2021-06-18,2021-06-23,2,20.2,3.6,Children,Children Sports,"Olssons, Kids",Slomo Balance Children's Shoes,ES,Sportico
+14162,48943,silver,2021-06-18,2021-06-21,1,21.99,7.25,Sports,Team Sports,Basket Ball,Basket Ball Pro,US,HighPoint Trading
+16736,48898,silver,2021-06-18,2021-06-24,1,630.4,315.15,Sports,Indoor Sports,Fitness,Letour Trimag Bike,NL,TrimSport B.V.
+18371,75254,silver,2021-06-18,2021-06-20,2,272.0,51.3,Outdoors,Outdoors,Outdoor Gear,"Tent Milano Tent,4 Persons, about 4.8",GB,Prime Sports Ltd
+18947,77861,gold,2021-06-18,2021-06-23,2,45.8,9.1,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls 3-pack Chromium 72mm,GB,Royal Darts Ltd
+22440,41256,silver,2021-06-18,2021-06-21,3,41.4,6.25,Sports,Assorted Sports Articles,Assorted Sports articles,Bag Denim Bag for 3 Balls,GB,Royal Darts Ltd
+22831,42355,silver,2021-06-18,2021-06-20,2,24.2,5.1,Sports,Assorted Sports Articles,Assorted Sports articles,Fleece Hat,ES,Luna sastreria S.A.
+26219,10758,gold,2021-06-18,2021-06-19,2,122.8,30.8,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Flyer Plus,US,Eclipse Inc
+26436,39303,silver,2021-06-18,2021-06-22,3,1437.9,239.6,Sports,Assorted Sports Articles,Assorted Sports articles,Jeff's Hockey,PT,Magnifico Sports
+26575,78382,silver,2021-06-18,2021-06-20,2,337.4,76.55,Sports,Assorted Sports Articles,Assorted Sports articles,Proskater Viablade Tx Women's Fitness,US,Roll-Over Inc
+27147,20971,silver,2021-06-18,2021-06-19,2,38.2,8.75,Clothes & Shoes,Clothes,Tracker Clothes,Logo Coord. Round Neck Men's T-Shirt,US,3Top Sports
+28487,2806,silver,2021-06-18,2021-06-22,2,239.0,51.7,Sports,Assorted Sports Articles,Assorted Sports articles,Buzz Saw,CA,CrystalClear Optics Inc
+28696,79122,gold,2021-06-18,2021-06-19,3,72.6,11.1,Clothes & Shoes,Shoes,Tracker Shoes,Vesuv Sandal,US,3Top Sports
+29440,81108,silver,2021-06-18,2021-06-19,2,77.0,17.5,Clothes & Shoes,Shoes,Tracker Shoes,Pytossage Bathing Sandal,US,3Top Sports
+29953,53568,gold,2021-06-18,2021-06-19,1,22.9,10.3,Sports,Indoor Sports,Fitness,Topgun Evb-10 Vinyl-Dumbbells 4.5,NL,TrimSport B.V.
+31130,75874,silver,2021-06-18,2021-06-21,2,89.6,22.5,Outdoors,Outdoors,Sleepingbags,Interlight Lux Sleeping Bag,GB,Outback Outfitters Ltd
+34455,62007,silver,2021-06-18,2021-06-20,1,131.7,55.0,Sports,Racket Sports,Racket Sports,Aftm Swing Power 500 Sa Black/Silver/Red,GB,British Sports Ltd
+43602,90883,silver,2021-06-18,2021-06-22,3,284.7,43.15,Clothes & Shoes,Clothes,Tracker Clothes,Cotton,US,3Top Sports
+50997,76457,silver,2021-06-18,2021-06-22,2,422.8,84.6,Sports,Golf,Golf Clothes,Figured Windstopper Merino/Acryl,US,HighPoint Trading

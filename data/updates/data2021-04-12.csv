@@ -1,0 +1,43 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+107,48569,gold,2021-04-12,2021-04-15,1,37.2,18.45,Clothes & Shoes,Shoes,Shoes,Soft Gel Court Men's Indoor Shoes,US,Pro Sportswear Inc
+3706,57407,silver,2021-04-12,2021-04-15,3,294.6,42.7,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Sweater,GB,Harry Penny Ltd
+5208,11440,silver,2021-04-12,2021-04-15,1,120.7,66.5,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tuned Max Shoes,US,Eclipse Inc
+5778,73160,silver,2021-04-12,2021-04-14,1,31.4,13.9,Sports,Assorted Sports Articles,Assorted Sports articles,A-team Smoothsport Bra,US,A Team Sports
+5870,31434,silver,2021-04-12,2021-04-18,2,226.4,54.0,Sports,Assorted Sports Articles,Skates,Pro-roll Lazer Roller Skates,PT,Magnifico Sports
+8586,61099,silver,2021-04-12,2021-04-28,1,110.7,47.1,Sports,Assorted Sports Articles,Assorted Sports articles,Fleece with Zipper,ES,Luna sastreria S.A.
+9007,39793,gold,2021-04-12,2021-04-13,2,73.4,18.45,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Polo-Shirt Fit,US,Eclipse Inc
+12612,6948,silver,2021-04-12,2021-04-15,1,101.7,42.0,Outdoors,Outdoors,Outdoor Gear,Men's Sports Pullover,US,Mayday Inc
+13329,11845,silver,2021-04-12,2021-04-17,1,151.7,74.35,Outdoors,Outdoors,Sleepingbags,Compact Summer 195 Cm Blue Sleeping Bag,GB,Outback Outfitters Ltd
+15591,64267,silver,2021-04-12,2021-04-14,1,22.7,10.85,Sports,Running - Jogging,Running Clothes,Original Running Pants,BE,Force Sports
+15725,59447,gold,2021-04-12,2021-04-16,1,568.1,289.95,Outdoors,Outdoors,Tents,Family Holiday 6,SE,Petterson AB
+15825,52139,silver,2021-04-12,2021-04-16,2,156.6,31.4,Sports,Racket Sports,Tennis,"Smasher 2-Lags Cotton, Micro Fibre",GB,British Sports Ltd
+16963,37527,silver,2021-04-12,2021-04-18,2,351.8,127.95,Sports,Assorted Sports Articles,Skates,Pro-roll Sabotage-Rp  Roller Skates,PT,Magnifico Sports
+17680,37158,gold,2021-04-12,2021-04-15,1,112.0,56.1,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Shorter Length Down Jacket,US,Eclipse Inc
+17712,11894,gold,2021-04-12,2021-04-17,1,115.5,57.85,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Terra Humara Shoes,US,Eclipse Inc
+18497,24608,silver,2021-04-12,2021-04-14,1,244.6,100.75,Outdoors,Outdoors,Outdoor Gear,Mayday Active Work Parca,US,Mayday Inc
+19924,40551,silver,2021-04-12,2021-04-17,2,403.0,86.1,Sports,Assorted Sports Articles,Assorted Sports articles,Shirt Termir,ES,Luna sastreria S.A.
+20586,81273,gold,2021-04-12,2021-04-17,2,270.4,69.1,Sports,Golf,Golf,Hi-fly 3.8 Stand Black/Blue,NL,Van Dammeren International
+20731,16647,silver,2021-04-12,2021-04-15,3,101.7,14.75,Children,Children Sports,Tracker Kid's Clothes,Children's Pants Toledo,ES,Luna sastreria S.A.
+21011,6817,gold,2021-04-12,2021-04-18,4,235.6,26.1,Sports,Running - Jogging,Jogging,Men's Sweatshirt w/Hood Big Logo,US,A Team Sports
+25185,59727,gold,2021-04-12,2021-04-15,1,50.2,25.05,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Basic Sweat,GB,Greenline Sports Ltd
+27388,18748,silver,2021-04-12,2021-04-15,1,132.8,55.85,Outdoors,Outdoors,Outdoor Gear,Mayday W'S Sports Pullover,US,Mayday Inc
+27807,73830,gold,2021-04-12,2021-04-17,1,100.6,51.9,Sports,Golf,Golf,Bretagne Stabilities Tg Men's Golf Shoes,NL,Van Dammeren International
+28603,28746,gold,2021-04-12,2021-04-13,1,87.2,34.9,Sports,Winter Sports,Winter Sports,Amber Cc,CA,CrystalClear Optics Inc
+28667,35365,gold,2021-04-12,2021-04-16,1,13.2,5.65,Sports,Assorted Sports Articles,Assorted Sports articles,"Detergent Wash, 300 Ml.",DE,Schroeder Trim GmBH
+30251,26481,silver,2021-04-12,2021-04-13,1,35.2,17.7,Clothes & Shoes,Clothes,Eclipse Clothing,Jogging Pants,US,Eclipse Inc
+30899,74458,silver,2021-04-12,2021-04-17,1,117.5,49.05,Sports,Running - Jogging,Running Clothes,"Brafit Microsuit, Running",BE,Force Sports
+31658,81172,silver,2021-04-12,2021-04-14,1,153.6,76.9,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Millennium Down Fill Jacket,US,Eclipse Inc
+32977,52088,silver,2021-04-12,2021-04-17,2,705.6,174.4,Sports,Assorted Sports Articles,Skates,Twain Ac9 Men's Roller Skates,US,Twain Inc
+36548,49180,gold,2021-04-12,2021-04-14,1,23.2,9.95,Sports,Assorted Sports Articles,Assorted Sports articles,O'my Men's Logo T-Shirt,ES,Luna sastreria S.A.
+36802,65223,gold,2021-04-12,2021-04-17,2,226.8,54.5,Sports,Assorted Sports Articles,Skates,Aln Roller Skates,PT,Magnifico Sports
+37541,93629,silver,2021-04-12,2021-04-16,1,195.7,97.95,Clothes & Shoes,Shoes,Shoes,Soft Kayano Men's Running Shoes,US,Pro Sportswear Inc
+37891,3681,platinum,2021-04-12,2021-04-14,2,71.0,15.2,Sports,Assorted Sports Articles,Assorted Sports articles,Goodtime Sports Bag,ES,Luna sastreria S.A.
+38944,7268,silver,2021-04-12,2021-04-16,1,98.9,47.7,Clothes & Shoes,Clothes,LSF,Ultra M803 Ng Men's Street Shoes,US,Ultra Sporting Goods Inc
+41816,17330,gold,2021-04-12,2021-04-13,2,152.4,34.55,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Pant,GB,Harry Penny Ltd
+45968,64002,gold,2021-04-12,2021-04-13,1,95.7,47.95,Sports,Golf,Golf,Proplay Men's Tour Force Ti 5w,NL,Van Dammeren International
+46440,87849,gold,2021-04-12,2021-04-18,1,38.6,15.35,Sports,Assorted Sports Articles,Assorted Sports articles,Shoeshine Olive,CA,CrystalClear Optics Inc
+49536,87649,gold,2021-04-12,2021-04-17,1,23.6,11.5,Sports,Indoor Sports,Fitness,Weight Glove 0.90 Kg,NL,TrimSport B.V.
+50115,78943,silver,2021-04-12,2021-04-16,1,36.7,16.75,Children,Children Sports,Tracker Kid's Clothes,Kola Children's Shoes,US,3Top Sports
+52580,51106,silver,2021-04-12,2021-04-17,1,15.8,6.4,Sports,Swim Sports,Bathing Suits,"Astor Goggles, Assorted Colours",US,Nautlius SportsWear Inc
+54113,48832,silver,2021-04-12,2021-04-15,1,38.6,19.25,Children,Children Sports,"Eclipse, Kid's Clothes",Watchit Watch Gold/Grepe Jelly,US,Eclipse Inc
+54379,39712,gold,2021-04-12,2021-04-14,1,88.5,39.0,Clothes & Shoes,Clothes,Leisure,Van Damme Men's Golf Polo,NL,Van Dammeren International

@@ -1,0 +1,40 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+3321,25412,silver,2021-07-29,2021-08-01,3,286.5,43.55,Clothes & Shoes,Shoes,Shoes,Soft Cumulus Men's Running Shoes,US,Pro Sportswear Inc
+3520,75603,silver,2021-07-29,2021-08-05,1,73.7,38.4,Sports,Team Sports,Soccer,Fga Away Football Shirt,US,Fga Sports Inc
+4022,16715,silver,2021-07-29,2021-08-02,2,53.2,13.75,Sports,Team Sports,American Football,Armour XL,US,A Team Sports
+4439,75689,gold,2021-07-29,2021-08-03,1,33.6,14.65,Sports,Team Sports,Soccer,Stephens Shirt,US,Teamsports Inc
+4568,11771,silver,2021-07-29,2021-07-31,3,15.3,2.2,Sports,Team Sports,Baseball,Baseball White Small,US,Top Sports Inc
+6331,41755,silver,2021-07-29,2021-08-02,2,1038.6,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+7126,47959,gold,2021-07-29,2021-08-05,3,72.0,11.95,Children,Children Sports,"Lucky Guy, Kids","Rain Suit, Plain w/backpack Jacket",US,AllSeasons Outdoor Clothing
+7486,89906,silver,2021-07-29,2021-08-16,4,1412.4,196.15,Sports,Golf,Golf,Normal Standard,GB,TeeTime Ltd
+7553,76501,gold,2021-07-29,2021-08-01,2,292.8,65.1,Clothes & Shoes,Clothes,Tracker Clothes,Centercourt Men's Tennis Suit,US,3Top Sports
+10746,49820,silver,2021-07-29,2021-07-30,2,495.0,109.55,Outdoors,Outdoors,Outdoor Gear,Trekking Tent,GB,Prime Sports Ltd
+11101,8515,platinum,2021-07-29,2021-07-31,4,386.8,48.45,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Medium,Right,Forestgreen",DK,Top Sports
+14846,39474,gold,2021-07-29,2021-07-30,2,170.2,36.25,Children,Children Sports,"N.D. Gear, Kids",O'my Shasta Children's Jacket,ES,Luna sastreria S.A.
+15488,83354,silver,2021-07-29,2021-08-04,2,122.0,28.75,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Turbulence Shoes,US,Eclipse Inc
+16812,19706,silver,2021-07-29,2021-08-01,4,12.8,1.35,Outdoors,Outdoors,Outdoor Gear,"Backpack Flag, 6,5x9 Cm.",GB,Prime Sports Ltd
+18645,19390,gold,2021-07-29,2021-08-03,2,62.0,14.8,Sports,Running - Jogging,Running Clothes,Breath-shirt Undershirt with Windstopper XS,BE,Force Sports
+21338,7899,gold,2021-07-29,2021-08-03,4,52.4,5.6,Outdoors,Outdoors,Backpacks,Deer Little Waist Bag,ES,Luna sastreria S.A.
+22323,5359,gold,2021-07-29,2021-07-30,2,237.2,59.4,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Large,Right,Forestgreen",DK,Top Sports
+23056,31007,silver,2021-07-29,2021-07-30,1,90.2,38.3,Clothes & Shoes,Clothes,Knitwear,Fleece Jacket Compass,US,AllSeasons Outdoor Clothing
+23629,75254,gold,2021-07-29,2021-07-31,4,51.96,8.05,Outdoors,Outdoors,Outdoor Gear,Navy Knife,US,KN Outdoor Trading Inc
+24046,42895,silver,2021-07-29,2021-07-31,4,372.4,46.65,Outdoors,Outdoors,Backpacks,X-Large Bottlegreen/Black,DK,Top Sports
+25344,77386,gold,2021-07-29,2021-08-02,3,50.7,7.6,Sports,Assorted Sports Articles,Assorted Sports articles,Glove Ski Gloves,NO,Scandinavian Clothing A/S
+29549,62679,gold,2021-07-29,2021-08-04,2,33.4,6.75,Sports,Swim Sports,Bathing Suits,"Goggles, Assorted Colours",US,Nautlius SportsWear Inc
+31613,13465,silver,2021-07-29,2021-08-02,2,46.8,11.4,Outdoors,Outdoors,Sleepingbags,Cover Compression cover M 200 Gram Yellow,GB,Outback Outfitters Ltd
+35594,23159,silver,2021-07-29,2021-08-04,2,48.8,11.05,Children,Children Sports,Tracker Kid's Clothes,Stars Pes Children's Shorts,US,3Top Sports
+38289,10561,gold,2021-07-29,2021-08-01,2,236.6,59.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Terra Central Shoes,US,Eclipse Inc
+39361,7123,silver,2021-07-29,2021-07-31,2,48.0,11.7,Outdoors,Outdoors,Outdoor Gear,Rain Pants,US,AllSeasons Outdoor Clothing
+40137,73374,gold,2021-07-29,2021-08-03,2,101.2,25.25,Sports,Running - Jogging,Jogging,Pants Fun,GB,Greenline Sports Ltd
+42635,71298,gold,2021-07-29,2021-08-01,1,55.7,25.35,Sports,Indoor Sports,Gymnastic Clothing,Cougar Basic T-Shirt,US,SD Sporting Goods Inc
+43578,58518,gold,2021-07-29,2021-07-31,2,6.8,1.25,Sports,Swim Sports,Bathing Suits,Noseclip Natural,US,Nautlius SportsWear Inc
+46410,3700,silver,2021-07-29,2021-08-02,1,95.7,41.5,Sports,Winter Sports,Winter Sports,"Like Regulator,Slate Cc",CA,CrystalClear Optics Inc
+47030,75616,silver,2021-07-29,2021-08-03,2,72.4,18.2,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Statement Halter T-Shirt,US,Eclipse Inc
+47745,90369,gold,2021-07-29,2021-07-31,2,186.0,44.25,Clothes & Shoes,Clothes,Orion,Armadillo Road Dmx Men's Running Shoes,CA,Fuller Trading Co.
+47962,28331,gold,2021-07-29,2021-08-03,2,175.8,41.75,Clothes & Shoes,Clothes,Orion,Original Leather Flow Ice Women's Street,CA,Fuller Trading Co.
+48936,13252,gold,2021-07-29,2021-07-30,2,1461.0,365.2,Sports,Assorted Sports Articles,Skates,Rollerskate  Roller Skates Hockey Wicked L.80,PT,Magnifico Sports
+49754,41694,gold,2021-07-29,2021-07-30,2,99.0,24.85,Clothes & Shoes,Clothes,Eclipse Clothing,"Trois Fit Tights, Essentials Performance",US,Eclipse Inc
+49950,60585,gold,2021-07-29,2021-08-01,2,140.2,31.95,Clothes & Shoes,Shoes,Tracker Shoes,Torino Women's Leather Shoes,US,3Top Sports
+50226,54925,gold,2021-07-29,2021-07-30,2,256.2,64.15,Clothes & Shoes,Clothes,Eclipse Clothing,Lean-line Watch Black/Blue,US,Eclipse Inc
+52053,11167,gold,2021-07-29,2021-08-01,3,313.2,52.3,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air One Eighty Nb,US,Eclipse Inc
+53482,33565,silver,2021-07-29,2021-07-31,2,90.8,19.35,Sports,Swim Sports,Bathing Suits,Swim Suit Sanford,ES,Luna sastreria S.A.

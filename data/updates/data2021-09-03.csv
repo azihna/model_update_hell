@@ -1,0 +1,21 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2834,1138,silver,2021-09-03,2021-09-08,1,77.0,38.6,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Right,Charcoal",DK,Top Sports
+6338,50451,silver,2021-09-03,2021-09-14,1,519.3,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+6597,20265,silver,2021-09-03,2021-09-07,1,242.5,115.45,Sports,Racket Sports,Racket Sports,Grandslam Hyper Hammer 6.3 Ph Tennis,GB,GrandSlam Sporting Goods Ltd
+7129,72827,silver,2021-09-03,2021-09-05,1,24.0,11.95,Children,Children Sports,"Lucky Guy, Kids","Rain Suit, Plain w/backpack Jacket",US,AllSeasons Outdoor Clothing
+8205,15421,gold,2021-09-03,2021-09-08,2,22.4,5.35,Sports,Running - Jogging,Running Clothes,Maxrun Running Stockings,BE,Force Sports
+9782,39366,gold,2021-09-03,2021-09-06,2,143.0,31.65,Clothes & Shoes,Shoes,Shoes,Profi Crosswinds 23 Sandal,NL,Van Dammeren International
+10060,19852,gold,2021-09-03,2021-09-06,2,16.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+11811,10175,silver,2021-09-03,2021-09-05,1,53.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+17761,81295,silver,2021-09-03,2021-09-06,2,407.8,95.1,Sports,Assorted Sports Articles,Assorted Sports articles,Extra Turbo 33 Classic Side-By-Side,US,Roll-Over Inc
+19024,27589,gold,2021-09-03,2021-09-09,1,181.5,76.3,Outdoors,Outdoors,Outdoor Gear,Ht Legacy Curig I.A.Parca,US,AllSeasons Outdoor Clothing
+19303,72509,platinum,2021-09-03,2021-09-06,1,25.9,11.9,Clothes & Shoes,Clothes,Tracker Clothes,Casual. Top Tee with V-Neck,US,3Top Sports
+20858,54926,gold,2021-09-03,2021-09-06,1,134.8,55.1,Outdoors,Outdoors,Anoraks & Parkas,Gpv Jacket,US,AllSeasons Outdoor Clothing
+23312,79222,gold,2021-09-03,2021-09-09,2,68.6,15.95,Outdoors,Outdoors,Anoraks & Parkas,Brisbane Men's Shorts,NO,Scandinavian Clothing A/S
+23630,78320,silver,2021-09-03,2021-09-07,2,36.6,8.05,Outdoors,Outdoors,Outdoor Gear,Navy Knife,US,KN Outdoor Trading Inc
+30217,4590,silver,2021-09-03,2021-09-08,2,398.2,95.65,Outdoors,Outdoors,Backpacks,Commanche Women's 6000 Q Backpack. Bark,DK,Top Sports
+37357,49077,gold,2021-09-03,2021-09-08,1,316.6,126.7,Sports,Winter Sports,Ski Dress,Mayday Soul Pro New Tech Ski Jacket,US,Mayday Inc
+38188,55170,silver,2021-09-03,2021-09-09,1,64.9,31.1,Sports,Assorted Sports Articles,Assorted Sports articles,Hatcher (Bag),US,Miller Trading Inc
+38239,398,silver,2021-09-03,2021-09-08,2,148.6,37.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Cortez Shoes,US,Eclipse Inc
+44087,33054,gold,2021-09-03,2021-09-10,2,59.4,14.2,Sports,Running - Jogging,Running Clothes,Topline Sprinter,BE,Force Sports
+47516,47907,gold,2021-09-03,2021-09-05,1,170.3,85.1,Clothes & Shoes,Clothes,Eclipse Clothing,Coho DarkCharcoal/Silver/Black,US,Eclipse Inc

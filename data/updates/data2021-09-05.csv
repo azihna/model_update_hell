@@ -1,0 +1,12 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+2585,26159,gold,2021-09-05,2021-09-07,1,44.7,19.5,Sports,Winter Sports,Winter Sports,Gtx Powder Thermo 06 Iris/Blue,US,Twain Inc
+4831,23764,gold,2021-09-05,2021-09-14,1,23.5,10.2,Sports,Team Sports,Soccer,Soccer Ball-autogr Rafer Size 5  Red/,US,Teamsports Inc
+5684,76164,silver,2021-09-05,2021-09-07,1,129.8,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+5921,18331,silver,2021-09-05,2021-09-07,2,28.2,5.95,Sports,Running - Jogging,Running Clothes,Running Socks,US,Pro Sportswear Inc
+20839,93402,silver,2021-09-05,2021-09-06,2,214.8,48.9,Clothes & Shoes,Shoes,Tracker Shoes,Damaskus Men's Running Shoes,US,3Top Sports
+25319,18414,gold,2021-09-05,2021-09-07,1,46.3,20.9,Outdoors,Outdoors,Anoraks & Parkas,Monster Men's Pants with Zipper,NO,Scandinavian Clothing A/S
+28831,70854,gold,2021-09-05,2021-09-09,2,221.8,55.55,Sports,Golf,Golf,Proplay Men's Tour Force Ti 3w,NL,Van Dammeren International
+43152,80262,gold,2021-09-05,2021-09-06,1,250.9,104.2,Outdoors,Outdoors,Anoraks & Parkas,4men Men's Polar Down Jacket,US,AllSeasons Outdoor Clothing
+45025,15652,silver,2021-09-05,2021-09-08,1,6.8,2.75,Sports,Racket Sports,Tennis,Smasher 4-Pak Socks,GB,British Sports Ltd
+53784,8843,silver,2021-09-05,2021-09-09,1,27.2,12.5,Clothes & Shoes,Clothes,Tracker Clothes,Casual V-Neck T-Shirt,US,3Top Sports
+53881,33334,gold,2021-09-05,2021-09-07,1,26.1,12.6,Sports,Indoor Sports,Fitness,Weight Glove 2.25 Kg,NL,TrimSport B.V.

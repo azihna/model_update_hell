@@ -1,0 +1,49 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+680,11094,gold,2021-05-11,2021-05-16,1,15.4,6.1,Sports,Assorted Sports Articles,Darts,Aim4it 18 Gram Softtip Pil,GB,Royal Darts Ltd
+1600,90072,silver,2021-05-11,2021-05-17,2,146.0,30.35,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Classic Rain Pants,US,AllSeasons Outdoor Clothing
+4116,1642,gold,2021-05-11,2021-05-16,1,71.0,32.3,Clothes & Shoes,Shoes,Tracker Shoes,Indoor Handbold Special Shoes,US,3Top Sports
+4824,91866,silver,2021-05-11,2021-05-16,2,29.98,10.2,Sports,Team Sports,Soccer,Soccer Ball-autogr Rafer Size 5  Red/,US,Teamsports Inc
+6531,30759,gold,2021-05-11,2021-05-16,1,109.5,54.7,Sports,Assorted Sports Articles,Skates,Proskater Viablade S Roller Skates,US,Roll-Over Inc
+7671,49057,gold,2021-05-11,2021-05-12,1,57.0,25.25,Sports,Running - Jogging,Jogging,Sweatshirt  Children's Sweat w/Small Zipper C,US,A Team Sports
+9329,16753,silver,2021-05-11,2021-05-14,1,157.8,79.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tuned Sirocco Shoes,US,Eclipse Inc
+9416,75999,silver,2021-05-11,2021-05-14,1,106.8,42.8,Clothes & Shoes,Clothes,Street Wear,Anthony Bork Norbert Nylon Jacket,US,Mayday Inc
+10362,72370,gold,2021-05-11,2021-05-14,1,27.9,13.45,Outdoors,Outdoors,Anoraks & Parkas,Ranger Men's T-Shirt,NO,Scandinavian Clothing A/S
+10688,26035,gold,2021-05-11,2021-05-14,3,265.5,42.45,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Large,Right, Blue/Black",DK,Top Sports
+10689,55919,gold,2021-05-11,2021-05-17,2,177.0,42.45,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Large,Right, Blue/Black",DK,Top Sports
+13654,21962,silver,2021-05-11,2021-05-13,4,141.6,17.8,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Hermosa Canvas,US,Eclipse Inc
+15954,72601,silver,2021-05-11,2021-05-17,3,135.6,18.15,Sports,Assorted Sports Articles,Assorted Sports articles,Montevideo Men's Shorts,ES,Luna sastreria S.A.
+16899,41686,gold,2021-05-11,2021-05-13,3,68.55,9.3,Sports,Team Sports,American Football,Football - Helmet M,US,A Team Sports
+18667,79432,silver,2021-05-11,2021-05-16,1,9.5,4.55,Sports,Running - Jogging,Running Clothes,Running Gloves,BE,Force Sports
+18756,57130,silver,2021-05-11,2021-05-12,1,253.6,105.3,Sports,Winter Sports,Ski Dress,Helmsdale Ski Pants,US,AllSeasons Outdoor Clothing
+22688,90412,silver,2021-05-11,2021-05-13,1,175.7,75.95,Sports,Racket Sports,Racket Sports,Sledgehammer 120 Ph Black,GB,GrandSlam Sporting Goods Ltd
+22786,74026,silver,2021-05-11,2021-05-14,2,135.0,32.15,Outdoors,Outdoors,Sleepingbags,"Trekker  Large Sleeping Bag, Right, Graphite/",DK,Top Sports
+24630,59511,silver,2021-05-11,2021-05-13,2,134.2,27.8,Sports,Racket Sports,Tennis,Anthony Retro Men's Tennis Polo,US,Mayday Inc
+25569,8347,silver,2021-05-11,2021-05-15,1,56.9,24.1,Clothes & Shoes,Clothes,Orion,Alexis Women's Classic Shoes,CA,Fuller Trading Co.
+26907,60491,gold,2021-05-11,2021-05-13,4,336.8,38.35,Clothes & Shoes,Shoes,Tracker Shoes,Men's Running Shoes Ozweego,US,3Top Sports
+27773,14194,silver,2021-05-11,2021-05-19,1,22.5,10.65,Sports,Running - Jogging,Running Clothes,Stout Men's Running Singlet,BE,Force Sports
+30161,72370,silver,2021-05-11,2021-05-14,3,605.4,91.65,Clothes & Shoes,Shoes,Shoes,Twain Stf7 Women's Outdoor Boots,US,Twain Inc
+30342,19437,gold,2021-05-11,2021-05-17,1,86.1,43.15,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Famished Shoes,US,Eclipse Inc
+31366,3401,silver,2021-05-11,2021-05-16,1,60.7,30.45,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's New Terry Tight,US,Eclipse Inc
+32476,57310,gold,2021-05-11,2021-05-13,4,559.2,70.0,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Mickey Tailwind,US,Eclipse Inc
+34008,91521,silver,2021-05-11,2021-05-12,1,112.3,68.6,Sports,Assorted Sports Articles,Skates,Pro-roll Sq9 80-76mm/78a Roller Skates,PT,Magnifico Sports
+36926,50987,silver,2021-05-11,2021-05-14,1,98.7,46.9,Sports,Assorted Sports Articles,Skates,Pro-roll Dragster Junior Roller Skates,PT,Magnifico Sports
+38238,18393,platinum,2021-05-11,2021-05-15,1,74.3,37.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Cortez Shoes,US,Eclipse Inc
+40027,64714,silver,2021-05-11,2021-05-12,1,47.0,21.45,Clothes & Shoes,Shoes,Shoes,Allinall Star Men's Canvas Shoes,SE,Petterson AB
+41393,10001,gold,2021-05-11,2021-05-16,2,42.0,9.55,Sports,Team Sports,Soccer,Ofc Blue/White/Blue,US,Teamsports Inc
+43942,90308,gold,2021-05-11,2021-05-17,1,84.8,33.9,Clothes & Shoes,Clothes,Knitwear,Dp Rounder O-Neck Knit,US,Mayday Inc
+44296,70433,gold,2021-05-11,2021-05-14,1,165.4,82.8,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Seismic,US,Eclipse Inc
+44326,54939,silver,2021-05-11,2021-05-14,2,127.6,30.8,Outdoors,Outdoors,Sleepingbags,"Trekker  Medium Sleeping Bag, Right, Graphite",DK,Top Sports
+44778,55920,gold,2021-05-11,2021-05-15,3,71.1,10.0,Sports,Swim Sports,Bathing Suits,Mary Bikini Top B,ES,Luna sastreria S.A.
+46334,27997,gold,2021-05-11,2021-05-13,3,313.8,49.8,Clothes & Shoes,Clothes,Orion,Armadillo Road Dmx Women's Running Shoes,CA,Fuller Trading Co.
+48266,56816,silver,2021-05-11,2021-05-14,3,390.9,62.15,Clothes & Shoes,Clothes,Orion,Jog Dmx 6 Iii Shoes,CA,Fuller Trading Co.
+48964,87526,silver,2021-05-11,2021-05-13,1,88.4,35.45,Clothes & Shoes,Clothes,Osprey,Osprey Cabri Micro Suit,US,Triple Sportswear Inc
+49302,14605,silver,2021-05-11,2021-05-13,1,118.2,50.85,Clothes & Shoes,Clothes,Street Wear,Tyfoon Rusty Down Jacket,AU,Typhoon Clothing
+49430,11463,silver,2021-05-11,2021-05-15,3,68.4,9.85,Children,Children Sports,"Bathing Suits, Kids",Sunfit Brosman Swimming Trunks,US,Nautlius SportsWear Inc
+50425,23158,gold,2021-05-11,2021-05-16,1,13.3,5.65,Sports,Assorted Sports Articles,Assorted Sports articles,Jugg's Toilet Bag,ES,Luna sastreria S.A.
+50541,79913,silver,2021-05-11,2021-05-13,1,44.4,19.25,Children,Children Sports,"Ypsilon, Kids",Ypsilon Children's Sweat Pants,FR,Ypsilon S.A.
+50799,9960,silver,2021-05-11,2021-05-16,1,65.4,32.65,Children,Children Sports,"Lucky Guy, Kids",Lucky Children's Rain Suit,US,AllSeasons Outdoor Clothing
+51586,12715,silver,2021-05-11,2021-05-14,1,122.1,61.15,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Court Motion,US,Eclipse Inc
+51670,41902,gold,2021-05-11,2021-05-15,1,12.2,5.35,Clothes & Shoes,Clothes,Stockings & Socks,Grizzly Hiking,FR,Bon Garrments
+53441,39799,silver,2021-05-11,2021-05-13,2,62.4,15.7,Sports,Golf,Golf,Hi-fly Ball Bag Black/Blue,NL,Van Dammeren International
+53989,71433,silver,2021-05-11,2021-05-17,1,148.6,67.65,Clothes & Shoes,Shoes,Tracker Shoes,Mns.fastpace Women's Running Shoes,US,3Top Sports
+54144,82723,gold,2021-05-11,2021-05-13,1,11.5,4.85,Clothes & Shoes,Clothes,Stockings & Socks,Forrest Backpacking Socks,FR,Bon Garrments

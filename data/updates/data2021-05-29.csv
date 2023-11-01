@@ -1,0 +1,32 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+147,85792,gold,2021-05-29,2021-05-31,1,53.0,26.6,Clothes & Shoes,Shoes,Tracker Shoes,Maya Trx Liga Football Boot,US,3Top Sports
+3318,6209,gold,2021-05-29,2021-06-04,1,95.5,43.55,Clothes & Shoes,Shoes,Shoes,Soft Cumulus Men's Running Shoes,US,Pro Sportswear Inc
+4527,42285,gold,2021-05-29,2021-05-30,1,34.5,15.4,Sports,Running - Jogging,Jogging,Sweatshirt Women's Sweatshirt with O-Neck,US,A Team Sports
+5503,43212,silver,2021-05-29,2021-06-04,2,93.8,20.2,Outdoors,Outdoors,Backpacks,Hammock Sports Bag,ES,Luna sastreria S.A.
+7594,6818,silver,2021-05-29,2021-05-30,1,61.4,26.65,Sports,Running - Jogging,Jogging,Ypsilon Pants Infiesto,FR,Ypsilon S.A.
+7595,24669,gold,2021-05-29,2021-05-30,3,184.2,26.65,Sports,Running - Jogging,Jogging,Ypsilon Pants Infiesto,FR,Ypsilon S.A.
+8653,51023,silver,2021-05-29,2021-06-01,1,79.0,32.8,Children,Children Sports,"Lucky Guy, Kids",Lh Brand Duvet Jacket,US,AllSeasons Outdoor Clothing
+11094,62611,silver,2021-05-29,2021-05-31,2,193.4,48.45,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Medium,Right,Forestgreen",DK,Top Sports
+13131,33465,silver,2021-05-29,2021-05-30,1,45.5,20.2,Sports,Running - Jogging,Jogging,"Men's Sweatshirt Round Neck, Big Logo",US,A Team Sports
+17271,61612,gold,2021-05-29,2021-05-31,1,20.2,9.55,Sports,Running - Jogging,Running Clothes,Stout Short Running Tights,BE,Force Sports
+24832,45386,silver,2021-05-29,2021-06-01,3,191.7,32.05,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Deception Dress,US,Eclipse Inc
+26802,77948,silver,2021-05-29,2021-06-03,3,309.0,42.4,Clothes & Shoes,Clothes,Knitwear,Lucky Knitwear Wool Sweater,US,AllSeasons Outdoor Clothing
+31787,80043,silver,2021-05-29,2021-05-30,1,64.3,33.7,Sports,Assorted Sports Articles,Assorted Sports articles,Prosoccer Away Children's Shirt,US,Fga Sports Inc
+33390,81051,gold,2021-05-29,2021-06-01,1,107.5,53.85,Clothes & Shoes,Shoes,Shoes,Soft Integral Men's Running Shoes,US,Pro Sportswear Inc
+36415,34349,silver,2021-05-29,2021-06-03,1,109.9,46.8,Sports,Assorted Sports Articles,Assorted Sports articles,Lyon Men's Jacket,ES,Luna sastreria S.A.
+36575,25347,silver,2021-05-29,2021-06-04,2,53.2,11.4,Sports,Team Sports,American Football,Football Super Bowl,US,Carolina Sports
+37784,89315,silver,2021-05-29,2021-05-30,1,50.2,25.2,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Tennis Classic Shoes,US,Eclipse Inc
+41978,60523,silver,2021-05-29,2021-05-30,3,125.4,21.0,Sports,Assorted Sports Articles,Assorted Sports articles,Keeper Shirt Goal Keeper with Dbu Logo,GB,SportsFan Products Ltd
+43451,20135,silver,2021-05-29,2021-06-08,1,106.5,51.55,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tailwind Shoes,US,Eclipse Inc
+43452,25352,silver,2021-05-29,2021-05-30,3,319.5,51.55,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tailwind Shoes,US,Eclipse Inc
+45160,30156,silver,2021-05-29,2021-05-30,1,34.7,15.45,Sports,Assorted Sports Articles,Assorted Sports articles,Sport Top,US,A Team Sports
+46415,38335,gold,2021-05-29,2021-05-30,3,136.5,20.4,Clothes & Shoes,Clothes,Tracker Clothes,Centercourt Men's Tennis Shorts,US,3Top Sports
+46651,78118,silver,2021-05-29,2021-05-31,1,56.3,28.25,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's 1/2 Zip Polar Fleece Top,US,Eclipse Inc
+48547,85949,gold,2021-05-29,2021-06-03,1,33.7,16.05,Sports,Indoor Sports,Fitness,Lift Weights 10 Kg Dumbbell,NL,TrimSport B.V.
+49874,42093,gold,2021-05-29,2021-05-30,1,44.5,21.2,Children,Children Sports,"N.D. Gear, Kids",Atx 7500 Ch Children's Shoes,CA,Fuller Trading Co.
+50238,9695,gold,2021-05-29,2021-05-30,1,11.5,3.75,Clothes & Shoes,Clothes,Tracker Clothes,Tracker Fitness Socks,US,3Top Sports
+50507,40595,silver,2021-05-29,2021-06-10,1,23.8,9.85,Clothes & Shoes,Clothes,Stockings & Socks,Hawkins Tk1 Men's Trekking Socks,US,Sockeye Sportswear Inc
+51622,30156,silver,2021-05-29,2021-05-30,3,155.7,26.05,Children,Children Sports,"Eclipse, Kid's Shoes",Tony's Rockskipper(Bh),US,Eclipse Inc
+52527,15367,gold,2021-05-29,2021-06-01,1,34.1,17.15,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Brand Tee,US,Eclipse Inc
+52809,79122,gold,2021-05-29,2021-05-30,5,237.5,23.85,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Strap Runner,US,Eclipse Inc
+54385,18545,silver,2021-05-29,2021-06-01,4,67.2,8.05,Sports,Assorted Sports Articles,Assorted Sports articles,Teen Team 99 Black,US,Twain Inc

@@ -1,0 +1,33 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+454,63458,silver,2021-06-04,2021-06-09,2,195.0,40.55,Outdoors,Outdoors,Outdoor Gear,Mayday Qd Zip Pants,US,Mayday Inc
+1442,25230,gold,2021-06-04,2021-06-07,4,412.8,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+1734,79291,gold,2021-06-04,2021-06-06,2,45.2,9.65,Clothes & Shoes,Shoes,Tracker Shoes,Multicolour Bathing Sandal,ES,Luna sastreria S.A.
+4733,86881,gold,2021-06-04,2021-06-09,2,28.8,6.45,Sports,Team Sports,Soccer,Soccer Mjf 2000 Size 4 Black/Yellow,US,Teamsports Inc
+6047,54183,silver,2021-06-04,2021-06-09,2,146.8,36.8,Outdoors,Outdoors,Sleepingbags,"Expedition 10,Small,Left,Blue Ribbon",DK,Top Sports
+6120,45951,silver,2021-06-04,2021-06-08,3,111.0,16.9,Clothes & Shoes,Clothes,Tracker Clothes,Anytime Pants,US,3Top Sports
+6326,37408,silver,2021-06-04,2021-06-09,2,1038.6,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+10041,26159,gold,2021-06-04,2021-06-06,2,16.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+12454,8147,silver,2021-06-04,2021-06-05,2,249.6,53.6,Outdoors,Outdoors,Anoraks & Parkas,Duwall Pants,US,AllSeasons Outdoor Clothing
+16809,91248,silver,2021-06-04,2021-06-08,4,12.8,1.35,Outdoors,Outdoors,Outdoor Gear,"Backpack Flag, 6,5x9 Cm.",GB,Prime Sports Ltd
+19283,15502,gold,2021-06-04,2021-06-09,3,1257.0,209.45,Sports,Assorted Sports Articles,Skates,Weston F4 Men's Hockey Skates,US,Roll-Over Inc
+21413,46615,silver,2021-06-04,2021-06-09,5,224.5,23.2,Sports,Team Sports,Soccer,Prosoccer Home Shorts,US,Fga Sports Inc
+23716,51599,gold,2021-06-04,2021-06-07,2,88.0,20.95,Sports,Running - Jogging,Running Clothes,Original Running Anorak,BE,Force Sports
+24265,62436,silver,2021-06-04,2021-06-10,2,649.6,158.05,Sports,Golf,Golf,Crew Fs Titanium Mw  Driver 10.5g,GB,GrandSlam Sporting Goods Ltd
+24764,10967,silver,2021-06-04,2021-06-07,2,126.0,28.7,Clothes & Shoes,Clothes,Leisure,Van Damme Women's Polo Pique L,NL,Van Dammeren International
+25934,87609,gold,2021-06-04,2021-06-08,2,11.4,2.3,Sports,Swim Sports,Bathing Suits,White Silicone Swim Cap,US,Nautlius SportsWear Inc
+32047,80719,gold,2021-06-04,2021-06-08,1,49.4,22.3,Sports,Racket Sports,Racket Sports,Prodo Comp,FR,Le Blanc S.A.
+32155,49981,silver,2021-06-04,2021-06-08,3,103.5,17.35,Clothes & Shoes,Shoes,Eclipse Shoes,Deschutz Slide,US,Eclipse Inc
+32967,70590,gold,2021-06-04,2021-06-06,2,222.6,53.0,Clothes & Shoes,Clothes,Orion Clothing,Windy Micro Jacket,CA,Fuller Trading Co.
+33202,9426,gold,2021-06-04,2021-06-08,2,114.6,25.45,Sports,Running - Jogging,Jogging,SweatPants Sweat Pants C-Logo,US,A Team Sports
+33914,84442,gold,2021-06-04,2021-06-07,3,56.4,8.55,Sports,Team Sports,Soccer,Fanatic Blue/Yellow/Blue,US,Teamsports Inc
+37095,88708,silver,2021-06-04,2021-06-06,1,51.7,25.95,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Cotton w/Leg Dri Fit,US,Eclipse Inc
+37593,56216,silver,2021-06-04,2021-06-05,2,288.2,72.0,Clothes & Shoes,Clothes,Eclipse Clothing,Watchit 300 Black/Grey,US,Eclipse Inc
+37617,70546,silver,2021-06-04,2021-06-07,1,37.8,16.2,Children,Children Sports,"N.D. Gear, Kids",Gordon Children's T-Shirt,ES,Luna sastreria S.A.
+39146,74300,gold,2021-06-04,2021-06-06,2,95.8,20.65,Sports,Assorted Sports Articles,Assorted Sports articles,Wyoming Men's T-Shirt with V-Neck,ES,Luna sastreria S.A.
+39760,49208,gold,2021-06-04,2021-06-06,2,226.0,51.45,Clothes & Shoes,Shoes,Shoes,Soft Gt 2040 Women's Running Shoes,US,Pro Sportswear Inc
+41129,46955,silver,2021-06-04,2021-06-08,1,98.2,42.05,Sports,Assorted Sports Articles,Assorted Sports articles,Club,AU,Health-Sports
+41382,1901,silver,2021-06-04,2021-06-09,3,67.8,7.85,Sports,Assorted Sports Articles,Assorted Sports articles,Regular Wrist Large,US,Roll-Over Inc
+44272,17376,gold,2021-06-04,2021-06-08,2,137.4,34.45,Outdoors,Outdoors,Backpacks,Medium Olive Olive/Black Backpack,DK,Top Sports
+48014,51556,silver,2021-06-04,2021-06-07,2,19.2,4.0,Sports,Assorted Sports Articles,Assorted Sports articles,Pool Socks,ES,Luna sastreria S.A.
+48850,71045,silver,2021-06-04,2021-06-10,2,46.0,9.55,Sports,Running - Jogging,Running Clothes,Force Coolmax Men's Shorts,BE,Force Sports
+49133,40320,silver,2021-06-04,2021-06-08,2,188.0,44.75,Clothes & Shoes,Clothes,Orion Clothing,Mick's Men's Cl.Stripe Tracksuite,CA,Fuller Trading Co.

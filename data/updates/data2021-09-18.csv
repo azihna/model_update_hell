@@ -1,0 +1,21 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+3143,73050,gold,2021-09-18,2021-09-19,1,70.8,29.8,Outdoors,Outdoors,Anoraks & Parkas,Biker Pants,US,AllSeasons Outdoor Clothing
+8377,41641,silver,2021-09-18,2021-09-22,2,32.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+14097,7001,silver,2021-09-18,2021-10-04,2,444.0,110.95,Sports,Assorted Sports Articles,Skates,Proskater Kitalpha Gamma Roller Skates,US,Roll-Over Inc
+14764,76324,silver,2021-09-18,2021-09-20,1,22.8,9.85,Children,Children Sports,"Bathing Suits, Kids",Sunfit Brosman Swimming Trunks Jr.,US,Nautlius SportsWear Inc
+14829,85949,silver,2021-09-18,2021-09-23,1,27.9,14.05,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Faille Athletic Shorts,US,Eclipse Inc
+21219,15718,gold,2021-09-18,2021-09-19,2,365.2,86.9,Sports,Assorted Sports Articles,Skates,Relation Roller Skates,PT,Magnifico Sports
+21520,54562,gold,2021-09-18,2021-09-24,1,169.5,67.8,Sports,Winter Sports,Winter Sports,Massif  Bandit L Ski Axial,FR,Massif S.A.
+34641,40465,silver,2021-09-18,2021-09-21,1,23.8,10.65,Clothes & Shoes,Clothes,Shorts,Shorts Women's Club Sport,US,A Team Sports
+35830,34560,gold,2021-09-18,2021-09-20,1,251.4,125.65,Sports,Assorted Sports Articles,Skates,Roller Skates Styll,PT,Magnifico Sports
+38038,90257,silver,2021-09-18,2021-09-23,1,42.5,21.35,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Tracking Pants,US,Eclipse Inc
+40636,32110,silver,2021-09-18,2021-09-22,1,46.5,20.45,Sports,Racket Sports,Tennis,Harry Penny M12 Polo,US,Nautlius SportsWear Inc
+40932,30167,silver,2021-09-18,2021-09-21,1,139.5,68.3,Outdoors,Outdoors,Sleepingbags,Compact Summer Twin 180 Cm Blue Sleeping Bag,GB,Outback Outfitters Ltd
+41334,56613,silver,2021-09-18,2021-09-20,2,181.0,49.15,Clothes & Shoes,Clothes,Orion,Trainer Women's Aerobic Shoes,CA,Fuller Trading Co.
+42937,89328,silver,2021-09-18,2021-09-21,1,18.5,8.25,Children,Children Sports,"N.D. Gear, Kids",Binot T-Shirt,ES,Luna sastreria S.A.
+47011,47103,silver,2021-09-18,2021-09-19,1,15.5,6.7,Sports,Indoor Sports,Fitness,Wrist Weight 1.10 Kg,NL,TrimSport B.V.
+48639,82368,gold,2021-09-18,2021-09-23,1,333.6,152.05,Sports,Indoor Sports,Top Trim,Men's Adventure Jacket,US,Top Sports Inc
+49819,89413,silver,2021-09-18,2021-09-24,1,86.5,34.65,Sports,Running - Jogging,Jogging,Triffy Top with Hood,NL,Triffy B.V.
+50969,1776,silver,2021-09-18,2021-09-23,1,496.3,71.35,Sports,Racket Sports,Badminton,Badminton String Roll 200 Mt,GB,British Sports Ltd
+51257,76913,silver,2021-09-18,2021-09-23,1,127.4,97.1,Sports,Assorted Sports Articles,Skates,Pro-roll Isis Wsd Roller Skates,PT,Magnifico Sports
+51876,78639,silver,2021-09-18,2021-09-19,2,26.2,5.9,Clothes & Shoes,Clothes,Tracker Clothes,Essential Trunk 2 Swimming Trunks,US,3Top Sports

@@ -1,0 +1,36 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1903,74976,silver,2021-08-19,2021-08-24,2,90.0,19.2,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 6-pack,GB,Royal Darts Ltd
+6055,22999,gold,2021-08-19,2021-08-22,3,220.2,36.8,Outdoors,Outdoors,Sleepingbags,"Expedition 10,Small,Left,Blue Ribbon",DK,Top Sports
+10057,10481,gold,2021-08-19,2021-08-21,3,24.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+10520,83505,gold,2021-08-19,2021-08-21,2,833.6,124.2,Sports,Racket Sports,Racket Sports,Smasher Tg 70 Tennis String Roll,GB,British Sports Ltd
+10840,46672,gold,2021-08-19,2021-08-25,3,107.1,17.95,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Dry Fit T-Shirt,US,Eclipse Inc
+14657,47526,silver,2021-08-19,2021-08-21,2,92.2,21.05,Sports,Running - Jogging,Jogging,Pants Palazzo,US,3Top Sports
+15433,13923,gold,2021-08-19,2021-08-24,2,180.0,40.9,Clothes & Shoes,Shoes,Shoes,Dubby Low Men's Street Shoes,SE,Petterson AB
+16288,7274,gold,2021-08-19,2021-08-23,1,34.2,13.75,Sports,Racket Sports,Tennis,"Smasher Polo-Shirt, Short Sleeved",GB,British Sports Ltd
+16845,40796,gold,2021-08-19,2021-08-21,1,71.8,29.5,Outdoors,Outdoors,Gloves & Mittens,Scania Goretex Gloves,SE,Svensson Trading AB
+17361,74279,gold,2021-08-19,2021-08-23,3,54.6,8.35,Sports,Assorted Sports Articles,Assorted Sports articles,Steady Sure-Grip,US,Roll-Over Inc
+20418,26298,silver,2021-08-19,2021-08-22,3,652.5,161.2,Sports,Assorted Sports Articles,Skates,Pro-roll Gretzky Roller Skates,PT,Magnifico Sports
+20419,81508,gold,2021-08-19,2021-08-23,3,652.5,161.2,Sports,Assorted Sports Articles,Skates,Pro-roll Gretzky Roller Skates,PT,Magnifico Sports
+20561,81813,silver,2021-08-19,2021-08-22,2,321.6,78.5,Sports,Golf,Golf,Rubby Women's Golf Shoes w/Goretex,ES,Rubby Zapatos S.A.
+25080,81963,gold,2021-08-19,2021-08-25,1,41.4,20.8,Children,Children Sports,"Eclipse, Kid's Shoes",Kid Equivalent (Bf),US,Eclipse Inc
+25905,80874,gold,2021-08-19,2021-08-24,2,25.2,5.65,Outdoors,Outdoors,Outdoor Gear,Compass Compass,US,KN Outdoor Trading Inc
+25991,54465,silver,2021-08-19,2021-08-20,2,128.2,30.2,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Turbulence,US,Eclipse Inc
+27399,9272,gold,2021-08-19,2021-08-21,2,265.6,55.85,Outdoors,Outdoors,Outdoor Gear,Mayday W'S Sports Pullover,US,Mayday Inc
+31840,31665,gold,2021-08-19,2021-08-23,3,51.0,8.1,Sports,Team Sports,Basket Ball,Basket Ball Super,US,HighPoint Trading
+33747,6146,silver,2021-08-19,2021-08-24,3,169.8,28.4,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Brand.Sweat w/Round Neck,US,Eclipse Inc
+35075,14626,silver,2021-08-19,2021-08-25,2,134.4,29.2,Sports,Running - Jogging,Jogging,Ypsilon Men's Sweat Fleece w/Small Logo,FR,Ypsilon S.A.
+36667,90541,silver,2021-08-19,2021-08-20,2,7.4,1.75,Sports,Golf,Golf,Tee Rubber Pyramid,NL,Van Dammeren International
+37718,77667,silver,2021-08-19,2021-08-24,2,126.6,31.75,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's L/Sleeve Dri-Fit Shirt,US,Eclipse Inc
+38104,38444,silver,2021-08-19,2021-08-25,3,171.9,28.75,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Victory Poplin Pants,US,Eclipse Inc
+38610,83865,gold,2021-08-19,2021-08-20,2,280.6,72.0,Sports,Golf,Golf,Bretagne Stabilites 2000 Goretex Shoes,NL,Van Dammeren International
+40332,74373,gold,2021-08-19,2021-08-20,2,119.6,28.55,Clothes & Shoes,Clothes,Orion,Men's Running Shoes Burn,CA,Fuller Trading Co.
+41246,85345,silver,2021-08-19,2021-08-20,1,32.2,19.4,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Airborne Top BBO,US,Eclipse Inc
+42554,39093,silver,2021-08-19,2021-08-25,2,140.4,36.7,Sports,Team Sports,Soccer,Prosoccer Home Shirt,US,Fga Sports Inc
+42662,90941,silver,2021-08-19,2021-08-20,3,28.2,4.0,Sports,Assorted Sports Articles,Assorted Sports articles,Oneshot 10 Junior,US,Teamsports Inc
+49007,58589,gold,2021-08-19,2021-08-25,2,50.8,10.45,Sports,Swim Sports,Bathing Suits,"Mary Stripe Shirt, Sleeveless",ES,Luna sastreria S.A.
+49218,6970,silver,2021-08-19,2021-08-21,2,323.8,75.9,Sports,Golf,Golf,Rubby Women's Golf Shoes w/Gore-Tex,ES,Rubby Zapatos S.A.
+49303,82580,silver,2021-08-19,2021-08-25,2,238.6,51.35,Clothes & Shoes,Clothes,Street Wear,Tyfoon Rusty Down Jacket,AU,Typhoon Clothing
+50901,33143,silver,2021-08-19,2021-08-21,1,39.6,18.05,Sports,Indoor Sports,Gymnastic Clothing,Cougar Top with Narrow Strabs,US,SD Sporting Goods Inc
+51411,50669,gold,2021-08-19,2021-08-28,2,19.0,4.7,Sports,Golf,Golf,Hi-fly Xl2000 Super Titanium,NL,Van Dammeren International
+51793,47772,gold,2021-08-19,2021-08-28,3,68.1,11.45,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Micro Fibre Shorts,US,Eclipse Inc
+52570,20633,silver,2021-08-19,2021-08-22,1,126.3,63.25,Clothes & Shoes,Clothes,LSF,Woman's Air Classic,US,Eclipse Inc

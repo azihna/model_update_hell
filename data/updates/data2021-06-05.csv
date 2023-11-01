@@ -1,0 +1,34 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+237,48014,silver,2021-06-05,2021-06-09,2,159.6,25.55,Sports,Running - Jogging,Jogging,Triffy Polyester Pants,NL,Triffy B.V.
+2011,34381,silver,2021-06-05,2021-06-09,4,346.4,34.1,Outdoors,Outdoors,Outdoor Gear,"Men's Pants, Basic",US,Mayday Inc
+4021,42293,gold,2021-06-05,2021-06-09,2,29.98,13.75,Sports,Team Sports,American Football,Armour XL,US,A Team Sports
+5210,13262,gold,2021-06-05,2021-06-06,3,362.1,66.5,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tuned Max Shoes,US,Eclipse Inc
+5432,90798,gold,2021-06-05,2021-06-10,2,280.6,56.25,Clothes & Shoes,Clothes,Street Wear,Anthony Bork Josefine Anorak,US,Mayday Inc
+5675,41092,gold,2021-06-05,2021-06-10,2,259.6,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+11801,39250,silver,2021-06-05,2021-06-08,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+13030,55920,gold,2021-06-05,2021-06-09,4,504.4,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+16474,90799,silver,2021-06-05,2021-06-11,2,209.4,47.65,Clothes & Shoes,Shoes,Tracker Shoes,Damaskus Women's Running Shoes,US,3Top Sports
+18892,41874,silver,2021-06-05,2021-06-13,1,35.2,14.8,Sports,Assorted Sports Articles,Darts,Aim4it 80% Tungsten 22 Gram,GB,Royal Darts Ltd
+19824,79163,silver,2021-06-05,2021-06-11,2,143.98,49.6,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Span Triax Shoes,US,Eclipse Inc
+21869,10096,gold,2021-06-05,2021-06-06,2,440.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+23307,58651,gold,2021-06-05,2021-06-08,4,137.2,15.95,Outdoors,Outdoors,Anoraks & Parkas,Brisbane Men's Shorts,NO,Scandinavian Clothing A/S
+24925,59983,silver,2021-06-05,2021-06-10,2,156.4,39.2,Outdoors,Outdoors,Sleepingbags,"Expedition Zero,Medium,Left,Charcoal",DK,Top Sports
+30843,81331,silver,2021-06-05,2021-06-08,1,102.4,51.15,Sports,Assorted Sports Articles,Skates,Children's Roller Skates,PT,Magnifico Sports
+31888,73825,gold,2021-06-05,2021-06-08,2,229.4,57.45,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Sway,US,Eclipse Inc
+34613,73403,silver,2021-06-05,2021-06-09,2,187.8,47.05,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Shatter Mid LI,US,Eclipse Inc
+36928,63826,gold,2021-06-05,2021-06-06,1,98.7,46.9,Sports,Assorted Sports Articles,Skates,Pro-roll Dragster Junior Roller Skates,PT,Magnifico Sports
+38065,85108,silver,2021-06-05,2021-06-08,2,195.2,48.9,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Micro Fiber Full Zip Jacket,US,Eclipse Inc
+39645,59782,silver,2021-06-05,2021-06-08,2,47.0,9.45,Sports,Assorted Sports Articles,Assorted Sports articles,Brown Metallic,CA,CrystalClear Optics Inc
+39860,74989,silver,2021-06-05,2021-06-10,1,30.5,15.35,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Mini Top,US,Eclipse Inc
+40135,57471,gold,2021-06-05,2021-06-09,3,151.8,25.25,Sports,Running - Jogging,Jogging,Pants Fun,GB,Greenline Sports Ltd
+42689,1242,gold,2021-06-05,2021-06-08,2,51.6,11.05,Sports,Assorted Sports Articles,Assorted Sports articles,Eliza Short Tights,ES,Luna sastreria S.A.
+44273,49485,silver,2021-06-05,2021-06-10,2,137.4,34.45,Outdoors,Outdoors,Backpacks,Medium Olive Olive/Black Backpack,DK,Top Sports
+46382,6183,gold,2021-06-05,2021-06-09,2,46.2,9.55,Children,Children Sports,"N.D. Gear, Kids",Yates Swim Tights London,ES,Luna sastreria S.A.
+46786,75748,gold,2021-06-05,2021-06-08,2,285.8,64.85,Clothes & Shoes,Shoes,Shoes,Twain Women's Expresso X-Hiking Shoes,US,Twain Inc
+47821,91436,silver,2021-06-05,2021-06-07,1,44.8,20.0,Children,Children Sports,"Eclipse, Kid's Clothes",Sweatshirt Children's Sweatshirt w/Hood L,US,3Top Sports
+50491,52867,silver,2021-06-05,2021-06-10,2,283.4,61.0,Outdoors,Outdoors,Anoraks & Parkas,Topper Pants,US,AllSeasons Outdoor Clothing
+51270,16527,silver,2021-06-05,2021-06-10,1,11.3,4.95,Clothes & Shoes,Clothes,Stockings & Socks,Double Layer Ankle Socks,FR,Bon Garrments
+52631,59511,silver,2021-06-05,2021-06-07,5,333.0,30.3,Clothes & Shoes,Clothes,Tracker Clothes,Rock-solid Jacket,US,3Top Sports
+52945,36524,gold,2021-06-05,2021-06-11,2,4.8,1.0,Sports,Swim Sports,Bathing Suits,Black Classic Latex Swim Cap,US,Nautlius SportsWear Inc
+53397,12203,silver,2021-06-05,2021-06-09,4,233.6,29.3,Sports,Golf,Golf,Precision Jack 308 Balata,GB,GrandSlam Sporting Goods Ltd
+53995,50366,gold,2021-06-05,2021-06-09,1,21.0,9.65,Sports,Winter Sports,Winter Sports,Original Eco Singl.07 Green,US,Twain Inc

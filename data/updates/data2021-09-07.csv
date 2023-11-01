@@ -1,0 +1,21 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+110,89199,silver,2021-09-07,2021-09-11,1,37.2,18.45,Clothes & Shoes,Shoes,Shoes,Soft Gel Court Men's Indoor Shoes,US,Pro Sportswear Inc
+3080,61342,silver,2021-09-07,2021-09-12,2,183.2,45.75,Sports,Assorted Sports Articles,Skates,Bladeline S-Fitness In-Line Skates,US,Roll-Over Inc
+5041,16154,silver,2021-09-07,2021-09-08,2,115.8,29.05,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Sweatshirt w/Hood,US,Eclipse Inc
+5306,89701,silver,2021-09-07,2021-09-10,1,131.8,62.7,Sports,Assorted Sports Articles,Skates,Pro-roll Nitro Roller Skates,PT,Magnifico Sports
+5685,62548,silver,2021-09-07,2021-09-10,1,129.8,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+9645,4332,gold,2021-09-07,2021-09-09,1,406.8,172.95,Sports,Winter Sports,Ski Dress,Hot Duck Men's Krypton Ski Jacket,DK,Norsok A/S
+12205,59401,gold,2021-09-07,2021-09-12,1,97.8,42.45,Sports,Winter Sports,Winter Sports,Cayenne Red,CA,CrystalClear Optics Inc
+16415,53969,gold,2021-09-07,2021-09-11,2,69.8,16.75,Sports,Running - Jogging,Running Clothes,Maxrun Running T-Shirt,BE,Force Sports
+27424,72456,silver,2021-09-07,2021-09-12,3,210.0,29.6,Sports,Indoor Sports,Top Trim,Top Men's Micro Fleece w/Small Zipper,US,Top Sports Inc
+30472,84094,gold,2021-09-07,2021-09-09,2,345.0,78.5,Clothes & Shoes,Shoes,Tracker Shoes,Mns.raptor Precision Sg Football,US,3Top Sports
+32137,90314,gold,2021-09-07,2021-09-09,2,55.8,12.1,Sports,Team Sports,Soccer,Bruce Lance,US,Teamsports Inc
+32277,22373,gold,2021-09-07,2021-09-10,2,186.4,40.7,Outdoors,Outdoors,Outdoor Gear,Polyester 3-Persons,GB,Prime Sports Ltd
+36196,23694,gold,2021-09-07,2021-09-12,1,104.1,47.4,Clothes & Shoes,Clothes,Tracker Clothes,2-Layer Cotton,US,3Top Sports
+37358,35640,silver,2021-09-07,2021-09-11,1,316.6,126.7,Sports,Winter Sports,Ski Dress,Mayday Soul Pro New Tech Ski Jacket,US,Mayday Inc
+37660,60299,silver,2021-09-07,2021-09-08,2,277.4,62.5,Outdoors,Outdoors,Outdoor Gear,Ultra Ht Lightning Set,US,AllSeasons Outdoor Clothing
+39427,22975,silver,2021-09-07,2021-09-18,1,134.6,67.25,Clothes & Shoes,Clothes,Eclipse Clothing,Watchit 250 Silver/Black/Yellow,US,Eclipse Inc
+44763,33572,gold,2021-09-07,2021-09-11,1,39.8,20.85,Sports,Assorted Sports Articles,Assorted Sports articles,Fga Home Children's Shorts,US,Fga Sports Inc
+46788,44805,silver,2021-09-07,2021-09-10,1,142.9,64.85,Clothes & Shoes,Shoes,Shoes,Twain Women's Expresso X-Hiking Shoes,US,Twain Inc
+47329,13894,silver,2021-09-07,2021-09-21,1,2.5,0.7,Sports,Indoor Sports,Fitness,Elastic,US,SD Sporting Goods Inc
+49756,36535,gold,2021-09-07,2021-09-08,1,49.5,24.85,Clothes & Shoes,Clothes,Eclipse Clothing,"Trois Fit Tights, Essentials Performance",US,Eclipse Inc

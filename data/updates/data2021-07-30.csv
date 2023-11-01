@@ -1,0 +1,38 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1608,63819,silver,2021-07-30,2021-07-31,4,292.0,30.35,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Classic Rain Pants,US,AllSeasons Outdoor Clothing
+5212,80489,gold,2021-07-30,2021-07-31,2,241.4,66.5,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tuned Max Shoes,US,Eclipse Inc
+7384,91523,gold,2021-07-30,2021-08-02,4,255.2,31.85,Sports,Assorted Sports Articles,Skates,Proskater W-10 Jr. Fitness Roller Skates,US,Roll-Over Inc
+11137,23434,silver,2021-07-30,2021-07-31,2,418.6,104.6,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Goflex-E Perf.Skates,US,Eclipse Inc
+11876,82988,silver,2021-07-30,2021-08-01,1,29.1,12.3,Sports,Assorted Sports Articles,Darts,Aim4it 80% Tungsten 24 Gram,GB,Royal Darts Ltd
+13835,3860,gold,2021-07-30,2021-08-07,1,19.6,8.7,Sports,Team Sports,Soccer,Big-Jim 22 Goalkeeper Gloves,US,Teamsports Inc
+14999,9936,gold,2021-07-30,2021-08-04,1,12.4,5.6,Sports,Team Sports,Soccer,Red Cap,GB,SportsFan Products Ltd
+15972,86272,platinum,2021-07-30,2021-08-01,2,79.2,19.9,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's S/Sleve Top,US,Eclipse Inc
+16286,1199,gold,2021-07-30,2021-08-03,2,68.4,13.75,Sports,Racket Sports,Tennis,"Smasher Polo-Shirt, Short Sleeved",GB,British Sports Ltd
+16557,90185,gold,2021-07-30,2021-08-02,4,725.2,72.6,Sports,Golf,Golf Clothes,Wind Proof Windstopper Merino/Acryl,US,HighPoint Trading
+17877,71429,gold,2021-07-30,2021-08-03,2,159.8,34.3,Sports,Assorted Sports Articles,Assorted Sports articles,Stream Sweatshirt with Tube,ES,Luna sastreria S.A.
+19509,13421,silver,2021-07-30,2021-07-31,1,93.4,38.95,Sports,Racket Sports,Racket Sports,Aftm 95 Vf Long Bg-65 White,GB,British Sports Ltd
+19510,47832,silver,2021-07-30,2021-08-01,2,186.8,38.95,Sports,Racket Sports,Racket Sports,Aftm 95 Vf Long Bg-65 White,GB,British Sports Ltd
+21109,39322,silver,2021-07-30,2021-08-04,2,121.0,30.35,Outdoors,Outdoors,Outdoor Gear,Sailing Jacket Dock,US,AllSeasons Outdoor Clothing
+22692,46068,gold,2021-07-30,2021-08-01,1,175.7,75.95,Sports,Racket Sports,Racket Sports,Sledgehammer 120 Ph Black,GB,GrandSlam Sporting Goods Ltd
+24174,88422,gold,2021-07-30,2021-08-01,2,37.2,7.5,Sports,Swim Sports,Bathing Suits,Swimming Trunks Basic,US,Dolphin Sportswear Inc
+26655,33132,silver,2021-07-30,2021-08-02,1,78.5,35.7,Sports,Winter Sports,Winter Sports,"Regulator,Stopsign",CA,CrystalClear Optics Inc
+30749,29999,silver,2021-07-30,2021-08-04,2,11.8,2.75,Sports,Running - Jogging,Running Clothes,Reflection Band,BE,Force Sports
+31455,59835,silver,2021-07-30,2021-07-31,2,242.8,55.2,Clothes & Shoes,Shoes,Tracker Shoes,Maze Mundial Football Boot,US,3Top Sports
+37953,76457,silver,2021-07-30,2021-08-03,2,50.0,11.2,Sports,Golf,Golf,"Men's.s Men's Winter Gloves, Small",NL,Van Dammeren International
+38729,30209,silver,2021-07-30,2021-08-02,2,352.8,86.05,Sports,Assorted Sports Articles,Skates,N.d.gear  Roller Skates Ff60 76 millimetre/78,PT,Magnifico Sports
+40202,6759,gold,2021-07-30,2021-08-13,2,267.0,60.85,Clothes & Shoes,Clothes,Tracker Clothes,Otter Snowboard Jacket,US,3Top Sports
+41107,4062,gold,2021-07-30,2021-08-09,1,41.3,15.9,Sports,Racket Sports,Racket Sports,Top Force 25 Junior,FR,Le Blanc S.A.
+42551,38415,silver,2021-07-30,2021-07-31,1,70.2,36.7,Sports,Team Sports,Soccer,Prosoccer Home Shirt,US,Fga Sports Inc
+43085,77667,gold,2021-07-30,2021-08-04,3,77.97,17.8,Clothes & Shoes,Clothes,Tracker Clothes,Progression Short Tights,US,3Top Sports
+43943,80400,gold,2021-07-30,2021-08-04,2,169.6,33.9,Clothes & Shoes,Clothes,Knitwear,Dp Rounder O-Neck Knit,US,Mayday Inc
+45713,77852,silver,2021-07-30,2021-08-04,1,41.4,19.55,Clothes & Shoes,Clothes,Orion Clothing,Original Jersey Pique Pl.Polo,CA,Fuller Trading Co.
+46147,83072,silver,2021-07-30,2021-07-31,1,1595.5,791.8,Sports,Indoor Sports,Fitness,Top-form 325 Treadmill,NL,TrimSport B.V.
+48015,22729,gold,2021-07-30,2021-08-01,3,28.8,4.0,Sports,Assorted Sports Articles,Assorted Sports articles,Pool Socks,ES,Luna sastreria S.A.
+51186,5819,silver,2021-07-30,2021-08-02,1,13.8,6.3,Sports,Racket Sports,Racket Sports,"Memhis 350,Yellow Medium, 6-pack tube",GB,British Sports Ltd
+51647,34690,silver,2021-07-30,2021-08-02,2,27.4,5.5,Clothes & Shoes,Clothes,Stockings & Socks,Rag Socks,DK,Norsok A/S
+53018,17407,gold,2021-07-30,2021-08-04,2,86.8,18.85,Clothes & Shoes,Clothes,Tracker Clothes,Swimming Trunks Siwa,ES,Luna sastreria S.A.
+53066,52979,silver,2021-07-30,2021-08-04,2,166.6,36.85,Clothes & Shoes,Clothes,Osprey,Osprey Pinto Top Gc I Football Boots,US,Triple Sportswear Inc
+53676,35071,silver,2021-07-30,2021-08-03,2,38.6,8.1,Clothes & Shoes,Clothes,Stockings & Socks,Hawkins Tk3 Women's Trekking Socks,US,Sockeye Sportswear Inc
+53704,73783,gold,2021-07-30,2021-08-02,2,23.4,5.9,Children,Children Sports,"Eclipse, Kid's Clothes",Kids Children's T-Shirt,US,Eclipse Inc
+53923,90529,gold,2021-07-30,2021-08-04,2,125.6,29.9,Clothes & Shoes,Clothes,Orion,Original Nylon Men,CA,Fuller Trading Co.
+54191,61991,silver,2021-07-30,2021-08-02,2,24.4,4.45,Sports,Golf,Golf,Bb Softspikes - Xp 22-pack,GB,TeeTime Ltd

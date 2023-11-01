@@ -1,0 +1,45 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+456,54750,silver,2021-06-28,2021-07-01,1,97.5,40.55,Outdoors,Outdoors,Outdoor Gear,Mayday Qd Zip Pants,US,Mayday Inc
+1873,30950,gold,2021-06-28,2021-06-30,4,193.2,20.5,Outdoors,Outdoors,Anoraks & Parkas,Tasmania Men's Shirt,NO,Scandinavian Clothing A/S
+2476,41474,gold,2021-06-28,2021-06-30,1,170.5,68.2,Sports,Winter Sports,Winter Sports,"Twain X-Scream 7.9 Ski,Sq 750 Dri",US,Twain Inc
+4826,59628,gold,2021-06-28,2021-06-29,2,47.0,10.2,Sports,Team Sports,Soccer,Soccer Ball-autogr Rafer Size 5  Red/,US,Teamsports Inc
+5433,62495,silver,2021-06-28,2021-06-29,2,280.6,56.25,Clothes & Shoes,Clothes,Street Wear,Anthony Bork Josefine Anorak,US,Mayday Inc
+6328,81000,silver,2021-06-28,2021-06-29,4,2077.2,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+6386,79024,silver,2021-06-28,2021-07-01,3,53.97,11.4,Sports,Running - Jogging,Running Clothes,Men's Singlet,BE,Force Sports
+7172,70131,gold,2021-06-28,2021-07-01,2,160.0,39.45,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's International Triax Shoes,US,Eclipse Inc
+7206,3905,gold,2021-06-28,2021-07-10,1,41.1,16.5,Sports,Indoor Sports,Gymnastic Clothing,Hot 7/8 Micro Pants,ES,Sportico
+8947,63039,gold,2021-06-28,2021-07-02,3,166.2,29.35,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air One Eighty  Shoes,US,Eclipse Inc
+9747,82752,gold,2021-06-28,2021-07-02,2,216.4,47.0,Clothes & Shoes,Shoes,Shoes,Twain Men's Exit Ii Low X-Hiking Shoes,US,Twain Inc
+14164,8534,silver,2021-06-28,2021-06-29,1,21.99,7.25,Sports,Team Sports,Basket Ball,Basket Ball Pro,US,HighPoint Trading
+14434,34349,silver,2021-06-28,2021-07-03,3,141.6,22.45,Sports,Running - Jogging,Running Clothes,Short Biking Spinning Pants,BE,Force Sports
+15295,38742,gold,2021-06-28,2021-07-03,1,197.4,82.25,Sports,Racket Sports,Racket Sports,Smasher Rd Power 7 Long Tennis Racket,GB,British Sports Ltd
+15598,70668,silver,2021-06-28,2021-07-09,2,45.4,10.85,Sports,Running - Jogging,Running Clothes,Original Running Pants,BE,Force Sports
+16285,18067,gold,2021-06-28,2021-07-03,2,68.4,13.75,Sports,Racket Sports,Tennis,"Smasher Polo-Shirt, Short Sleeved",GB,British Sports Ltd
+18231,49013,gold,2021-06-28,2021-06-30,1,34.6,14.4,Sports,Assorted Sports Articles,Darts,Bulls Eye Stuart/Tungsten 24 Gram,GB,Royal Darts Ltd
+19716,1577,gold,2021-06-28,2021-07-04,2,276.8,62.85,Sports,Assorted Sports Articles,Assorted Sports articles,M.Heart Trainer Software,AU,Health-Sports
+19780,34852,gold,2021-06-28,2021-07-01,2,57.2,13.15,Clothes & Shoes,Shoes,Tracker Shoes,Tracker Lite Basic Sandals,US,3Top Sports
+20267,15987,gold,2021-06-28,2021-06-29,3,66.9,7.75,Clothes & Shoes,Clothes,Tracker Clothes,Comp. Women's Woven Pant,US,3Top Sports
+20413,79007,gold,2021-06-28,2021-06-29,1,217.5,161.2,Sports,Assorted Sports Articles,Skates,Pro-roll Gretzky Roller Skates,PT,Magnifico Sports
+21652,85163,gold,2021-06-28,2021-07-05,5,1326.0,126.25,Clothes & Shoes,Clothes,Massif,Massif Salto Gtx Men's Ski Boots,FR,Massif S.A.
+21872,61820,gold,2021-06-28,2021-06-30,2,440.0,135.0,Outdoors,Outdoors,Tents,Comfort Shelter,GB,Outback Outfitters Ltd
+24767,44549,silver,2021-06-28,2021-07-01,3,189.0,28.7,Clothes & Shoes,Clothes,Leisure,Van Damme Women's Polo Pique L,NL,Van Dammeren International
+24768,49322,gold,2021-06-28,2021-07-02,2,126.0,28.7,Clothes & Shoes,Clothes,Leisure,Van Damme Women's Polo Pique L,NL,Van Dammeren International
+26968,3103,gold,2021-06-28,2021-07-02,1,27.5,11.75,Children,Children Sports,"N.D. Gear, Kids",O'my Athen Swimming Trunks,ES,Luna sastreria S.A.
+29001,7994,gold,2021-06-28,2021-07-02,3,51.3,7.5,Children,Children Sports,Tracker Kid's Clothes,With Hood,US,3Top Sports
+29535,86427,gold,2021-06-28,2021-07-02,3,177.9,26.6,Children,Children Sports,"Osprey, Kids",Osprey Curb Line Jr.(2000) Jacket,US,Triple Sportswear Inc
+30213,13418,gold,2021-06-28,2021-07-02,4,796.4,95.65,Outdoors,Outdoors,Backpacks,Commanche Women's 6000 Q Backpack. Bark,DK,Top Sports
+34109,1588,gold,2021-06-28,2021-07-03,2,68.8,15.75,Clothes & Shoes,Clothes,Tracker Clothes,Casual.st.t-shirt Sports T-shirt,US,3Top Sports
+35200,6776,gold,2021-06-28,2021-06-29,2,35.2,7.75,Outdoors,Outdoors,Sleepingbags,"Sheet Sleeping Bag, Red",GB,Outback Outfitters Ltd
+35505,92956,gold,2021-06-28,2021-07-08,2,211.0,52.85,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Stormy,US,Eclipse Inc
+35593,38160,silver,2021-06-28,2021-07-01,2,48.8,11.05,Children,Children Sports,Tracker Kid's Clothes,Stars Pes Children's Shorts,US,3Top Sports
+37749,20720,gold,2021-06-28,2021-07-03,2,274.2,62.4,Outdoors,Outdoors,Backpacks,Trekker 65 Royal Men's Backpack,AU,Toto Outdoor Gear
+38030,36665,gold,2021-06-28,2021-06-29,1,15.0,5.05,Clothes & Shoes,Clothes,Stockings & Socks,Carving Ski Socks,DK,Norsok A/S
+41311,18868,gold,2021-06-28,2021-06-30,2,57.8,14.55,Clothes & Shoes,Clothes,Eclipse Clothing,"Trois Fit Stretch Short, Essentials",US,Eclipse Inc
+42219,25265,gold,2021-06-28,2021-06-29,2,21.2,4.65,Children,Children Sports,"Olssons, Kids",Short Children's Tights,ES,Sportico
+47249,28833,silver,2021-06-28,2021-06-30,1,12.1,5.95,Clothes & Shoes,Clothes,Knitwear,"Instyle Unisex Blouse w/O-Neck, Long-sleeved",US,AllSeasons Outdoor Clothing
+48304,206,silver,2021-06-28,2021-07-03,2,195.6,39.1,Sports,Running - Jogging,Jogging,Triffy Top with Zipper and Hood,NL,Triffy B.V.
+48548,91720,silver,2021-06-28,2021-07-03,1,33.7,16.05,Sports,Indoor Sports,Fitness,Lift Weights 10 Kg Dumbbell,NL,TrimSport B.V.
+50687,6506,silver,2021-06-28,2021-07-03,1,24.3,10.9,Clothes & Shoes,Clothes,T-Shirts,Toncot Beefy 2-Pack T-Shirts,US,A Team Sports
+51120,51818,silver,2021-06-28,2021-07-01,3,138.9,23.25,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Polo-Shirt Golf,US,Eclipse Inc
+52080,78554,silver,2021-06-28,2021-07-02,3,65.4,9.25,Children,Children Sports,"N.D. Gear, Kids",O'my Children's T-Shirt with Logo,ES,Luna sastreria S.A.
+52924,93486,gold,2021-06-28,2021-06-29,3,463.8,73.65,Clothes & Shoes,Clothes,Orion,Jog Dmx 6 Iii,CA,Fuller Trading Co.

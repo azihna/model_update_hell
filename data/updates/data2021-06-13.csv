@@ -1,0 +1,48 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+109,82179,gold,2021-06-13,2021-06-27,2,74.4,18.45,Clothes & Shoes,Shoes,Shoes,Soft Gel Court Men's Indoor Shoes,US,Pro Sportswear Inc
+126,83456,silver,2021-06-13,2021-06-18,4,98.8,11.8,Sports,Golf,Golf,Ball Bag,NL,Van Dammeren International
+1223,2616,gold,2021-06-13,2021-06-16,4,142.0,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+1445,23385,gold,2021-06-13,2021-06-15,2,206.4,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+1446,31231,gold,2021-06-13,2021-06-19,4,412.8,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+1602,76865,gold,2021-06-13,2021-06-18,2,146.0,30.35,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Classic Rain Pants,US,AllSeasons Outdoor Clothing
+2511,23182,gold,2021-06-13,2021-06-14,2,143.4,28.65,Clothes & Shoes,Clothes,Green Tomato,Green Lime Board Pants Ii,US,Green Lime Sports Inc
+2647,33847,silver,2021-06-13,2021-06-14,1,178.875,71.55,Sports,Winter Sports,Winter Sports,Massif Bandit Ski Parcel Axial,FR,Massif S.A.
+5877,45242,silver,2021-06-13,2021-06-16,2,226.4,54.0,Sports,Assorted Sports Articles,Skates,Pro-roll Lazer Roller Skates,PT,Magnifico Sports
+6742,20773,silver,2021-06-13,2021-06-16,1,35.9,15.85,Sports,Winter Sports,Winter Sports,"Cup,Stopsign",CA,CrystalClear Optics Inc
+7786,30651,silver,2021-06-13,2021-06-14,4,739.6,78.15,Outdoors,Outdoors,Anoraks & Parkas,Lucky Voss Jacket,US,AllSeasons Outdoor Clothing
+8448,10120,silver,2021-06-13,2021-06-18,2,684.4,169.05,Sports,Assorted Sports Articles,Skates,Perfect Fit Women's Roller Skates XP,US,Twain Inc
+9608,42938,gold,2021-06-13,2021-06-15,2,289.8,72.55,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Tuned Sovereign,US,Eclipse Inc
+11804,32335,silver,2021-06-13,2021-06-19,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+12379,59975,silver,2021-06-13,2021-06-25,1,187.2,85.15,Sports,Winter Sports,Winter Sports,"C.A.M.,Bone",CA,CrystalClear Optics Inc
+13031,27191,silver,2021-06-13,2021-06-15,4,504.4,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+13492,47347,platinum,2021-06-13,2021-06-16,2,80.0,20.1,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Gts Lite Canvas,US,Eclipse Inc
+13985,78047,silver,2021-06-13,2021-06-15,1,55.4,22.8,Sports,Assorted Sports Articles,Darts,Pacific 95% 23 Gram,GB,Royal Darts Ltd
+14396,60800,gold,2021-06-13,2021-06-17,2,25.4,6.1,Outdoors,Outdoors,Outdoor Gear,Outback Spirits Kitchen,GB,Prime Sports Ltd
+15732,71787,silver,2021-06-13,2021-06-15,2,1136.2,289.95,Outdoors,Outdoors,Tents,Family Holiday 6,SE,Petterson AB
+18370,54926,gold,2021-06-13,2021-06-16,2,272.0,51.3,Outdoors,Outdoors,Outdoor Gear,"Tent Milano Tent,4 Persons, about 4.8",GB,Prime Sports Ltd
+19041,28213,silver,2021-06-13,2021-06-17,3,385.5,63.75,Sports,Assorted Sports Articles,Assorted Sports articles,Aero-watch Watch,GB,EA Sports Limited
+19697,10940,silver,2021-06-13,2021-06-15,2,140.2,35.15,Outdoors,Outdoors,Backpacks,Medium Gold/Black Backpack,DK,Top Sports
+20426,45293,silver,2021-06-13,2021-06-14,2,24.0,6.5,Clothes & Shoes,Clothes,Eclipse Clothing,Feel Gloves,US,Eclipse Inc
+22689,57934,silver,2021-06-13,2021-06-16,2,351.4,75.95,Sports,Racket Sports,Racket Sports,Sledgehammer 120 Ph Black,GB,GrandSlam Sporting Goods Ltd
+26093,16711,silver,2021-06-13,2021-06-17,2,94.8,22.6,Sports,Running - Jogging,Running Clothes,Bike.Tights Biking Tights without braces,BE,Force Sports
+26218,87157,gold,2021-06-13,2021-06-16,2,122.8,30.8,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Flyer Plus,US,Eclipse Inc
+30654,43346,silver,2021-06-13,2021-06-19,2,264.2,60.05,Clothes & Shoes,Shoes,Shoes,Twain Men's Expresso X-Hiking Shoes,US,Twain Inc
+31211,19670,silver,2021-06-13,2021-06-17,3,144.0,21.3,Sports,Running - Jogging,Jogging,"Woman Sweat with small Zipper, Big Logo",US,A Team Sports
+32599,3375,silver,2021-06-13,2021-06-19,2,138.4,29.8,Sports,Assorted Sports Articles,Assorted Sports articles,Wyoming Men's Pants,ES,Luna sastreria S.A.
+32978,52725,silver,2021-06-13,2021-06-18,2,705.6,174.4,Sports,Assorted Sports Articles,Skates,Twain Ac9 Men's Roller Skates,US,Twain Inc
+33586,14920,gold,2021-06-13,2021-06-15,1,494.5,224.85,Sports,Winter Sports,Ski Dress,Cliff Guide Jacket,US,Miller Trading Inc
+34373,26433,gold,2021-06-13,2021-06-18,2,273.2,62.25,Clothes & Shoes,Shoes,Tracker Shoes,Mns.xzs Women's Aerobic Shoes,US,3Top Sports
+37936,64824,gold,2021-06-13,2021-06-18,2,46.4,9.2,Sports,Team Sports,Baseball,Helmet Catcher M,US,Miller Trading Inc
+38251,70903,silver,2021-06-13,2021-06-18,1,61.9,25.45,Sports,Assorted Sports Articles,Darts,Pacific 95% 21 Gram,GB,Royal Darts Ltd
+38464,77529,silver,2021-06-13,2021-06-14,3,519.6,127.0,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Gretzky,PT,Magnifico Sports
+42272,81465,silver,2021-06-13,2021-06-15,2,108.6,22.6,Sports,Racket Sports,Tennis,Anthony Women's Tennis Cable Vest,US,Mayday Inc
+44633,73372,silver,2021-06-13,2021-06-16,2,165.8,33.1,Clothes & Shoes,Clothes,Green Tomato,Green Lime Fleece Jacket,US,Green Lime Sports Inc
+45315,76458,silver,2021-06-13,2021-06-17,2,199.2,45.35,Clothes & Shoes,Shoes,Tracker Shoes,South Peak Women's Light Indoor Shoes,US,3Top Sports
+45720,57607,silver,2021-06-13,2021-06-14,2,89.2,18.65,Sports,Running - Jogging,Running Clothes,Alfredo Long-sleeved Women's P.D.T-Shirt,BE,Force Sports
+45764,44482,silver,2021-06-13,2021-06-17,2,65.0,14.9,Children,Children Sports,"Osprey, Kids",Osprey Seperates Sweat Big Logo,US,Triple Sportswear Inc
+45844,1263,gold,2021-06-13,2021-06-17,3,190.2,30.5,Clothes & Shoes,Shoes,Eclipse Shoes,Atmosphere Imara Women's Running Shoes,US,Eclipse Inc
+46738,17815,silver,2021-06-13,2021-06-15,1,94.3,40.5,Children,Children Sports,"N.D. Gear, Kids",Butch Tracking Pants,ES,Luna sastreria S.A.
+47845,63965,silver,2021-06-13,2021-06-16,2,99.0,22.6,Clothes & Shoes,Clothes,Tracker Clothes,Casual Woven Pants,US,3Top Sports
+49901,6297,silver,2021-06-13,2021-06-17,1,31.7,14.6,Outdoors,Outdoors,Knitted Accessories,Wind Proof Windstopper High Point Hat,US,Miller Trading Inc
+51708,29955,gold,2021-06-13,2021-06-18,2,81.2,18.05,Clothes & Shoes,Clothes,Tracker Clothes,Kaitum Women's Swim Suit,US,3Top Sports
+54387,65032,gold,2021-06-13,2021-06-17,5,229.5,22.45,Sports,Golf,Golf,Tee18 Troon 7  Black,NL,Van Dammeren International

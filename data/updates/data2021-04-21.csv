@@ -1,0 +1,16 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+4727,44909,silver,2021-04-21,2021-04-25,2,28.8,6.45,Sports,Team Sports,Soccer,Soccer Mjf 2000 Size 4 Black/Yellow,US,Teamsports Inc
+9171,79832,silver,2021-04-21,2021-04-23,2,72.2,18.2,Sports,Assorted Sports Articles,Petanque - Boule,Boule Set 6-pack Lux,GB,Royal Darts Ltd
+9326,59894,silver,2021-04-21,2021-04-25,1,157.8,79.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Tuned Sirocco Shoes,US,Eclipse Inc
+11625,81210,silver,2021-04-21,2021-04-27,1,134.5,67.35,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Converge Triax X,US,Eclipse Inc
+11797,74199,silver,2021-04-21,2021-04-24,2,106.0,23.45,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls Chromium 8-pack,GB,Royal Darts Ltd
+12687,5026,silver,2021-04-21,2021-04-25,1,77.0,35.9,Clothes & Shoes,Shoes,Tracker Shoes,Hardcore Men's Street Shoes,GB,Greenline Sports Ltd
+14579,1394,silver,2021-04-21,2021-04-26,2,83.8,18.2,Sports,Assorted Sports Articles,Assorted Sports articles,Ultra York Shorts,ES,Luna sastreria S.A.
+17463,10058,silver,2021-04-21,2021-04-27,1,32.4,13.4,Sports,Assorted Sports Articles,Darts,Bulls Eye 15 Gram 80% Tungsten Soft,GB,Royal Darts Ltd
+23421,11612,gold,2021-04-21,2021-04-22,1,161.8,81.0,Clothes & Shoes,Clothes,LSF,Big Guy Air Max Deluxe,US,Eclipse Inc
+33879,47522,gold,2021-04-21,2021-04-25,3,450.9,75.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air 120 Soccer Shoes,US,Eclipse Inc
+41532,75830,gold,2021-04-21,2021-05-06,1,193.8,81.3,Clothes & Shoes,Clothes,Street Wear,Tyfoon Rifle Ski Jacket,AU,Typhoon Clothing
+48363,62058,silver,2021-04-21,2021-04-25,1,27.0,11.55,Sports,Swim Sports,Bathing Suits,Swim Sandal with Velcro Bathing,ES,Luna sastreria S.A.
+49607,23056,gold,2021-04-21,2021-05-04,2,84.8,21.3,Children,Children Sports,"Eclipse, Kid's Clothes",Tony's Eden Soft Nylon Pants,US,Eclipse Inc
+51400,41836,silver,2021-04-21,2021-04-26,1,209.4,95.65,Sports,Winter Sports,Ski Dress,Matterhorn Jacket,US,Miller Trading Inc
+51785,6656,gold,2021-04-21,2021-04-26,1,23.5,10.9,Children,Children Sports,"N.D. Gear, Kids",Kid Childen's T-Shirt,GB,Greenline Sports Ltd

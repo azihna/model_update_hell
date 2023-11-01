@@ -1,0 +1,15 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1253,14036,silver,2021-09-08,2021-09-09,1,43.5,17.4,Sports,Winter Sports,Winter Sports,Alpine Ski Bag 2-pair Black/Yellow,FR,Massif S.A.
+2983,62446,silver,2021-09-08,2021-09-14,1,25.6,12.1,Clothes & Shoes,Clothes,Knitwear,Instyle Pullover Mid,US,AllSeasons Outdoor Clothing
+7130,74504,silver,2021-09-08,2021-09-14,2,48.0,11.95,Children,Children Sports,"Lucky Guy, Kids","Rain Suit, Plain w/backpack Jacket",US,AllSeasons Outdoor Clothing
+13334,7133,silver,2021-09-08,2021-09-12,1,151.7,74.35,Outdoors,Outdoors,Sleepingbags,Compact Summer 195 Cm Blue Sleeping Bag,GB,Outback Outfitters Ltd
+19719,15764,silver,2021-09-08,2021-09-11,1,138.4,62.85,Sports,Assorted Sports Articles,Assorted Sports articles,M.Heart Trainer Software,AU,Health-Sports
+21417,13185,silver,2021-09-08,2021-09-10,1,45.7,23.65,Sports,Team Sports,Soccer,Prosoccer Home Shorts,US,Fga Sports Inc
+23790,12500,gold,2021-09-08,2021-09-12,2,36.0,8.55,Sports,Running - Jogging,Running Clothes,Maxrun Men Slip (Men's underwear),BE,Force Sports
+25855,87003,gold,2021-09-08,2021-09-11,2,119.0,29.85,Clothes & Shoes,Clothes,Orion,Duration Women's Trainer Aerobic Shoes,CA,Fuller Trading Co.
+38467,39153,silver,2021-09-08,2021-09-09,1,173.2,127.0,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Gretzky,PT,Magnifico Sports
+44253,3879,silver,2021-09-08,2021-09-11,1,15.0,6.9,Sports,Golf,Golf,Hard Core Pro Distance 3-pack.,GB,GrandSlam Sporting Goods Ltd
+48111,70012,silver,2021-09-08,2021-09-10,2,78.4,19.55,Children,Children Sports,"Eclipse, Kid's Clothes",Watchit Watches Tangerine/Translucent Aqua,US,Eclipse Inc
+49182,55219,platinum,2021-09-08,2021-09-09,1,105.8,53.0,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Killer Pants,US,Eclipse Inc
+52817,21418,gold,2021-09-08,2021-09-13,1,124.5,49.9,Sports,Golf,Golf Clothes,Top Of Florence Pants,FR,ToughWear S.A.
+54304,70712,silver,2021-09-08,2021-09-13,1,74.0,33.7,Clothes & Shoes,Clothes,Tracker Clothes,Sherpa Pes Shiny Cotton,US,3Top Sports

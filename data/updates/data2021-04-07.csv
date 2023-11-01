@@ -1,0 +1,18 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+1214,36047,gold,2021-04-07,2021-04-11,1,35.5,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+2976,86948,silver,2021-04-07,2021-04-08,1,25.6,12.1,Clothes & Shoes,Clothes,Knitwear,Instyle Pullover Mid,US,AllSeasons Outdoor Clothing
+3514,10398,silver,2021-04-07,2021-04-10,2,147.4,38.4,Sports,Team Sports,Soccer,Fga Away Football Shirt,US,Fga Sports Inc
+7484,88278,silver,2021-04-07,2021-04-11,1,353.1,196.15,Sports,Golf,Golf,Normal Standard,GB,TeeTime Ltd
+10914,42550,gold,2021-04-07,2021-04-09,2,52.8,11.8,Sports,Swim Sports,Bathing Suits,Sunfit Madly Swim Suit,US,Nautlius SportsWear Inc
+14741,38873,silver,2021-04-07,2021-04-09,1,184.5,73.85,Sports,Golf,Golf Clothes,Eagle Windstopper Knit Neck,US,HighPoint Trading
+15783,10037,platinum,2021-04-07,2021-04-10,1,111.7,55.95,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Vivacity,US,Eclipse Inc
+19507,43071,silver,2021-04-07,2021-04-11,3,280.2,38.95,Sports,Racket Sports,Racket Sports,Aftm 95 Vf Long Bg-65 White,GB,British Sports Ltd
+22380,21418,gold,2021-04-07,2021-04-09,1,150.1,64.1,Outdoors,Outdoors,Outdoor Gear,Polyester 4-Persons,GB,Prime Sports Ltd
+24677,93797,gold,2021-04-07,2021-04-09,1,19.7,9.95,Clothes & Shoes,Clothes,Eclipse Clothing,Oz Tee,US,Eclipse Inc
+28808,35710,silver,2021-04-07,2021-04-11,1,29.1,13.95,Sports,Running - Jogging,Running Clothes,Maxrun Short Running Tights,BE,Force Sports
+29021,61863,gold,2021-04-07,2021-04-12,1,22.8,11.5,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's T-Shirt,US,Eclipse Inc
+29230,86870,gold,2021-04-07,2021-04-12,1,52.3,21.0,Clothes & Shoes,Clothes,Osprey,Osprey Men's King Sweat,US,Triple Sportswear Inc
+37128,93043,silver,2021-04-07,2021-04-08,3,83.4,13.25,Sports,Running - Jogging,Running Clothes,Stout Running Shorts,BE,Force Sports
+40358,32275,gold,2021-04-07,2021-04-13,2,112.4,22.55,Sports,Swim Sports,Bathing Suits,Sunfit Liquid Bikini,US,Nautlius SportsWear Inc
+44489,72284,silver,2021-04-07,2021-04-11,2,92.4,21.1,Children,Children Sports,Tracker Kid's Clothes,Mona  C- Children's Street Shoes,US,3Top Sports
+46124,85519,silver,2021-04-07,2021-04-12,1,8.1,3.15,Sports,Assorted Sports Articles,Assorted Sports articles,Stout Brass 21 Gram,GB,Royal Darts Ltd

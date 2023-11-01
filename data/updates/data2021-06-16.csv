@@ -1,0 +1,19 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+683,32422,gold,2021-06-16,2021-06-22,1,15.4,6.1,Sports,Assorted Sports Articles,Darts,Aim4it 18 Gram Softtip Pil,GB,Royal Darts Ltd
+6467,33470,silver,2021-06-16,2021-06-18,3,218.4,36.5,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air 45 Trainer Shoes,US,Eclipse Inc
+8365,48493,silver,2021-06-16,2021-06-21,1,16.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+10231,75046,gold,2021-06-16,2021-06-19,2,401.4,85.35,Outdoors,Outdoors,Anoraks & Parkas,Down Jacket,ES,Luna sastreria S.A.
+10467,73703,silver,2021-06-16,2021-06-17,2,630.2,150.0,Clothes & Shoes,Clothes,Massif,Massif Men's Race 3 Ski Bottle,FR,Massif S.A.
+15597,1192,silver,2021-06-16,2021-06-22,2,45.4,10.85,Sports,Running - Jogging,Running Clothes,Original Running Pants,BE,Force Sports
+17218,81923,silver,2021-06-16,2021-06-19,2,220.6,50.25,Clothes & Shoes,Shoes,Tracker Shoes,Vishnu Women's Running Shoes,US,3Top Sports
+19286,16145,gold,2021-06-16,2021-06-22,3,1257.0,209.45,Sports,Assorted Sports Articles,Skates,Weston F4 Men's Hockey Skates,US,Roll-Over Inc
+20881,73174,gold,2021-06-16,2021-06-17,2,95.6,24.0,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Long Sport Top Extra,US,Eclipse Inc
+21334,37417,silver,2021-06-16,2021-06-23,2,26.2,5.6,Outdoors,Outdoors,Backpacks,Deer Little Waist Bag,ES,Luna sastreria S.A.
+24136,80112,gold,2021-06-16,2021-06-18,2,115.6,26.45,Children,Children Sports,Tracker Kid's Clothes,Wa.wpr Shiny Children's Suit,US,3Top Sports
+26967,20744,silver,2021-06-16,2021-06-17,2,55.0,11.75,Children,Children Sports,"N.D. Gear, Kids",O'my Athen Swimming Trunks,ES,Luna sastreria S.A.
+28608,44984,gold,2021-06-16,2021-06-22,1,87.2,34.9,Sports,Winter Sports,Winter Sports,Amber Cc,CA,CrystalClear Optics Inc
+33203,28305,silver,2021-06-16,2021-06-20,2,114.6,25.45,Sports,Running - Jogging,Jogging,SweatPants Sweat Pants C-Logo,US,A Team Sports
+34590,80764,silver,2021-06-16,2021-06-19,2,217.8,54.55,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Athena Triax-Running Shoes,US,Eclipse Inc
+40178,93370,silver,2021-06-16,2021-06-20,1,73.4,36.8,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Terma Fit Jacket w/Hood,US,Eclipse Inc
+43234,25387,silver,2021-06-16,2021-06-18,1,66.8,33.5,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Sweatshirt w/Small Zipper,US,Eclipse Inc
+47093,6627,gold,2021-06-16,2021-06-19,1,91.2,36.55,Sports,Winter Sports,Winter Sports,"Like Regulator,Carbon",CA,CrystalClear Optics Inc

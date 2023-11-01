@@ -1,0 +1,13 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+181,75876,silver,2021-07-21,2021-07-25,2,128.0,37.85,Clothes & Shoes,Shoes,Shoes,Pro Fit  Gel Ds Trainer Iv Men's Running Shoe,US,Pro Sportswear Inc
+3077,7914,silver,2021-07-21,2021-07-23,2,183.2,45.75,Sports,Assorted Sports Articles,Skates,Bladeline S-Fitness In-Line Skates,US,Roll-Over Inc
+3320,54069,gold,2021-07-21,2021-07-23,2,191.0,43.55,Clothes & Shoes,Shoes,Shoes,Soft Cumulus Men's Running Shoes,US,Pro Sportswear Inc
+4584,73484,silver,2021-07-21,2021-07-24,2,287.4,71.95,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air MickeyTailwind Shoes,US,Eclipse Inc
+20714,41671,gold,2021-07-21,2021-07-26,1,61.3,31.95,Sports,Team Sports,Soccer,Enland Player Shirt,US,Fga Sports Inc
+21108,12655,gold,2021-07-21,2021-07-25,2,121.0,30.35,Outdoors,Outdoors,Outdoor Gear,Sailing Jacket Dock,US,AllSeasons Outdoor Clothing
+25213,76965,gold,2021-07-21,2021-07-22,3,296.1,45.0,Clothes & Shoes,Shoes,Tracker Shoes,Hgf Tarantula Men's Indoor Shoes,US,3Top Sports
+32446,32862,gold,2021-07-21,2021-07-24,2,229.0,52.25,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Delta Trainer,GB,Greenline Sports Ltd
+45129,56123,silver,2021-07-21,2021-07-23,2,83.2,19.75,Sports,Running - Jogging,Running Clothes,Tri-Sprinter,BE,Force Sports
+46335,45134,gold,2021-07-21,2021-07-24,2,139.98,49.8,Clothes & Shoes,Clothes,Orion,Armadillo Road Dmx Women's Running Shoes,CA,Fuller Trading Co.
+47585,70628,gold,2021-07-21,2021-07-23,1,76.9,34.95,Clothes & Shoes,Clothes,LSF,Bill V-3-London Calling Shoes,SE,Petterson AB
+51066,93698,gold,2021-07-21,2021-07-26,2,1133.2,276.45,Sports,Assorted Sports Articles,Skates,Racing Custom Fit Men's Roller Skates,US,Twain Inc

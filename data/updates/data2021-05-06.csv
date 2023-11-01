@@ -1,0 +1,38 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+268,57784,gold,2021-05-06,2021-05-08,3,68.4,9.75,Sports,Swim Sports,Bathing Suits,Bikini Penola,ES,Luna sastreria S.A.
+678,12455,silver,2021-05-06,2021-05-18,1,15.4,6.1,Sports,Assorted Sports Articles,Darts,Aim4it 18 Gram Softtip Pil,GB,Royal Darts Ltd
+1219,29085,silver,2021-05-06,2021-05-08,2,71.0,17.25,Outdoors,Outdoors,Outdoor Gear,Rain Jacket,US,AllSeasons Outdoor Clothing
+3142,13190,silver,2021-05-06,2021-05-10,1,70.8,29.8,Outdoors,Outdoors,Anoraks & Parkas,Biker Pants,US,AllSeasons Outdoor Clothing
+3876,71444,gold,2021-05-06,2021-05-07,1,71.2,28.5,Sports,Running - Jogging,Jogging,Triffy Nylon Pants,NL,Triffy B.V.
+4729,30904,gold,2021-05-06,2021-05-09,2,19.98,6.45,Sports,Team Sports,Soccer,Soccer Mjf 2000 Size 4 Black/Yellow,US,Teamsports Inc
+6622,46019,gold,2021-05-06,2021-05-08,1,26.2,11.75,Sports,Assorted Sports Articles,Assorted Sports articles,Safe Skate Helmet Large Black,US,Roll-Over Inc
+6944,89037,silver,2021-05-06,2021-05-10,2,577.8,119.15,Outdoors,Outdoors,Tents,Hurricane 4,SE,Petterson AB
+7340,9867,gold,2021-05-06,2021-05-10,3,519.0,72.75,Outdoors,Outdoors,Outdoor Gear,Jl Legacy Curig I.A.Jacket,US,AllSeasons Outdoor Clothing
+7735,74651,gold,2021-05-06,2021-05-11,1,111.6,44.45,Sports,Assorted Sports Articles,Assorted Sports articles,"Morphe,Sand",CA,CrystalClear Optics Inc
+8699,84960,gold,2021-05-06,2021-05-11,1,92.5,40.25,Clothes & Shoes,Shoes,Shoes,Twain Inco Women's Street Shoes,US,Twain Inc
+10438,35397,silver,2021-05-06,2021-05-11,1,64.5,30.95,Sports,Assorted Sports Articles,Skates,Proskater W-500 Jr.Roller Skates,US,Roll-Over Inc
+14394,72370,gold,2021-05-06,2021-05-09,2,25.4,6.1,Outdoors,Outdoors,Outdoor Gear,Outback Spirits Kitchen,GB,Prime Sports Ltd
+14742,80332,gold,2021-05-06,2021-05-09,2,369.0,73.85,Sports,Golf,Golf Clothes,Eagle Windstopper Knit Neck,US,HighPoint Trading
+14828,23732,silver,2021-05-06,2021-05-09,1,27.9,14.05,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Faille Athletic Shorts,US,Eclipse Inc
+15188,26778,silver,2021-05-06,2021-05-07,2,12.4,2.75,Sports,Team Sports,Soccer,Soccer Socks Senior,US,Teamsports Inc
+16897,26923,gold,2021-05-06,2021-05-07,2,45.7,9.3,Sports,Team Sports,American Football,Football - Helmet M,US,A Team Sports
+20027,43133,silver,2021-05-06,2021-05-09,1,43.4,19.7,Sports,Winter Sports,Winter Sports,Top Equipe 99 Black,US,Twain Inc
+22154,12656,silver,2021-05-06,2021-05-11,1,225.5,112.85,Sports,Winter Sports,Winter Sports,Twain Women's Evolution 8.0 T Ski Boots,US,Twain Inc
+22318,1033,silver,2021-05-06,2021-05-10,3,355.8,59.4,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Large,Right,Forestgreen",DK,Top Sports
+23465,94252,gold,2021-05-06,2021-05-08,1,62.5,28.35,Sports,Assorted Sports Articles,Assorted Sports articles,Mk Tony Mouse 80m 85a,PT,Magnifico Sports
+24962,79584,silver,2021-05-06,2021-05-10,2,58.2,12.6,Children,Children Sports,"N.D. Gear, Kids",Pool Children's Swimming Trunks,ES,Luna sastreria S.A.
+27389,91551,gold,2021-05-06,2021-05-12,3,398.4,55.85,Outdoors,Outdoors,Outdoor Gear,Mayday W'S Sports Pullover,US,Mayday Inc
+31006,63436,silver,2021-05-06,2021-05-08,2,170.2,40.65,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Medium,Right/Blue/Black",DK,Top Sports
+31186,55762,gold,2021-05-06,2021-05-09,1,196.3,95.65,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates A7 80/78a Action,PT,Magnifico Sports
+31398,72968,silver,2021-05-06,2021-05-11,2,85.4,18.55,Sports,Swim Sports,Bathing Suits,Pool Swimming Trunks,ES,Luna sastreria S.A.
+32662,63994,silver,2021-05-06,2021-05-09,1,52.0,25.9,Sports,Indoor Sports,Fitness,N.d.gear Aerobic Strop Top,GB,Greenline Sports Ltd
+38657,7627,silver,2021-05-06,2021-05-09,1,31.1,15.65,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Short Tights,US,Eclipse Inc
+42457,26964,silver,2021-05-06,2021-05-07,2,376.2,90.35,Outdoors,Outdoors,Backpacks,"Commanche Men's Backpack 6000, Bark",DK,Top Sports
+44379,89826,gold,2021-05-06,2021-05-22,1,109.9,54.9,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Men's Firewire,GB,Greenline Sports Ltd
+47398,27900,silver,2021-05-06,2021-05-12,1,48.1,19.25,Clothes & Shoes,Clothes,Green Tomato,Green Lime Hooded Crew Top,US,Green Lime Sports Inc
+47757,82869,gold,2021-05-06,2021-05-08,1,534.8,243.6,Sports,Indoor Sports,Top Trim,Top Men's R&D Ski Jacket,US,Top Sports Inc
+47761,81946,gold,2021-05-06,2021-05-12,2,29.2,6.75,Sports,Golf,Golf,Grandslam Staff Grip Llh Golf Gloves,US,Carolina Sports
+50327,32286,silver,2021-05-06,2021-05-12,1,108.9,49.65,Children,Children Sports,Tracker Kid's Clothes,Casual Down Jacket,US,3Top Sports
+53048,79179,silver,2021-05-06,2021-05-09,1,17.0,6.6,Outdoors,Outdoors,Knitted Accessories,Mayday Serious Headband,US,Mayday Inc
+53415,84387,silver,2021-05-06,2021-05-08,3,190.5,30.35,Clothes & Shoes,Clothes,Orion,Original Aztec Men's,CA,Fuller Trading Co.
+54321,42201,gold,2021-05-06,2021-05-08,2,50.0,9.15,Children,Children Sports,"Bathing Suits, Kids",Swim Suit Mirmon Jr. Swim Suit,US,Nautlius SportsWear Inc

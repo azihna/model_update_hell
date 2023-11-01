@@ -1,0 +1,28 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+334,92999,silver,2021-08-28,2021-09-02,2,85.2,18.5,Clothes & Shoes,Shoes,Shoes,Dundas Rubber Boot,ES,Luna sastreria S.A.
+1040,80388,silver,2021-08-28,2021-08-31,5,174.5,17.55,Clothes & Shoes,Shoes,Eclipse Shoes,Eclipse Mens Off Court Tennis Shoes,US,Eclipse Inc
+1272,93929,gold,2021-08-28,2021-08-31,2,179.6,45.0,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy  Men's Air Trainer Structure Plu Shoe,US,Eclipse Inc
+1457,11890,gold,2021-08-28,2021-09-01,5,516.0,50.4,Outdoors,Outdoors,Sleepingbags,Tent Summer 195 Twin Sleeping Bag,GB,Outback Outfitters Ltd
+1937,93562,gold,2021-08-28,2021-09-02,1,20.0,9.15,Children,Children Sports,Tracker Kid's Clothes,Nwt Tricia 5 Children's Shorts,US,3Top Sports
+2021,41689,gold,2021-08-28,2021-09-01,3,259.8,34.1,Outdoors,Outdoors,Outdoor Gear,"Men's Pants, Basic",US,Mayday Inc
+5683,11890,gold,2021-08-28,2021-09-01,2,259.6,63.2,Outdoors,Outdoors,Sleepingbags,"Basic 10, Left , Yellow/Black",DK,Top Sports
+6337,75131,gold,2021-08-28,2021-08-30,2,1038.6,253.2,Outdoors,Outdoors,Tents,Family Holiday 4,SE,Petterson AB
+10058,18068,gold,2021-08-28,2021-09-02,2,16.0,3.5,Outdoors,Outdoors,Outdoor Gear,Knife,US,KN Outdoor Trading Inc
+11342,39234,gold,2021-08-28,2021-08-30,2,53.98,10.23,Sports,Team Sports,American Football,Football - Helmet Pro XL,US,A Team Sports
+13993,22327,platinum,2021-08-28,2021-09-02,1,55.4,22.8,Sports,Assorted Sports Articles,Darts,Pacific 95% 23 Gram,GB,Royal Darts Ltd
+14933,79188,gold,2021-08-28,2021-08-30,2,1621.8,468.15,Sports,Golf,Golf,Hi-fly Xl2000 Kinetic Steel R-80,NL,Van Dammeren International
+22911,87217,silver,2021-08-28,2021-09-02,2,294.6,61.3,Outdoors,Outdoors,Outdoor Gear,Mayday Rain Jacket,US,Mayday Inc
+24775,85157,silver,2021-08-28,2021-09-03,2,126.0,28.7,Clothes & Shoes,Clothes,Leisure,Van Damme Women's Polo Pique L,NL,Van Dammeren International
+25371,30251,silver,2021-08-28,2021-08-31,2,45.8,10.35,Clothes & Shoes,Clothes,Stockings & Socks,Men's Trekking Socks High,US,Twain Inc
+30312,28331,gold,2021-08-28,2021-09-02,2,331.0,82.85,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Zoom Sterling,US,Eclipse Inc
+31325,48517,silver,2021-08-28,2021-08-31,2,204.4,51.2,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Force Strong Shoes,US,Eclipse Inc
+33768,88937,gold,2021-08-28,2021-09-02,2,52.2,11.9,Outdoors,Outdoors,Outdoor Gear,Single Full Box Madras honeycomb-weave,GB,Prime Sports Ltd
+33938,84384,gold,2021-08-28,2021-08-30,2,95.6,22.8,Sports,Running - Jogging,Running Clothes,"Essential Classic Jacket, Running",BE,Force Sports
+38396,26523,silver,2021-08-28,2021-09-02,2,150.8,37.8,Outdoors,Outdoors,Backpacks,Large Rust/Black Backpack,DK,Top Sports
+38673,6509,silver,2021-08-28,2021-09-01,3,75.9,10.95,Sports,Assorted Sports Articles,Assorted Sports articles,Trg 3/32 Red/Orange/Black Star-,US,Teamsports Inc
+41588,2716,gold,2021-08-28,2021-09-02,2,285.8,71.55,Clothes & Shoes,Shoes,Eclipse Shoes,Sire Air Tailwind 1v Running Shoes,US,Eclipse Inc
+43472,72273,silver,2021-08-28,2021-08-31,1,17.9,8.05,Children,Children Sports,Tracker Kid's Clothes,Children's Team Bag,US,3Top Sports
+46511,46702,silver,2021-08-28,2021-08-30,2,198.6,45.2,Sports,Assorted Sports Articles,Assorted Sports articles,Fit4you Wheelbag Red,US,Twain Inc
+46579,15723,silver,2021-08-28,2021-08-30,3,330.3,52.55,Clothes & Shoes,Clothes,Orion,Women's Trainer Aerobic Shoes,CA,Fuller Trading Co.
+47048,91663,gold,2021-08-28,2021-09-03,2,124.6,28.35,Clothes & Shoes,Shoes,Shoes,Soft Modesto Women's Indoor Shoes,US,Pro Sportswear Inc
+52387,89143,silver,2021-08-28,2021-09-01,3,54.3,9.15,Sports,Golf,Golf,"Bretagne Soft-Tech Men's Glove, left",NL,Van Dammeren International

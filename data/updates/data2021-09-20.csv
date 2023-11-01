@@ -1,0 +1,22 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+111,81192,gold,2021-09-20,2021-09-27,1,37.2,18.45,Clothes & Shoes,Shoes,Shoes,Soft Gel Court Men's Indoor Shoes,US,Pro Sportswear Inc
+4291,46397,gold,2021-09-20,2021-09-21,1,101.6,50.9,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Mickey Wilma,US,Eclipse Inc
+5111,85467,silver,2021-09-20,2021-09-23,1,33.1,14.4,Children,Children Sports,"N.D. Gear, Kids",Pool Childen's Swim Tights,ES,Luna sastreria S.A.
+10748,45663,gold,2021-09-20,2021-09-25,2,495.0,109.55,Outdoors,Outdoors,Outdoor Gear,Trekking Tent,GB,Prime Sports Ltd
+11915,92776,gold,2021-09-20,2021-09-23,1,56.3,31.05,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Amend Mid,US,Eclipse Inc
+13997,75726,gold,2021-09-20,2021-09-22,2,110.8,22.8,Sports,Assorted Sports Articles,Darts,Pacific 95% 23 Gram,GB,Royal Darts Ltd
+17533,89137,gold,2021-09-20,2021-09-22,1,125.2,57.1,Outdoors,Outdoors,Backpacks,Tornado 55 Litre Red Women's Backpack,AU,Toto Outdoor Gear
+19371,80670,gold,2021-09-20,2021-09-22,1,127.3,63.6,Sports,Winter Sports,Winter Sports,Typhoon Black,US,Eclipse Inc
+22961,62030,gold,2021-09-20,2021-09-26,2,92.6,23.25,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Constructed T,US,Eclipse Inc
+28612,26323,silver,2021-09-20,2021-09-26,1,87.2,34.9,Sports,Winter Sports,Winter Sports,Amber Cc,CA,CrystalClear Optics Inc
+35041,8265,silver,2021-09-20,2021-09-24,2,60.8,9.2,Sports,Swim Sports,Bathing Suits,Sharky Swimming Trunks,US,Dolphin Sportswear Inc
+35903,60907,silver,2021-09-20,2021-09-23,1,40.0,20.1,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Constructed 'T',US,Eclipse Inc
+36070,64640,gold,2021-09-20,2021-09-26,1,40.1,17.85,Clothes & Shoes,Clothes,T-Shirts,"Top w/Zipper and Sleeve, Multi Chall",US,A Team Sports
+40105,55881,gold,2021-09-20,2021-09-26,2,341.6,128.3,Sports,Assorted Sports Articles,Skates,Pro-roll Iridium Roller Skates,PT,Magnifico Sports
+41177,11657,silver,2021-09-20,2021-09-21,1,60.6,32.85,Clothes & Shoes,Shoes,Shoes,Pro Fit Gel Gt 2030 Women's Running Shoes,US,Pro Sportswear Inc
+42680,70915,platinum,2021-09-20,2021-09-24,1,36.1,18.15,Children,Children Sports,"Eclipse, Kid's Shoes",Kid Trainer Lite(Bp) Street Shoes,US,Eclipse Inc
+44329,61915,gold,2021-09-20,2021-09-24,2,127.6,30.8,Outdoors,Outdoors,Sleepingbags,"Trekker  Medium Sleeping Bag, Right, Graphite",DK,Top Sports
+46759,91302,gold,2021-09-20,2021-09-22,1,195.1,100.65,Sports,Golf,Golf,Bretagne Difference 2000 Goretex Shoes,NL,Van Dammeren International
+47321,37081,gold,2021-09-20,2021-09-25,1,82.2,41.2,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Terma Fit Jacket,US,Eclipse Inc
+50196,50060,gold,2021-09-20,2021-09-25,1,206.9,91.1,Clothes & Shoes,Clothes,Leisure,Van Damme Women's Reversible Fleece,NL,Van Dammeren International
+50902,14099,gold,2021-09-20,2021-09-22,1,39.6,18.05,Sports,Indoor Sports,Gymnastic Clothing,Cougar Top with Narrow Strabs,US,SD Sporting Goods Inc

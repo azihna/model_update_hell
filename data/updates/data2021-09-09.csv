@@ -1,0 +1,16 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+12041,18497,platinum,2021-09-09,2021-09-14,2,254.2,60.8,Outdoors,Outdoors,Sleepingbags,Tipee Twin Blue/Orange,GB,Outback Outfitters Ltd
+12474,19980,silver,2021-09-09,2021-09-12,1,235.5,117.45,Sports,Indoor Sports,Fitness,Bench,NL,TrimSport B.V.
+13047,84322,gold,2021-09-09,2021-09-13,2,252.2,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+13996,78178,silver,2021-09-09,2021-09-13,2,110.8,22.8,Sports,Assorted Sports Articles,Darts,Pacific 95% 23 Gram,GB,Royal Darts Ltd
+16099,47449,gold,2021-09-09,2021-09-12,1,38.4,17.1,Sports,Running - Jogging,Jogging,"Woman Sweat with Round Neck, Big Logo",US,A Team Sports
+16416,2804,gold,2021-09-09,2021-09-11,2,69.8,16.75,Sports,Running - Jogging,Running Clothes,Maxrun Running T-Shirt,BE,Force Sports
+19026,53546,silver,2021-09-09,2021-09-11,2,363.0,76.3,Outdoors,Outdoors,Outdoor Gear,Ht Legacy Curig I.A.Parca,US,AllSeasons Outdoor Clothing
+22029,57844,silver,2021-09-09,2021-09-14,1,181.3,90.8,Sports,Assorted Sports Articles,Skates,Twain Ac7/Ft7 Men's Roller Skates,US,Twain Inc
+25785,13289,silver,2021-09-09,2021-09-11,1,56.7,27.25,Outdoors,Outdoors,Backpacks,Medium Black/Bark Backpack,DK,Top Sports
+27240,63661,silver,2021-09-09,2021-09-15,2,79.4,18.9,Sports,Running - Jogging,Running Clothes,Maxrun Long-sleeved T-Shirt,BE,Force Sports
+27287,75273,gold,2021-09-09,2021-09-10,2,302.6,67.95,Sports,Assorted Sports Articles,Assorted Sports articles,Prime Classic,AU,Health-Sports
+35573,81377,silver,2021-09-09,2021-09-10,2,112.2,28.15,Children,Children Sports,"Eclipse, Kid's Shoes",Tony's Air Flatbush(Bg),US,Eclipse Inc
+37517,17855,platinum,2021-09-09,2021-09-11,2,14.4,3.25,Clothes & Shoes,Shoes,Tracker Shoes,Sole Double Active Insole,US,3Top Sports
+48267,40106,gold,2021-09-09,2021-09-15,2,260.6,62.15,Clothes & Shoes,Clothes,Orion,Jog Dmx 6 Iii Shoes,CA,Fuller Trading Co.
+54349,41394,gold,2021-09-09,2021-09-14,1,97.5,44.55,Clothes & Shoes,Shoes,Tracker Shoes,Traverse Junior/Women's Shoes,GB,Greenline Sports Ltd

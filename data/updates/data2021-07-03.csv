@@ -1,0 +1,36 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+330,62803,silver,2021-07-03,2021-07-05,2,85.2,18.5,Clothes & Shoes,Shoes,Shoes,Dundas Rubber Boot,ES,Luna sastreria S.A.
+6532,27167,silver,2021-07-03,2021-07-04,2,219.0,54.7,Sports,Assorted Sports Articles,Skates,Proskater Viablade S Roller Skates,US,Roll-Over Inc
+6648,79676,silver,2021-07-03,2021-07-07,2,73.6,18.5,Children,Children Sports,"Eclipse, Kid's Shoes",Toddle Children's Quokka V (Bp) Shoes,US,Eclipse Inc
+8109,27735,silver,2021-07-03,2021-07-06,2,168.2,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+8368,4350,gold,2021-07-03,2021-07-09,1,16.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+12200,31916,gold,2021-07-03,2021-07-24,1,97.8,42.45,Sports,Winter Sports,Winter Sports,Cayenne Red,CA,CrystalClear Optics Inc
+13614,78980,silver,2021-07-03,2021-07-06,1,102.1,48.65,Clothes & Shoes,Clothes,Eclipse Clothing,Sports glasses Satin Alumin.,US,Eclipse Inc
+13987,26819,silver,2021-07-03,2021-07-04,1,55.4,22.8,Sports,Assorted Sports Articles,Darts,Pacific 95% 23 Gram,GB,Royal Darts Ltd
+17042,58929,gold,2021-07-03,2021-07-05,2,43.6,11.0,Sports,Golf,Golf,"Bretagne Difference Women's Golf Glove, left",NL,Van Dammeren International
+17957,31798,silver,2021-07-03,2021-07-05,2,110.4,27.7,Clothes & Shoes,Clothes,Eclipse Clothing,Gloves,US,Eclipse Inc
+25186,42438,gold,2021-07-03,2021-07-16,2,100.4,25.05,Clothes & Shoes,Clothes,Tracker Clothes,N.d.gear Basic Sweat,GB,Greenline Sports Ltd
+26065,73230,gold,2021-07-03,2021-07-04,2,84.8,19.35,Clothes & Shoes,Clothes,Tracker Clothes,Elastic Knee Pant,US,3Top Sports
+27397,80360,gold,2021-07-03,2021-07-16,2,265.6,55.85,Outdoors,Outdoors,Outdoor Gear,Mayday W'S Sports Pullover,US,Mayday Inc
+27774,57343,silver,2021-07-03,2021-07-04,2,45.0,10.65,Sports,Running - Jogging,Running Clothes,Stout Men's Running Singlet,BE,Force Sports
+29129,87539,gold,2021-07-03,2021-07-10,2,35.6,8.25,Children,Children Sports,"Lucky Guy, Kids",Teen Lifa Ski Undershirt,US,AllSeasons Outdoor Clothing
+29266,74976,gold,2021-07-03,2021-07-08,2,403.98,194.6,Sports,Assorted Sports Articles,Skates,Perfect Fit Men's Roller Skates,US,Twain Inc
+32639,62820,silver,2021-07-03,2021-07-04,1,254.2,115.6,Sports,Racket Sports,Racket Sports,Smasher Super Rq Ti 700 Long Tennis,GB,British Sports Ltd
+33587,20121,gold,2021-07-03,2021-07-08,1,494.5,224.85,Sports,Winter Sports,Ski Dress,Cliff Guide Jacket,US,Miller Trading Inc
+34216,21638,gold,2021-07-03,2021-07-04,2,72.2,16.3,Children,Children Sports,"Osprey, Kids",Osprey Guardian Low Jr.Football Boots,US,Triple Sportswear Inc
+36233,89805,gold,2021-07-03,2021-07-06,2,66.4,14.0,Children,Children Sports,"N.D. Gear, Kids",Burchard Shirt with Hood,ES,Luna sastreria S.A.
+36360,56231,silver,2021-07-03,2021-07-05,2,60.0,15.1,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Shorts,US,Eclipse Inc
+36830,83564,silver,2021-07-03,2021-07-06,1,55.6,23.7,Children,Children Sports,"N.D. Gear, Kids",Children's Sandal Nevis,ES,Luna sastreria S.A.
+38222,50253,gold,2021-07-03,2021-07-07,2,342.6,84.7,Clothes & Shoes,Shoes,Shoes,Twain Fronterra 7 Gtx Women's Boots,US,Twain Inc
+38587,53967,silver,2021-07-03,2021-07-08,2,85.6,18.95,Clothes & Shoes,Clothes,Tracker Clothes,Women's Tee Stribet,US,3Top Sports
+38767,76436,gold,2021-07-03,2021-07-05,3,291.9,44.25,Clothes & Shoes,Shoes,Shoes,Soft 140 Men's Running Shoes,US,Pro Sportswear Inc
+39419,76235,silver,2021-07-03,2021-07-08,1,35.7,15.55,Clothes & Shoes,Clothes,Tracker Clothes,Quali T-Shirt with V-neck,US,3Top Sports
+39646,86579,silver,2021-07-03,2021-07-04,3,70.5,9.45,Sports,Assorted Sports Articles,Assorted Sports articles,Brown Metallic,CA,CrystalClear Optics Inc
+40067,17977,gold,2021-07-03,2021-07-09,3,515.7,80.2,Sports,Assorted Sports Articles,Assorted Sports articles,Barret 2.12 Women's Softboot,US,Roll-Over Inc
+41198,72465,gold,2021-07-03,2021-07-08,2,59.0,13.55,Children,Children Sports,Tracker Kid's Clothes,Swimsuit Swim Suit,US,3Top Sports
+42185,58854,silver,2021-07-03,2021-07-04,2,85.98,26.35,Sports,Racket Sports,Tennis,Anthony Men's Tennis Cable Vest,US,Mayday Inc
+43408,43230,silver,2021-07-03,2021-07-07,2,55.2,8.3,Sports,Swim Sports,Bathing Suits,Sharky Tennyson Swimming Trunks,US,Dolphin Sportswear Inc
+44803,45979,silver,2021-07-03,2021-07-09,2,117.0,23.4,Sports,Golf,Golf Clothes,Eagle Polo Shirt,US,HighPoint Trading
+45230,73513,gold,2021-07-03,2021-07-07,2,84.6,18.85,Children,Children Sports,"A-Team, Kids",Pants Shiny Children's Pants,US,A Team Sports
+53814,30111,silver,2021-07-03,2021-07-04,1,308.6,140.45,Sports,Indoor Sports,Top Trim,Men's Rock Road Jacket,US,Top Sports Inc
+54023,21027,silver,2021-07-03,2021-07-09,2,80.8,18.4,Children,Children Sports,"N.D. Gear, Kids",N.d.gear Eruptor Kids,GB,Greenline Sports Ltd

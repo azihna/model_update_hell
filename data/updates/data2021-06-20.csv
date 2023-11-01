@@ -1,0 +1,36 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+3950,91472,silver,2021-06-20,2021-06-24,2,186.0,41.0,Clothes & Shoes,Clothes,Leisure,Van Damme Men's Polo,NL,Van Dammeren International
+4141,56212,gold,2021-06-20,2021-06-22,2,244.8,61.15,Clothes & Shoes,Clothes,Eclipse Clothing,Watchit 300 Red/Silver,US,Eclipse Inc
+6050,52025,gold,2021-06-20,2021-06-30,2,146.8,36.8,Outdoors,Outdoors,Sleepingbags,"Expedition 10,Small,Left,Blue Ribbon",DK,Top Sports
+6385,21533,gold,2021-06-20,2021-06-22,5,89.95,11.4,Sports,Running - Jogging,Running Clothes,Men's Singlet,BE,Force Sports
+8104,51989,silver,2021-06-20,2021-07-02,4,336.4,42.15,Outdoors,Outdoors,Sleepingbags,"Expedition10,Medium,Right,Blue Ribbon",DK,Top Sports
+9767,80792,silver,2021-06-20,2021-06-24,2,65.6,14.9,Clothes & Shoes,Clothes,Tracker Clothes,Sports Bra,US,3Top Sports
+11099,17187,gold,2021-06-20,2021-06-25,2,193.4,48.45,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Medium,Right,Forestgreen",DK,Top Sports
+11182,77624,silver,2021-06-20,2021-06-22,2,118.0,26.85,Clothes & Shoes,Shoes,Shoes,Cruise 1984 Men's Street Shoes,SE,Petterson AB
+13675,4380,silver,2021-06-20,2021-06-22,2,248.6,62.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Structure Triax Shoes,US,Eclipse Inc
+15988,48370,gold,2021-06-20,2021-06-23,2,89.8,22.55,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy  Men's Ultraccel R9 F.G Rbr Soccer Sh,US,Eclipse Inc
+16041,45291,gold,2021-06-20,2021-06-22,2,52.6,12.6,Sports,Running - Jogging,Running Clothes,Breath-shirt Undershirt,BE,Force Sports
+16042,74509,silver,2021-06-20,2021-06-22,3,78.9,12.6,Sports,Running - Jogging,Running Clothes,Breath-shirt Undershirt,BE,Force Sports
+16966,21904,silver,2021-06-20,2021-06-22,2,351.8,127.95,Sports,Assorted Sports Articles,Skates,Pro-roll Sabotage-Rp  Roller Skates,PT,Magnifico Sports
+17683,33940,gold,2021-06-20,2021-06-22,1,112.0,56.1,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Shorter Length Down Jacket,US,Eclipse Inc
+23106,40023,gold,2021-06-20,2021-06-23,3,322.2,53.8,Clothes & Shoes,Shoes,Eclipse Shoes,Woman's Air Rapidup,US,Eclipse Inc
+24243,11901,silver,2021-06-20,2021-06-24,2,245.2,52.8,Outdoors,Outdoors,Anoraks & Parkas,Lh Brand Anorak treated with Teflon,US,AllSeasons Outdoor Clothing
+24766,2027,gold,2021-06-20,2021-06-23,2,126.0,28.7,Clothes & Shoes,Clothes,Leisure,Van Damme Women's Polo Pique L,NL,Van Dammeren International
+26654,231,gold,2021-06-20,2021-06-25,1,78.5,35.7,Sports,Winter Sports,Winter Sports,"Regulator,Stopsign",CA,CrystalClear Optics Inc
+26695,42758,silver,2021-06-20,2021-06-25,2,163.2,35.45,Sports,Racket Sports,Tennis,Harry Penny Men's Tennis Slipover,GB,Harry Penny Ltd
+26734,54721,gold,2021-06-20,2021-06-21,3,280.5,40.7,Clothes & Shoes,Shoes,Shoes,Twain Inco Men's Street Shoes,US,Twain Inc
+28535,74970,silver,2021-06-20,2021-06-25,1,128.2,57.05,Sports,Winter Sports,Ski Dress,Women's Ski Jacket Ski Craft,NO,Scandinavian Clothing A/S
+31725,73713,gold,2021-06-20,2021-06-25,1,14.6,6.2,Sports,Assorted Sports Articles,Assorted Sports articles,300 Ml.,DE,Schroeder Trim GmBH
+32583,59164,silver,2021-06-20,2021-06-23,3,520.5,82.65,Clothes & Shoes,Clothes,Orion,Dmx Lite Women's Aerobic Shoes,CA,Fuller Trading Co.
+33880,30753,gold,2021-06-20,2021-06-22,2,300.6,75.25,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air 120 Soccer Shoes,US,Eclipse Inc
+37657,44617,silver,2021-06-20,2021-06-26,2,277.4,62.5,Outdoors,Outdoors,Outdoor Gear,Ultra Ht Lightning Set,US,AllSeasons Outdoor Clothing
+37677,88518,silver,2021-06-20,2021-06-25,2,168.4,38.35,Clothes & Shoes,Shoes,Tracker Shoes,South Peak Men's Running Shoes,US,3Top Sports
+40266,62582,silver,2021-06-20,2021-06-23,2,35.4,8.0,Clothes & Shoes,Clothes,Shorts,Carribian Women's Jersey Shorts,US,A Team Sports
+44691,73721,gold,2021-06-20,2021-06-25,3,170.7,28.55,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Hermosa Shoes,US,Eclipse Inc
+49049,90200,silver,2021-06-20,2021-06-23,3,116.4,19.5,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's T-Shirt Dri Fit,US,Eclipse Inc
+49600,51256,gold,2021-06-20,2021-06-22,2,103.6,21.95,Outdoors,Outdoors,Anoraks & Parkas,Lh Classic Reinforced Cargo Shorts,US,AllSeasons Outdoor Clothing
+51140,42717,silver,2021-06-20,2021-06-22,2,168.6,42.25,Clothes & Shoes,Clothes,Eclipse Clothing,Big Guy Men's Training Soccer Classic,US,Eclipse Inc
+51992,10781,silver,2021-06-20,2021-06-22,1,262.5,109.0,Sports,Winter Sports,Ski Dress,Insul.Jacket,US,AllSeasons Outdoor Clothing
+52222,75940,silver,2021-06-20,2021-06-21,2,47.2,10.85,Clothes & Shoes,Clothes,Tracker Clothes,Bra  Top,US,3Top Sports
+52724,31990,gold,2021-06-20,2021-06-23,1,83.2,33.2,Clothes & Shoes,Clothes,Green Tomato,Green Lime Anorak,US,Green Lime Sports Inc
+54254,81204,silver,2021-06-20,2021-06-22,2,107.0,25.5,Clothes & Shoes,Clothes,Orion Clothing,Zx Women's Tee Mix Big Logo,CA,Fuller Trading Co.

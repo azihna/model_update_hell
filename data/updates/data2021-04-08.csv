@@ -1,0 +1,37 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+803,91118,silver,2021-04-08,2021-04-11,1,119.8,52.05,Clothes & Shoes,Shoes,Shoes,Twain Women's Exit Low 2000 Street Shoes,US,Twain Inc
+2473,41525,silver,2021-04-08,2021-04-10,1,170.5,68.2,Sports,Winter Sports,Winter Sports,"Twain X-Scream 7.9 Ski,Sq 750 Dri",US,Twain Inc
+3437,61471,silver,2021-04-08,2021-04-09,1,28.1,13.4,Sports,Winter Sports,Winter Sports,Original Eco Thermo 00 White,US,Twain Inc
+8359,37519,gold,2021-04-08,2021-04-09,1,16.0,6.35,Sports,Assorted Sports Articles,Darts,Aim4it 16 Gram Softtip Pil,GB,Royal Darts Ltd
+11089,41640,gold,2021-04-08,2021-04-13,1,96.7,48.45,Outdoors,Outdoors,Sleepingbags,"Expedition 20,Medium,Right,Forestgreen",DK,Top Sports
+13021,34852,gold,2021-04-08,2021-04-11,4,504.4,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+14391,77402,silver,2021-04-08,2021-04-11,1,12.7,6.1,Outdoors,Outdoors,Outdoor Gear,Outback Spirits Kitchen,GB,Prime Sports Ltd
+16703,64049,gold,2021-04-08,2021-04-12,1,133.3,60.65,Clothes & Shoes,Shoes,Tracker Shoes,Mns.riding Women's Running Shoes,US,3Top Sports
+18943,90830,gold,2021-04-08,2021-04-10,2,45.8,9.1,Sports,Assorted Sports Articles,Petanque - Boule,Petanque Balls 3-pack Chromium 72mm,GB,Royal Darts Ltd
+21104,55134,gold,2021-04-08,2021-04-11,1,60.5,30.35,Outdoors,Outdoors,Outdoor Gear,Sailing Jacket Dock,US,AllSeasons Outdoor Clothing
+21187,61566,gold,2021-04-08,2021-04-17,1,26.9,10.3,Sports,Team Sports,Baseball,Bat - Home Run S,US,Miller Trading Inc
+22849,1770,gold,2021-04-08,2021-04-12,2,24.0,6.05,Clothes & Shoes,Clothes,Eclipse Clothing,Toto Band Socks (3-pack) L,US,Eclipse Inc
+24593,78497,gold,2021-04-08,2021-04-12,1,77.7,32.25,Outdoors,Outdoors,Anoraks & Parkas,Biker Outdoor Jacket,US,AllSeasons Outdoor Clothing
+25352,81950,gold,2021-04-08,2021-04-09,1,7.6,3.4,Sports,Indoor Sports,Fitness,Chrome Locks  Chrome Locks for Dumbbell Bars,NL,TrimSport B.V.
+25460,16608,silver,2021-04-08,2021-04-13,1,13.5,5.7,Sports,Assorted Sports Articles,Assorted Sports articles,Smasher 9-Pack Children's Socks,GB,British Sports Ltd
+27283,72855,silver,2021-04-08,2021-04-17,1,148.4,66.65,Sports,Assorted Sports Articles,Assorted Sports articles,Prime Classic,AU,Health-Sports
+27324,70648,silver,2021-04-08,2021-04-12,2,164.4,37.5,Clothes & Shoes,Clothes,Tracker Clothes,Quali Sweatshirt with small Zipper,US,3Top Sports
+27444,85534,gold,2021-04-08,2021-04-14,2,68.0,15.6,Clothes & Shoes,Clothes,Tracker Clothes,Casual Genuine Tee,US,3Top Sports
+27554,10001,silver,2021-04-08,2021-04-13,2,50.0,11.1,Sports,Team Sports,Soccer,General 33 Goal Keeper Gloves,US,Teamsports Inc
+32234,79819,silver,2021-04-08,2021-04-11,1,86.6,43.4,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Air Quest Shoes,US,Eclipse Inc
+33148,64585,platinum,2021-04-08,2021-04-12,1,101.3,44.0,Sports,Assorted Sports Articles,Assorted Sports articles,Midnight Blue Zipper,CA,CrystalClear Optics Inc
+34422,38994,gold,2021-04-08,2021-04-12,1,191.0,80.45,Outdoors,Outdoors,Outdoor Gear,Mayday Soul Ht Jacket,US,Mayday Inc
+34913,29521,gold,2021-04-08,2021-04-11,1,85.3,42.75,Sports,Golf,Golf,Rosefinch Altima Stand 8  Black/Yellow,NL,Van Dammeren International
+36700,50397,silver,2021-04-08,2021-04-12,1,44.3,17.75,Clothes & Shoes,Clothes,Green Tomato,Green Lime Camisol Top,US,Green Lime Sports Inc
+38656,39023,gold,2021-04-08,2021-04-27,1,31.1,15.65,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Short Tights,US,Eclipse Inc
+40394,92070,gold,2021-04-08,2021-04-13,1,13.6,5.6,Sports,Assorted Sports Articles,Assorted Sports articles,Eagle Glass Pearl,CA,CrystalClear Optics Inc
+41514,77995,silver,2021-04-08,2021-04-09,1,107.9,53.35,Sports,Golf,Golf,Proplay Stand Black,NL,Van Dammeren International
+48108,73982,silver,2021-04-08,2021-04-13,2,78.4,19.55,Children,Children Sports,"Eclipse, Kid's Clothes",Watchit Watches Tangerine/Translucent Aqua,US,Eclipse Inc
+48739,48465,gold,2021-04-08,2021-04-11,1,55.2,25.2,Clothes & Shoes,Clothes,Tracker Clothes,Zip Pants,US,3Top Sports
+49358,43041,silver,2021-04-08,2021-04-11,2,309.2,116.6,Sports,Assorted Sports Articles,Skates,Rollerskate Roller Skates Gretzky Mvp S.B.S,PT,Magnifico Sports
+49923,65098,gold,2021-04-08,2021-04-11,1,315.2,164.15,Clothes & Shoes,Clothes,Twain,Twain Perf.Sport 7.0 Cfa Men's Boots,US,Twain Inc
+50733,87649,silver,2021-04-08,2021-04-13,3,252.3,39.2,Clothes & Shoes,Shoes,Tracker Shoes,Hardcore Junior/Women's Street Shoes Small,GB,Greenline Sports Ltd
+51304,88027,silver,2021-04-08,2021-04-13,3,186.0,26.15,Sports,Swim Sports,Bathing Suits,Bikini Nata,ES,Luna sastreria S.A.
+51707,42022,silver,2021-04-08,2021-04-12,3,121.8,18.05,Clothes & Shoes,Clothes,Tracker Clothes,Kaitum Women's Swim Suit,US,3Top Sports
+53591,80462,gold,2021-04-08,2021-04-10,1,25.2,10.6,Sports,Indoor Sports,Gymnastic Clothing,"Short Top, Cotton",ES,Sportico
+54346,74088,silver,2021-04-08,2021-04-16,1,84.1,42.15,Clothes & Shoes,Clothes,Eclipse Clothing,Woman's Micro Fibre Anorak,US,Eclipse Inc

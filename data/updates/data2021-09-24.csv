@@ -1,0 +1,21 @@
+,customer_id,customer_status,order_date,delivery_date,quantity_ordered,total_retail_price,cost_price_per_unit,product_line,product_category,product_group,product_name,supplier_country,supplier_name
+3826,65149,gold,2021-09-24,2021-09-25,1,47.9,20.0,Sports,Swim Sports,Bathing Suits,Sunfit Malda Low Women's Swim Suit,US,Nautlius SportsWear Inc
+6710,64478,silver,2021-09-24,2021-09-25,2,34.8,8.2,Clothes & Shoes,Clothes,Knitwear,Instyle Turtleneck Pullover,US,AllSeasons Outdoor Clothing
+7387,23794,silver,2021-09-24,2021-09-26,1,63.8,31.85,Sports,Assorted Sports Articles,Skates,Proskater W-10 Jr. Fitness Roller Skates,US,Roll-Over Inc
+9181,86376,gold,2021-09-24,2021-09-28,2,72.2,18.2,Sports,Assorted Sports Articles,Petanque - Boule,Boule Set 6-pack Lux,GB,Royal Darts Ltd
+13048,77418,silver,2021-09-24,2021-09-26,2,252.2,58.6,Outdoors,Outdoors,Outdoor Gear,Lucky Tech Intergal Wp/B Rain Pants,US,AllSeasons Outdoor Clothing
+14168,28355,silver,2021-09-24,2021-09-26,1,21.99,7.25,Sports,Team Sports,Basket Ball,Basket Ball Pro,US,HighPoint Trading
+15502,89143,gold,2021-09-24,2021-09-28,1,98.9,39.65,Sports,Golf,Golf Clothes,Eagle Pants with Cross Pocket,US,HighPoint Trading
+20719,81169,gold,2021-09-24,2021-09-26,1,61.3,31.95,Sports,Team Sports,Soccer,Enland Player Shirt,US,Fga Sports Inc
+22625,71506,gold,2021-09-24,2021-09-26,1,181.5,77.85,Sports,Assorted Sports Articles,Assorted Sports articles,Women's Jacket,ES,Luna sastreria S.A.
+22806,33607,silver,2021-09-24,2021-09-25,1,18.2,8.2,Clothes & Shoes,Clothes,Shorts,A-team Shorts w/Pockets and Embroidery,US,A Team Sports
+24523,36771,gold,2021-09-24,2021-09-25,2,63.4,14.5,Sports,Running - Jogging,Running Clothes,T-Shirt,US,3Top Sports
+26735,79073,gold,2021-09-24,2021-10-09,1,93.5,40.7,Clothes & Shoes,Shoes,Shoes,Twain Inco Men's Street Shoes,US,Twain Inc
+28025,7024,silver,2021-09-24,2021-09-25,2,81.2,19.35,Sports,Running - Jogging,Running Clothes,Bike.Pants Short Biking Pants,BE,Force Sports
+28858,24615,gold,2021-09-24,2021-09-27,1,105.4,52.8,Clothes & Shoes,Shoes,Eclipse Shoes,Big Guy Men's Span Triax Shoes,US,Eclipse Inc
+31013,17562,gold,2021-09-24,2021-09-29,2,170.2,40.65,Outdoors,Outdoors,Sleepingbags,"Outback Sleeping Bag, Medium,Right/Blue/Black",DK,Top Sports
+39008,40101,gold,2021-09-24,2021-09-30,2,39.6,8.25,Children,Children Sports,"Bathing Suits, Kids",Sunfit Stockton Swimming Trunks Jr.,US,Nautlius SportsWear Inc
+39723,25201,gold,2021-09-24,2021-09-26,1,98.8,42.95,Clothes & Shoes,Shoes,Shoes,Salida Low Men's Outdoor Shoes,US,Twain Inc
+45832,76990,silver,2021-09-24,2021-09-25,2,244.0,53.75,Clothes & Shoes,Clothes,Leisure,Van Damme Women's Golf Pants Classic,NL,Van Dammeren International
+49008,72718,gold,2021-09-24,2021-09-25,1,25.4,10.45,Sports,Swim Sports,Bathing Suits,"Mary Stripe Shirt, Sleeveless",ES,Luna sastreria S.A.
+51885,16184,gold,2021-09-24,2021-09-26,1,181.3,86.4,Clothes & Shoes,Clothes,Orion,Trailblaze Dmx Lite Women's Running Shoes,CA,Fuller Trading Co.
