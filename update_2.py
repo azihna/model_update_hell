@@ -1,17 +1,15 @@
 # %%
-# split the file to some of the solutions
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from category_encoders import CatBoostEncoder
+from mlxtend.evaluate import GroupTimeSeriesSplit
 from scipy.stats import linregress
 from sklearn import (
     base,
     compose,
     linear_model,
     metrics,
-    model_selection,
     pipeline,
     preprocessing,
 )
@@ -29,13 +27,15 @@ df = pd.read_csv(
 df.customer_id = df.customer_id.astype("object")
 df["target"] = (df.delivery_date - df.order_date).dt.days
 
-X = df.drop(["target", "order_date", "delivery_date", "customer_id"], axis=1)
+df = df.sort_values("order_date")
+groups = df["order_date"]
+
+X = df.drop(["target", "order_date", "delivery_date"], axis=1)
 y = df["target"]
 
 numerical_columns = X.select_dtypes(exclude="object").columns
 categorical_columns = X.select_dtypes(include="object").columns
 
-# %%
 # add category encoder
 cat_enc = CatBoostEncoder()
 scaler = preprocessing.StandardScaler()
@@ -65,10 +65,11 @@ full_pipeline = pipeline.Pipeline([("col_trans", composed), ("regressor", model)
 
 
 # %%
-kfold = model_selection.KFold(n_splits=5)
+tscv_args = {"n_splits": 5, "test_size": 30}
+tscv = GroupTimeSeriesSplit(**tscv_args)
 
 rmse = []
-for tr_idx, te_idx in kfold.split(X, y):
+for tr_idx, te_idx in tscv.split(X, y, groups):
     X_train, X_test = X.iloc[tr_idx, :], X.iloc[te_idx, :]
     y_train, y_test = y.iloc[tr_idx], y.iloc[te_idx]
 
@@ -77,7 +78,6 @@ for tr_idx, te_idx in kfold.split(X, y):
     preds = est.predict(X_test)
     error = metrics.mean_squared_error(y_test, preds, squared=False)
     rmse.append(error)
-
 
 # %%
 # add a metric
@@ -129,36 +129,4 @@ plt.legend()
 # Show the plot
 plt.show()
 
-# %%
-
-tscv_args = {"n_splits": 5, "test_size": 30}
-tscv = GroupTimeSeriesSplit(**tscv_args)
-
-df = pd.read_csv(
-    f"data/initial/data_{start_date}.csv",
-    index_col=0,
-    parse_dates=["order_date", "delivery_date"],
-)
-df.customer_id = df.customer_id.astype("object")
-df["target"] = (df.delivery_date - df.order_date).dt.days
-df = df.sort_values("order_date")
-
-groups = df["order_date"]
-X = df.drop(["target", "order_date", "delivery_date"], axis=1)
-y = df["target"]
-
-rmse = []
-for tr_idx, te_idx in tscv.split(X, y, groups):
-    X_train, X_test = X.iloc[tr_idx, :], X.iloc[te_idx, :]
-    y_train, y_test = y.iloc[tr_idx], y.iloc[te_idx]
-
-    est = base.clone(full_pipeline)
-    est.fit(X_train, y_train)
-    preds = est.predict(X_test)
-    error = metrics.mean_squared_error(y_test, preds, squared=False)
-    rmse.append(error)
-
-# add an explanation on why the error rate could be wrong with
-# the actual model
-print(rmse)
 # %%
