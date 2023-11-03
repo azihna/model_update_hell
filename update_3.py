@@ -1,15 +1,17 @@
 # %%
 import matplotlib.pyplot as plt
+import mlflow
 import numpy as np
 import pandas as pd
 from category_encoders import CatBoostEncoder
+from mlflow.models import infer_signature
+from mlxtend.evaluate import GroupTimeSeriesSplit
 from scipy.stats import linregress
 from sklearn import (
     base,
     compose,
     linear_model,
     metrics,
-    model_selection,
     pipeline,
     preprocessing,
 )
@@ -27,7 +29,8 @@ df = pd.read_csv(
 df.customer_id = df.customer_id.astype("object")
 df["target"] = (df.delivery_date - df.order_date).dt.days
 
-# talk about adding the customer id
+df = df.sort_values("order_date")
+groups = df["order_date"]
 
 X = df.drop(["target", "order_date", "delivery_date"], axis=1)
 y = df["target"]
@@ -64,10 +67,11 @@ full_pipeline = pipeline.Pipeline([("col_trans", composed), ("regressor", model)
 
 
 # %%
-kfold = model_selection.KFold(n_splits=3)
+tscv_args = {"n_splits": 3, "test_size": 30}
+tscv = GroupTimeSeriesSplit(**tscv_args)
 
 rmse = []
-for tr_idx, te_idx in kfold.split(X, y):
+for tr_idx, te_idx in tscv.split(X, y, groups):
     X_train, X_test = X.iloc[tr_idx, :], X.iloc[te_idx, :]
     y_train, y_test = y.iloc[tr_idx], y.iloc[te_idx]
 
@@ -83,8 +87,16 @@ print(np.mean(rmse))
 initial_error = np.mean(rmse)
 
 # %%
-model_b = base.clone(full_pipeline)
-model_b.fit(X, y)
+mlflow.set_tracking_uri("mlruns")
+
+with mlflow.start_run(run_name=f"model_{start_date}") as run:
+    model_full = base.clone(full_pipeline)
+    model_full.fit(X, y)
+    signature = infer_signature(X, model_full.predict(X))
+    mlflow.sklearn.log_model(model_full, "initial_model", signature=signature)
+    mlflow.log_metric("rmse", initial_error)
+    run_id = run.info.run_id
+
 
 #%%
 st_range = pd.to_datetime(start_date.replace("_", "-")) + pd.offsets.DateOffset(1)
@@ -102,14 +114,9 @@ for dt in date_range:
     )
     update.customer_id = df.customer_id.astype("object")
     update["target"] = (update.delivery_date - update.order_date).dt.days
-    preds_update = model_b.predict(update)
+    preds_update = model_full.predict(update)
     error = metrics.mean_squared_error(update["target"], preds_update, squared=False)
     update_errors.append(error)
-
-# %%
-# add MLFlow
-import matplotlib.pyplot as plt
-from scipy.stats import linregress
 
 # %%
 idx = range(len(update_errors))
@@ -131,4 +138,9 @@ plt.legend()
 
 # Show the plot
 plt.show()
+
+# %%
+with mlflow.start_run(run_id=run_id):
+    mlflow.log_metric("update_error", np.mean(update_errors))
+
 # %%

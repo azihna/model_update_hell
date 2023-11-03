@@ -65,7 +65,7 @@ full_pipeline = pipeline.Pipeline([("col_trans", composed), ("regressor", model)
 
 
 # %%
-tscv_args = {"n_splits": 5, "test_size": 30}
+tscv_args = {"n_splits": 3, "test_size": 30}
 tscv = GroupTimeSeriesSplit(**tscv_args)
 
 rmse = []
