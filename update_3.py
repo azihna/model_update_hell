@@ -1,4 +1,5 @@
 # %%
+import lightgbm as lgb
 import matplotlib.pyplot as plt
 import mlflow
 import numpy as np
@@ -7,14 +8,7 @@ from category_encoders import CatBoostEncoder
 from mlflow.models import infer_signature
 from mlxtend.evaluate import GroupTimeSeriesSplit
 from scipy.stats import linregress
-from sklearn import (
-    base,
-    compose,
-    linear_model,
-    metrics,
-    pipeline,
-    preprocessing,
-)
+from sklearn import base, compose, metrics, pipeline, preprocessing
 
 # %%
 
@@ -60,7 +54,7 @@ composed = compose.ColumnTransformer(
     ]
 )
 
-model = linear_model.LinearRegression()
+model = lgb.LGBMRegressor()
 
 # final pipeline
 full_pipeline = pipeline.Pipeline([("col_trans", composed), ("regressor", model)])

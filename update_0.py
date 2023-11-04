@@ -1,6 +1,7 @@
 # %%
 # split the file to some of the solutions
 
+import lightgbm as lgb
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -9,7 +10,6 @@ from scipy.stats import linregress
 from sklearn import (
     base,
     compose,
-    linear_model,
     metrics,
     model_selection,
     pipeline,
@@ -58,7 +58,7 @@ composed = compose.ColumnTransformer(
     ]
 )
 
-model = linear_model.LinearRegression()
+model = lgb.LGBMRegressor()
 
 # final pipeline
 full_pipeline = pipeline.Pipeline([("col_trans", composed), ("regressor", model)])
@@ -128,3 +128,5 @@ plt.legend()
 
 # Show the plot
 plt.show()
+
+# %%
