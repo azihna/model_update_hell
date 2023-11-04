@@ -58,7 +58,7 @@ composed = compose.ColumnTransformer(
     ]
 )
 
-model = lgb.LGBMRegressor()
+model = lgb.LGBMRegressor(verbosity=-1)
 
 # final pipeline
 full_pipeline = pipeline.Pipeline([("col_trans", composed), ("regressor", model)])
