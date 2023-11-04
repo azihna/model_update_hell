@@ -64,27 +64,28 @@ full_pipeline = pipeline.Pipeline([("col_trans", composed), ("regressor", model)
 
 
 # %%
-kfold = model_selection.KFold(n_splits=3)
+param_distributions = {
+    "regressor__max_depth": [2, 5, 7],
+    "regressor__num_iterations": [100, 250, 500],
+    "regressor__lambda_l1": [0, 0.25, 0.5, 0.75],
+    "regressor__num_leaves": [64, 128, 256],
+    "regressor__learning_rate": [0.01, 0.1, 0.2, 0.3],
+}
 
-rmse = []
-for tr_idx, te_idx in kfold.split(X, y):
-    X_train, X_test = X.iloc[tr_idx, :], X.iloc[te_idx, :]
-    y_train, y_test = y.iloc[tr_idx], y.iloc[te_idx]
+search = model_selection.RandomizedSearchCV(
+    full_pipeline,
+    param_distributions,
+    random_state=0,
+    scoring="neg_mean_squared_error",
+    cv=3,
+).fit(X, y)
 
-    est = base.clone(full_pipeline)
-    est.fit(X_train, y_train)
-    preds = est.predict(X_test)
-    error = metrics.mean_squared_error(y_test, preds, squared=False)
-    rmse.append(error)
+initial_error = np.sqrt(-1 * search.best_score_)
 
-# %%
-# add a metric
-print(np.mean(rmse))
-initial_error = np.mean(rmse)
-
-# %%
-model_b = base.clone(full_pipeline)
-model_b.fit(X, y)
+# train the full model
+model_full = base.clone(full_pipeline)
+model_full.set_params(search.best_params_)
+model_full.fit(X, y)
 
 #%%
 st_range = pd.to_datetime(start_date.replace("_", "-")) + pd.offsets.DateOffset(1)
@@ -102,7 +103,7 @@ for dt in date_range:
     )
     update.customer_id = df.customer_id.astype("object")
     update["target"] = (update.delivery_date - update.order_date).dt.days
-    preds_update = model_b.predict(update)
+    preds_update = model_full.predict(update)
     error = metrics.mean_squared_error(update["target"], preds_update, squared=False)
     update_errors.append(error)
 

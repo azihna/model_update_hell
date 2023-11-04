@@ -65,27 +65,28 @@ full_pipeline = pipeline.Pipeline([("col_trans", composed), ("regressor", model)
 
 
 # %%
-kfold = model_selection.KFold(n_splits=3)
 
-rmse = []
-for tr_idx, te_idx in kfold.split(X, y):
-    X_train, X_test = X.iloc[tr_idx, :], X.iloc[te_idx, :]
-    y_train, y_test = y.iloc[tr_idx], y.iloc[te_idx]
+param_distributions = {
+    "regressor__max_depth": [2, 5, 7],
+    "regressor__num_iterations": [100, 250, 500],
+    "regressor__lambda_l1": [0, 0.25, 0.5, 0.75],
+    "regressor__num_leaves": [64, 128, 256],
+    "regressor__learning_rate": [0.01, 0.1, 0.2, 0.3],
+}
 
-    est = base.clone(full_pipeline)
-    est.fit(X_train, y_train)
-    preds = est.predict(X_test)
-    error = metrics.mean_squared_error(y_test, preds, squared=False)
-    rmse.append(error)
+search = model_selection.RandomizedSearchCV(
+    full_pipeline,
+    param_distributions,
+    random_state=0,
+    scoring="neg_mean_squared_error",
+    cv=3,
+).fit(X, y)
 
+initial_error = np.sqrt(-1 * search.best_score_)
 
-# %%
-# add a metric
-print(np.mean(rmse))
-initial_error = np.mean(rmse)
-
-# %%
+# train the full model
 model_full = base.clone(full_pipeline)
+model_full.set_params(search.best_params_)
 model_full.fit(X, y)
 
 #%%
