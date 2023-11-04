@@ -124,7 +124,7 @@ for dt in date_range:
         index_col=0,
         parse_dates=["order_date", "delivery_date"],
     )
-    update.customer_id = df.customer_id.astype("object")
+    update.customer_id = update.customer_id.astype("object")
     update["target"] = (update.delivery_date - update.order_date).dt.days
     preds_update = model_full.predict(update)
     error = metrics.mean_squared_error(update["target"], preds_update, squared=False)
