@@ -95,17 +95,20 @@ mlflow.set_tracking_uri("mlruns")
 
 with mlflow.start_run(run_name=f"model_{start_date}") as run:
     model_full = base.clone(full_pipeline)
-    model_full.set_params(search.best_params_)
+    model_full.set_params(**search.best_params_)
     model_full.fit(X, y)
 
     signature = infer_signature(X, model_full.predict(X))
     mlflow.sklearn.log_model(model_full, "initial_model", signature=signature)
 
-    mlflow.log_params(**search.best_params_)
+    param_dict = {
+        key.replace("regressor__", ""): value
+        for (key, value) in search.best_params_.items()
+    }
+    mlflow.log_params(param_dict)
     mlflow.log_metric("rmse", initial_error)
 
     run_id = run.info.run_id
-
 
 #%%
 st_range = pd.to_datetime(start_date.replace("_", "-")) + pd.offsets.DateOffset(1)
