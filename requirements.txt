@@ -1,3 +1,7 @@
 mlflow
 category_encoders
 pandas
+scikit-learn
+scikit-lego
+lightgbm
+mlxtend
