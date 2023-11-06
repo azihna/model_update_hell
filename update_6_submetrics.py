@@ -137,8 +137,6 @@ model_prod = mlflow.pyfunc.load_model(model_uri=f"models:/{reg_name}/{stage}")
 
 # %%
 update_errors = []
-customer_rmse = []
-line_rmse = []
 df_with_updates = df.copy(deep=True)
 for dt in date_range:
     dt_str = str(dt).split()[0]
@@ -161,7 +159,6 @@ for dt in date_range:
     preds_update = pd.Series(preds_update, index=update.index, name="preds")
     df_pred = pd.concat((update, preds_update), axis=1)
 
-    # refactor and simplify
     customer_error = (
         # higher than 2
         df_pred[df_pred.customer_status == "platinum"]
@@ -170,10 +167,7 @@ for dt in date_range:
             lambda x: metrics.mean_squared_error(x["preds"], x["target"], squared=False)
         )
     )
-    try:
-        customer_rmse.append(customer_error.item())
-    except:
-        customer_rmse.append(np.mean(customer_rmse))
+    customer_trigger = customer_error > 3.5
     line_error = (
         # higher than 2.2
         df_pred[df_pred.product_line == "Children"]
@@ -182,10 +176,8 @@ for dt in date_range:
             lambda x: metrics.mean_squared_error(x["preds"], x["target"], squared=False)
         )
     )
-    try:
-        line_rmse.append(line_error.item())
-    except:
-        line_rmse.append(np.mean(line_rmse))
+    line_trigger = line_error > 6
+
 
 # %%
 idx = range(len(update_errors))
@@ -194,8 +186,9 @@ trend_line = [slope * xi + intercept for xi in idx]
 
 plt.plot(idx, update_errors, label="Data")
 plt.plot(idx, trend_line, label="Trend Line", linestyle="--", color="green")
+plt.plot(idx, upt_rolling, label="Rolling Error", linestyle="dotted", color="orange")
 # Add the red line
-plt.axhline(y=initial_error, color="red", linestyle="--", label="Estimated Error")
+plt.axhline(y=initial_error, color="red", linestyle="dashdot", label="Estimated Error")
 
 # Set labels and title
 plt.xlabel("Date")
