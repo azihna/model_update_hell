@@ -1,4 +1,6 @@
 # %%
+import copy
+
 import lightgbm as lgb
 import matplotlib.pyplot as plt
 import mlflow
@@ -120,7 +122,6 @@ reg_name = "delivery-estimator"
 
 result = mlflow.register_model(f"runs:/{run_id}/{model_name}", "delivery-estimator")
 
-
 client.transition_model_version_stage(
     name=reg_name,
     version=1,
@@ -133,12 +134,14 @@ end_range = pd.to_datetime(end_date.replace("_", "-"))
 date_range = pd.date_range(start=st_range, end=end_range)
 
 stage = "Production"
-model_prod = mlflow.pyfunc.load_model(model_uri=f"models:/{reg_name}/{stage}")
 
 # %%
 update_errors = []
 df_with_updates = df.copy(deep=True)
 for dt in date_range:
+
+    model_prod = mlflow.pyfunc.load_model(model_uri=f"models:/{reg_name}/{stage}")
+
     dt_str = str(dt).split()[0]
     update = pd.read_csv(
         f"data/updates/data_{dt_str}.csv",
@@ -152,7 +155,7 @@ for dt in date_range:
     update_errors.append(error)
     upt_rolling = pd.Series(update_errors).rolling(window=7, min_periods=1).mean()
 
-    trigger_rolling = upt_rolling.iloc[-1] > 2.55
+    trigger_rolling = upt_rolling.iloc[-1] > 2.8
 
     preds_update = pd.Series(preds_update, index=update.index, name="preds")
     df_pred = pd.concat((update, preds_update), axis=1)
@@ -167,6 +170,71 @@ for dt in date_range:
     customer_trigger = (
         customer_error.iloc[-1] > 4 if customer_error.shape[0] > 0 else False
     )
+
+    if trigger_rolling or customer_trigger:
+        print(f"Updating the model on {dt}")
+        # update with the latest data, check the error again
+        # if lower now go ahead, else throw an error
+
+        # normally you'd go over the normal train test set again and then
+        # fit and compare the day again but for simplicity we'll
+        # just compare the update's error
+        with mlflow.start_run(run_name=f"model_{dt}") as run:
+            # first try updating the model with new data
+            model_updated = copy.deepcopy(model_prod._model_impl.sklearn_model)
+            X_upt = df_with_updates.drop(
+                ["target", "order_date", "delivery_date"], axis=1
+            )
+            y_upt = df_with_updates["target"]
+            group_upt = df_with_updates["order_date"]
+            model_updated.fit(X_upt, y_upt)
+            preds_with_new_model = model_updated.predict(update)
+            error_new = metrics.mean_squared_error(
+                update["target"], preds_with_new_model, squared=False
+            )
+            model_upt_name = f"lgbm_{dt}"
+            mlflow.sklearn.log_model(model_updated, model_upt_name, signature=signature)
+            param_dict = {
+                key.replace("regressor__", ""): value
+                for (key, value) in search.best_params_.items()
+            }
+            mlflow.log_params(param_dict)
+            mlflow.log_metric("rmse", error_new)
+            result = mlflow.register_model(
+                f"runs:/{run.info.run_id}/{model_upt_name}", "delivery-estimator"
+            )
+            version = client.get_latest_versions("delivery-estimator", stages=["None"])[
+                0
+            ].version
+            client.transition_model_version_stage(
+                name=reg_name,
+                version=version,
+                stage="Staging",
+            )
+            if error_new > error:
+                version_prod = client.get_latest_versions(
+                    "delivery-estimator", stages=["Production"]
+                )[0].version
+                client.transition_model_version_stage(
+                    name=reg_name,
+                    version=version_prod,
+                    stage="Archived",
+                )
+                client.transition_model_version_stage(
+                    name=reg_name,
+                    version=version,
+                    stage="Production",
+                )
+            else:
+                # if not try doing another hyperparameter search
+                print("Raise error and alert the users.")
+                client.transition_model_version_stage(
+                    name=reg_name,
+                    version=version,
+                    stage="Archived",
+                )
+    else:
+        print(f"No update needed on date {dt}")
 
     df_with_updates = pd.concat((df_with_updates, update))
 
@@ -192,9 +260,5 @@ plt.legend()
 
 # Show the plot
 plt.show()
-
-# %%
-with mlflow.start_run(run_id=run_id):
-    mlflow.log_metric("update_error", np.mean(update_errors))
 
 # %%

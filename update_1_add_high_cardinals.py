@@ -84,7 +84,7 @@ initial_error = np.sqrt(-1 * search.best_score_)
 
 # train the full model
 model_full = base.clone(full_pipeline)
-model_full.set_params(search.best_params_)
+model_full.set_params(**search.best_params_)
 model_full.fit(X, y)
 
 #%%
