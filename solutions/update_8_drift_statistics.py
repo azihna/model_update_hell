@@ -5,11 +5,7 @@ import numpy as np
 import pandas as pd
 from category_encoders import CatBoostEncoder
 from deepchecks.tabular import Dataset
-from deepchecks.tabular.checks import (
-    FeatureDrift,
-    FeatureLabelCorrelationChange,
-    LabelDrift,
-)
+from deepchecks.tabular.checks import FeatureDrift, LabelDrift
 from deepchecks.tabular.suites import train_test_validation
 from mlxtend.evaluate import GroupTimeSeriesSplit
 from sklearn import compose, pipeline, preprocessing
