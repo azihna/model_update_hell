@@ -43,5 +43,4 @@ for dt in date_list:
     df_filt = df_daily[df_daily.order_date == dt]
     df_filt.to_csv("data/updates/data_" + str(dt).split()[0] + ".csv")
 
-
 # %%
