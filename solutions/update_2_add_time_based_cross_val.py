@@ -14,7 +14,6 @@ from sklearn import (
     pipeline,
     preprocessing,
 )
-from sklearn.experimental import enable_halving_search_cv  # noqa
 
 # %%
 
@@ -48,7 +47,7 @@ numeric_pipeline = pipeline.Pipeline([("scaler", scaler)])
 # categorical variables  preprocessing pipelines
 categorical_pipeline = pipeline.Pipeline(
     [
-        ("ohe", cat_enc),
+        ("catboost", cat_enc),
     ]
 )
 

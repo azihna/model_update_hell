@@ -51,7 +51,7 @@ numeric_pipeline = pipeline.Pipeline([("scaler", scaler)])
 # categorical variables  preprocessing pipelines
 categorical_pipeline = pipeline.Pipeline(
     [
-        ("ohe", cat_enc),
+        ("catboost", cat_enc),
     ]
 )
 
@@ -152,7 +152,7 @@ for dt in date_range:
     update_errors.append(error)
     upt_rolling = pd.Series(update_errors).rolling(window=7, min_periods=1).mean()
 
-    trigger_rolling = upt_rolling.iloc[-1] > 2.55
+    trigger_rolling = upt_rolling.iloc[-1] > 2.8
 
     preds_update = pd.Series(preds_update, index=update.index, name="preds")
     df_pred = pd.concat((update, preds_update), axis=1)
@@ -192,9 +192,3 @@ plt.legend()
 
 # Show the plot
 plt.show()
-
-# %%
-with mlflow.start_run(run_id=run_id):
-    mlflow.log_metric("update_error", np.mean(update_errors))
-
-# %%

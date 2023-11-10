@@ -27,7 +27,6 @@ df = pd.read_csv(
 df.customer_id = df.customer_id.astype("object")
 df["target"] = (df.delivery_date - df.order_date).dt.days
 
-# talk about adding the customer id
 
 X = df.drop(["target", "order_date", "delivery_date"], axis=1)
 y = df["target"]
@@ -45,7 +44,7 @@ numeric_pipeline = pipeline.Pipeline([("scaler", scaler)])
 # categorical variables  preprocessing pipelines
 categorical_pipeline = pipeline.Pipeline(
     [
-        ("ohe", cat_enc),
+        ("catboost", cat_enc),
     ]
 )
 

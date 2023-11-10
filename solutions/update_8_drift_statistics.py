@@ -42,7 +42,7 @@ numeric_pipeline = pipeline.Pipeline([("scaler", scaler)])
 # categorical variables  preprocessing pipelines
 categorical_pipeline = pipeline.Pipeline(
     [
-        ("ohe", cat_enc),
+        ("catboost", cat_enc),
     ]
 )
 
@@ -101,4 +101,6 @@ validation_suite = train_test_validation()
 suite_result = validation_suite.run(train_dataset, test_dataset)
 suite_result
 
+# %%
+(suite_result.get_not_passed_checks()[0].conditions_results[0].category.value)
 # %%

@@ -53,7 +53,7 @@ numeric_pipeline = pipeline.Pipeline([("scaler", scaler)])
 # categorical variables  preprocessing pipelines
 categorical_pipeline = pipeline.Pipeline(
     [
-        ("ohe", cat_enc),
+        ("catboost", cat_enc),
     ]
 )
 
@@ -211,7 +211,7 @@ for dt in date_range:
                 version=version,
                 stage="Staging",
             )
-            if error_new > error:
+            if error_new < error:
                 version_prod = client.get_latest_versions(
                     "delivery-estimator", stages=["Production"]
                 )[0].version

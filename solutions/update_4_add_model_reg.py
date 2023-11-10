@@ -51,7 +51,7 @@ numeric_pipeline = pipeline.Pipeline([("scaler", scaler)])
 # categorical variables  preprocessing pipelines
 categorical_pipeline = pipeline.Pipeline(
     [
-        ("ohe", cat_enc),
+        ("catboost", cat_enc),
     ]
 )
 
@@ -170,9 +170,3 @@ plt.legend()
 
 # Show the plot
 plt.show()
-
-# %%
-with mlflow.start_run(run_id=run_id):
-    mlflow.log_metric("update_error", np.mean(update_errors))
-
-# %%

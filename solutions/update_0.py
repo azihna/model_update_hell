@@ -1,5 +1,4 @@
 # %%
-# split the file to some of the solutions
 
 import lightgbm as lgb
 import matplotlib.pyplot as plt
@@ -46,7 +45,7 @@ numeric_pipeline = pipeline.Pipeline([("scaler", scaler)])
 # categorical variables  preprocessing pipelines
 categorical_pipeline = pipeline.Pipeline(
     [
-        ("ohe", cat_enc),
+        ("catboost", cat_enc),
     ]
 )
 

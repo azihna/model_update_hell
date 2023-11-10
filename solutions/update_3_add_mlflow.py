@@ -49,7 +49,7 @@ numeric_pipeline = pipeline.Pipeline([("scaler", scaler)])
 # categorical variables  preprocessing pipelines
 categorical_pipeline = pipeline.Pipeline(
     [
-        ("ohe", cat_enc),
+        ("catboost", cat_enc),
     ]
 )
 
@@ -99,7 +99,7 @@ with mlflow.start_run(run_name=f"model_{start_date}") as run:
     model_full.fit(X, y)
 
     signature = infer_signature(X, model_full.predict(X))
-    mlflow.sklearn.log_model(model_full, "initial_model", signature=signature)
+    mlflow.sklearn.log_model(model_full, f"lgbm_{start_date}", signature=signature)
 
     param_dict = {
         key.replace("regressor__", ""): value
@@ -150,9 +150,3 @@ plt.legend()
 
 # Show the plot
 plt.show()
-
-# %%
-with mlflow.start_run(run_id=run_id):
-    mlflow.log_metric("update_error", np.mean(update_errors))
-
-# %%
