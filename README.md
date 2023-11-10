@@ -9,12 +9,39 @@ Familiarity with data pipelines, machine learning models and common machine lear
 
 ## Installation
 
-Install the environment with conda
+### Using Conda
 
 ```bash
   conda env create -f environment.yml
   conda activate update_hell
 ```
+
+### Using pip
+
+Use with a virtual environment.
+
+```bash
+  pip install -r requirements.txt
+```
+
+### Using Docker
+
+You might need to change the ip address or the ports based on the available ports on local.
+
+```bash
+  docker image built -t <image_name> .
+  docker run -it -p 8888:8888 <image_name>
+```
+
+I generally use VSCode but to use default Jupyter Notebook or Lab.
+Run following to have access in local.
+
+```bash
+  conda activate update_hell
+  jupyter notebook --ip 0.0.0.0 --allow-root
+```
+
+Copy the shown links to access the enviroments.
 
 ## Structure
 
