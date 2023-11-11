@@ -45,15 +45,15 @@ Copy the shown links to access the enviroments.
 
 ## Structure
 
-├── data
-│   ├── full_data  # joined full data
-│   ├── initial  # location of the historical database
-│   ├── raw  # Downloaded kaggle data as-is
-│   └── updates  # Daily update location
-├── solutions  # folder with example updates
-├── data_prep.py  # script used to create the files
-├── environment.yml  # conda env file
-└── train_and_predict.py  # starter location for the presentation
+├── data  
+│   ├── full_data  # joined full data  
+│   ├── initial  # location of the historical database  
+│   ├── raw  # Downloaded kaggle data as-is  
+│   └── updates  # Daily update location  
+├── solutions  # folder with example updates  
+├── data_prep.py  # script used to create the files  
+├── environment.yml  # conda env file  
+└── train_and_predict.py  # starter location for the presentation  
 
 ## Dataset
 
